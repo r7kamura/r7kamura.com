@@ -4,6 +4,9 @@
   "description": "The source of https://r7kamura.github.io/.",
   "dependencies": {},
   "devDependencies": {},
+  "scripts": {
+    "build": "mkdir -p dist && echo 'It works!' > dist/index.html"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/r7kamura/r7kamura.github.io.git"
