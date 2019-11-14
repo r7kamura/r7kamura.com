@@ -5,7 +5,9 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "build": "mkdir -p dist && echo 'It works!' > dist/index.html"
+    "build": "npm run build:dist && npm run build:html",
+    "build:dist": "mkdir -p dist",
+    "build:html": "cp -u html/index.html dist/"
   },
   "repository": {
     "type": "git",
