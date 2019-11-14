@@ -3,12 +3,15 @@
   "version": "1.0.0",
   "description": "The source of https://r7kamura.github.io/.",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "serve": "^11.2.0"
+  },
   "scripts": {
     "build": "npm run build:dist && npm run build:html && npm run build:static",
     "build:dist": "mkdir -p dist",
     "build:html": "cp -u html/index.html dist/",
-    "build:static": "cp -u static/.nojekyll dist/"
+    "build:static": "cp -u static/.nojekyll dist/",
+    "serve": "serve dist/"
   },
   "repository": {
     "type": "git",

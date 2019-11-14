@@ -2,7 +2,10 @@ version: "3.7"
 
 services:
   node:
+    command: npm run serve
     image: node:13.1.0-alpine
+    ports:
+      - 5000:5000
     volumes:
       - .:/app
       - node_modules:/app/node_modules
