@@ -11,10 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - run: docker-compose run --rm node npm run build
-      - uses: JamesIves/github-pages-deploy-action@2.0.3
+      - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
-          BASE_BRANCH: develop
-          BRANCH: master
-          BUILD_SCRIPT: ":"
-          FOLDER: dist
-          GITHUB_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          PUBLISH_BRANCH: master
+          PUBLISH_DIR: dist
