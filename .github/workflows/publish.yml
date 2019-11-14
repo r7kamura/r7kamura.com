@@ -1,0 +1,20 @@
+name: publish
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  publish:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@master
+      - run: docker-compose run --rm node npm run build
+      - uses: JamesIves/github-pages-deploy-action@2.0.3
+        env:
+          BASE_BRANCH: develop
+          BRANCH: master
+          BUILD_SCRIPT: ":"
+          FOLDER: dist
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
