@@ -5,9 +5,10 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "build": "npm run build:dist && npm run build:html",
+    "build": "npm run build:dist && npm run build:html && npm run build:static",
     "build:dist": "mkdir -p dist",
-    "build:html": "cp -u html/index.html dist/"
+    "build:html": "cp -u html/index.html dist/",
+    "build:static": "cp -u static/.nojekyll dist/"
   },
   "repository": {
     "type": "git",
