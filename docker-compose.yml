@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  node:
+    image: node:13.1.0-alpine
+    volumes:
+      - .:/app
+      - /app/node_modules
+    working_dir: /app
+
+volumes:
+  node_modules:
