@@ -1,0 +1,18 @@
+{
+  "name": "r7kamura.github.io",
+  "version": "1.0.0",
+  "description": "The source of https://r7kamura.github.io/.",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r7kamura/r7kamura.github.io.git"
+  },
+  "author": "Ryo Nakamura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r7kamura/r7kamura.github.io/issues"
+  },
+  "homepage": "https://r7kamura.github.io/",
+  "private": true
+}
