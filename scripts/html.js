@@ -1,8 +1,12 @@
+const dayjs = require("dayjs");
+const dayjsPlugin = require("dayjs/plugin/utc");
 const fs = require("fs").promises;
 const glob = require("glob-promise");
 const marked = require("marked");
 const matter = require("gray-matter");
 const mustache = require("mustache");
+
+dayjs.extend(dayjsPlugin);
 
 const render = async ({ path, variables }) => {
   const template = await fs.readFile(path, "utf8");
@@ -28,10 +32,13 @@ const scanArticles = async () => {
     paths.sort().reverse().map(async (path) => {
       const content = await fs.readFile(path, "utf8");
       const object = matter(content);
+      const dateString = path.split("/").pop().split(".").shift();
+      const time = dayjs(dateString).utcOffset(60 * 9);
       return {
         body: marked(object.content),
-        date: `${object.data.date.getFullYear()}-${object.data.date.getMonth() + 1}-${object.data.date.getDate()}`,
-        dateInJapanese: `${object.data.date.getFullYear()}年${object.data.date.getMonth() + 1}月${object.data.date.getDate()}日`,
+        date: time.format("YYYY-MM-DD"),
+        dateInISO8601: time.toISOString(),
+        dateInJapanese: time.format("YYYY年MM月DD日"),
         title: object.data.title,
       };
     })
