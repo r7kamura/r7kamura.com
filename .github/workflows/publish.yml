@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@master
+      - run: docker-compose run --rm node npm install
       - run: docker-compose run --rm node npm run build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
