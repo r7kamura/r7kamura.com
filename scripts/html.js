@@ -39,7 +39,7 @@ const scanArticles = async () => {
         date: time.format("YYYY-MM-DD"),
         dateInISO8601: time.toISOString(),
         dateInJapanese: time.format("YYYY年MM月DD日"),
-        title: object.data.title,
+        title: object.data.title || "無題",
       };
     })
   );
