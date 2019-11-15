@@ -29,6 +29,11 @@ h2 {
   margin-bottom: 0;
 }
 
+hr {
+  border: 1px solid #ccc;
+  margin: 2rem;
+}
+
 p {
   margin-top: 0.2rem;
 }
