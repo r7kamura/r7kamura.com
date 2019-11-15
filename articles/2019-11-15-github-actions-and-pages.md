@@ -1,5 +1,4 @@
 ---
-date: 2019-11-15
 title: GitHub Actions × GitHub Pagesではまった
 ---
 
