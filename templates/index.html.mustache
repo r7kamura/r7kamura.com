@@ -3,7 +3,7 @@
   <ol class="articles">
     {{#articles}}
       <li>
-        <time datetime="{{ date }}T00:00:00+09:00">{{ dateInJapanese }}</time>
+        <time datetime="{{ dateInISO8601 }}">{{ dateInJapanese }}</time>
         <a href="/blog/{{ date }}.html">{{ title }}</a>
       </li>
     {{/articles}}
