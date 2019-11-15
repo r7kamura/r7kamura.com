@@ -15,6 +15,11 @@ html {
   }
 }
 
+body {
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+}
+
 h1 {
   font-size: 2rem;
   margin-bottom: 0;
