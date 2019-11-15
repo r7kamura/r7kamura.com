@@ -4,14 +4,21 @@
   "description": "The source of https://r7kamura.github.io/.",
   "dependencies": {},
   "devDependencies": {
+    "chokidar-cli": "^2.1.0",
+    "glob": "^7.1.6",
+    "glob-promise": "^3.4.0",
+    "gray-matter": "^4.0.2",
+    "mustache": "^3.1.0",
     "serve": "^11.2.0"
   },
   "scripts": {
-    "build": "npm run build:dist && npm run build:html && npm run build:static",
-    "build:dist": "mkdir -p dist",
-    "build:html": "cp -u html/index.html dist/",
+    "build": "npm run build:dist && npm run build:css && npm run build:mustache && npm run build:static",
+    "build:css": "cp -ru css dist/",
+    "build:dist": "mkdir -p dist/blog",
+    "build:mustache": "node scripts/html.js",
     "build:static": "cp -u static/.nojekyll dist/",
-    "serve": "serve dist/"
+    "serve": "serve dist/",
+    "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'templates/**/*.mustache' -c 'npm run build'"
   },
   "repository": {
     "type": "git",

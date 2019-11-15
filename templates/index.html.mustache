@@ -1,0 +1,15 @@
+<section>
+  <h2>日記</h2>
+  <ol class="articles">
+    {{#articles}}
+      <li>
+        <time datetime="{{ date }}T00:00:00+09:00">{{ dateInJapanese }}</time>
+        <a href="/blog/{{ date }}.html">{{ title }}</a>
+      </li>
+    {{/articles}}
+  </ol>
+</section>
+<section>
+  <h2>説明</h2>
+  <p>このウェブサイトでは、日々の生活やプログラミングなどに関する、r7kamuraの個人的な文章を公開しています。</p>
+</section>
