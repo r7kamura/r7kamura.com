@@ -16,7 +16,7 @@ POST /users/:user_id/articles
 GET  /users/:user_id/articles/:id/edit
 ```
 
-例えば、上記のようなエンドポイントに対して、以下のようなファイルを用意する。
+例えば、上記のエンドポイントに対して以下のファイルを用意する。
 
 - spec/requests/users_index_spec.rb
 - spec/requests/users_show_spec.rb
@@ -26,7 +26,7 @@ GET  /users/:user_id/articles/:id/edit
 
 以下の背景でこうしている。
 
-- ファイル群を辞書順で並べたときに、関連度が近いファイルがより近いところに並んでほしい
+- 関連度が近いファイルが辞書順で近いところに並んでほしい
 - ほとんどの場合、エンドポイントとactionは1対1対応している
 
 ## ファイルの内容
