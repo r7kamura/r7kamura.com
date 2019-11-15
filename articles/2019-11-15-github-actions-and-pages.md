@@ -1,10 +1,10 @@
 ---
-title: GitHub Actions × GitHub Pagesではまった
+title: GitHub Actions × GitHub Pages
 ---
 
-このウェブサイトの生成には、GitHub ActionsとGitHub Pagesを[使っている][1]。その中で、幾つかはまりどころがあったのでメモ。
+このウェブサイトの生成には、GitHub ActionsとGitHub Pagesを[使っている][1]。developブランチが更新されたら、`npm run build` を実行して、`peaceiris/actions-gh-pages@v2.5.0` でGitHub Pages用のブランチに成果物をpushする──という簡単な仕組みなはずなんだけど、作業中に幾つかはまりどころがあったので書き残しておく。
 
-## GITHUB_TOKENの権限が足りない
+## GITHUB_TOKENの権限は弱い
 
 デフォルトで用意されているGITHUB_TOKENを利用して静的ファイルをpushすれば、GitHub Pagesに反映される……かと思いきや、そうはならない。リポジトリの設定画面からGitHub Pagesのビルドで何らかのエラーが発生したことは確認できるのだけど、それ以上のことは分からない。
 
@@ -14,7 +14,7 @@ Publicリポジトリ向けに用意されているアクセストークンに�
 
 ## 文字列リテラルは一重引用符
 
-キャッシュ機能を使うために `hashFiles("package-lock.json")` と書いていたのだけど、ここで怒られた。GitHub Actionsでの文字列リテラルは、二重引用符ではなく一重引用符で囲む必要がある。ドキュメントにも[そう書いてある][3]。
+これはGitHub Pagesは関係無い話題。キャッシュ機能を使うために `hashFiles("package-lock.json")` と書いていたのだけど、ここで怒られた。GitHub Actionsでの文字列リテラルは、二重引用符ではなく一重引用符で囲む必要がある。ドキュメントにも[そう書いてある][3]。
 
 [1]: https://github.com/r7kamura/r7kamura.github.io/blob/113cef36c0c635f35f1c155061381776cfb71ff2/.github/workflows/publish.yml
 [2]: https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/m-p/26869/highlight/true#M301
