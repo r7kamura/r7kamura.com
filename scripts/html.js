@@ -10,7 +10,7 @@ const render = async ({ path, variables }) => {
   return mustache.render(template, variables);
 };
 
-const renderInLayout = async ({ path, variables }) => {
+const renderInLayout = async ({ layoutVariables, path, variables }) => {
   const content = await render({
     path,
     variables,
@@ -19,6 +19,7 @@ const renderInLayout = async ({ path, variables }) => {
     path: "templates/layout.html.mustache",
     variables: {
       content,
+      ...layoutVariables,
     },
   });
 };
@@ -43,10 +44,11 @@ const scanArticles = async () => {
   );
 };
 
-const buildFile = async ({ destination, source, variables }) => {
+const buildFile = async ({ destination, layoutVariables, source, variables }) => {
   return fs.writeFile(
     destination,
     await renderInLayout({
+      layoutVariables,
       path: source,
       variables,
     })
@@ -58,6 +60,9 @@ const main = async () => {
   const entries = [
     {
       destination: "dist/index.html",
+      layoutVariables: {
+        title: "r7kamura",
+      },
       source: "templates/index.html.mustache",
       variables: {
         articles,
@@ -66,6 +71,9 @@ const main = async () => {
     ...articles.sort(article => article.date).reverse().map((article) => {
       return {
         destination: `dist/blog/${article.slug}.html`,
+        layoutVariables: {
+          title: article.title,
+        },
         source: "templates/article.html.mustache",
         variables: article
       };
