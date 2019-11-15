@@ -8,4 +8,13 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@master
+      - uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: node-modules-v2-${{ runner.OS }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            node-modules-v2-${{ runner.OS }}-${{ hashFiles('package-lock.json') }}
+            node-modules-v2-${{ runner.OS }}-
+      - run: rm docker-compose.override.yml
+      - run: docker-compose run --rm node npm install
       - run: docker-compose run --rm node npm run build
