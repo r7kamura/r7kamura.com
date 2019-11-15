@@ -1,5 +1,6 @@
 const glob = require("glob-promise");
 const fs = require("fs").promises;
+const marked = require("marked");
 const matter = require("gray-matter");
 const mustache = require("mustache");
 
@@ -28,7 +29,7 @@ const scanArticles = async () => {
       const content = await fs.readFile(path, "utf8");
       const object = matter(content);
       return {
-        body: object.content,
+        body: marked(object.content),
         date: `${object.data.date.getFullYear()}-${object.data.date.getMonth() + 1}-${object.data.date.getDate()}`,
         dateInJapanese: `${object.data.date.getFullYear()}年${object.data.date.getMonth() + 1}月${object.data.date.getDate()}日`,
         title: object.data.title,
