@@ -26,11 +26,10 @@ const renderInLayout = async ({ path, variables }) => {
 const scanArticles = async () => {
   const paths = await glob("articles/*.md");
   return Promise.all(
-    paths.sort().reverse().map(async (path) => {
+    paths.map(async (path) => {
       const content = await fs.readFile(path, "utf8");
       const object = matter(content);
-      const dateString = path.split("/").pop().split(".").shift();
-      const time = dayjs(dateString);
+      const time = dayjs(object.data.date);
       return {
         body: marked(object.content),
         date: time.format("YYYY-MM-DD"),
@@ -62,7 +61,7 @@ const main = async () => {
         articles,
       },
     },
-    ...articles.map((article) => {
+    ...articles.sort(article => article.date).reverse().map((article) => {
       return {
         destination: `dist/blog/${article.date}.html`,
         source: "templates/article.html.mustache",
