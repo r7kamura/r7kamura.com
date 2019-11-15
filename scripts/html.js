@@ -29,12 +29,14 @@ const scanArticles = async () => {
     paths.map(async (path) => {
       const content = await fs.readFile(path, "utf8");
       const object = matter(content);
-      const time = dayjs(object.data.date);
+      const slug = path.split("/").pop().split(".").shift();
+      const time = dayjs(slug.split("-").slice(0, 3).join("-"));
       return {
         body: marked(object.content),
         date: time.format("YYYY-MM-DD"),
         dateInISO8601: time.format("YYYY-MM-DDT00:00:00+09:00"),
         dateInJapanese: time.format("YYYY年MM月DD日"),
+        slug,
         title: object.data.title || "無題",
       };
     })
@@ -63,7 +65,7 @@ const main = async () => {
     },
     ...articles.sort(article => article.date).reverse().map((article) => {
       return {
-        destination: `dist/blog/${article.date}.html`,
+        destination: `dist/blog/${article.slug}.html`,
         source: "templates/article.html.mustache",
         variables: article
       };
