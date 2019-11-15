@@ -20,7 +20,7 @@
     "build:mustache": "node scripts/html.js",
     "build:static": "cp -u static/.nojekyll dist/",
     "serve": "serve dist/",
-    "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'templates/**/*.mustache' -c 'npm run build'"
+    "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'scripts/html.js' 'templates/**/*.mustache' -c 'npm run build'"
   },
   "repository": {
     "type": "git",
