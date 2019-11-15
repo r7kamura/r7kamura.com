@@ -1,8 +1,8 @@
 ---
-title: request-specの記述パターン
+title: request specのパターン
 ---
 
-RSpecでrequest-specを書くときに自分が従っているパターンを言語化しておこうと思う。
+request specを書くときに従っているパターンを言語化する。
 
 ## ファイルパス
 
@@ -16,7 +16,7 @@ POST /users/:user_id/articles
 GET  /users/:user_id/articles/:id/edit
 ```
 
-例えば上記のようなエンドポイントがあるとすると、以下のようなファイルを用意する。
+例えば、上記のようなエンドポイントに対して、以下のようなファイルを用意する。
 
 - spec/requests/users_index_spec.rb
 - spec/requests/users_show_spec.rb
@@ -31,7 +31,7 @@ GET  /users/:user_id/articles/:id/edit
 
 ## ファイルの内容
 
-コードはこう書く。
+例えば、`GET /users/:id` に対するコードは以下のように書く。
 
 ```
 RSpec.describe "GET /users/:id" do
@@ -51,7 +51,7 @@ RSpec.describe "GET /users/:id" do
 end
 ```
 
-トップレベルの`describe`の中では、以下の順でメソッド呼び出しを行う。
+`describe`の中では、以下の順でメソッド呼び出しを行う。
 
 1. `subject`
 2. `around`
@@ -68,7 +68,7 @@ end
 
 ## 共通ファイル
 
-例えばログインを済ませるコードを共通化したい場合、「`include`すると`shared_context`が定義されるようなmodule」を定義して使う。
+例えば、ログインを済ませるコードを共通化したい場合、以下のようなmoduleを定義して利用する。
 
 ```
 # spec/support/my_app/spec_helpers/authenticatable.rb
@@ -87,6 +87,6 @@ module MyApp
 end
 ```
 
-ファイルパスと定数名と実装のパターンはこんな感じ。トップレベルに奔放に定数を定義せず、そのアプリの名前空間に、ExampleGroupに`include`するmoduleを定義するための名前空間をつくり、そこに定義すること。
+トップレベルに奔放に定数を定義せず、そのアプリの名前空間に、ExampleGroupに`include`するmoduleを定義するための名前空間をつくり、そこに定義すること。
 
 [1]: https://github.com/r7kamura/rspec-request_describer
