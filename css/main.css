@@ -1,0 +1,72 @@
+:root {
+  --width-main: 36rem;
+}
+
+html {
+  color: #111;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+@media (min-width: 1000px) {
+  html {
+    font-size: 1.5vw;
+  }
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+p {
+  margin-top: 0.2rem;
+}
+
+header {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: calc(var(--width-main));
+}
+
+header a {
+  text-decoration: none;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: calc(var(--width-main));
+}
+
+article h1 {
+  margin-top: 4rem;
+}
+
+article time {
+  color: #666;
+  font-size: 0.8rem;
+}
+
+section h2 {
+  margin-top: 4rem;
+}
+
+.articles {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.articles li + li {
+  margin-top: 2rem;
+}
+
+.articles time {
+  color: #666;
+  display: block;
+  font-size: 0.8rem;
+}
