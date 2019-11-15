@@ -10,7 +10,7 @@ request specを書くときに従っているパターンを言語化する。
 
 ```
 GET  /users
-GET  /users/:user_id
+GET  /users/:id
 GET  /users/:user_id/articles
 POST /users/:user_id/articles
 GET  /users/:user_id/articles/:id/edit
