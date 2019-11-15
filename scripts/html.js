@@ -70,7 +70,7 @@ const main = async () => {
     },
     ...articles.sort(article => article.date).reverse().map((article) => {
       return {
-        destination: `dist/blog/${article.slug}.html`,
+        destination: `dist/articles/${article.slug}.html`,
         layoutVariables: {
           title: article.title,
         },
