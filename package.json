@@ -18,7 +18,7 @@
     "build:css": "cp -ru css dist/",
     "build:dist": "rm -rf dist && mkdir -p dist/articles",
     "build:mustache": "node scripts/html.js",
-    "build:static": "cp -u static/.nojekyll dist/",
+    "build:static": "cp -u static/* dist/",
     "serve": "serve dist/",
     "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'scripts/html.js' 'templates/**/*.mustache' -c 'npm run build'"
   },
