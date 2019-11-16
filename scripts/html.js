@@ -26,7 +26,7 @@ const renderInLayout = async ({ layoutVariables, path, variables }) => {
 
 const scanArticles = async () => {
   const paths = await glob("articles/*.md");
-  return Promise.all(
+  const articles = await Promise.all(
     paths.map(async (path) => {
       const content = await fs.readFile(path, "utf8");
       const object = matter(content);
@@ -42,6 +42,7 @@ const scanArticles = async () => {
       };
     })
   );
+  return articles.sort(article => article.date).reverse();
 };
 
 const buildFile = async ({ destination, layoutVariables, source, variables }) => {
@@ -65,10 +66,20 @@ const main = async () => {
       },
       source: "templates/index.html.mustache",
       variables: {
+        articles: articles.slice(0, 4),
+      },
+    },
+    {
+      destination: "dist/articles.html",
+      layoutVariables: {
+        title: "r7kamura",
+      },
+      source: "templates/articles.html.mustache",
+      variables: {
         articles,
       },
     },
-    ...articles.sort(article => article.date).reverse().map((article) => {
+    ...articles.map((article) => {
       return {
         destination: `dist/articles/${article.slug}.html`,
         layoutVariables: {

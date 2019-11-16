@@ -79,6 +79,18 @@ header {
 
 header a {
   color: inherit;
+  display: inline-block;
+}
+
+header ul {
+  display: inline-block;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+header li {
+  display: inline-block;
+  margin-left: 1rem;
 }
 
 main {

@@ -1,0 +1,12 @@
+<section>
+  <h2>記事</h2>
+  <p>過去のすべての記事を表示しています。</p>
+  <ol class="articles">
+    {{#articles}}
+      <li>
+        <time datetime="{{ dateInISO8601 }}">{{ dateInJapanese }}</time>
+        <a href="/articles/{{ slug }}.html">{{ title }}</a>
+      </li>
+    {{/articles}}
+  </ol>
+</section>
