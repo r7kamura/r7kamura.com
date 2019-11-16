@@ -19,6 +19,7 @@ const renderInLayout = async ({ layoutVariables, path, variables }) => {
     path: "templates/layout.html.mustache",
     variables: {
       content,
+      ogType: "website",
       ...layoutVariables,
     },
   });
@@ -86,6 +87,7 @@ const main = async () => {
         destination: `dist${article.path}.html`,
         layoutVariables: {
           canonical: article.path,
+          ogType: "article",
           title: article.title,
         },
         source: "templates/article.html.mustache",
