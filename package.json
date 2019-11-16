@@ -16,7 +16,7 @@
   "scripts": {
     "build": "npm run build:dist && npm run build:css && npm run build:mustache && npm run build:static",
     "build:css": "cp -ru css dist/",
-    "build:dist": "mkdir -p dist/articles",
+    "build:dist": "rm -rf dist && mkdir -p dist/articles",
     "build:mustache": "node scripts/html.js",
     "build:static": "cp -u static/.nojekyll dist/",
     "serve": "serve dist/",
