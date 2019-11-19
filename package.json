@@ -1,7 +1,7 @@
 {
-  "name": "r7kamura.github.io",
+  "name": "r7kamura.com",
   "version": "1.0.0",
-  "description": "The source of https://r7kamura.github.io/.",
+  "description": "The source of https://r7kamura.com/.",
   "dependencies": {},
   "devDependencies": {
     "chokidar-cli": "^2.1.0",
@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r7kamura/r7kamura.github.io.git"
+    "url": "git+https://github.com/r7kamura/r7kamura.com.git"
   },
   "author": "Ryo Nakamura",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/r7kamura/r7kamura.github.io/issues"
+    "url": "https://github.com/r7kamura/r7kamura.com/issues"
   },
-  "homepage": "https://r7kamura.github.io/",
+  "homepage": "https://r7kamura.com/",
   "private": true
 }
