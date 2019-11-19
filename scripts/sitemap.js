@@ -17,7 +17,7 @@ const main = async () => {
     ...articlePaths,
     ...otherPaths,
   ].map((path) => {
-    return `https://r7kamura.github.io${path}`;
+    return `https://r7kamura.com${path}`;
   });
   const content = urls.join("\n") + "\n"
   return fs.writeFile("dist/sitemap.txt", content, "utf8");
