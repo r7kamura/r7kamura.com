@@ -19,7 +19,7 @@
     "build:dist": "rm -rf dist && mkdir -p dist/articles",
     "build:mustache": "node scripts/html.js",
     "build:sitemap": "node scripts/sitemap.js",
-    "build:static": "cp -u static/* dist/",
+    "build:static": "cp -ru static/* dist/",
     "serve": "serve dist/",
     "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'scripts/html.js' 'templates/**/*.mustache' -c 'npm run build'"
   },
