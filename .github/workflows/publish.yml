@@ -3,7 +3,7 @@ name: publish
 on:
   push:
     branches:
-      - develop
+      - master
 
 jobs:
   publish:
@@ -23,5 +23,5 @@ jobs:
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
-          PUBLISH_BRANCH: master
+          PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: dist
