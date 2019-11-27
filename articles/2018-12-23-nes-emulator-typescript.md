@@ -1,4 +1,4 @@
- ---
+---
 title: TypeScript版NESエミュレータここまでの振り返り
 ---
 
