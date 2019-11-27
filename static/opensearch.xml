@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>r7kamura.com</ShortName>
+  <Description>Search pages in r7kamura.com</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://r7kamura.com/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://www.google.com/search?q=site:r7kamura.com%20{searchTerms}"/>
+</OpenSearchDescription>
