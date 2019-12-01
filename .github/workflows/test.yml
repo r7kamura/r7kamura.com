@@ -17,4 +17,5 @@ jobs:
             node-modules-v2-${{ runner.OS }}-
       - run: rm docker-compose.override.yml
       - run: docker-compose run --rm node npm install
+      - run: docker-compose run --rm node npm run setup
       - run: docker-compose run --rm node npm run build

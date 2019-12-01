@@ -16,7 +16,7 @@
   },
   "scripts": {
     "build": "run-s build:*",
-    "build:css": "cp -ru css dist/",
+    "build:css": "cp -ru css/ dist/",
     "build:feed": "node scripts/feed.js",
     "build:mustache": "node scripts/html.js",
     "build:sitemap": "node scripts/sitemap.js",
