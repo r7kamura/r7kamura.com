@@ -51,7 +51,7 @@ const main = async () => {
     variables: {
       articles,
       baseUrl: 'https://r7kamura.com',
-      updatedAt: dayjs().toISOString(),
+      currentTime: dayjs().toISOString(),
     },
   });
 };
