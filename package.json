@@ -14,9 +14,10 @@
     "serve": "^11.2.0"
   },
   "scripts": {
-    "build": "npm run build:dist && npm run build:css && npm run build:mustache && npm run build:static && npm run build:sitemap",
+    "build": "npm run build:dist && npm run build:css && npm run build:mustache && npm run build:feed && npm run build:static && npm run build:sitemap",
     "build:css": "cp -ru css dist/",
     "build:dist": "rm -rf dist && mkdir -p dist/articles",
+    "build:feed": "node scripts/feed.js",
     "build:mustache": "node scripts/html.js",
     "build:sitemap": "node scripts/sitemap.js",
     "build:static": "cp -ru static/* dist/",
