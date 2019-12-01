@@ -50,6 +50,7 @@ const main = async () => {
     source: 'templates/feed.xml.mustache',
     variables: {
       articles,
+      baseUrl: 'https://r7kamura.com',
       updatedAt: dayjs().toISOString(),
     },
   });
