@@ -11,18 +11,20 @@
     "gray-matter": "^4.0.2",
     "marked": "^0.7.0",
     "mustache": "^3.1.0",
+    "npm-run-all": "^4.1.5",
     "serve": "^11.2.0"
   },
   "scripts": {
-    "build": "npm run build:dist && npm run build:css && npm run build:mustache && npm run build:feed && npm run build:static && npm run build:sitemap",
+    "build": "run-s build:*",
     "build:css": "cp -ru css dist/",
-    "build:dist": "rm -rf dist && mkdir -p dist/articles",
     "build:feed": "node scripts/feed.js",
     "build:mustache": "node scripts/html.js",
     "build:sitemap": "node scripts/sitemap.js",
     "build:static": "cp -ru static/* dist/",
-    "serve": "serve dist/",
-    "watch": "chokidar 'articles/**/*.md' 'css/**/*.css' 'scripts/html.js' 'templates/**/*.mustache' -c 'npm run build'"
+    "setup": "rm -rf dist && mkdir -p dist/articles",
+    "watch": "run-p watch:*",
+    "watch:chokidar": "chokidar 'articles/**/*.md' 'css/**/*.css' 'scripts/html.js' 'templates/**/*.mustache' -c 'npm run build'",
+    "watch:serve": "serve dist/"
   },
   "repository": {
     "type": "git",
