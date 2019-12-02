@@ -12,3 +12,5 @@ GitHubのファイル作成画面から日本語の文章を書いてみたと�
     - https://github.com/r7kamura/r7kamura.com/new/master/articles
 
 このページをブックマークしておいて、今度から簡単な文章の場合はここで書こうかな。
+
+![](/images/2019-12-02-github-screenshot.png)
