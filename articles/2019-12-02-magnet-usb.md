@@ -8,6 +8,7 @@ https://www.amazon.co.jp/gp/product/B07XSNVPSW
 
 これらの充電目的で試しに購入してみた。恐らくどれも中華製だろうけど、似た商品が沢山あるので選ぶのは大変。
 
+- iPhone XS Max
 - iPad Pro 12.9inch (第二世代)
 - PS4のコントローラ (DualShock 4)
 - 無線ヘッドホン (MDR-HW700DS)
