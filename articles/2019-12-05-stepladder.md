@@ -2,7 +2,7 @@
 title: 折り畳める踏み台を購入
 ---
 
-天井照明とプロジェクタをメンテナンスするために、折り畳める小さな踏み台を買った。Amazonに似た商品が沢山ある。
+天井照明とプロジェクタをメンテナンスするために、折り畳める小さな踏み台を買った。
 
 ![](/images/2019-12-05-stepladder-1.jpg)
 
@@ -10,4 +10,6 @@ title: 折り畳める踏み台を購入
 
 ![](/images/2019-12-05-stepladder-2.jpg)
 
-https://www.amazon.co.jp/gp/product/B07MZV8YVL
+Amazonで探すと似た商品が沢山ある。購入した商品は[これ][1]。
+
+[1]: https://www.amazon.co.jp/gp/product/B07MZV8YVL
