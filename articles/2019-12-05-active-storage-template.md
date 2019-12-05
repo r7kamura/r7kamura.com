@@ -2,7 +2,7 @@
 title: ActiveStorageの不具合報告をやりやすく
 ---
 
-[Add bug report templates for Active Storage by r7kamura · Pull Request #37888 · rails/rails][0] についての話。
+[Add bug report templates for Active Storage by r7kamura · Pull Request #37888 · rails/rails][0] 出したらmergeされたよって話。
 
 ## スポンサーで浮かれてOSSをやる
 
