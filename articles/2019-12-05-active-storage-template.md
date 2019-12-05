@@ -4,7 +4,7 @@ title: ActiveStorageの不具合報告をやりやすく
 
 [Add bug report templates for Active Storage by r7kamura · Pull Request #37888 · rails/rails][0] についての話。
 
-## 背景
+## スポンサーで浮かれてOSSをやる
 
 GitHubスポンサーの審査を通過した旨をTwitterでつぶやいたところ、何人かにすぐにスポンサーになってもらえてモチベートされたので、Railsで最近気になっていたところについてPull Requestを送ってみることにした。
 
