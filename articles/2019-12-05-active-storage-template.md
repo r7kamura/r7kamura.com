@@ -4,29 +4,21 @@ title: ActiveStorageの不具合報告をやりやすく
 
 [Add bug report templates for Active Storage by r7kamura · Pull Request #37888 · rails/rails][0] についての話。
 
-## 背景
-
 GitHubスポンサーの審査を通過した旨をTwitterでつぶやいたところ、何人かにすぐにスポンサーになってもらえてモチベートされたので、Railsで最近気になっていたところについてPull Requestを送ってみることにした。
 
 https://github.com/sponsors/r7kamura
 
-## 不具合報告用テンプレート
+気になっていたところというのは、ActiveStorageについて。仕事ではよくRailsのアップグレードを請け負っていて、いろんな会社のRailsアプリをRails 6にしているのだけど、「ActiveStorage 5だと動くのに6だと動かない！」という問題にあたることが多くて、最近はActiveStorageにIssueを出す作業を[やっていた][2]。
 
-rails/railsリポジトリには、不具合報告用に、1ファイルで実行可能なテストのテンプレートが[用意されている][1]。
+過去のActiveStorageに関するIssueを読んでみると、丁寧な人は問題を再現させるための専用のサンプルRailsアプリをPublicリポジトリに用意して、そのURLを貼ったりしている。でも大半の人は、自分のアプリから抜き出してきたコード片を貼り付けているだけだったりして、これだと直す側も直しづらいし微妙だなとは思っていた。
 
-ActiveRecord用、ActiveJob用、ActionController用などがあるのだけど、ActiveStorage用のものがこれまで存在していなかったので、今回 [rails/rails#37836][2] で追加した。
+しかしそのためだけにサンプルのRailsアプリ用意するのが面倒だというのは理解できて、実際自分も https://github.com/rails/rails/issues/37836 でActiveStorageのIssueをつくるにあたって、アプリをつくるのをかなり躊躇した。(結局つくったけど)
 
-[Railsガイド][3]からもこのテンプレートに対してリンクされていて、[edge版のRailsガイド][4]では既に反映されているけど、本家のほうにはまだ反映されていない。
+rails/railsリポジトリには、不具合報告用に、1ファイルで実行可能なテストのテンプレートが[用意されている][1]。ActiveRecord用、ActiveJob用、ActionController用などがあるのだけど、ActiveStorage用のものはこれまで存在していなかった。
 
-## これまでの報告方法
+それで今回少し時間をとって、汎用的に使えるテンプレートをつくり、冒頭に挙げたPull Requestを出してみたという話。すぐにmergeされたので、masterブランチでは既に見られるようになっています。[Railsガイド][3]にもこのテンプレートに対してリンクを用意していて、[edge版のRailsガイド][4]では既に反映されているけど、本家Railsガイドのほうには現時点ではまだ反映されていないので注意。
 
-過去のActiveStorageに関するIssueを読んでみると、丁寧な人は問題を再現させるための専用のサンプルRailsアプリをPublicリポジトリに用意して、そのURLを貼ったりしている。でも大半の人は、自分のアプリから抜き出してきたコード片を貼り付けているだけだったりして、ちょっと微妙だなとは思っていた。
-
-そのためだけにサンプルのRailsアプリ用意するのが面倒だというのは理解できて、実際自分も https://github.com/rails/rails/issues/37836 でActiveStorageのIssueをつくるにあたって、アプリをつくるのをかなり躊躇した。結局つくったけど。
-
-その際になんとかして1ファイルで済ませられないかと試行錯誤して出来たスクリプトを、少し手直しして出来た副産物が、今回の不具合報告用のテンプレート、ということになる。
-
-これで今後はActiveStorageのIssueや不具合調査を行いやすくなるし、Issueの品質もより良くなって、ActiveStorageの開発が捗るようになることを期待してる。
+これでIssueの品質が良くなって、ActiveStorageの開発が捗るようになってほしい。
 
 [0]: https://github.com/rails/rails/pull/37888
 [1]: https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates
