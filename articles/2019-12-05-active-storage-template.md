@@ -14,9 +14,11 @@ https://github.com/sponsors/r7kamura
 
 rails/railsリポジトリには、不具合報告用に、1ファイルで実行可能なテストのテンプレートが[用意されている][1]。
 
-ActiveRecord用、ActiveJob用、ActionController用などがあるのだけど、ActiveStorage用のものがこれまで存在していなかったので、今回 [rails/rails#37836][2] で追加した。これでActiveStorageのIssueや不具合調査が出しやすくなるし、Issueの品質もより良くなって、ActiveStorageの開発が捗るようになることを期待してる。
+ActiveRecord用、ActiveJob用、ActionController用などがあるのだけど、ActiveStorage用のものがこれまで存在していなかったので、今回 [rails/rails#37836][2] で追加した。
 
 [Railsガイド][3]からもこのテンプレートに対してリンクされていて、[edge版のRailsガイド][4]では既に反映されているけど、本家のほうにはまだ反映されていない。
+
+これでActiveStorageのIssueや不具合調査を行いやすくなるし、Issueの品質もより良くなって、ActiveStorageの開発が捗るようになることを期待してる。
 
 [1]: https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates
 [2]: https://github.com/rails/rails/issues/37836
