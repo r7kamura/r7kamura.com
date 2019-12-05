@@ -2,7 +2,7 @@
 title: ActiveStorageの不具合報告をやりやすく
 ---
 
-https://github.com/rails/rails/issues/37836 についての話。
+[Add bug report templates for Active Storage by r7kamura · Pull Request #37888 · rails/rails][0] についての話。
 
 ## 背景
 
@@ -28,6 +28,7 @@ ActiveRecord用、ActiveJob用、ActionController用などがあるのだけど�
 
 これで今後はActiveStorageのIssueや不具合調査を行いやすくなるし、Issueの品質もより良くなって、ActiveStorageの開発が捗るようになることを期待してる。
 
+[0]: https://github.com/rails/rails/pull/37888
 [1]: https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates
 [2]: https://github.com/rails/rails/issues/37836
 [3]: https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
