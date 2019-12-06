@@ -4,6 +4,7 @@
   "description": "The source of https://r7kamura.com/.",
   "dependencies": {},
   "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "chokidar-cli": "^2.1.0",
     "dayjs": "^1.8.17",
     "glob": "^7.1.6",

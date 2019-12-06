@@ -82,7 +82,7 @@ const main = async () => {
         destination: `dist${article.canonicalPath}.html`,
         layoutVariables: {
           canonical: article.canonicalPath,
-          image: article.imageUrl ? { path: article.imageUrl } : null,
+          image: article.imageUrl ? { url: article.imageUrl } : null,
           ogType: "article",
           title: article.title,
         },
