@@ -1,12 +1,10 @@
-const dayjs = require("dayjs");
-const fs = require("fs").promises;
+const Article = require("../lib/Article").Article;
+const fs = require("fs");
 const glob = require("glob-promise");
-const marked = require("marked");
-const matter = require("gray-matter");
 const mustache = require("mustache");
 
 const render = async ({ path, variables }) => {
-  const template = await fs.readFile(path, "utf8");
+  const template = fs.readFileSync(path, "utf8");
   return mustache.render(template, variables);
 };
 
@@ -28,27 +26,23 @@ const renderInLayout = async ({ layoutVariables, path, variables }) => {
 const scanArticles = async () => {
   const paths = await glob("articles/*.md");
   const articles = await Promise.all(
-    paths.map(async (path) => {
-      const content = await fs.readFile(path, "utf8");
-      const object = matter(content);
-      const slug = path.split("/").pop().split(".").shift();
-      const time = dayjs(slug.split("-").slice(0, 3).join("-"));
+    paths.map(async (sourcePath) => {
+      const article = new Article({ sourcePath });
       return {
-        body: marked(object.content),
-        date: time.format("YYYY-MM-DD"),
-        dateInISO8601: time.format("YYYY-MM-DDT00:00:00+09:00"),
-        dateInJapanese: time.format("YYYY年MM月DD日"),
-        image: object.data.image,
-        path: `/articles/${slug}`,
-        title: object.data.title || "無題",
+        canonicalPath: article.canonicalPath(),
+        dateInJapanese: article.dateInJapanese(),
+        imageUrl: article.imageUrl(),
+        publishedTimeInISO8601: article.publishedTimeInISO8601(),
+        renderedBody: article.renderedBody(),
+        title: article.title(),
       };
     })
   );
-  return articles.sort(article => article.date).reverse();
+  return articles.sort(article => article.publishedTimeInISO8601).reverse();
 };
 
 const buildFile = async ({ destination, layoutVariables, source, variables }) => {
-  return fs.writeFile(
+  return fs.writeFileSync(
     destination,
     await renderInLayout({
       layoutVariables,
@@ -85,10 +79,10 @@ const main = async () => {
     },
     ...articles.map((article) => {
       return {
-        destination: `dist${article.path}.html`,
+        destination: `dist${article.canonicalPath}.html`,
         layoutVariables: {
-          canonical: article.path,
-          image: article.image ? { path: article.image } : null,
+          canonical: article.canonicalPath,
+          image: article.imageUrl ? { path: article.imageUrl } : null,
           ogType: "article",
           title: article.title,
         },

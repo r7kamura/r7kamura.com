@@ -4,8 +4,8 @@
   <ol class="articles">
     {{#articles}}
       <li>
-        <time datetime="{{ dateInISO8601 }}">{{ dateInJapanese }}</time>
-        <a href="{{ path }}">{{ title }}</a>
+        <time datetime="{{ publishedTimeInISO8601 }}">{{ dateInJapanese }}</time>
+        <a href="{{ canonicalPath }}">{{ title }}</a>
       </li>
     {{/articles}}
   </ol>

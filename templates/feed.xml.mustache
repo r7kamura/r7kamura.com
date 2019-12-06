@@ -12,11 +12,11 @@
   {{#articles}}
     <entry>
       <title>{{ title }}</title>
-      <link rel="alternate" type="text/html" href="{{ baseUrl }}{{ path }}"/>
-      <id>tag:r7kamura.com,2019:{{ path }}</id>
-      <published>{{ publishedAt }}</published>
-      <updated>{{ updatedAt }}</updated>
-      <content type="html">{{ body }}</content>
+      <link rel="alternate" type="text/html" href="{{ baseUrl }}{{ canonicalPath }}"/>
+      <id>tag:r7kamura.com,2019:{{ canonicalPath }}</id>
+      <published>{{ publishedTimeInISO8601 }}</published>
+      <updated>{{ updatedTimeInISO8601 }}</updated>
+      <content type="html">{{ renderedBody }}</content>
     </entry>
   {{/articles}}
 </feed>
