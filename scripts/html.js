@@ -38,6 +38,7 @@ const scanArticles = async () => {
         date: time.format("YYYY-MM-DD"),
         dateInISO8601: time.format("YYYY-MM-DDT00:00:00+09:00"),
         dateInJapanese: time.format("YYYY年MM月DD日"),
+        image: object.data.image,
         path: `/articles/${slug}`,
         title: object.data.title || "無題",
       };
@@ -87,6 +88,7 @@ const main = async () => {
         destination: `dist${article.path}.html`,
         layoutVariables: {
           canonical: article.path,
+          image: article.image ? { path: article.image } : null,
           ogType: "article",
           title: article.title,
         },
