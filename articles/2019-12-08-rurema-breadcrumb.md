@@ -8,7 +8,7 @@ title: るりまのパンくずリスト
 
 https://github.com/rurema/bitclust/pull/86
 
-※るりまとは、https://docs.ruby-lang.org/ja/ で配信されている、プログラミング言語Rubyの日本語のリファレンスマニュアルである。
+※るりまとは、https://docs.ruby-lang.org/ja/ で配信されている、プログラミング言語Rubyの日本語のリファレンスマニュアルの通称である。
 
 ```
 <p>A &gt; B &gt; C &gt; D</p>
