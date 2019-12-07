@@ -14,7 +14,7 @@ https://github.com/rurema/bitclust/pull/86
 <p>A &gt; B &gt; C &gt; D</p>
 ```
 
-これまで上記のような感じだったのを、下記のような感じにした。
+これまで上記のような感じだったのが、下記のような感じになる。
 
 ```
 <header>
