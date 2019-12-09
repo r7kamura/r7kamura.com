@@ -31,6 +31,7 @@ const scanArticles = async () => {
       return {
         canonicalPath: article.canonicalPath(),
         dateInJapanese: article.dateInJapanese(),
+        description: article.description(),
         imageUrl: article.imageUrl(),
         publishedTimeInISO8601: article.publishedTimeInISO8601(),
         renderedBody: article.renderedBody(),
@@ -82,6 +83,7 @@ const main = async () => {
         destination: `dist${article.canonicalPath}.html`,
         layoutVariables: {
           canonical: article.canonicalPath,
+          description: article.description,
           image: article.imageUrl ? { url: article.imageUrl } : null,
           ogType: "article",
           title: article.title,
