@@ -88,7 +88,7 @@ const main = async () => {
         layoutVariables: {
           canonical: article.canonicalPath,
           description: article.description,
-          image: article.imageUrl ? { url: article.imageUrl } : null,
+          imageUrl: article.imageUrl,
           ogType: "article",
           title: article.title,
         },
