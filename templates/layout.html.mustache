@@ -15,13 +15,14 @@
   <meta property="og:type" content="{{ ogType }}">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:url" content="https://r7kamura.com{{{ canonical }}}">
-  {{#image}}
+  {{#imageUrl}}
+  <meta property="og:image" content="{{{ . }}}">
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="og:image" content="{{{ url }}}">
-  {{/image}}
-  {{^image}}
+  {{/imageUrl}}
+  {{^imageUrl}}
+  <meta property="og:image" content="https://r7kamura.com/default_og_image.jpg">
   <meta property="twitter:card" content="summary">
-  {{/image}}
+  {{/imageUrl}}
 </head>
 <body>
   <header>
