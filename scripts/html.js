@@ -73,7 +73,7 @@ const main = async () => {
       destination: "dist/articles.html",
       layoutVariables: {
         canonical: "/articles",
-        description: "過去のすべての記事を表示しています。",
+        description: "過去のすべての記事。",
         title: "r7kamura",
       },
       source: "templates/articles.html.mustache",
