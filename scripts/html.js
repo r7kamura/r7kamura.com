@@ -60,22 +60,26 @@ const main = async () => {
       destination: "dist/index.html",
       layoutVariables: {
         canonical: "/",
+        description: "このウェブサイトでは、日々の生活やプログラミングなどに関する、個人的な文章を公開しています。",
         title: "r7kamura",
       },
       source: "templates/index.html.mustache",
       variables: {
         articles: articles.slice(0, 4),
+        description: "このウェブサイトでは、日々の生活やプログラミングなどに関する、個人的な文章を公開しています。",
       },
     },
     {
       destination: "dist/articles.html",
       layoutVariables: {
         canonical: "/articles",
+        description: "過去のすべての記事を表示しています。",
         title: "r7kamura",
       },
       source: "templates/articles.html.mustache",
       variables: {
         articles,
+        description: "過去のすべての記事を表示しています。",
       },
     },
     ...articles.map((article) => {
