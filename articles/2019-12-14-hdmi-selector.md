@@ -1,5 +1,5 @@
 ---
-title: HDMIセレクタが便利
+title: HDMIセレクタを買った
 ---
 
 ![](/images/2019-12-14-hdmi-selector.jpg)
