@@ -12,4 +12,4 @@ https://www.amazon.co.jp/gp/product/B01CWAND36
 
 充電が面倒という点がこれまで問題だったが、[マグネット式のUSBアダプタを導入した][1]ことで、その問題も解消された。ヘッドホン置き場に戻せば、ほぼ勝手に繋がって充電されてくれるため。
 
-[1]: https://r7kamura.com/articles/2019-12-07-manget-usb
+[1]: /articles/2019-12-07-manget-usb
