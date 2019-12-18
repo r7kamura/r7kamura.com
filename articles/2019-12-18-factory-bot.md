@@ -14,7 +14,7 @@ title: FactoryBotのfactoryへの期待
 FactoryBot.create(:user)
 ```
 
-例えば、以下のように呼び出さなければならないのであれば、使いづらく、良くない定義だと考えている。
+例えば、以下のように呼び出さ**なければならない**のであれば、使いづらく、良くない定義だと考えている。
 
 ```ruby
 FactoryBot.create(:user, name: 'alice')
