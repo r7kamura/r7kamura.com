@@ -2,9 +2,9 @@
 title: FactoryBotのfactoryへの期待
 ---
 
-[FactoryBot][1]のfactoryの定義について、自分が期待していることをまとめておこうと思う。
+[FactoryBot][1]のfactoryはこう書かれていてほしい、という期待をまとめておこうと思う。
 
-## MUST
+## 第一段階
 
 最低限の基準として、attributesを与えなくてもレコードの保存に成功するように定義されていてほしい。
 
@@ -20,7 +20,9 @@ FactoryBot.create(:user)
 FactoryBot.create(:user, name: 'alice')
 ```
 
-## SHOULD
+もちろん例外的な状況は存在するので、そういう場合には守らなくて良い。
+
+## 第二段階
 
 次の段階の基準として、2つ以上のレコードを作成してもエラーにならないように定義されていてほしい。
 
@@ -34,3 +36,7 @@ FactoryBot.create(:user)
 例えば、name属性にUniquenessValidatorが定義されていて、name属性の内容が決め打ちだったりすると、こういうコードは失敗する。factoryの定義で `sequence` 等の機能を利用して回避するのが望ましい。
 
 [1]: https://github.com/thoughtbot/factory_bot
+
+## その他
+
+雛形で自動生成されるようなfactoryは、経験上、存在すらしていない方がましなことの方が多い。
