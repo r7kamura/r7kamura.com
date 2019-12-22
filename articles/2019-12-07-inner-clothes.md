@@ -1,5 +1,4 @@
 ---
-image: /images/2019-12-07-inner-clothes.jpg
 title: インナー類の収納場所
 ---
 

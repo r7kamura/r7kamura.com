@@ -1,17 +1,17 @@
 <section>
   <h2>最近の記事</h2>
   <ol class="articles">
-    {{#articles}}
+    <% @articles.each do |article| %>
       <li>
-        <time datetime="{{ publishedTimeInISO8601 }}">{{ dateInJapanese }}</time>
-        <a href="{{{ canonicalPath }}}">{{ title }}</a>
+        <time datetime="<%= article.published_at.iso8601 %>"><%= article.published_at.strftime('%Y年%m月%d日') %></time>
+        <a href="/articles/<%= article.id %>"><%= article.title %></a>
       </li>
-    {{/articles}}
+    <% end %>
   </ol>
 </section>
 <section>
   <h2>説明</h2>
-  <p>{{ description }}</p>
+  <p><%= description %></p>
   <p>このウェブサイトについて連絡したいことがある場合は、<a href="https://twitter.com/r7kamura">Twitter</a>、<a href="https://github.com/r7kamura/r7kamura.com/issues">GitHub</a>、または<a href="mailto:r7kamura@gmail.com">メール</a>にてご連絡ください。</p>
 </section>
 <section>

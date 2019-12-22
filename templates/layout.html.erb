@@ -3,26 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
-  <title>{{ title }}</title>
-  <link href="{{{ canonical }}}" rel="canonical">
+  <title><%= title %></title>
+  <link href="<%= canonical_url %>" rel="canonical">
   <link rel="stylesheet" href="/css/main.css">
   <link rel="search" type="application/opensearchdescription+xml" title="r7kamura.com" href="/opensearch.xml">
   <link rel="alternate" type="application/rss+xml" href="/feed.xml">
-  {{#description}}
-  <meta property="description" content="{{ . }}">
-  <meta property="og:description" content="{{ . }}">
-  {{/description}}
-  <meta property="og:type" content="{{ ogType }}">
-  <meta property="og:title" content="{{ title }}">
-  <meta property="og:url" content="https://r7kamura.com{{{ canonical }}}">
-  {{#imageUrl}}
-  <meta property="og:image" content="{{{ . }}}">
+  <% if description %>
+  <meta property="description" content="<%= description %>">
+  <meta property="og:description" content="<%= description %>">
+  <% end %>
+  <meta property="og:type" content="<%= og_type %>">
+  <meta property="og:title" content="<%= title %>">
+  <meta property="og:url" content="<%= canonical_url %>">
+  <% if image_url %>
+  <meta property="og:image" content="<%= image_url %>">
   <meta property="twitter:card" content="summary_large_image">
-  {{/imageUrl}}
-  {{^imageUrl}}
+  <% else %>
   <meta property="og:image" content="https://r7kamura.com/default_og_image.jpg">
   <meta property="twitter:card" content="summary">
-  {{/imageUrl}}
+  <% end %>
 </head>
 <body>
   <header>
@@ -33,13 +32,13 @@
           <a href="/articles">記事</a>
         </li>
         <li>
-          <a href="https://google.com/search?q=site:r7kamura.com">検索</a>
+          <a href="https://google.com/search?q=site:<%= request.host %>">検索</a>
         </li>
       </ul>
     </nav>
   </header>
   <main>
-    {{{ content }}}
+    <%= yield %>
   </main>
 </body>
 </html>
