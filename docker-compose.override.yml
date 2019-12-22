@@ -1,10 +1,10 @@
 version: "3.7"
 
 services:
-  node:
+  ruby:
     volumes:
       - .:/app
-      - node_modules:/app/node_modules
+      - bundle:/usr/local/bundle
 
 volumes:
-  node_modules:
+  bundle:
