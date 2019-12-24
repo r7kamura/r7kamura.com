@@ -1,13 +1,13 @@
 version: "3.7"
 
 services:
-  node:
-    command: npm run watch
+  ruby:
+    command: bundle exec rackup
     environment:
       SHELL: /bin/sh
-    image: node:13.1.0-alpine
+    image: ruby:2.6.5
     ports:
-      - 5000:5000
+      - 9292:9292
     volumes:
       - .:/app
     working_dir: /app
