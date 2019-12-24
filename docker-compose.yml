@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
   node:
-    command: npm run serve
+    command: npm run watch
     environment:
       SHELL: /bin/sh
     image: node:13.1.0-alpine
