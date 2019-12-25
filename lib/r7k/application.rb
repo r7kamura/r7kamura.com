@@ -21,6 +21,7 @@ module R7k
       ::Rack::Static,
       root: 'static',
       urls: %w[
+        /CNAME
         /css
         /default_og_image.jpg
         /favicon.ico
