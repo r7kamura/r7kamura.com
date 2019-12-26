@@ -5,7 +5,7 @@ module R7k
   module Controllers
     class ShowArticlesFeed < ::Hibana::Controller
       def call
-        response.headers['Content-Type'] = 'application/rss+xml'
+        response.headers['Content-Type'] = 'application/rss+xml; charset=utf-8'
         response.write(
           ::R7k::Views::ShowArticlesFeed.new(
             articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse[0, 20],
