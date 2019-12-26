@@ -15,7 +15,7 @@ module R7k
       get '/articles', to: ::R7k::Controllers::ListArticles
       get '/articles/:article_id', to: ::R7k::Controllers::ShowArticle
       get '/feed.xml', to: ::R7k::Controllers::ShowArticlesFeed
-      get '/sitemap.txt', to: R7k::Controllers::ShowSitemap
+      get '/sitemap.txt', to: ::R7k::Controllers::ShowSitemap
     end
 
     middleware.use(
