@@ -23,6 +23,7 @@ task :build do
       'rack.url_scheme' => 'https',
       'REQUEST_METHOD' => 'GET',
       'SCRIPT_NAME' => '',
+      'SERVER_PORT' => '443',
     )
     pathname = Pathname.new("dist#{path}")
     response = Rack::Response.new(body, status, headers)
