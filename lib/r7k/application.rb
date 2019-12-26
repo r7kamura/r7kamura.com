@@ -1,4 +1,5 @@
 require 'hibana'
+require 'rack/static'
 
 $LOAD_PATH.unshift('lib')
 require 'r7k/controllers/list_articles'
