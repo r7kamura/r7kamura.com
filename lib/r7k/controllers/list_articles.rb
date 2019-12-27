@@ -5,7 +5,7 @@ module R7k
   module Controllers
     class ListArticles < ::Hibana::Controller
       def call
-        response.headers['Content-Type'] = 'text/html'
+        response.headers['Content-Type'] = 'text/html; charset=utf-8'
         response.write(
           ::R7k::Views::ListArticles.new(
             articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse,

@@ -5,7 +5,7 @@ module R7k
   module Controllers
     class ShowArticle < ::Hibana::Controller
       def call
-        response.headers['Content-Type'] = 'text/html'
+        response.headers['Content-Type'] = 'text/html; charset=utf-8'
         response.write(
           ::R7k::Views::ShowArticle.new(
             article: ::R7k::Models::Article.new(id: parameters[:article_id]),
