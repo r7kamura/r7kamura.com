@@ -3,9 +3,7 @@ require 'pathname'
 
 task :build do
   article_paths = R7k::Models::Article.all.map(&:canonical_path)
-  static_file_paths = Pathname.glob('static/**/*').select do |pathname|
-    pathname.file?
-  end.map do |pathname|
+  static_file_paths = Pathname.glob('static/**/*').select(&:file?).map do |pathname|
     "/#{pathname.relative_path_from('static')}"
   end
   other_paths = %w[
