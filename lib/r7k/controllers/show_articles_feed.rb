@@ -8,7 +8,7 @@ module R7k
         response.headers['Content-Type'] = 'application/rss+xml; charset=utf-8'
         response.write(
           ::R7k::Views::ShowArticlesFeed.new(
-            articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse[0, 20],
+            articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse.take(20),
             partial_template_path: 'templates/feed.xml.erb',
             request: request,
           )
