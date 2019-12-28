@@ -17,5 +17,3 @@ title: 『Hyper Light Drifter』をやった
 https://www.epicgames.com/store/ja/product/hyper-light-drifter/home
 
 今回のEpic Gamesの一連の無料セールは、ラインナップが名作ばかりで本当に良い。自分の好み以外の外的要因に従ってゲームを選ぶのも、発見があって案外良いな、という体験が得られている。
-
-とはいえあまり無料セールに振り回されてばかりも居られないので、次回は『VA-11 Hall-A』をプレイしてみようかなと思ってる。
