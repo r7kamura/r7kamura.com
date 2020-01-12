@@ -2,6 +2,8 @@
 title: 『最後にして最初のアイドル』を読んだ
 ---
 
+![](/https://images-fe.ssl-images-amazon.com/images/I/615-PsNiAsL.jpg)
+
 新人SF作家 草野原々による短編集『最後にして最初のアイドル』を読んだ。表題作に加え、『エヴォリューションがーるず』と『暗黒声優』の計三篇が含まれている。
 
 https://www.amazon.co.jp/dp/B0798S7N12
