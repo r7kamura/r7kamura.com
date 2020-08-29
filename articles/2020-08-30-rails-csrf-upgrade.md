@@ -1,5 +1,5 @@
 ---
-title: Rails 6.0.2.2で生成したauthenticity_tokenは5.2.4で利用できるのか
+title: Rails 6.0.2.2で生成したauthenticity_tokenは5.2.4.3で利用できるのか
 ---
 
 ## 結論
@@ -10,7 +10,7 @@ title: Rails 6.0.2.2で生成したauthenticity_tokenは5.2.4で利用できる�
 
 ## 背景
 
-Rails 5.2.4からRails 6.0.2.2にアップグレードするにあたり、ActionController::InvalidAuthenticityTokenの例外が頻出するという事例を確認した。これを承けて、表題の件を検証することにした。
+Rails 5.2.4.3からRails 6.0.2.2にアップグレードするにあたり、ActionController::InvalidAuthenticityTokenの例外が頻出するという事例を確認した。これを承けて、表題の件を検証することにした。
 
 ## 検証方法
 
@@ -43,6 +43,6 @@ vi config/application.rb
 rails s
 ```
 
-すると、Rails 6.0.2.2で生成したauthenticity_tokenをRails 5.2.4で利用した場合、ActionController::InvalidAuthenticityTokenが発生することが分かった。
+すると、Rails 6.0.2.2で生成したauthenticity_tokenをRails 5.2.4.3で利用した場合、ActionController::InvalidAuthenticityTokenが発生することが分かった。
 
-なお、Rails 5.2.4で生成したauthenticity_tokenは、Rails 6.0.2.2でも利用できることも分かった。
+なお、Rails 5.2.4.3で生成したauthenticity_tokenは、Rails 6.0.2.2でも利用できることも分かった。
