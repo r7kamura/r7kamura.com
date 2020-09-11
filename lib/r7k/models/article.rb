@@ -104,6 +104,7 @@ module R7k
           ::Redcarpet::Render::HTML,
           autolink: true,
           fenced_code_blocks: true,
+          no_intra_emphasis: true,
         )
       end
 
