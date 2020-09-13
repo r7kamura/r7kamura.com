@@ -1,5 +1,5 @@
 :root {
-  --width-main: 32rem;
+  --width-main: 36rem;
 }
 
 html {
@@ -11,13 +11,13 @@ html {
 
 @media (min-width: 1000px) {
   html {
-    font-size: 1.5vw;
+    font-size: 1.6vw;
   }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 1200px) {
   html {
-    font-size: 20px;
+    font-size: 19.2px;
   }
 }
 
