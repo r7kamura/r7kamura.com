@@ -1,5 +1,6 @@
-require 'nokogiri'
-require 'redcarpet'
+require 'html/pipeline'
+require 'r7k/markdown_filters/redcarpet_markdown_filter'
+require 'r7k/markdown_filters/image_link_markdown_filter'
 require 'yaml'
 
 module R7k
@@ -33,7 +34,7 @@ module R7k
 
       # @return [String, nil]
       def image_url
-        node = fragment.at('img')
+        node = rendered_body_node.at('img')
         if node
           node.attribute('src').content
         end
@@ -46,12 +47,12 @@ module R7k
 
       # @return [String]
       def rendered_body
-        markdown_renderer.render(body)
+        rendered_body_node.to_s
       end
 
       # @return [String, nil]
       def summary
-        string = fragment.text.lstrip.split("\n")[0]&.gsub(/。.+/, '。')
+        string = rendered_body_node.text.lstrip.split("\n")[0]&.gsub(/。.+/, '。')
         if string && !string.empty?
           string[0, 300]
         end
@@ -84,11 +85,6 @@ module R7k
         "articles/#{id}.md"
       end
 
-      # @return [Nokogiri::HTML::DocumentFragment]
-      def fragment
-        @fragment ||= ::Nokogiri::HTML.fragment(rendered_body)
-      end
-
       # @return [Hash]
       def frontmatter
         array = file_content.split("---\n", 3)
@@ -98,16 +94,6 @@ module R7k
         }
       end
 
-      # @return [Redcarpet::Markdown]
-      def markdown_renderer
-        ::Redcarpet::Markdown.new(
-          ::Redcarpet::Render::HTML,
-          autolink: true,
-          fenced_code_blocks: true,
-          no_intra_emphasis: true,
-        )
-      end
-
       # @return [Date]
       def published_on
         ::Date.new(
@@ -115,6 +101,16 @@ module R7k
           segments[1].to_i,
           segments[2].to_i,
         )
+      end
+
+      # @return [Nokohiti::Node]
+      def rendered_body_node
+        @rendered_body_node ||= ::HTML::Pipeline.new(
+          [
+            ::R7k::MarkdownFilters::RedcarpetMarkdownFilter,
+            ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
+          ]
+        ).call(body)[:output]
       end
 
       # @return [Array<String>]
