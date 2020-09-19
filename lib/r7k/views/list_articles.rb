@@ -23,7 +23,7 @@ module R7k
 
       # @return [String]
       def title
-        'r7kamura.com'
+        '記事一覧'
       end
     end
   end
