@@ -1,4 +1,5 @@
 require 'hibana'
+require 'rack/reloader'
 require 'rack/static'
 
 $LOAD_PATH.unshift('lib')
@@ -30,5 +31,7 @@ module R7k
         /opensearch.xml
       ]
     )
+
+    middleware.use ::Rack::Reloader
   end
 end
