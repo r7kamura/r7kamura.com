@@ -18,7 +18,7 @@ module R7k
 
       # @return [String]
       def description
-        'このウェブサイトでは、日々の生活やプログラミングなどに関する、個人的な文章を公開しています。'
+        'すべての過去記事へのリンクを、最近書かれた順に並べています。'
       end
 
       # @return [String]
