@@ -1,6 +1,7 @@
 require_relative 'lib/r7k/application'
 require 'pathname'
 
+desc 'Build static files.'
 task :build do
   article_paths = R7k::Models::Article.all.map(&:canonical_path)
   static_file_paths = Pathname.glob('static/**/*').select(&:file?).map do |pathname|
