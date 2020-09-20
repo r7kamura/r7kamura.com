@@ -2,7 +2,7 @@
 title: 光る大きいマウスパッドを買った
 ---
 
-RazerのGoliathus Chroma Extendedというマウスパッドを買った。
+Razerの[Goliathus Chroma Extended](https://www.amazon.co.jp/dp/B07JJ4RG2T/r7kamura07-22)というマウスパッドを買った。
 
 ![](/images/2020-09-16-gaming-mouse-pad-light.jpg)
 
