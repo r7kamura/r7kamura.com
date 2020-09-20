@@ -33,6 +33,10 @@ task :build do
       pathname = pathname.sub_ext('.html')
     end
     pathname.parent.mkpath
-    pathname.write(response.body.join)
+    content = ''
+    response.body.each do |element|
+      content << element
+    end
+    pathname.write(content)
   end
 end
