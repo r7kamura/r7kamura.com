@@ -1,6 +1,6 @@
 require 'html/pipeline'
-require 'r7k/markdown_filters/redcarpet_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
+require 'r7k/markdown_filters/redcarpet_markdown_filter'
 require 'yaml'
 
 module R7k
