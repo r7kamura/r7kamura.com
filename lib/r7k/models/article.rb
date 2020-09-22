@@ -1,4 +1,5 @@
 require 'html/pipeline'
+require 'r7k/markdown_filters/figure_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
 require 'r7k/markdown_filters/redcarpet_markdown_filter'
 require 'yaml'
@@ -108,6 +109,7 @@ module R7k
         @rendered_body_node ||= ::HTML::Pipeline.new(
           [
             ::R7k::MarkdownFilters::RedcarpetMarkdownFilter,
+            ::R7k::MarkdownFilters::FigureMarkdownFilter,
             ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
           ]
         ).call(body)[:output]
