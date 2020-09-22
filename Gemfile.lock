@@ -50,6 +50,7 @@ DEPENDENCIES
   hibana
   html-pipeline
   nokogiri
+  rack
   rake
   redcarpet
 
