@@ -43,10 +43,12 @@ FF14のスクリーンショットを久しぶりに見返していた。
 ```
 <p>吾輩は猫である。名前はまだ無い。</p>
 
-<a href="/images/cat.png" target="_blank">
-  <img src="/images/cat.png" alt="">
-</a>
-無名の猫
+<p>
+  <a href="/images/cat.png" target="_blank">
+    <img src="/images/cat.png" alt="">
+  </a>
+  無名の猫
+</p>
 
 <p>どこで生まれたかとんと見当がつかぬ。</p>
 ```
