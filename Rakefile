@@ -15,7 +15,7 @@ task :build do
   ]
   paths = other_paths + article_paths + static_file_paths
 
-  paths.each do |path|
+  paths.sort.each do |path|
     status, headers, body = *R7k::Application.call(
       'HTTP_HOST' => 'r7kamura.com',
       'PATH_INFO' => path,
