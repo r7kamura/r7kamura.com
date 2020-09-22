@@ -1,4 +1,5 @@
 require_relative 'lib/r7k/application'
+require_relative 'lib/r7k/capture'
 require 'pathname'
 
 desc 'Build static files.'
@@ -13,31 +14,13 @@ task :build do
     /feed.xml
     /sitemap.txt
   ]
-  paths = other_paths + article_paths + static_file_paths
-
-  paths.sort.each do |path|
-    status, headers, body = *R7k::Application.call(
-      'HTTP_HOST' => 'r7kamura.com',
-      'PATH_INFO' => path,
-      'rack.url_scheme' => 'https',
-      'REQUEST_METHOD' => 'GET',
-      'SCRIPT_NAME' => '',
-      'SERVER_PORT' => '443',
-    )
-    pathname = Pathname.new("dist#{path}")
-    puts "Processing #{pathname}"
-    response = Rack::Response.new(body, status, headers)
-    if response.content_type&.include?('text/html')
-      if path == '/'
-        pathname += 'index'
-      end
-      pathname = pathname.sub_ext('.html')
-    end
-    pathname.parent.mkpath
-    content = ''
-    response.body.each do |element|
-      content << element
-    end
-    pathname.write(content)
+  request_paths = other_paths + article_paths + static_file_paths
+  request_paths.sort.each do |request_path|
+    R7k::Capture.new(
+      app: R7k::Application,
+      host: 'r7kamura.com',
+      request_path: request_path,
+      ssl: true,
+    ).call
   end
 end
