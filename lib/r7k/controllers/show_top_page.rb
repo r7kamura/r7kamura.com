@@ -7,7 +7,7 @@ module R7k
         response.headers['Content-Type'] = 'text/html; charset=utf-8'
         response.write(
           ::R7k::Views::ShowTopPage.new(
-            articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse.take(4),
+            articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse.take(5),
             layout_template_path: 'templates/layout.html.erb',
             partial_template_path: 'templates/show_top_page.html.erb',
             request: request,
