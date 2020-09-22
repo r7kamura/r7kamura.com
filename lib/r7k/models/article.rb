@@ -14,8 +14,20 @@ module R7k
         # @return [Array<R7k::Models::Article>]
         def all
           ::Dir.glob('articles/*.md').sort.map do |path|
+            id = ::File.basename(path, '.md')
+            find_by_id(id)
+          end
+        end
+
+        # @param [String] id
+        # @return [R7k::Models::Article, nil]
+        def find_by_id(id)
+          path = "articles/#{id}.md"
+          if ::File.exist?(path)
             new(
-              id: ::File.basename(path, '.md'),
+              file_content: ::File.read(path),
+              id: id,
+              updated_at: ::File.mtime(path),
             )
           end
         end
@@ -24,9 +36,20 @@ module R7k
       # @return [String]
       attr_reader :id
 
+      # @return [Time]
+      attr_reader :updated_at
+
+      # @param [String] file_content
       # @param [String] id
-      def initialize(id:)
+      # @param [Time] updated_at
+      def initialize(
+        file_content:,
+        id:,
+        updated_at:
+      )
+        @file_content = file_content
         @id = id
+        @updated_at = updated_at
       end
 
       # @return [String]
@@ -62,26 +85,14 @@ module R7k
         frontmatter[:data]['title'] || DEFAULT_TITLE
       end
 
-      # @return [Time]
-      def updated_at
-        ::File.mtime(file_path)
-      end
-
       private
+
+      # @return [String]
+      attr_reader :file_content
 
       # @return [String]
       def body
         frontmatter[:content]
-      end
-
-      # @return [String]
-      def file_content
-        ::File.read("articles/#{id}.md")
-      end
-
-      # @return [String]
-      def file_path
-        "articles/#{id}.md"
       end
 
       # @return [Hash]
