@@ -25,6 +25,7 @@ task :build do
       'SERVER_PORT' => '443',
     )
     pathname = Pathname.new("dist#{path}")
+    puts "Processing #{pathname}"
     response = Rack::Response.new(body, status, headers)
     if response.content_type&.include?('text/html')
       if path == '/'
