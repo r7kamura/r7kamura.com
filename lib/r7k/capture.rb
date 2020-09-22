@@ -1,3 +1,4 @@
+require 'pathname'
 require 'rack'
 
 module R7k
