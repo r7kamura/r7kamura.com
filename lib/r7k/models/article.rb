@@ -2,6 +2,7 @@ require 'html/pipeline'
 require 'r7k/markdown_filters/figure_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
 require 'r7k/markdown_filters/redcarpet_markdown_filter'
+require 'r7k/markdown_filters/summary_detection_markdown_filter'
 require 'yaml'
 
 module R7k
@@ -35,7 +36,7 @@ module R7k
 
       # @return [String, nil]
       def image_url
-        node = rendered_body_node.at('img')
+        node = rendered_body_result[:output].at('img')
         if node
           node.attribute('src').content
         end
@@ -48,15 +49,12 @@ module R7k
 
       # @return [String]
       def rendered_body
-        rendered_body_node.to_s
+        rendered_body_result[:output].to_s
       end
 
       # @return [String, nil]
       def summary
-        string = rendered_body_node.text.lstrip.split("\n")[0]&.gsub(/。.+/, '。')
-        if string && !string.empty?
-          string[0, 300]
-        end
+        rendered_body_result[:summary]
       end
 
       # @return [String]
@@ -105,14 +103,15 @@ module R7k
       end
 
       # @return [Nokohiti::Node]
-      def rendered_body_node
-        @rendered_body_node ||= ::HTML::Pipeline.new(
+      def rendered_body_result
+        @rendered_body_result ||= ::HTML::Pipeline.new(
           [
             ::R7k::MarkdownFilters::RedcarpetMarkdownFilter,
+            ::R7k::MarkdownFilters::SummaryDetectionMarkdownFilter,
             ::R7k::MarkdownFilters::FigureMarkdownFilter,
             ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
           ]
-        ).call(body)[:output]
+        ).call(body)
       end
 
       # @return [Array<String>]
