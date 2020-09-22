@@ -13,7 +13,7 @@ module R7k
       class << self
         # @return [Array<R7k::Models::Article>]
         def all
-          ::Dir.glob('articles/*.md').map do |path|
+          ::Dir.glob('articles/*.md').sort.map do |path|
             new(
               id: ::File.basename(path, '.md'),
             )
