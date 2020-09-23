@@ -23,7 +23,7 @@ module R7k
 
       # @return [String]
       def title
-        '記事一覧'
+        '一覧'
       end
     end
   end
