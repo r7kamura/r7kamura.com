@@ -142,6 +142,10 @@ main {
   max-width: calc(var(--width-main));
 }
 
+dt {
+  margin-top: 1rem;
+}
+
 .articles {
   padding-left: 0;
   list-style-type: none;
