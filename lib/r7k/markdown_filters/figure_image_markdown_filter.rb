@@ -3,7 +3,7 @@ require 'nokogiri'
 
 module R7k
   module MarkdownFilters
-    class FigureMarkdownFilter < ::HTML::Pipeline::Filter
+    class FigureImageMarkdownFilter < ::HTML::Pipeline::Filter
       def call
         doc.search('p').each do |paragraph|
           elements = paragraph.children
