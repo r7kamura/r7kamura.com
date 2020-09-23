@@ -51,9 +51,7 @@ GitHub Actionsで静的ファイルを自動生成している。
 
 Markdownベースの何かで記事を書いている。
 
-例えばこの記事は、`articles/2020-09-23-personal-website-setup-2020.md` に以下のように記述している。
-
-```frontmatter
+```:記事のソースコードの例
 ---
 title: このウェブサイトの実装 2020年版
 ---
