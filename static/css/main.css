@@ -96,6 +96,10 @@ pre {
   word-break: break-all;
 }
 
+figure > pre {
+  margin-bottom: 0;
+}
+
 blockquote {
   border-left: 0.25rem solid #eee;
   color: #999;
