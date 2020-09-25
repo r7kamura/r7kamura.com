@@ -1,10 +1,10 @@
 ---
-title: 何も書かれていないテストファイルを消す
+title: 無のテストファイル
 ---
 
-雑なスクリプトを書いて空のテストファイルを消したという話。
+何も書かれていなさそうなテストファイルを消す作業をした。
 
-```
+```ruby
 require 'pathname'
 
 Pathname.glob('spec/**/*_spec.rb').each do |pathname|

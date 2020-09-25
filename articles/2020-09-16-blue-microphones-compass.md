@@ -1,12 +1,14 @@
 ---
-title: 新しいマイクスタンドを買った
+title: Blue Microphonesのマイクスタンド
 ---
 
+新しいマイクスタンドを買った。
+
+[Blue Microphones マイクスタンド Compass BA100CBK](https://www.amazon.co.jp/dp/B0822PPK7P/?tag=r7kamura07-22)
+
 ![](/images/2020-09-16-blue-microphones-compass.jpg)
+設置してみた様子
 
-Blue MicrophonesのCompassというマイクスタンドを購入して取り付けた。
-
-https://www.bluemic.com/ja-jp/products/compass/
 
 使わないときに回転させて端の方に追いやっておく…という操作がやりやすく、そういうことをしてもしっかりと角度が保存されている。本体の中に深めのケーブルガイドがあるのも地味に嬉しいところ。
 

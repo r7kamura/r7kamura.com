@@ -1,10 +1,13 @@
 ---
-title: AnkerのUSBハブを買った
+title: AnkerのUSBハブ
 ---
 
-![](/images/2020-09-19-anker-usb-hub.jpg)
+AnkerのUSBハブを買った。
 
-『[Anker PowerExpand 8-in-1 USB-C PD 10Gbps データ ハブ](https://www.amazon.co.jp/dp/B087TB7YM7?tag=r7kamura07-22)』を買った。
+[Anker PowerExpand 8-in-1 USB-C PD 10Gbps データ ハブ](https://www.amazon.co.jp/dp/B087TB7YM7?tag=r7kamura07-22)
+
+![](/images/2020-09-19-anker-usb-hub.jpg)
+デスクの配線が地獄
 
 MacBook Proへの配線を1つにまとめるために、以下の用途で使っている。
 

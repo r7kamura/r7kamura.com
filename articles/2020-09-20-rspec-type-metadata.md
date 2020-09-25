@@ -1,6 +1,8 @@
 ---
-title: RSpecから不要なtypeを取り除く
+title: RSpecの不要なtype
 ---
+
+RSpecを使うテストコードから不要なtypeを取り除く作業をした。
 
 `config.infer_spec_type_from_file_location!` を指定することで不要になる `metadata[:type]` を取り除こうというスクリプト。
 
