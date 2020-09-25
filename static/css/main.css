@@ -62,7 +62,7 @@ figcaption {
   font-size: 0.8rem;
   font-weight: 300;
   text-align: center;
-  margin-top: 0.25rem;
+  margin: 0.25rem 0 2rem;
 }
 
 img {
