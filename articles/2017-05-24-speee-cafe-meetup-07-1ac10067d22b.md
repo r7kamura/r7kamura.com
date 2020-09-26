@@ -15,10 +15,8 @@ title: "Speee Cafe Meetup #07 に参加した"
 
 最近会社で開発している Web アプリケーションに TypeScript を導入したという話を聞いたので、その辺に居た人を交えて、Flow と TypeScript を比較するとどういう感想ですか、という会話をした。あまり詳しくないという人向けに説明しておくと、どちらのプロジェクトも、JavaScript の文法に手を加えて静的な型検査を行えるようにしようというものである。
 
-[**Flow: _A Static Type Checker for JavaScript_**
-A Static Type Checker for JavaScriptflow.org](https://flow.org/ "https://flow.org/")[](https://flow.org/)
-
-[TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
+- [Flow: _A Static Type Checker for JavaScript](https://flow.org/)
+- [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
 
 両方の運用経験がある訳ではないのでという前置きのもと、TypeScript の利点を挙げるならばこの辺りだ、という話を聞いた。
 

@@ -61,8 +61,7 @@ Qi 初めてで性能に不安があったのでとりあえず Apple ストア�
 
 バンパー形状のケースを付けると、画面表面が低くなって画面下部からスライドする操作 (ホームボタンが無くなったのでこの操作が必要になる) が行いにくくなるので、同じ ESR 製で少し厚みのある液晶保護フィルムを付けることにした。切り口が黒色になっていて、フィルムを貼っていることがほとんど分からなくなるのが良い。
 
-[**_ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…_**
-ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…www.amazon.co.jp](https://www.amazon.co.jp/gp/product/B07G42KLZZ "https://www.amazon.co.jp/gp/product/B07G42KLZZ")[](https://www.amazon.co.jp/gp/product/B07G42KLZZ)
+[ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…](https://www.amazon.co.jp/gp/product/B07G42KLZZ)
 
 ## 移行時に戸惑ったこと
 
