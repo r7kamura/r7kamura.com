@@ -14,7 +14,9 @@ iPhone 7 から iPhone XS Max に乗り換えたので感想を書きます。
 陰キャなので暗いところでカメラを利用する機会が多いんですが、以前よりも遥かに鮮明な画像が撮れるようになりました。
 
 ![iPhone XS Max で撮った画像](https://cdn-images-1.medium.com/max/800/1*g8v7-yghenK8sciM2vXQBQ.png)
-iPhone XS Max で撮った画像![iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/1*97XH8v5TqdNYugVizF67eQ.png)
+iPhone XS Max で撮った画像
+
+![iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/1*97XH8v5TqdNYugVizF67eQ.png)
 iPhone 7 で撮った画像
 
 iPhone 7 だと、暗いところに焦点を合わせようとすると明るいところが真っ白に映るし、明るいところに焦点を合わせようとすると暗いところが真っ暗になるし…という感じで暗所での撮影が難しかったものの、iPhone XS Max では雑にやってもバランスよく撮れるようになって使いやすくなった。上の iPhone 7 で撮ったやつとかめちゃくちゃボケてる。これオートフォーカスするところポチポチ試して結構明るさ調整した上でこういう感じなので、何も考えずに試して上の画像が撮れるのは良い。
