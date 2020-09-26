@@ -68,7 +68,7 @@ figcaption {
 img {
   backface-visibility: hidden;
   display: block;
-  margin-top: 2rem;
+  margin: 2rem auto 0;
   max-width: 100%;
 }
 
