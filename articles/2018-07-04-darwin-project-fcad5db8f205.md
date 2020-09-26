@@ -6,8 +6,7 @@ title: "『Darwin Project』をやっている"
 
 氷河期が到来した世界で、斧とか弓とかを使って、合計10人で1人になるまで戦うゲーム。知り合いに誘ってもらったのでプレイした。
 
-[**Darwin Project on Steam**  
-_Darwin Project takes the battle royale genre up north, where an impending ice age has given rise to a twisted new…_store.steampowered.com](https://store.steampowered.com/app/544920/Darwin_Project/ "https://store.steampowered.com/app/544920/Darwin_Project/")[](https://store.steampowered.com/app/544920/Darwin_Project/)
+[Darwin Project on Steam](https://store.steampowered.com/app/544920/Darwin_Project/)
 
 パブリックなロビーで人が集まるのを待っても、めちゃくちゃ過疎っててこの10人がなかなか集まらない。誘ってくれた知り合いが人を集めてくれたので、最終的に6〜7人でプライベートマッチをやることができた。
 

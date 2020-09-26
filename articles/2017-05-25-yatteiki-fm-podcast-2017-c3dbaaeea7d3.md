@@ -9,8 +9,7 @@ title: "yatteiki.fm Podcast 環境 2017"
 
 最近の Podcast 収録環境のまとめ。使っているソフトとハードについて。
 
-[**yatteiki.fm**  
-_個人開発者達がやっていくPodcast_yatteiki.fm](https://yatteiki.fm/ "https://yatteiki.fm/")[](https://yatteiki.fm/)
+[yatteiki.fm](https://yatteiki.fm/)
 
 最初にまとめておくと、以下のような環境である。
 
@@ -28,25 +27,21 @@ Blue Micro Yeti を使っている。接続するだけで使えて、とにか�
 
 この手のマイクは感度が高いので、部屋がうるさいとその騒音を拾ってしまいがちである。またスタンドマイクの構造上、机からの音をよく拾う傾向にあるので、キーボードやマウスの音を拾ってしまいやすい。ショックマウントを使うと改善できるはずだが、まだ手を出していない。
 
-[**Blue Micro Yeti USB 2.0マイク 15374**  
-_☆当商品は新品未開封の並行輸入品です。 ☆既に国内に輸入済みですので、関税等は一切かかりません。 ◆輸入品のため、外箱等に擦りキズ，凹み等がある場合がございますが、商品自体に影響はありません。◆輸入品のため国内保証は対象外となります。 …_amzn.to](http://amzn.to/2qezTvp "http://amzn.to/2qezTvp")[](http://amzn.to/2qezTvp)
+[Blue Micro Yeti USB 2.0マイク 15374](http://amzn.to/2qezTvp)
 
-[**Blue Radius II Shockmount for Yeti and Yeti Pro USB microphones**  
-_Blue Radius II Shockmount for Yeti and Yeti Pro USB microphonesがヘッドホン延長ケーブルストアでいつでもお買い得。当日お急ぎ便対象商品は、当日お届け可能です。アマゾン配送商品…_amzn.to](http://amzn.to/2rTc2yb "http://amzn.to/2rTc2yb")[](http://amzn.to/2rTc2yb)
+[Blue Radius II Shockmount for Yeti and Yeti Pro USB microphones](http://amzn.to/2rTc2yb)
 
 ## 通話
 
 Skype で通話している。音質が良く安定している。
 
-[**Skype | 友達や家族への無料通話**  
-_Skype をダウンロードして、家族や友達と無料で連絡を取り合いましょう。国際通話、無料のオンライン通話、デスクトップやスマートフォン で使える Skype for Business をご利用いただけます。_www.skype.com](https://www.skype.com/ja/ "https://www.skype.com/ja/")[](https://www.skype.com/ja/)
+[Skype | 友達や家族への無料通話](https://www.skype.com/ja/)
 
 ## 録音
 
 Audacity で録音している。QuickTime とかでも録音できるけど、後にどうせ Audacity で編集するので、録音も Audacity でやっている。
 
-[**Audacity®**  
-_Audacity® is free, open source, cross-platform audio software for multi-track recording and editing. Audacity is…_www.audacityteam.org](http://www.audacityteam.org/ "http://www.audacityteam.org/")[](http://www.audacityteam.org/)
+[Audacity®](http://www.audacityteam.org/)
 
 ## 編集
 
@@ -67,11 +62,9 @@ GitHub Pages で、Jekyll を使った Web サイトを配置している。Jeky
 
 ちなみにドメイン管理には Route53、途中の経路の HTTPS 化には CloudFlare を使っている。
 
-[**Jekyll \* Simple, blog-aware, static sites**  
-_Transform your plain text into static websites and blogs_jekyllrb.com](https://jekyllrb.com/ "https://jekyllrb.com/")[](https://jekyllrb.com/)
+[Jekyll \* Simple, blog-aware, static sites](https://jekyllrb.com/)
 
-[**GitHub Pages**  
-_Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are…_pages.github.com](https://pages.github.com/ "https://pages.github.com/")[](https://pages.github.com/)
+[GitHub Pages](https://pages.github.com/)
 
 ## アクセス集計
 
@@ -83,5 +76,4 @@ yatteiki Slack チームがあって、そこに#twitter チャンネルをつ�
 
 あまり頻繁には見てないけど、たまに見て、おお意外とリスナーいるなということを再確認している。
 
-[**yatteikifm/yatteikibot**  
-_yatteikibot - A template to create and deploy your ruboty on slack._github.com](https://github.com/yatteikifm/yatteikibot "https://github.com/yatteikifm/yatteikibot")[](https://github.com/yatteikifm/yatteikibot)
+[yatteikifm/yatteikibot](https://github.com/yatteikifm/yatteikibot)

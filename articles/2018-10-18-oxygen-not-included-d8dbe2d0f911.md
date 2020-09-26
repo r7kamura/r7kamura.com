@@ -6,8 +6,7 @@ title: "『Oxygen Not Included』コロニー百景"
 
 Oxygen Not Included という惑星入植シミュレーションゲームで、最近つくっているコロニーの様子を紹介します。
 
-[**Oxygen Not Included on Steam**  
-_Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need…_store.steampowered.com](https://store.steampowered.com/app/457140/Oxygen_Not_Included/ "https://store.steampowered.com/app/457140/Oxygen_Not_Included/")[](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
+[Oxygen Not Included on Steam](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)
 
 ## 開拓の歴史
 

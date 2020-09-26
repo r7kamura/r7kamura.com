@@ -9,8 +9,7 @@ title: "『FTL: Faster Than Light』をやっている"
 
 ここしばらく FTL をプレイしている。もう5年以上前に発売された PC ゲームだけど、今から始めても普通に楽しめる。
 
-[**FTL: Faster Than Light on Steam**  
-_This "spaceship simulation roguelike-like" allows you to take your ship and crew on an adventure through a randomly…_store.steampowered.com](http://store.steampowered.com/app/212680/FTL_Faster_Than_Light/ "http://store.steampowered.com/app/212680/FTL_Faster_Than_Light/")[](http://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)
+[FTL: Faster Than Light on Steam](http://store.steampowered.com/app/212680/FTL_Faster_Than_Light/)
 
 最初に船を選び、困難をくぐり抜けながら第一星域から第八星域までマップを進み、敵の戦艦を倒すとクリアとなる。2D で描かれた画面上で移動・戦闘・強化を繰り返すという一見チープなデザインに見えるが、その実非常に奥深い戦略性を孕んだ作品である。
 

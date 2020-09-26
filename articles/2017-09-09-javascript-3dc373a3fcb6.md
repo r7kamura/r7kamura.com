@@ -4,8 +4,7 @@ from: medium
 title: "『アイソモーフィックJavaScript』を読んだ"
 ---
 
-[**アイソモーフィックJavaScript**  
-_アイソモーフィックJavaScriptは、クライアントサイド（ブラウザ）とサーバーサイドで同じコードを実行できるようにするためのフレームワークの総称。本書では、従来のアプリケーションが持つ問題点（読み込みの遅さ、SEO対策の困難さなど）…_www.oreilly.co.jp](https://www.oreilly.co.jp/books/9784873118079/ "https://www.oreilly.co.jp/books/9784873118079/")[](https://www.oreilly.co.jp/books/9784873118079/)
+[アイソモーフィックJavaScript](https://www.oreilly.co.jp/books/9784873118079/)
 
 前半部分の、これまでの JavaScript のフレームワークがどういう流れで移り変わってきたのかという話が良かった。jQuery や Backbone、Angular や React などの話が綺麗にまとまっていて、納得感のある内容。
 

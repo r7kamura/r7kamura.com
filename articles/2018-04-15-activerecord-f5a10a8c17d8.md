@@ -22,8 +22,7 @@ ActiveRecord::Base.establish\_connection を利用することで、これから
 
 簡単に試すだけであれば、SQLite が便利に使えます。SQLite のデータベース名 (SQLite 的にはファイル名) として :memory: を指定すると、ファイルを用意することなく、メモリ上で動作するデータベースを用意できます。プロセス終了時にこのデータベースは揮発するため、簡単な実験では役に立ちます。
 
-[**In-Memory Databases**  
-_When this is done, no disk file is opened. Instead, a new database is created purely in memory. The database ceases to…_www.sqlite.org](https://www.sqlite.org/inmemorydb.html "https://www.sqlite.org/inmemorydb.html")[](https://www.sqlite.org/inmemorydb.html)
+[In-Memory Databases](https://www.sqlite.org/inmemorydb.html)
 
 ## ActiveRecord::Schema.define
 
@@ -39,7 +38,6 @@ Ruby のテストフレームワークでは、それまでに定義されたテ
 
 下記の例では、rails/rails への Pull Request において、期待する動作と実際の動作との違いを説明するために利用しています。
 
-[**Add missing \`require "benchmark"\` by r7kamura · Pull Request #32576 · rails/rails**  
-_Summary Added require "benchmark" at the head of lib/active\_record/migration.rb. This is because it may raise NameError…_github.com](https://github.com/rails/rails/pull/32576 "https://github.com/rails/rails/pull/32576")[](https://github.com/rails/rails/pull/32576)
+[Add missing \`require "benchmark"\` by r7kamura · Pull Request #32576 · rails/rails](https://github.com/rails/rails/pull/32576)
 
 「active\_record/base.rb を読み込む前に ActiveRecord::Schema.define を使おうとしたら NameError が出るんだけど、本来ここは ActiveRecord::ConnectionNotEstablished が出るべき場所なんじゃないの？」というテストケースになっています。

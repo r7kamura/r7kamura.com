@@ -28,8 +28,7 @@ iPhone 7 のときは指紋認証を使ってて、顔画像で認証とか正�
 ![OPPO Find X (下記の Web ページより引用)](https://cdn-images-1.medium.com/max/800/1*CmUe0tZ5oFbtz-H02DRNSA.png)
 OPPO Find X (下記の Web ページより引用)
 
-[**未来、はじまる。スマホは、真の全画面の時代へ。 - OPPO 日本**  
-_Find Xとは、OPPOのフラッグシップモデル・スマートフォン。かつない画面占有率と、端末上部に納められたカメラなど、数々の最先端テクノロジーを搭載しています。_www.oppo.com](https://www.oppo.com/jp/smartphone-find_x/ "https://www.oppo.com/jp/smartphone-find_x/")[](https://www.oppo.com/jp/smartphone-find_x/)
+[未来、はじまる。スマホは、真の全画面の時代へ。 - OPPO 日本](https://www.oppo.com/jp/smartphone-find_x/)
 
 ## 手が大きくて助かった
 
@@ -46,26 +45,23 @@ iPhone 7 だと漫画読むには少し厳しかったものの、iPhone XS Max 
 
 Qi 初めてで性能に不安があったのでとりあえず Apple ストアで扱ってたやつを買ってみたものの、白すぎて浮いてるので、もうちょい落ち着いた色合いのやつが欲しい。
 
-[**Logicool Powered Wireless Charging Stand**  
-_Logicool Powered Wireless Charging Standは、あなたのiPhone XS、iPhone XS Max、iPhone…_www.apple.com](https://www.apple.com/jp/shop/product/HM6U2J/A/logicool-powered-wireless-charging-stand "https://www.apple.com/jp/shop/product/HM6U2J/A/logicool-powered-wireless-charging-stand")[](https://www.apple.com/jp/shop/product/HM6U2J/A/logicool-powered-wireless-charging-stand)
+[Logicool Powered Wireless Charging Stand](https://www.apple.com/jp/shop/product/HM6U2J/A/logicool-powered-wireless-charging-stand)
 
 こういうやつ買おうかなと思ってるところ。
 
-[**Qiワイヤレス充電器 スタンド (ファブリック/グレー) UNiCASE**  
-_Qiワイヤレス充電器 スタンド ..._unicase.jp](https://unicase.jp/iphone-goods/battery/48258.html "https://unicase.jp/iphone-goods/battery/48258.html")[](https://unicase.jp/iphone-goods/battery/48258.html)
+[Qiワイヤレス充電器 スタンド (ファブリック/グレー) UNiCASE](https://unicase.jp/iphone-goods/battery/48258.html)
 
 ## 側面がギラギラしてる
 
 側面部分が鏡面加工されているのがギラギラした印象で気に入らなかったので、ESR 製のバンパー形状のケースを付けた。そんなに高くないわりに意外としっかりしているので気に入ってる。ケース使うのそこまで好きじゃないものの、背面のカメラが出っ張ってるので置いたときにガタガタするというのも、ケース付けてる理由のひとつ。
 
-[**ESR iPhone Xs Max ケース バンパー 6.5インチ \[アルミ+シリコン 二重構造\] 衝撃吸収 薄型 軽量 ストラップホール付き 電波に影響無し 耐衝撃バンパーケース (シルバー)**  
-_ESR iPhone Xs Max ケース バンパー 6.5インチ \[アルミ+シリコン 二重構造\] 衝撃吸収 薄型 軽量 ストラップホール付き 電波に影響無し 耐衝撃バンパーケース…_www.amazon.co.jp](https://www.amazon.co.jp/gp/product/B07GJD1VMQ "https://www.amazon.co.jp/gp/product/B07GJD1VMQ")[](https://www.amazon.co.jp/gp/product/B07GJD1VMQ)
+[ESR iPhone Xs Max ケース バンパー 6.5インチ \[アルミ+シリコン 二重構造\] 衝撃吸収 薄型 軽量 ストラップホール付き 電波に影響無し 耐衝撃バンパーケース (シルバー)](https://www.amazon.co.jp/gp/product/B07GJD1VMQ)
 
 ## バンパー付けると画面外からスライドしにくい
 
 バンパー形状のケースを付けると、画面表面が低くなって画面下部からスライドする操作 (ホームボタンが無くなったのでこの操作が必要になる) が行いにくくなるので、同じ ESR 製で少し厚みのある液晶保護フィルムを付けることにした。切り口が黒色になっていて、フィルムを貼っていることがほとんど分からなくなるのが良い。
 
-[**_ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…_**  
+[**_ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…_**
 ESR iPhone XS MAX 液晶保護フィルム \[3D全面フルカバー\] \[ 最大限保護\] プレミアム強化ガラスフィルム 対応機種：iPhone Xs Max…www.amazon.co.jp](https://www.amazon.co.jp/gp/product/B07G42KLZZ "https://www.amazon.co.jp/gp/product/B07G42KLZZ")[](https://www.amazon.co.jp/gp/product/B07G42KLZZ)
 
 ## 移行時に戸惑ったこと

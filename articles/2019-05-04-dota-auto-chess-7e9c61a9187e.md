@@ -34,8 +34,7 @@ title: "『Dota Auto Chess』をやっている"
 
 無料でプレイできるので、興味を持った人は是非遊んでみましょう。MOD として実現されているせいか、少し操作性が悪いところと、それからチュートリアルや説明が一切無いところがネックですが、ハマると楽しいゲームです。
 
-[**Dota 2 on Steam**  
-_Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their…_store.steampowered.com](https://store.steampowered.com/app/570/Dota_2/?l=japanese "https://store.steampowered.com/app/570/Dota_2/?l=japanese")[](https://store.steampowered.com/app/570/Dota_2/?l=japanese)
+[Dota 2 on Steam](https://store.steampowered.com/app/570/Dota_2/?l=japanese)
 
 ![](https://cdn-images-1.medium.com/max/800/1*c7z_IFakrLy00Djrta96cA.png)
 
@@ -47,11 +46,8 @@ Steam で Dota 2 をインストールして起動すると、アーケードと
 
 ## あわせて読みたい™
 
-[**DOTA AUTO CHESSのススメ（操作編）｜Saru｜note**  
-_はじめに あなたはどこかでDOTA AUTO…_note.mu](https://note.mu/saru_omg/n/n1d322a493974 "https://note.mu/saru_omg/n/n1d322a493974")[](https://note.mu/saru_omg/n/n1d322a493974)
+[DOTA AUTO CHESSのススメ（操作編）｜Saru｜note](https://note.mu/saru_omg/n/n1d322a493974)
 
-[**DOTA AUTO CHESSのススメ（ルール編）｜Saru｜note**  
-_はじめに 数日前にDOTA AUTO CHESSのススメ（操作編）を投稿した。 上記の記事では本当の本当に操作のことしか書いておらず、まずどんなゲームなのかすら触れていなかった。 そこで今回はゲーム内容について書くことにする。…_note.mu](https://note.mu/saru_omg/n/nd1d1b2d86d8d "https://note.mu/saru_omg/n/nd1d1b2d86d8d")[](https://note.mu/saru_omg/n/nd1d1b2d86d8d)
+[DOTA AUTO CHESSのススメ（ルール編）｜Saru｜note](https://note.mu/saru_omg/n/nd1d1b2d86d8d)
 
-[**dota auto chess が張り切った麻雀みたいで面白い - mizchi's blog**  
-_dota auto chess は dota2 の MOD 。Steam で無料の Dota2 をダウンロードして、その MOD として遊ぶ。なので無料で遊べる。Dota2…_mizchi.hatenablog.com](https://mizchi.hatenablog.com/entry/2019/05/04/112238 "https://mizchi.hatenablog.com/entry/2019/05/04/112238")[](https://mizchi.hatenablog.com/entry/2019/05/04/112238)
+[dota auto chess が張り切った麻雀みたいで面白い - mizchi's blog](https://mizchi.hatenablog.com/entry/2019/05/04/112238)

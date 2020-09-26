@@ -9,13 +9,11 @@ title: "『Slay the Spire』をやっている"
 
 ここしばらく、Slay the Spire というゲームを楽しんでいる。2017年11月にリリースされた PC 向けのゲームで、Steam から購入できる。この記事の執筆時点ではまだ Early Access の段階で、開発が続いている。
 
-[**Slay the Spire on Steam**  
-_We fused card games and roguelikes together to make the best single player deckbuilder we could. Craft a unique deck…_store.steampowered.com](http://store.steampowered.com/app/646570/Slay_the_Spire/ "http://store.steampowered.com/app/646570/Slay_the_Spire/")[](http://store.steampowered.com/app/646570/Slay_the_Spire/)
+[Slay the Spire on Steam](http://store.steampowered.com/app/646570/Slay_the_Spire/)
 
 分岐しながら1マスずつダンジョンを進んでいき、マスごとに戦闘やイベントや買い物を進め、全三階層のダンジョンを踏破するという流れ。各階層には毎プレイごとに異なるフロアボスが待ち構えている。この辺りの仕組みは FTL に近いものがある。
 
-[**『FTL: Faster Than Light』をやっている**  
-_ここしばらく FTL をプレイしている。もう5年以上前に発売された PC ゲームだけど、今から始めても普通に楽しめる。_medium.com](https://medium.com/@r7kamura/ftl-faster-than-light-%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-86fe805d61fd "https://medium.com/@r7kamura/ftl-faster-than-light-%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-86fe805d61fd")[](https://medium.com/@r7kamura/ftl-faster-than-light-%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-86fe805d61fd)
+[『FTL: Faster Than Light』をやっている](https://medium.com/@r7kamura/ftl-faster-than-light-%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B-86fe805d61fd)
 
 戦闘はデッキ構築型のカードゲーム形式になっており、山札から5枚ずつカードを引き、毎ターン補充されるエネルギーをコストとして消費しながら、カードで敵を倒していく。手に入る (可能性のある) カードは毎回同じだが、イベントで何個か手に入る装備が毎回異なり、これが戦闘の特性を大きく変化させるため、毎回違ったプレイングが求められることになる。この辺りのプレイ感はドミニオンにとてもよく似ている。
 

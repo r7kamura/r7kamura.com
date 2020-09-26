@@ -9,18 +9,16 @@ title: "Speee Cafe Meetup #07 に参加した"
 
 出張でしばらく東京に滞在していて、たまたま予定も席も空いていたので参加できた。雑談などで得た技術情報についてまとめておく。
 
-[**Speee Cafe Meetup #07 (2017/05/23 19:00〜)**  
-_Speee Cafe Meetupとは？ \* Speee Loungeで開催される勉強会です。Loungeの雰囲気は941さんのブログを御覧ください！ \* 今回はFiNC社、ドリコム社と一緒に各社のOSS開発（Ruby）における取り組み…_speee.connpass.com](https://speee.connpass.com/event/56197/ "https://speee.connpass.com/event/56197/")[](https://speee.connpass.com/event/56197/)
+[Speee Cafe Meetup #07 (2017/05/23 19:00〜)](https://speee.connpass.com/event/56197/)
 
 ## TypeScript, Flow
 
 最近会社で開発している Web アプリケーションに TypeScript を導入したという話を聞いたので、その辺に居た人を交えて、Flow と TypeScript を比較するとどういう感想ですか、という会話をした。あまり詳しくないという人向けに説明しておくと、どちらのプロジェクトも、JavaScript の文法に手を加えて静的な型検査を行えるようにしようというものである。
 
-[**Flow: _A Static Type Checker for JavaScript_**  
+[**Flow: _A Static Type Checker for JavaScript_**
 A Static Type Checker for JavaScriptflow.org](https://flow.org/ "https://flow.org/")[](https://flow.org/)
 
-[**TypeScript - JavaScript that scales.**  
-_TypeScript brings you optional static type-checking along with the latest ECMAScript features._www.typescriptlang.org](https://www.typescriptlang.org/ "https://www.typescriptlang.org/")[](https://www.typescriptlang.org/)
+[TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
 
 両方の運用経験がある訳ではないのでという前置きのもと、TypeScript の利点を挙げるならばこの辺りだ、という話を聞いた。
 
@@ -32,8 +30,7 @@ Rails アプリで SSR (Server-Side Rendering) を行うにあたっては、幾
 
 例えば自分の開発している amakan というサービスでは、react\_on\_rails を使っている。これは内部で Ruby の V8 エンジンを利用して JavaScript のコードを評価するというもので、Web ブラウザに返す HTML をするために利用している。
 
-[**amakan books**  
-_読書管理サービス amakan books_amakan.net](https://amakan.net/ "https://amakan.net/")[](https://amakan.net/)
+[amakan books](https://amakan.net/)
 
 今回の Meetup では、hypernova を利用した Rails アプリを運用している人と話ができた。hypernova を知らない人向けに説明しておくと、これは Node.js のプロセスを別途起動しておいて、Rails のプロセスと通信して JavaScript のコードを評価するというもの。
 
@@ -53,8 +50,7 @@ react\_on\_rails でつらいのは、JavaScript のコードでエラーが発�
 
 Speee の方が OSS として開発されている、webapp-revieee という Web アプリケーションの話を聞いた。
 
-[**speee/webapp-revieee**  
-_Contribute to webapp-revieee development by creating an account on GitHub._github.com](https://github.com/speee/webapp-revieee "https://github.com/speee/webapp-revieee")[](https://github.com/speee/webapp-revieee)
+[speee/webapp-revieee](https://github.com/speee/webapp-revieee)
 
 検証環境が決められた個数 (大抵は1つとか) しか存在しないと、「いま検証環境使っていいですか？」といった会話が起こりやすく、結果としてなかなか検証が行われにくい雰囲気が醸成されてしまうということを背景に、Heroku の review-apps のような仕組みを AWS の API で構築するようなものをつくろう、というのが webapp-revieee の解決しようとしている課題であるとのこと。
 

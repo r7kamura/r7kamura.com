@@ -13,8 +13,7 @@ IT エンジニアが退職するときに添えられることが多い東亜�
 
 Increments と言えば Qiita を運営している会社というイメージですが、Qiita の開発に直接携わる機会はほとんどなくて、技術基盤や Qiita:Team の開発に携わったりしていました。
 
-[**Qiita - プログラマの技術情報共有サービス - Qiita**  
-_Qiitaは、プログラマのための技術情報共有サービスです。 プログラミングに関するTips、ノウハウ、メモを簡単に記録 &amp; 公開することができます。_qiita.com](http://qiita.com/ "http://qiita.com/")[](http://qiita.com/)
+[Qiita - プログラマの技術情報共有サービス - Qiita](http://qiita.com/)
 
 分かりやすい例を幾つか挙げると、Qiita API v2、トップページのフィード、通知購読、絵文字リアクション、タスクリスト、qiita-elasticsearch、qiita-markdown、アクセス権限付きグループ、サポートサイト、チーム統合機能の開発や、UI 刷新、絵文字画像セット移行、ログインセッション永続化、Docker 移行、VPC 移行、Terraform 導入、Webpack 移行、ChatOps 導入などなど、色々とやっていました。
 
@@ -40,8 +39,7 @@ _Qiitaは、プログラマのための技術情報共有サービスです。 �
 
 7月に第7回転職ドラフトというのがあるので、とりあえずこれには参加してみるつもりです。奇跡的にブッ飛んだ額が提示されて若者の夢が広がると嬉しい。『UIVW』という友達紹介コードがあってこれを使って登録すると _O’reilly_ の好きな本とかがもらえるので、これを機に友達になりましょう。転職ドラフトは個人的に応援したいサービスのひとつなので、こういうものが成功すると嬉しいです。
 
-[**転職ドラフト｜ITエンジニアを年収・仕事内容つきで競争入札**  
-_ITエンジニアを企業が競争入札する、転職版のドラフト会議。ユーザーは年収と仕事内容を提示された上で、転職活動を進められます。また、他ユーザーの評価や企業ごとの入札結果も公開。自分のリアルな市場価値やニーズを把握し、キャリア向上に活かせま…_job-draft.jp](https://job-draft.jp "https://job-draft.jp")[](https://job-draft.jp)
+[転職ドラフト｜ITエンジニアを年収・仕事内容つきで競争入札](https://job-draft.jp)
 
 ## 何ができるの？
 
@@ -57,8 +55,7 @@ _ITエンジニアを企業が競争入札する、転職版のドラフト会�
 
 インターネットでは r7kamura という ID で活動しています。本名は Ryo Nakamura です。大学で情報工学を専攻し、クックパッドに入社したのち、Increments に転職し、現在に至ります。
 
-[**r7kamura (Ryo Nakamura)**  
-_r7kamura has 197 repositories available. Follow their code on GitHub._github.com](https://github.com/r7kamura "https://github.com/r7kamura")[](https://github.com/r7kamura)
+[r7kamura (Ryo Nakamura)](https://github.com/r7kamura)
 
 ## ブログ移転したの？
 
@@ -69,5 +66,4 @@ _r7kamura has 197 repositories available. Follow their code on GitHub._github.co
 
 ## 例のリンクないの？
 
-[**Amazon.co.jp**  
-_r7kamuraさんのAmazon.co.jpユニバーサルほしい物リスト_www.amazon.co.jp](https://www.amazon.co.jp/gp/registry/wishlist/31WJYTS73D19K "https://www.amazon.co.jp/gp/registry/wishlist/31WJYTS73D19K")[](https://www.amazon.co.jp/gp/registry/wishlist/31WJYTS73D19K)
+[Amazon.co.jp](https://www.amazon.co.jp/gp/registry/wishlist/31WJYTS73D19K)

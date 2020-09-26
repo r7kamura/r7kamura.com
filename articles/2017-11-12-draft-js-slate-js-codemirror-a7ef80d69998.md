@@ -14,8 +14,7 @@ Draft.js でエディタのスタイルを変更するには、Decorator とい�
 
 Decorator は最大でも Block と呼ばれる単位ごとの変換しか行えないが、これはエディタ内での論理的な一行を表す単位であるため、コードブロックや引用文などの、複数行にまたがる構造に対して上手くスタイルを与えるのが難しい。
 
-[**facebook/draft-js**  
-_draft-js - A React framework for building text editors._github.com](https://github.com/facebook/draft-js "https://github.com/facebook/draft-js")[](https://github.com/facebook/draft-js)
+[facebook/draft-js](https://github.com/facebook/draft-js)
 
 ## Slate.js
 
@@ -25,8 +24,7 @@ Draft.js の Decorator と同じように、行単位での修飾しか行えな
 
 個人的な意見になるが、要件的に Slate.js で済むなら、Draft.js より Slate.js を使いたいと考えている。なぜなら Draft.js の内部実装と格闘する日々に、出来ることならもう二度と戻りたくないから。
 
-[**ianstormtaylor/slate**  
-_slate - A completely customizable framework for building rich text editors._github.com](https://github.com/ianstormtaylor/slate "https://github.com/ianstormtaylor/slate")[](https://github.com/ianstormtaylor/slate)
+[ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
 
 ## CodeMirror
 
@@ -38,18 +36,14 @@ react-codemirror2 の提供する Component を使う場合、一応 Server-Side
 
 シンタックスハイライトは素朴に正規表現で全体的に処理するタイプの実装なので、文章量が増えると処理が重くなるという問題はあるが、複数行にまたがるコードブロックや引用に対してもきちんと動作するし、ライブラリ側が機能を提供しているので自分で Prism.js などを利用して実装する必要もない。
 
-[**codemirror/CodeMirror**  
-_CodeMirror - In-browser code editor_github.com](https://github.com/codemirror/CodeMirror "https://github.com/codemirror/CodeMirror")[](https://github.com/codemirror/CodeMirror)
+[codemirror/CodeMirror](https://github.com/codemirror/CodeMirror)
 
-[**scniro/react-codemirror2**  
-_react-codemirror2 - Codemirror integrated components for React_github.com](https://github.com/scniro/react-codemirror2 "https://github.com/scniro/react-codemirror2")[](https://github.com/scniro/react-codemirror2)
+[scniro/react-codemirror2](https://github.com/scniro/react-codemirror2)
 
 ## その他
 
 TinyMCE や ProseMirror も試したことがあるものの、いろいろな要件で結局プロダクトでは採用しないことが多かった。ライブラリの比較検討のためにこのページを見ている人がいるかもしれないので、一応リンクだけ貼っておくことにする。
 
-[**tinymce/tinymce**  
-_tinymce - The world's most popular JavaScript library for rich text editing_github.com](https://github.com/tinymce/tinymce "https://github.com/tinymce/tinymce")[](https://github.com/tinymce/tinymce)
+[tinymce/tinymce](https://github.com/tinymce/tinymce)
 
-[**ProseMirror/prosemirror**  
-_prosemirror - The ProseMirror WYSIWYM editor_github.com](https://github.com/ProseMirror/prosemirror "https://github.com/ProseMirror/prosemirror")[](https://github.com/ProseMirror/prosemirror)
+[ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror)

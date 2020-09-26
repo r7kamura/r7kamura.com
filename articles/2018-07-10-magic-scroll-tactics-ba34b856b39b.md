@@ -6,8 +6,7 @@ title: "『Magic Scroll Tactics』をやっている"
 
 とても面白かったので感想を書きます。
 
-[**Magic Scroll Tactics on Steam**  
-_A side-scrolling tactical RPG where elevation is the key to victory!_store.steampowered.com](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/ "https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/")[](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/)
+[Magic Scroll Tactics on Steam](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/)
 
 ジャンルとしてはシミュレーション RPG で、似た仕組みのタイトルだと、ファイナルファンタジータクティクスやタクティクスオウガなどが挙げられる。見下ろし視点ではなく、横スクロール視点になっていて (魔法のスクロールと視点のスクロールを掛けてそう)、高さで戦闘に有利不利が生まれるようになっている。高所から攻撃すると避けられる確率が減り、遠くからの攻撃も届きやすく、与えられるダメージも大きくなりやすい一方で、強力な攻撃魔法は低所から発動する方が当てやすくなっている、といった感じ。高さによる補正が重めに設定されているので、敵との距離だけでなく高さも含めて戦略を考える必要があって面白い。
 
@@ -27,5 +26,4 @@ SRPG のジャンル自体が初挑戦であるという人にとっては少し
 
 まとめると全部良かった。やりこみ要素が薄いので、記憶を消しながら何度もプレイするしかないのが惜しい。今世紀中に続編が出てほしい作品ナンバーワンです。
 
-[**Magic Scroll Tactics on Steam**  
-_A side-scrolling tactical RPG where elevation is the key to victory!_store.steampowered.com](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/ "https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/")[](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/)
+[Magic Scroll Tactics on Steam](https://store.steampowered.com/app/840100/Magic_Scroll_Tactics/)

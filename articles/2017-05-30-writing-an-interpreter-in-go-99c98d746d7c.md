@@ -10,8 +10,7 @@ Go の教材として使うという目論見は失敗したけど、プログ�
 
 ## 内容紹介
 
-[**Writing An Interpreter In Go (English Edition)**  
-_In this book we will create a programming language together. We'll start with 0 lines of code and end up with a fully…_amzn.to](http://amzn.to/2s8jLc9 "http://amzn.to/2s8jLc9")[](http://amzn.to/2s8jLc9)
+[Writing An Interpreter In Go (English Edition)](http://amzn.to/2s8jLc9)
 
 全部で4章の構成になっていて、1章で Lexer、2章で Parser、3章で Evaluator をつくろうという構成。3章までで一旦完成させて、4章では更に言語を拡張していく方法を学べる。
 
@@ -33,8 +32,7 @@ _In this book we will create a programming language together. We'll start with 0
 
 折角なので、勉強したことを使って簡単な Markdown パーサのプロトタイプをつくってみた。社内の勉強会の30分前につくりはじめたので、Go ではなく Ruby で実装してしまった。ほとんど機能も無いけれど、Tokenizer、Parser、Evaluator (Renderer) という構造は踏襲できているはず…。
 
-[**r7kamura/rdown**  
-_rdown - A toy Markdown-like language parser implementation in Ruby._github.com](https://github.com/r7kamura/rdown "https://github.com/r7kamura/rdown")[](https://github.com/r7kamura/rdown)
+[r7kamura/rdown](https://github.com/r7kamura/rdown)
 
 今更 Markdown パーサかと思われるかもしれないけれど、まだまだ欲しい機能が沢山ある。例えば、共同編集可能な Markdown エディタを提供するサービスをつくるとすると、Markdown のための AST を用意して、それぞれのノードに位置情報を付けて、どの部分を誰がいつ変更したかをバージョン管理したり、特定の部分をハイライトしてコメントを付けられるような機能を提供したりということが可能だし、Markdown 用の AST を表す言語非依存な形式を定めれば、仕様だけでなく実装の知識も共有できるようになったりするはず。
 

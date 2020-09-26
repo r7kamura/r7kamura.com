@@ -8,8 +8,7 @@ title: "『Don’t Starve Together』をやってる"
 
 容赦ないサバイバルゲーム、Don’t Starve のマルチプレーヤー版作品、Don’t Starve Together。昔 Medium の記事でも触れたことのある Oxygen Not Included をつくっている Klei Entertainment が開発しているゲーム。
 
-[**Don't Starve Together on Steam**  
-_Don't Starve Together is the standalone multiplayer expansion of the uncompromising survival game Don't Starve._store.steampowered.com](https://store.steampowered.com/app/322330/Dont_Starve_Together/?l=japanese "https://store.steampowered.com/app/322330/Dont_Starve_Together/?l=japanese")[](https://store.steampowered.com/app/322330/Dont_Starve_Together/?l=japanese)
+[Don't Starve Together on Steam](https://store.steampowered.com/app/322330/Dont_Starve_Together/?l=japanese)
 
 まだ友達と一緒に始めて数時間進めただけなので勝手が分かっておらず、新しい初見殺し要素に出会うたびに壊滅している状態だけど楽しい。
 
