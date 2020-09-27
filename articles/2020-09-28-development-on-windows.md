@@ -22,7 +22,7 @@ Linuxディストリビューションを入れるために、WSL2を入れる�
 
 WindowsがWSL2に対応したバージョンになっていることを確認した後、[Windows Subsystem for Linux (WSL) を Windows 10 にインストールする](https://docs.microsoft.com/ja-jp/windows/wsl/install-win10) というガイドを見ながら、以下のコマンドで、WSL2の有効化と、仮想マシンプラットフォームの有効化というやつを試みる。
 
-初めに書いておくが、破壊的変更をもたらすようなコマンドは管理者権限で起動した端末を利用しないと実行できないので、その点は注意。
+全体を通して言えることだが、破壊的変更をもたらすようなコマンドは管理者権限で起動した端末を利用しないと実行できないので、その点は注意。
 
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
@@ -56,6 +56,8 @@ wsl --list --verbose
 Dockerを活用するために、Docker Desktop for Windowsを入れる。
 
 Dockerが専用のエンジンで動くようになり、WindowsやLinux環境では `docker` コマンド経由でそこに対して命令を出す形になる。Windowsとの間でネットワークをいい感じにブリッジしてくれたりして非常に便利。
+
+基本的に、開発で必要なソフトウェアはDockerイメージとして用意するように配慮して、開発用のLinuxディストリビューション側は、gitやtmuxなどの、汎用的なファイル操作や端末操作のためのソフトウェアを入れるに留めたい。
 
 ## Windows Package Manager
 
@@ -91,9 +93,11 @@ winget install "Windows Terminal"
 
 ## Visual Studio Code
 
-エディタにはVisual Studio Codeを使っている。
+主なエディタとしてVisual Studio Codeを使っている。
 
-こういう環境のためにリモート機能が提供されていて、Linux側とWindows側のそれぞれのVisual Studio Codeのプロセスが協調し、ファイルをWindows側のGUIで編集したり、コマンドをLinux側で処理させたりできる。Linux側で `code` コマンドを使ってワークスペースを編集しようとすると、Windows側のGUIでそれが開き、適当に編集するだけで基本上手くいく。
+Visual Studio Codeではこの手の環境のためにリモート機能が提供されていて、Linux側とWindows側のそれぞれのVisual Studio Codeのプロセスが協調し、ファイルをWindows側のGUIで編集したり、コマンドをLinux側で処理させたりできる。
+
+Linux側で `code` コマンドを使ってワークスペースを編集しようとすると、Windows側のGUIでそれが開き、適当に編集するだけで基本上手くいく。
 
 ```
 winget install "Visual Studio Code"
@@ -103,4 +107,7 @@ Windows側でインストールすれば、Linux側でも使える。
 
 ---
 
-これでWindows環境に依存した話はおしまい。あとは開発用に用意したLinuxディストリビューションをいい感じに整えていくだけだ。
+これでWindowsに依存した部分の環境構築は一段落。あとは開発用に用意したUbuntuをいい感じに整えていくだけだ。
+
+[このサイトのリポジトリ](https://github.com/r7kamura/r7kamura.com)でもDocker環境を用意していたので、試しにUbuntu側にリポジトリをcloneしてきて、Visual Studio Codeで編集し、DockerでRubyのサーバを動かし、Windows側でプレビューする、ということをやりながらこの記事を書いてみた。
+
