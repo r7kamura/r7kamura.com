@@ -8,7 +8,7 @@ services:
       SHELL: /bin/sh
     image: ruby:2.6.5
     ports:
-      - 9292:9292
+      - 127.0.0.1:9292:9292
     volumes:
       - .:/app
     working_dir: /app
