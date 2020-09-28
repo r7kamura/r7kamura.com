@@ -8,7 +8,7 @@ https://github.com/microsoft/PowerToys
 
 ## PowerToys Run
 
-PowerToysというのは、Microsoftが提供している、Windowsをより便利にする機能群をまとめたアプリケーションらしい。
+PowerToysというのは、Windowsをより便利にする機能群をまとめたアプリケーション。
 
 ```
 winget install PowerToys
