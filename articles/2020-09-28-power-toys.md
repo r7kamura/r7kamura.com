@@ -8,7 +8,7 @@ https://github.com/microsoft/PowerToys
 
 ## PowerToys Run
 
-PowerToysというのは、Microsoftが提供している、Windowsをより便利にする機能群をまとめたアプリケーションらしい。Windowsのスナップ機能なんかは元々、PowerToysに実装されていたものがポーティングされてきたものなんだとか。
+PowerToysというのは、Microsoftが提供している、Windowsをより便利にする機能群をまとめたアプリケーションらしい。
 
 ```
 winget install PowerToys
