@@ -2,7 +2,7 @@
 title: PowerToysで豪遊
 ---
 
-Winodws用にPowerToysというのを教えてもらって、使ってみたら思いの外よかったという話。
+Windows用にPowerToysというのを教えてもらって、使ってみたら思いの外よかったという話。
 
 https://github.com/microsoft/PowerToys
 
