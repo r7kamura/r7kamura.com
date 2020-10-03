@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <description>このサイトでは、Ryo Nakamura（@r7kamura）が、日々の生活やプログラミングに関する文章を公開しています。</description>
     <link><%= request.base_url %></link>
+    <atom:link href="<%= request.base_url %>/feed.xml" rel="self"/>
     <title>r7kamura.com</title>
     <managingEditor>r7kamura@gmail.com (Ryo Nakamura)</managingEditor>
     <% @articles.each do |article| %>
