@@ -11,7 +11,7 @@
       <description><![CDATA[<%= article.summary %>]]></description>
       <link><%= "#{request.base_url}#{article.canonical_path}" %></link>
       <pubDate><%= article.published_at.rfc822 %></pubDate>
-      <content:encoded><![CDATA[<%= article.rendered_body %>]]></content:encoded>
+      <content:encoded><![CDATA[<%= article.rendered_body_for_rss %>]]></content:encoded>
       <guid><%= "#{request.base_url}#{article.canonical_path}" %></guid>
     </item>
     <% end %>
