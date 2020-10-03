@@ -3,7 +3,6 @@ require 'r7k/markdown_filters/figure_code_block_markdown_filter'
 require 'r7k/markdown_filters/figure_image_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
 require 'r7k/markdown_filters/redcarpet_markdown_filter'
-require 'r7k/markdown_filters/rss_sanitize_markdown_filter'
 require 'r7k/markdown_filters/summary_detection_markdown_filter'
 require 'yaml'
 
@@ -75,19 +74,6 @@ module R7k
       # @return [String]
       def rendered_body
         rendered_body_result[:output].to_s
-      end
-
-      # @return [String]
-      def rendered_body_for_rss
-        ::HTML::Pipeline.new(
-          [
-            ::R7k::MarkdownFilters::RedcarpetMarkdownFilter,
-            ::R7k::MarkdownFilters::FigureCodeBlockMarkdownFilter,
-            ::R7k::MarkdownFilters::FigureImageMarkdownFilter,
-            ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
-            ::R7k::MarkdownFilters::RssSanitizeMarkdownFilter,
-          ]
-        ).call(body)[:output].to_s
       end
 
       # @return [String, nil]
