@@ -8,7 +8,7 @@ module R7k
         response.headers['Content-Type'] = 'text/html; charset=utf-8'
         response.write(
           ::R7k::Views::ListArticles.new(
-            articles: ::R7k::Models::Article.all.sort_by(&:published_at).reverse,
+            articles: ::R7k::Models::Article.all,
             layout_template_path: 'templates/layout.html.erb',
             partial_template_path: 'templates/list_articles.html.erb',
             request: request,
