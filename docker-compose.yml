@@ -6,6 +6,7 @@ services:
     environment:
       RUBYOPT: -EUTF-8
       SHELL: /bin/sh
+      TZ: Asia/Tokyo
     image: ruby:2.6.5
     ports:
       - 127.0.0.1:9292:9292
