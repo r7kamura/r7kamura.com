@@ -2,7 +2,7 @@
 title: RuboCopのStyle/Lambdaの改善を試みた話
 ---
 
-rubocop-hq/rubocop#6475 を書いたときの話。
+[rubocop-hq/rubocop#6475](https://github.com/rubocop-hq/rubocop/pull/6475) を書いたときの話。
 
 ## Ruby の lambda
 
@@ -16,7 +16,7 @@ Proc のインスタンスをつくるときに lambda メソッドと -> リテ
 - 必ず lambda を使う
 - 複数行にまたがるときだけ lambda を使う (version 0.60.0 ではこれが default)
 
-# Style/Lambda の autocorrect の課題
+## Style/Lambda の autocorrect の課題
 
 RuboCop の Style/Lambda のための実装には自動修正機能が付いていて、設定したスタイルに応じてある程度は自動修正してくれるのだけど、括弧の省略されたメソッド呼び出しの引数として書かれた -> は lambda に変換できないという課題がある。
 

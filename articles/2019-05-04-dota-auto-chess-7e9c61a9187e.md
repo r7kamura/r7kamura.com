@@ -46,8 +46,6 @@ Steam で Dota 2 をインストールして起動すると、アーケードと
 
 ## あわせて読みたい™
 
-[DOTA AUTO CHESSのススメ（操作編）｜Saru｜note](https://note.mu/saru_omg/n/n1d322a493974)
-
-[DOTA AUTO CHESSのススメ（ルール編）｜Saru｜note](https://note.mu/saru_omg/n/nd1d1b2d86d8d)
-
-[dota auto chess が張り切った麻雀みたいで面白い - mizchi's blog](https://mizchi.hatenablog.com/entry/2019/05/04/112238)
+- [DOTA AUTO CHESSのススメ（操作編）｜Saru｜note](https://note.mu/saru_omg/n/n1d322a493974)
+- [DOTA AUTO CHESSのススメ（ルール編）｜Saru｜note](https://note.mu/saru_omg/n/nd1d1b2d86d8d)
+- [dota auto chess が張り切った麻雀みたいで面白い - mizchi's blog](https://mizchi.hatenablog.com/entry/2019/05/04/112238)
