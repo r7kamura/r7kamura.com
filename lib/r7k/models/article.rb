@@ -14,11 +14,9 @@ module R7k
       class << self
         # @return [Array<R7k::Models::Article>]
         def all
-          ::Dir.glob('articles/*.md').map do |path|
+          ::Dir.glob('articles/*.md').sort.reverse.map do |path|
             id = ::File.basename(path, '.md')
             find_by_id(id)
-          end.sort_by do |article|
-            [-article.published_at.to_i, -article.updated_at.to_i]
           end
         end
 
