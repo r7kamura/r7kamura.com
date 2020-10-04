@@ -65,7 +65,6 @@ figure {
 figcaption {
   color: var(--color-light);
   font-size: 0.8rem;
-  font-weight: 300;
   text-align: center;
   margin: 0.25rem 0 2rem;
 }
