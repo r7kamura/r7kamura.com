@@ -2,7 +2,10 @@
 title: 料理メモ
 ---
 
-基本的に[1.6L版のホットクック](https://www.amazon.co.jp/dp/B07TWPRHHJ/?tag=r7kamura07-22)で自炊をしている。
+![](/images/2020-10-05-cooking-memo.jpg)
+冷凍の鍋用野菜と鶏肉をホットクックにぶち込んでいる
+
+基本的に[1.6L版のホットクック](https://www.amazon.co.jp/dp/B07TWPRHHJ/?tag=r7kamura07-22)で自炊をしている。2020年9月に[新しいモデル](https://www.amazon.co.jp/dp/B08HMF4W7S/?tag=r7kamura07-22)が出たので、今から買う人はこちらを買うのが良いと思う。
 
 - それだけ食べていてもそこそこ健康を保てる
 - やる気が無くてもつくれる
