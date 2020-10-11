@@ -10,17 +10,17 @@ title: "Web アプリの JavaScript の初期化処理をどうまとめるか"
 
 自分の場合、次のようなディレクトリ構成でまとめていることが多い。
 
-*   client/javascripts/entryPoints/\*.js
-*   client/javascripts/initializers/\*.js
+- client/javascripts/entryPoints/\*.js
+- client/javascripts/initializers/\*.js
 
 実例を挙げると、現在携わっているプロジェクトでは以下のようなファイルが存在する。
 
-*   client/javascripts/entryPoints/client.js
-*   client/javascripts/entryPoints/server.js
-*   client/javascripts/initializers/googleAnalytics.js
-*   client/javascripts/initializers/helmet.js
-*   client/javascripts/initializers/moment.js
-*   client/javascripts/initializers/react.js
+- client/javascripts/entryPoints/client.js
+- client/javascripts/entryPoints/server.js
+- client/javascripts/initializers/googleAnalytics.js
+- client/javascripts/initializers/helmet.js
+- client/javascripts/initializers/moment.js
+- client/javascripts/initializers/react.js
 
 即ち、以下のような規則に従ってファイルが配置されている。
 

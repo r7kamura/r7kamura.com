@@ -6,8 +6,8 @@ title: "SprocketsやWebpackerを使っていないアプリケーションでrea
 
 Rails プロジェクトにおいて「React を利用して Server-Side Rendering (SSR) をやるぞ」となった場合には、ライブラリの選択肢として以下の二つが筆頭に挙がることかと思われる。
 
-*   react\_on\_rails
-*   react-rails
+- react\_on\_rails
+- react-rails
 
 react\_on\_rails では Browserify で bundle したコードを動作させるのには現時点では少し難があるため、現行のアプリケーションで Browserify を利用している場合、必然的に react-rails を選択することになるだろう。
 
