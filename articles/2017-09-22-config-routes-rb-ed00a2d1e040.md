@@ -12,21 +12,22 @@ title: "config/routes.rb の書き方を見直した"
 
 - resource(s) などの DSL の利用を避ける
 - パスの辞書順に定義する
-- HTTP メソッドの部分だけ特別にインデントする
 
 ## 具体例
 
 こういう形の、素朴なルーティングがひたすらに羅列されていくコードになる。実際のコードでは数百行以上に及ぶ。基本的に1行に1つのルーティングが定義される。
 
-MyApp::Application.routes.draw do  
-  get    '/' => 'top\_pages#show', as: :top\_page  
-  delete '/api/applications/:applicaiton\_id' => 'api\_applications#destroy', as: :application  
-  get    '/api/applications/:applicaiton\_id' => 'api\_applications#show'  
-  patch  '/api/applications/:applicaiton\_id' => 'api\_applications#update'
+```
+MyApp::Application.routes.draw do
+  get '/' => 'top_pages#show', as: :top_page
+  delete '/api/applications/:application_id' => 'api_applications#destroy', as: :api_application
+  get '/api/applications/:application_id' => 'api_applications#show'
+  patch '/api/applications/:application_id' => 'api_applications#update'
 
   ...
 
 end
+```
 
 ## 背景
 
