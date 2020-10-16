@@ -123,6 +123,19 @@ blockquote {
   padding-left: 1rem;
 }
 
+figure > blockquote,
+figure > blockquote > p {
+  margin-bottom: 0;
+}
+
+blockquote + figcaption {
+  text-align: right;
+}
+
+blockquote + figcaption:before {
+  content: "――";
+}
+
 time {
   color: var(--color-light);
   display: block;
