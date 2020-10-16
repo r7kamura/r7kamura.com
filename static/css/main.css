@@ -119,7 +119,7 @@ blockquote {
   border-left: 0.25rem solid #eee;
   color: #999;
   font-style: italic;
-  margin-left: 1rem;
+  margin: 1rem 0;
   padding-left: 1rem;
 }
 
