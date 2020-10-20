@@ -15,11 +15,14 @@ LEDの発色がとても良く、ヘアライン加工の施された金属面�
 
 ---
 
-参考までに、自分が過去に利用してきたキーボードは次の通り。
+参考までに、自分が過去に利用してきた主なキーボードは次の通り。
 
 - HHKB Professional
+- Kinesis Advantage
 - Apple Wireless Keyboard
 - Apple Magic Keyboard
 - QWERKYWRITER
 - G-PKB-001
 - G-PKB-002
+
+入力方式はかな入力。配列はJIS配列。
