@@ -18,9 +18,9 @@ DiscordはGitHubのWebhookへのサポートが手厚く、簡単に設定でき
 
 ## Twitter
 
-DiscordでWebhookの受信用URLを発行し、[IFTTT](https://ifttt.com/)でTwitter検索用のアプレットを設定すると、Twitterでの定期的な検索結果をDiscordに通知できる。
+DiscordでWebhookの受信用URLを発行し、[IFTTT](https://ifttt.com/)でTwitter検索用のアプレット（IFTTTにおける自動化の設定の単位）を設定すると、Twitterでの定期的な検索結果をDiscordに通知できる。
 
-TwitterはWebhookを送信する機能を設けていないので、IFTTTが必要になる。IFTTTは無料アカウントだと3つまでアプレット（IFTTTにおける自動化の設定の単位）を設定できる。IFTTTからTwitterの機能を利用する場合は、検索だけの利用でも連携するためのTwitterアカウントが必要になるので注意。
+TwitterはWebhookを送信する機能を設けていないので、IFTTTが必要になる。IFTTTは無料アカウントだと3つまでアプレットを設定できる。IFTTTからTwitterの機能を利用する場合は、検索だけの利用でも連携するためのTwitterアカウントが必要になるので注意。
 
 IFTTT側で以下のようにレスポンスボディを設定すると、検索条件に一致したツイートのURLが通知されるようになる。Discordが自動的にURLの内容を展開してくれるので、ツイートの中身はそこから読める。
 
