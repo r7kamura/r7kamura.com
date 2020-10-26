@@ -2,16 +2,10 @@
 title: OpenSearchに対応
 ---
 
-OpenSearchに対応したので、ブラウザのロケーションバーで、
+このサイトを[OpenSearch](https://ja.wikipedia.org/wiki/OpenSearch)に対応させた。
 
-- r7kamura.com + 半角スペース、と入力する
-- r7... で補完候補に r7kamura.com を選んだ状態でTabキーを押す
+Google Chromeなどの対応ブラウザだと、ロケーションバーでr7kamura.comのあと半角スペースを入力したり、補完候補にr7kamura.comが出ている状態でTabキーを押したりすると、ロケーションバーから検索語句を入力して検索結果に遷移できるようになる。
 
-のどちらかをやることで、ウェブサイト内を検索できるようになった。まあ実際はGoogle検索に飛ばしてるだけなんだけど。補完で検索できるのは結構便利。
+実装方法については、[MDNのドキュメント](https://developer.mozilla.org/en-US/docs/Web/OpenSearch)を読むのが分かりやすい。自分なりに要約すると、トップページの `link[rel="search"]` 要素でXMLファイルへのリンクを張りつつ、そのXMLファイルでOpenSearch description formatに従った形式で適切な情報を与えると良い。
 
-変更内容は[このcommit][1]にまとまっている。実装方法の詳細については[ドキュメント][2]を読めば分かる。
-
-現状Googleがこのウェブサイトのほとんどのページをインデックスから除外してしまっているので、検索に一致するページが少なくて悲しい。
-
-[1]: https://github.com/r7kamura/r7kamura.com/commit/2b0889d9e8b6427dc841d627cec52d800009ac91
-[2]: https://developer.mozilla.org/en-US/docs/Web/OpenSearch
+Googleでsite:r7kamura.comを付けて検索させているだけではあるが、自分で入力するには難しい検索クエリなので、そこそこ役に立つはず。過去に書いた記事を探すのに自分でも重宝している。
