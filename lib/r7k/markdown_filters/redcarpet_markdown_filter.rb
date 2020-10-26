@@ -13,6 +13,7 @@ module R7k
             autolink: true,
             fenced_code_blocks: true,
             no_intra_emphasis: true,
+            strikethrough: true,
           )
         end
       end
