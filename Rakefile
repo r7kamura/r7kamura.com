@@ -14,13 +14,11 @@ task :build do
     /feed.xml
     /sitemap.txt
   ]
-  request_paths = other_paths + article_paths + static_file_paths
-  request_paths.sort.each do |request_path|
+  paths = other_paths + article_paths + static_file_paths
+  paths.sort.each do |path|
     R7k::Capture.new(
       app: R7k::Application,
-      host: 'r7kamura.com',
-      request_path: request_path,
-      ssl: true,
+      url: "https://r7kamura.com#{path}",
     ).call
   end
 end

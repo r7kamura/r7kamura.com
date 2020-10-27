@@ -4,23 +4,17 @@ require 'rack'
 module R7k
   class Capture
     # @param [#call] app Rack application.
-    # @param [String] host
-    # @param [String] request_path
-    # @param [Boolean] ssl
+    # @param [String] url
     def initialize(
       app:,
-      host:,
-      request_path:,
-      ssl:
+      url:
     )
       @app = app
-      @host = host
-      @request_path = request_path
-      @ssl = ssl
+      @url = url
     end
 
     def call
-      puts "Processing #{@request_path}"
+      puts "Processing #{@url}"
       response = get_response
       destination = calculate_destination(response: response)
       destination.parent.mkpath
@@ -35,9 +29,9 @@ module R7k
 
     # @param [Rack::Response] response
     def calculate_destination(response:)
-      destination = ::Pathname.new("dist#{@request_path}")
+      destination = ::Pathname.new("dist#{uri.path}")
       if response.content_type&.include?('text/html')
-        if @request_path == '/'
+        if uri.path == '/'
           destination += 'index'
         end
         destination = destination.sub_ext('.html')
@@ -55,30 +49,27 @@ module R7k
     def rack_env
       {
         'HTTP_HOST' => @host,
-        'PATH_INFO' => @request_path,
-        'rack.url_scheme' => url_scheme,
+        'PATH_INFO' => uri.path,
+        'QUERY_STRING' => uri.query || '',
+        'rack.url_scheme' => rack_url_scheme,
         'REQUEST_METHOD' => 'GET',
         'SCRIPT_NAME' => '',
-        'SERVER_PORT' => server_port,
+        'SERVER_NAME' => uri.host,
       }
     end
 
     # @return [String]
-    def server_port
-      if @ssl
-        '443'
-      else
-        '80'
-      end
-    end
-
-    # @return [String]
-    def url_scheme
-      if @ssl
+    def rack_url_scheme
+      if uri.scheme == 'https'
         'https'
       else
         'http'
       end
+    end
+
+    # @return [URI]
+    def uri
+      @uri ||= ::URI.parse(@url)
     end
   end
 end
