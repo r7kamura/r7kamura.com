@@ -18,7 +18,7 @@ jobs:
             bundler-v2-${{ runner.OS }}-${{ hashFiles('Gemfile.lock') }}
             bundler-v2-${{ runner.OS }}-
       - run: rm docker-compose.override.yml
-      - run: docker-compose run --rm ruby bundle install --jobs=4 --path=bundler
+      - run: docker-compose run --rm ruby bundle install --jobs=$(($(nproc)-1)) --path=bundler
       - run: docker-compose run --rm ruby bundle exec rake build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
