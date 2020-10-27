@@ -4,6 +4,7 @@ services:
   ruby:
     command: bundle exec rackup --host 0.0.0.0
     environment:
+      BUNDLE_APP_CONFIG: /app/.bundle
       RUBYOPT: -EUTF-8
       SHELL: /bin/sh
       TZ: Asia/Tokyo
