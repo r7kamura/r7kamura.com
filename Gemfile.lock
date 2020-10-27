@@ -32,6 +32,8 @@ GEM
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     rack (2.2.3)
+    rack-capture (0.1.2)
+      rack
     rake (13.0.1)
     redcarpet (3.5.0)
     thread_safe (0.3.6)
@@ -51,6 +53,7 @@ DEPENDENCIES
   html-pipeline
   nokogiri
   rack
+  rack-capture
   rake
   redcarpet
 

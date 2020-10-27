@@ -1,6 +1,6 @@
 require_relative 'lib/r7k/application'
-require_relative 'lib/r7k/capture'
 require 'pathname'
+require 'rack/capture'
 
 desc 'Build static files.'
 task :build do
@@ -15,10 +15,11 @@ task :build do
     /sitemap.txt
   ]
   paths = other_paths + article_paths + static_file_paths
+
   paths.sort.each do |path|
-    R7k::Capture.new(
+    Rack::Capture.call(
       app: R7k::Application,
       url: "https://r7kamura.com#{path}",
-    ).call
+    )
   end
 end
