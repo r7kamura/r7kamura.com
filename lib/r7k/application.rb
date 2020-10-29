@@ -1,4 +1,5 @@
 require 'hibana'
+require 'pathname'
 require 'rack/reloader'
 require 'rack/static'
 
@@ -8,6 +9,7 @@ require 'r7k/controllers/show_article'
 require 'r7k/controllers/show_articles_feed'
 require 'r7k/controllers/show_sitemap'
 require 'r7k/controllers/show_top_page'
+require 'r7k/models/article'
 
 module R7k
   class Application < ::Hibana::Application
@@ -33,5 +35,36 @@ module R7k
     )
 
     middleware.use ::Rack::Reloader
+
+    class << self
+      # @return [Array<String>]
+      def paths
+        article_paths + asset_paths + other_paths
+      end
+
+      private
+
+      # @return [Array<String>]
+      def article_paths
+        ::R7k::Models::Article.all.map(&:canonical_path)
+      end
+
+      # @return [Array<String>]
+      def asset_paths
+        ::Pathname.glob('static/**/*').select(&:file?).map do |pathname|
+          "/#{pathname.relative_path_from('static')}"
+        end
+      end
+
+      # @return [Array<String>]
+      def other_paths
+        %w[
+          /
+          /articles
+          /feed.xml
+          /sitemap.txt
+        ]
+      end
+    end
   end
 end
