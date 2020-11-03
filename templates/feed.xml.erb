@@ -8,6 +8,7 @@
     <atom:link href="<%= request.base_url %>/feed.xml" rel="self"/>
     <title>r7kamura.com</title>
     <managingEditor>r7kamura@gmail.com (Ryo Nakamura)</managingEditor>
+    <lastBuildDate><%= Time.now.rfc822 %></lastBuildDate>
     <% @articles.each do |article| %>
     <item>
       <title><![CDATA[<%= article.title %>]]></title>
