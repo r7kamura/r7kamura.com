@@ -4,7 +4,7 @@ title: マイクスタンド Compass
 
 Blue Microphonesの[Compass](https://www.amazon.co.jp/dp/B0822PPK7P)というマイクスタンドを買った。
 
-![](/images/2020-09-16-blue-microphones-compass.jpg "Blue Microphones よくばりセット")
+![](https://i.imgur.com/0HSBSSKh.jpg "Blue Microphones よくばりセット")
 
 重めのマイクに加えてショックマウントも使っているため、これまで使っていたマイクスタンドではどうしても重量に耐え切れず、良い感じの角度で止まらないことが多かった。
 

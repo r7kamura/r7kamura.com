@@ -4,7 +4,7 @@ title: ウェブカメラ C980GR
 
 [ロジクールのC980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを買った。
 
-![](/images/2020-09-23-notes-camera.jpg "ウェブカメラとディスプレイ")
+![](https://i.imgur.com/jEjATKTh.jpg "ウェブカメラとディスプレイ")
 
 Google HangoutやZoomでウェブカメラを使う機会も増えてきたので、「ウェブカメラ 最強」で検索して選定した。C980GRは、現状ロジクールで発売されている中で最強クラスのやつらしい。これ以上良くするなら、恐らく良いデジカメをHDMIキャプチャボードで繋いだりした方が良い。
 
