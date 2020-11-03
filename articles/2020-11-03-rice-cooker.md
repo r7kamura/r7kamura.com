@@ -1,5 +1,5 @@
 ---
-title: 炊飯器 象印 NW-ES07-BZ
+title: 炊飯器 象印NW-ES07-BZ
 ---
 
 象印の[NW-ES07-BZ](https://www.amazon.co.jp/dp/B07TWC6C2D?tag=r7kamura07-22)という炊飯器を買った。
