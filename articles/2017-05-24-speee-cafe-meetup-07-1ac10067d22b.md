@@ -4,8 +4,7 @@ from: medium
 title: "Speee Cafe Meetup #07 に参加した"
 ---
 
-![[https://speee.connpass.com/event/56197/](https://speee.connpass.com/event/56197/) より](https://cdn-images-1.medium.com/max/800/1*GtOI4D1K-Gxjnx5W8GJenA.png)
-[https://speee.connpass.com/event/56197/](https://speee.connpass.com/event/56197/) より
+![[https://speee.connpass.com/event/56197/](https://speee.connpass.com/event/56197/) より](https://cdn-images-1.medium.com/max/800/1*GtOI4D1K-Gxjnx5W8GJenA.png "[https://speee.connpass.com/event/56197/](https://speee.connpass.com/event/56197/) より")
 
 出張でしばらく東京に滞在していて、たまたま予定も席も空いていたので参加できた。雑談などで得た技術情報についてまとめておく。
 

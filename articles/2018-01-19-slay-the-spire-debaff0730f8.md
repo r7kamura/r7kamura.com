@@ -4,8 +4,7 @@ from: medium
 title: "『Slay the Spire』をやっている"
 ---
 
-![防御をガチガチに固めながら死闘の末にボスを倒した様子](https://cdn-images-1.medium.com/max/800/1*zlsiVWa5pJa33S2EfimGpQ.png)
-防御をガチガチに固めながら死闘の末にボスを倒した様子
+![防御をガチガチに固めながら死闘の末にボスを倒した様子](https://cdn-images-1.medium.com/max/800/1*zlsiVWa5pJa33S2EfimGpQ.png "防御をガチガチに固めながら死闘の末にボスを倒した様子")
 
 ここしばらく、Slay the Spire というゲームを楽しんでいる。2017年11月にリリースされた PC 向けのゲームで、Steam から購入できる。この記事の執筆時点ではまだ Early Access の段階で、開発が続いている。
 

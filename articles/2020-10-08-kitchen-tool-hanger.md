@@ -27,17 +27,14 @@ title: キッチンツールハンガー
 > [2014年7月1日](https://twitter.com/pokutuna/status/483630149372362752) [@pokutuna](https://twitter.com/pokutuna)
 
 
-![](/images/2020-10-08-kitchen-tool-hanger-tqhouse.jpg)
-2015年・シェアハウスにて
+![](/images/2020-10-08-kitchen-tool-hanger-tqhouse.jpg "2015年・シェアハウスにて")
 
 思えばシェアハウスでも、S字フックは大活躍していた。生涯を終えた吸盤に代わり、タオルを支える技術としてキッチンで役に立っていたこともあった。
 
-![](/images/2020-10-08-kitchen-tool-hanger-kyoto.jpg)
-2017年・京都時代の自宅にて
+![](/images/2020-10-08-kitchen-tool-hanger-kyoto.jpg "2017年・京都時代の自宅にて")
 
 京都に住んでいたときも、S字フックは共に在った。洗濯バサミと併用していたようだ。食器用の布巾などを引っ掛けるのに使っていた気がする。このレンジフードは形状が良く、S字フック達も心なしか喜んでいるように見える。
 
-![](/images/2020-10-08-kitchen-tool-hanger-now.jpg)
-2020年・都内の自宅にて
+![](/images/2020-10-08-kitchen-tool-hanger-now.jpg "2020年・都内の自宅にて")
 
 枯れた技術を使うということは、何も古い技術だけに頼るという意味ではない。色々な技術を遠慮せず使っていくことに価値があるのだ――とかこの辺に数行程度書いておくと、良い具合に文章が引き締まり、気持ちよく記述を終われる気がする。

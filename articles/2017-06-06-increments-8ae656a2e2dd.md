@@ -4,8 +4,7 @@ from: medium
 title: "Incrementsを退職します"
 ---
 
-![IT エンジニアが退職するときに添えられることが多い東亜飯店の画像](https://cdn-images-1.medium.com/max/800/1*6Xr16DA16-27UnvIntPVKA.png)
-IT エンジニアが退職するときに添えられることが多い東亜飯店の画像
+![IT エンジニアが退職するときに添えられることが多い東亜飯店の画像](https://cdn-images-1.medium.com/max/800/1*6Xr16DA16-27UnvIntPVKA.png "IT エンジニアが退職するときに添えられることが多い東亜飯店の画像")
 
 今月いっぱいで Increments 株式会社を退職します。今日が最終出社日で、残りは有給消化です。
 

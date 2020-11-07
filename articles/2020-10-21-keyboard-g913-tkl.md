@@ -2,8 +2,7 @@
 title: キーボード G913-TKL
 ---
 
-![](/images/2020-10-21-keyboard-g913-tkl.jpg)
-G913-TKLとG903
+![](/images/2020-10-21-keyboard-g913-tkl.jpg "G913-TKLとG903")
 
 ロジクールの[G913-TKL](https://www.amazon.co.jp/dp/B088BN6JKQ/?tag=r7kamura07-22)というキーボードを買った。
 
