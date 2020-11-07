@@ -4,8 +4,7 @@ title: 炊飯器 象印NW-ES07-BZ
 
 象印の[NW-ES07-BZ](https://www.amazon.co.jp/dp/B07TWC6C2D?tag=r7kamura07-22)という炊飯器を買った。
 
-![](/images/2020-11-03-rice-cooker.jpg)
-NW-ES07-BZ
+![](/images/2020-11-03-rice-cooker.jpg "NW-ES07-BZ")
 
 炊飯器については門外漢すぎて特に選定基準が無く、象印かパナソニックの2019年から2020年あたりの機種で悩んでいたが、最終的に[ひとでさんが使っている](https://blog.sushi.money/entry/2020/07/20/205525)という情報も加味してこれになった。しばらく使ったがかなり気に入っている。米がおいしくてすごい。炊きたての米だけ食べておかわりできる程度にはうまい。
 

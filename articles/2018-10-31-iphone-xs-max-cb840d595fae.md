@@ -6,18 +6,15 @@ title: "iPhone XS Max の感想"
 
 iPhone 7 から iPhone XS Max に乗り換えたので感想を書きます。
 
-![最後に iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/0*6_vuG613bYC6lkci)
-最後に iPhone 7 で撮った画像
+![最後に iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/0*6_vuG613bYC6lkci "最後に iPhone 7 で撮った画像")
 
 ## 暗所でのカメラの性能が良い
 
 陰キャなので暗いところでカメラを利用する機会が多いんですが、以前よりも遥かに鮮明な画像が撮れるようになりました。
 
-![iPhone XS Max で撮った画像](https://cdn-images-1.medium.com/max/800/1*g8v7-yghenK8sciM2vXQBQ.png)
-iPhone XS Max で撮った画像
+![iPhone XS Max で撮った画像](https://cdn-images-1.medium.com/max/800/1*g8v7-yghenK8sciM2vXQBQ.png "iPhone XS Max で撮った画像")
 
-![iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/1*97XH8v5TqdNYugVizF67eQ.png)
-iPhone 7 で撮った画像
+![iPhone 7 で撮った画像](https://cdn-images-1.medium.com/max/800/1*97XH8v5TqdNYugVizF67eQ.png "iPhone 7 で撮った画像")
 
 iPhone 7 だと、暗いところに焦点を合わせようとすると明るいところが真っ白に映るし、明るいところに焦点を合わせようとすると暗いところが真っ暗になるし…という感じで暗所での撮影が難しかったものの、iPhone XS Max では雑にやってもバランスよく撮れるようになって使いやすくなった。上の iPhone 7 で撮ったやつとかめちゃくちゃボケてる。これオートフォーカスするところポチポチ試して結構明るさ調整した上でこういう感じなので、何も考えずに試して上の画像が撮れるのは良い。
 
@@ -27,8 +24,7 @@ iPhone 7 のときは指紋認証を使ってて、顔画像で認証とか正�
 
 よく話題にされるノッチ (フロントカメラを配置するために画面上部に垂れ下がるように切り込んだ部分) だけど、メニューバーが出てるような普段の状況ではその辺に表示すべき情報が少ないし、縦横比率的にもかなり縦に長くて領域が余ってるので、操作中は意外と気にならない。でもノッチの無い OPPO Find X とか見ると美しいなと感じるので、できればノッチは消えてほしい。
 
-![OPPO Find X (下記の Web ページより引用)](https://cdn-images-1.medium.com/max/800/1*CmUe0tZ5oFbtz-H02DRNSA.png)
-OPPO Find X (下記の Web ページより引用)
+![OPPO Find X (下記の Web ページより引用)](https://cdn-images-1.medium.com/max/800/1*CmUe0tZ5oFbtz-H02DRNSA.png "OPPO Find X (下記の Web ページより引用)")
 
 [未来、はじまる。スマホは、真の全画面の時代へ。 - OPPO 日本](https://www.oppo.com/jp/smartphone-find_x/)
 
@@ -42,8 +38,7 @@ iPhone 7 だと漫画読むには少し厳しかったものの、iPhone XS Max 
 
 無線充電スタンドを購入して机に置くようにしたところ、充電用に Lightning ケーブルを生やしておかなくても良いし、片手で充電状態にできるし、こっち向いてるから Face ID で認証できるし、それに iPhone の置き場所が定まることでいろいろ落ち着くようになった。今まではポケットに入れたり机に置いたりしていた。充電を面倒くさがった結果、翌日外出するタイミングぐらいで切れかけてることに気付いて焦る、ということがなくなった気がする。ケーブルが減ってすっきりした。
 
-![作業机の様子](https://cdn-images-1.medium.com/max/800/1*6UBoig7-rBmbQFeEAti1rw.png)
-作業机の様子
+![作業机の様子](https://cdn-images-1.medium.com/max/800/1*6UBoig7-rBmbQFeEAti1rw.png "作業机の様子")
 
 Qi 初めてで性能に不安があったのでとりあえず Apple ストアで扱ってたやつを買ってみたものの、白すぎて浮いてるので、もうちょい落ち着いた色合いのやつが欲しい。
 

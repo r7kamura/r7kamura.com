@@ -16,10 +16,8 @@ title: モニターアーム エルゴトロンMX
 
 ## 様子
 
-![導入前の様子](https://cdn-images-1.medium.com/max/800/1*1oVpZrHnAQ2P3pjU6-sFVg.png)
-導入前の様子
+![導入前の様子](https://cdn-images-1.medium.com/max/800/1*1oVpZrHnAQ2P3pjU6-sFVg.png "導入前の様子")
 
-![導入後の様子](https://cdn-images-1.medium.com/max/800/1*2tXI7ne9T6c2TcwFsGOOsA.png)
-導入後の様子
+![導入後の様子](https://cdn-images-1.medium.com/max/800/1*2tXI7ne9T6c2TcwFsGOOsA.png "導入後の様子")
 
 モニターアームの導入により、作業領域が狭い問題は完全に解決され、端的に言うとめちゃくちゃ広くなった。少しの違いに見えるが、想像以上に広くなって驚いた。用途に応じて画面を大きく動かせることも便利で、例えばFPSのゲームをやるときは視野を広く保ちたいので画面を少し遠ざけられるとか、机の左側にあるベッドから画面を見たいときにぐるりと回せるとか、漫画を読むときは手前に引き寄せるといったように、小回りが利くようになったことも大きい。

@@ -4,8 +4,7 @@ from: medium
 title: "『FTL: Faster Than Light』をやっている"
 ---
 
-![死闘の末に敵巨大戦艦を撃沈した様子](https://cdn-images-1.medium.com/max/800/1*brNiWqamOHI-TDo4JHDOSQ.png)
-死闘の末に敵巨大戦艦を撃沈した様子
+![死闘の末に敵巨大戦艦を撃沈した様子](https://cdn-images-1.medium.com/max/800/1*brNiWqamOHI-TDo4JHDOSQ.png "死闘の末に敵巨大戦艦を撃沈した様子")
 
 ここしばらく FTL をプレイしている。もう5年以上前に発売された PC ゲームだけど、今から始めても普通に楽しめる。
 

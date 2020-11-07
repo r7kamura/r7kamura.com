@@ -4,8 +4,7 @@ title: AnkerのUSBハブ
 
 Ankerから最近発売された、[AK-A83830A1](https://www.amazon.co.jp/dp/B087TB7YM7?tag=r7kamura07-22)というUSBハブを買った。MacBook Proに給電もできるし、とにかく色々繋げるすごいやつ。自分の中では限りなく正解に近い。
 
-![](/images/2020-09-19-anker-usb-hub.jpg)
-デスクの配線が地獄
+![](/images/2020-09-19-anker-usb-hub.jpg "デスクの配線が地獄")
 
 MacBook Proへの配線を1つにまとめるために、以下の用途で使っている。
 

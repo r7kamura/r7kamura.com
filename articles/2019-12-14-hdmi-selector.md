@@ -2,8 +2,7 @@
 title: HDMIセレクタを買った
 ---
 
-![](/images/2019-12-14-hdmi-selector.jpg)
-配線がひどい
+![](/images/2019-12-14-hdmi-selector.jpg "配線がひどい")
 
 HDMIセレクタを買って以来、たいへん重宝している。
 
