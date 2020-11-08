@@ -3,6 +3,7 @@ require 'r7k/markdown_filters/amazon_affiliate_markdown_filter'
 require 'r7k/markdown_filters/figure_code_block_markdown_filter'
 require 'r7k/markdown_filters/figure_image_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
+require 'r7k/markdown_filters/imgur_link_markdown_filter'
 require 'r7k/markdown_filters/redcarpet_markdown_filter'
 require 'r7k/markdown_filters/summary_detection_markdown_filter'
 require 'yaml'
@@ -125,6 +126,7 @@ module R7k
             ::R7k::MarkdownFilters::FigureCodeBlockMarkdownFilter,
             ::R7k::MarkdownFilters::FigureImageMarkdownFilter,
             ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
+            ::R7k::MarkdownFilters::ImgurLinkMarkdownFilter,
           ]
         ).call(body)
       end
