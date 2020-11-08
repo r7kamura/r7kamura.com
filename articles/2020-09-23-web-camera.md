@@ -2,7 +2,7 @@
 title: ウェブカメラ C980GR
 ---
 
-[ロジクールのC980GR](https://www.amazon.co.jp/dp/B086R71LGW/?tag=r7kamura07-22)というウェブカメラを買った。
+[ロジクールのC980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを買った。
 
 ![](/images/2020-09-23-notes-camera.jpg "ウェブカメラとディスプレイ")
 

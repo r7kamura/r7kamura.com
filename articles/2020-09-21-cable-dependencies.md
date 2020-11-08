@@ -53,33 +53,33 @@ PCデスク周りに現状置いてるものを並べてみる。
 
 以上の条件を満たす電源タップを考えたところ、エレコムの6個口のやつをデスクの左右裏面に合計3つ配置するのが良さそうということに。
 
-[エレコム 電源タップ T-NSLK-2610BK](https://www.amazon.co.jp/dp/B01MU9YGSD/?tag=r7kamura07-22)
+[エレコム 電源タップ T-NSLK-2610BK](https://www.amazon.co.jp/dp/B01MU9YGSD)
 
 電源タップなどの操作しない機器は、デスク下に配線トレーを付けて収納する。金網よりもメッシュタイプの方が良さそうなので、これを利用する。
 
-[サンワサプライ ケーブル配線トレー CB-CT5](https://www.amazon.co.jp/dp/B01N6B5ST9/?tag=r7kamura07-22)
+[サンワサプライ ケーブル配線トレー CB-CT5](https://www.amazon.co.jp/dp/B01N6B5ST9)
 
 配線トレーに入れるには大きすぎるものについては、デスクの裏面にマグネットシートで貼り付ける。
 
-[コクヨ マグネットシート マク-S340](https://www.amazon.co.jp/dp/B0012R2OIQ/?tag=r7kamura07-22)
+[コクヨ マグネットシート マク-S340](https://www.amazon.co.jp/dp/B0012R2OIQ)
 
 ## USB給電
 
 コントローラや無線ヘッドホンなど、USBで給電したい機器が5つあるので、いま持っているAnkerのこれを使う。
 
-[Anker 充電器 AK-A2056511](https://www.amazon.co.jp/dp/B072KBG9W4/?tag=r7kamura07-22)
+[Anker 充電器 AK-A2056511](https://www.amazon.co.jp/dp/B072KBG9W4)
 
 マグネット式で接続できるやつが便利なので、この辺のアダプタ類を使う。正直平型より丸形の方が構造的に刺しやすそうだし、買い替えを検討してみている。
 
-[ZRSE マグネット式充電アダプタ](https://www.amazon.co.jp/dp/B077PRD1FT/?tag=r7kamura07-22)
+[ZRSE マグネット式充電アダプタ](https://www.amazon.co.jp/dp/B077PRD1FT)
 
 iPad Proは気難しく、充電できない製品が多いが、この製品では使える。接続時に照明が光らないので、本当に接続できてるのかどうか不安なところが不満だけど、iPad Proで使えるというだけで嬉しい。
 
-[Stouchi マグネット式充電アダプタ](https://www.amazon.co.jp/dp/B07GGCSV45/?tag=r7kamura07-22)
+[Stouchi マグネット式充電アダプタ](https://www.amazon.co.jp/dp/B07GGCSV45)
 
 iPhoneは[2年ほど前から](http://localhost:9292/articles/2018-10-31-iphone-xs-max-cb840d595fae)ロジクールの白い充電スタンドをベッドサイドで使っていて、安定感があるし充電量的にも寝るときだけ充電する問題は無いのだけど、デスクでもiPhoneの定位置が欲しいので新しいのを買うかも。
 
-[ロジクール 無線充電スタンド iD20WH](https://www.amazon.co.jp/dp/B07QB62131/?tag=r7kamura07-22)
+[ロジクール 無線充電スタンド iD20WH](https://www.amazon.co.jp/dp/B07QB62131)
 
 ## 参考情報
 

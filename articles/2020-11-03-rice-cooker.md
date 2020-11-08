@@ -2,7 +2,7 @@
 title: 炊飯器 象印NW-ES07-BZ
 ---
 
-象印の[NW-ES07-BZ](https://www.amazon.co.jp/dp/B07TWC6C2D?tag=r7kamura07-22)という炊飯器を買った。
+象印の[NW-ES07-BZ](https://www.amazon.co.jp/dp/B07TWC6C2D)という炊飯器を買った。
 
 ![](/images/2020-11-03-rice-cooker.jpg "NW-ES07-BZ")
 

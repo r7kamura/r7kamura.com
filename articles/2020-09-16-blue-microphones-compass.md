@@ -2,7 +2,7 @@
 title: マイクスタンド Compass
 ---
 
-Blue Microphonesの[Compass](https://www.amazon.co.jp/dp/B0822PPK7P/?tag=r7kamura07-22)というマイクスタンドを買った。
+Blue Microphonesの[Compass](https://www.amazon.co.jp/dp/B0822PPK7P)というマイクスタンドを買った。
 
 ![](/images/2020-09-16-blue-microphones-compass.jpg "Blue Microphones よくばりセット")
 

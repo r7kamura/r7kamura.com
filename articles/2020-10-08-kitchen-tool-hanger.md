@@ -2,7 +2,7 @@
 title: キッチンツールハンガー
 ---
 
-調理器具を吊るために、[レックのタオルハンガー](https://www.amazon.co.jp/dp/B073J5NZK2/?tag=r7kamura07-22)を買った。
+調理器具を吊るために、[レックのタオルハンガー](https://www.amazon.co.jp/dp/B073J5NZK2)を買った。
 
 ![](/images/2020-10-08-kitchen-tool-hanger.jpg)
 
