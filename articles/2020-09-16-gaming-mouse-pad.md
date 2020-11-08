@@ -4,7 +4,7 @@ title: 光るマウスパッド
 
 Razerの光るマウスパッドを買った。
 
-[Razer マウスパッド Goliathus Chroma Extended](https://www.amazon.co.jp/dp/B07JJ4RG2T/?tag=r7kamura07-22)
+[Razer マウスパッド Goliathus Chroma Extended](https://www.amazon.co.jp/dp/B07JJ4RG2T)
 
 ![](/images/2020-09-16-gaming-mouse-pad-light.jpg "明るい部屋での様子")
 

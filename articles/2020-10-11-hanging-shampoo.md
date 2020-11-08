@@ -8,8 +8,8 @@ title: シャンプーとかを壁に吊る
 
 この辺のものを使うことにした。
 
-- [山崎実業のマグネット式のタオルハンガー](https://www.amazon.co.jp/dp/B07MCBSGDJ/?tag=r7kamura07-22)
-- [トスレのボトルハンギングフック](https://www.amazon.co.jp/dp/B0872TWRT2/?tag=r7kamura07-22)
+- [山崎実業のマグネット式のタオルハンガー](https://www.amazon.co.jp/dp/B07MCBSGDJ)
+- [トスレのボトルハンギングフック](https://www.amazon.co.jp/dp/B0872TWRT2)
 - [無印良品のPET詰替ボトル](https://www.muji.com/jp/ja/store/cmdty/detail/4550002867928)
 - [無印良品の化粧水](https://www.muji.com/jp/ja/store/cmdty/detail/4548076448341)
 

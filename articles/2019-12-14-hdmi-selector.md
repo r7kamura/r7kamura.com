@@ -6,7 +6,7 @@ title: HDMIセレクタを買った
 
 HDMIセレクタを買って以来、たいへん重宝している。
 
-[Anikks HDMIセレクタ](https://www.amazon.co.jp/dp/B07WTZFLH4/?tag=r7kamura07-22)
+[Anikks HDMIセレクタ](https://www.amazon.co.jp/dp/B07WTZFLH4)
 
 PS4とSwitchを切り替えるために使っていて、これがPC用のキャプチャボードに繋がっている。キャプチャボードからは、USB経由でWindows機、それからHDMMIパススルー経由でプロジェクタに繋がっている。つまり、プロジェクターに映したり、PC用のディスプレイに映したり、配信したりできる。
 

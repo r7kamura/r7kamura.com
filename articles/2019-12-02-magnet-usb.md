@@ -6,7 +6,7 @@ title: TOPK Coのマグネット式USBアダプタ
 
 マグネット式USBアダプタを買ってみた。
 
-[TOPK Co マグネット式USBアダプタ](https://www.amazon.co.jp/dp/B07XSNVPSW/?tag=r7kamura07-22)
+[TOPK Co マグネット式USBアダプタ](https://www.amazon.co.jp/dp/B07XSNVPSW)
 
 恐らくどれも中華製だろうけど、似た商品が沢山あるので選ぶのは大変。このへんの充電に使いたい。
 
