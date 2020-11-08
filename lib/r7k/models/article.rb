@@ -1,4 +1,5 @@
 require 'html/pipeline'
+require 'r7k/markdown_filters/amazon_affiliate_markdown_filter'
 require 'r7k/markdown_filters/figure_code_block_markdown_filter'
 require 'r7k/markdown_filters/figure_image_markdown_filter'
 require 'r7k/markdown_filters/image_link_markdown_filter'
@@ -119,6 +120,7 @@ module R7k
         @rendered_body_result ||= ::HTML::Pipeline.new(
           [
             ::R7k::MarkdownFilters::RedcarpetMarkdownFilter,
+            ::R7k::MarkdownFilters::AmazonAffiliateMarkdownFilter,
             ::R7k::MarkdownFilters::SummaryDetectionMarkdownFilter,
             ::R7k::MarkdownFilters::FigureCodeBlockMarkdownFilter,
             ::R7k::MarkdownFilters::FigureImageMarkdownFilter,
