@@ -21,3 +21,6 @@ Style/IfUnlessModifier:
 
 Style/TrailingCommaInArguments:
   Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
