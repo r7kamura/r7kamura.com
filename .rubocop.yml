@@ -6,3 +6,6 @@ Metrics:
 
 Style/IfUnlessModifier:
   Enabled: false
+
+Style/TrailingCommaInArguments:
+  Enabled: false
