@@ -14,7 +14,7 @@ jobs:
         with:
           bundler-cache: true
           ruby-version: '2.7.2'
-      - uses: r7kamura/rubocop-problem-matchers-action@b74084fdcef43a314a720316a6e9355382a86e31
+      - uses: r7kamura/rubocop-problem-matchers-action@v1
       - run: bundle install --jobs=$(($(nproc) - 1)) --retry=1
       - run: bundle exec rubocop --parallel
       - run: bundle exec rake build
