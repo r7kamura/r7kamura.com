@@ -3,3 +3,6 @@ Layout/LineLength:
 
 Metrics:
   Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
