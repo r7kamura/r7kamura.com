@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'r7k/views/show_top_page'
 
 module R7k

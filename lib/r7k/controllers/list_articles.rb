@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'r7k/models/article'
 require 'r7k/views/list_articles'
 

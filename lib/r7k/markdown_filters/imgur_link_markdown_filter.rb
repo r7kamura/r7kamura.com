@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'html/pipeline'
 
 module R7k
@@ -5,7 +7,7 @@ module R7k
     class ImgurLinkMarkdownFilter < ::HTML::Pipeline::Filter
       def call
         doc.search('a').each do |a|
-          a['href'] = a['href'].gsub(%r<\Ahttps://i\.imgur\.com/(\w+)h\.jpg\z>, 'https://i.imgur.com/\1.jpg')
+          a['href'] = a['href'].gsub(%r{\Ahttps://i\.imgur\.com/(\w+)h\.jpg\z}, 'https://i.imgur.com/\1.jpg')
         end
         doc
       end

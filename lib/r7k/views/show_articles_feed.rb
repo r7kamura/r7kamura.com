@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'r7k/views/base'
 
 module R7k
