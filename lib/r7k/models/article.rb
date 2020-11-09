@@ -103,7 +103,7 @@ module R7k
         array = file_content.split("---\n", 3)
         {
           content: array[2],
-          data: ::YAML.safe_load(array[1]),
+          data: ::YAML.safe_load(array[1], [Date, Time]),
         }
       end
 
