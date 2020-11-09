@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'html/pipeline'
 require 'r7k/markdown_filters/amazon_affiliate_markdown_filter'
 require 'r7k/markdown_filters/figure_code_block_markdown_filter'
@@ -63,9 +65,7 @@ module R7k
       # @return [String, nil]
       def image_url
         node = rendered_body_result[:output].at('img')
-        if node
-          node.attribute('src').content
-        end
+        node&.attribute('src')&.content
       end
 
       # @return [Time]
@@ -103,7 +103,7 @@ module R7k
         array = file_content.split("---\n", 3)
         {
           content: array[2],
-          data: ::YAML.load(array[1]),
+          data: ::YAML.safe_load(array[1]),
         }
       end
 
@@ -126,7 +126,7 @@ module R7k
             ::R7k::MarkdownFilters::FigureCodeBlockMarkdownFilter,
             ::R7k::MarkdownFilters::FigureImageMarkdownFilter,
             ::R7k::MarkdownFilters::ImageLinkMarkdownFilter,
-            ::R7k::MarkdownFilters::ImgurLinkMarkdownFilter,
+            ::R7k::MarkdownFilters::ImgurLinkMarkdownFilter
           ]
         ).call(body)
       end

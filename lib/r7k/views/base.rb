@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'cgi/escape'
 
 module R7k
