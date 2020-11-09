@@ -1,2 +1,5 @@
 Layout/LineLength:
   Enabled: false
+
+Metrics:
+  Enabled: false
