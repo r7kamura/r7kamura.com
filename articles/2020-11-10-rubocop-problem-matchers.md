@@ -4,7 +4,7 @@ title: RuboCop Problem Matchers
 
 [RuboCop Problem Matchers](https://github.com/marketplace/actions/rubocop-problem-matchers)というGitHub Actionをつくった。
 
-GitHub ActionsでRuboCopを実行する前にこれを呼び出しておくと、変更差分やGitHub Checksのところに違反内容が表示されるようになる。
+GitHub ActionsでRuboCopを実行する前にこれを呼び出しておくと、違反内容が変更差分に注釈として表示されるようになる。
 
 こういう感じで使う。
 
