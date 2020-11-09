@@ -10,3 +10,4 @@ gem 'rack-capture'
 gem 'rake'
 gem 'redcarpet'
 gem 'rubocop'
+a = 1
