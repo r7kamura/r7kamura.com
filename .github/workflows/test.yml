@@ -2,18 +2,16 @@ name: test
 
 on:
   pull_request:
-
+  push:
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/cache@v1
+      - uses: actions/setup-ruby@v1
         with:
-          path: bundler
-          key: bundler-v2-${{ runner.OS }}-${{ hashFiles('Gemfile.lock') }}
-          restore-keys: |
-            bundler-v2-${{ runner.OS }}-${{ hashFiles('Gemfile.lock') }}
-            bundler-v2-${{ runner.OS }}-
-      - run: docker-compose run -e BUNDLE_APP_CONFIG=/app/.bundle --rm ruby bundle install --jobs=4 --path=bundler
-      - run: docker-compose run -e BUNDLE_APP_CONFIG=/app/.bundle -e RUBYOPT=-EUTF-8 --rm ruby bundle exec rake build
+          ruby-version: '2.7.2'
+      - run: bundle install --jobs=$(($(nproc) - 1)) --retry=1
+      - run: bundle exec rake build
