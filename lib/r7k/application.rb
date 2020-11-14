@@ -12,8 +12,8 @@ module R7k
   class Application < ::Hibana::Application
     route do
       get '/', to: ::R7k::Controllers::ShowTopPage
-      get '/articles', to: ::R7k::Controllers::ListArticles
       get '/articles/:article_id', to: ::R7k::Controllers::ShowArticle
+      get '/links', to: ::R7k::Controllers::ListLinks
       get '/feed.xml', to: ::R7k::Controllers::ShowArticlesFeed
       get '/sitemap.txt', to: ::R7k::Controllers::ShowSitemap
     end
@@ -57,7 +57,7 @@ module R7k
       def other_paths
         %w[
           /
-          /articles
+          /links
           /feed.xml
           /sitemap.txt
         ]

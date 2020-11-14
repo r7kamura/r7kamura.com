@@ -2,7 +2,7 @@
 
 module R7k
   module Controllers
-    autoload :ListArticles, 'r7k/controllers/list_articles'
+    autoload :ListLinks, 'r7k/controllers/list_links'
     autoload :ShowArticle, 'r7k/controllers/show_article'
     autoload :ShowArticlesFeed, 'r7k/controllers/show_articles_feed'
     autoload :ShowSitemap, 'r7k/controllers/show_sitemap'
