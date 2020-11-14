@@ -37,7 +37,7 @@ GitHubの[Problem Matchers](https://github.com/actions/toolkit/blob/1cc56db0ff12
 
 ---
 
-今回取り上げたRuboCop Problem Matchersのような、Problem Matchersを利用したものをつくる開発者向けの細かい情報について書いておく。
+今回取り上げたRuboCop Problem Matchersのような、Problem Matchersを利用したものをつくる開発者向けに細かい情報を書いておく。
 
 ## エスケープシーケンス
 
