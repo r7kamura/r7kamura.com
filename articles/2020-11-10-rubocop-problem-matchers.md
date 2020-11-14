@@ -41,12 +41,12 @@ GitHubの[Problem Matchers](https://github.com/actions/toolkit/blob/1cc56db0ff12
 
 ## エスケープシーケンス
 
-GitHub ActionsではANSIエスケープシーケンスを利用した出力を行うと、ウェブブラウザ上で表示する際にもよしなに修飾されて表示される。このような太字や着色などの修飾付きの出力に対して正規表現を書く場合には、エスケープシーケンスを考慮したパターンを記述しないと上手くいかないので、注意が必要だ。
+GitHub ActionsでANSIエスケープシーケンスを利用した出力を行うと、ブラウザ上で閲覧する際にもよしなに修飾されて表示される。このような太字や着色などの修飾付きの出力に対して正規表現を書く場合には、エスケープシーケンスを考慮したパターンを記述しないと上手くいかないので、注意が必要だ。
 
 RuboCop Problem Matchersでは、対応も面倒そうなので色付きの出力 (`rubocop --color`) にはとりあえず未対応としている。
 
 ## Severity
 
-Problem Matchersではseverityという情報をキャプチャすることも出来るが、これは少なくともGitHub ChecksとGitHub Actionsの出力ログのところで黄色く表示されるか赤く表示されるかという違いに影響している。少なくとも `"warning"` のときに黄色くなり、それ以外の文字列に対しては基本的に `"error"` 相当で赤くなるということが分かった。
+Problem Matchersではseverityという情報をキャプチャすることも出来るようになっているが、これは少なくともGitHub ChecksとGitHub Actionsの出力ログのところで黄色く表示されるか赤く表示されるかという違いに影響している。少なくとも `"warning"` のときに黄色くなり、それ以外の文字列に対しては基本的に `"error"` 相当で赤くなるということが分かった。
 
-RuboCopの違反には出力で言うと `W` と `C` の2パターンがあるので、RuboCop Problem Matchersではそれぞれwarningとerrorに割り当てている。[ソースコード](https://github.com/r7kamura/rubocop-problem-matchers-action/blob/b8ef1656b34a223cf80f04e6b45b5bb6722cef31/.github/matchers/rubocop.json)を見ると分かるが、このために2つのMatcherを用意している。それぞれのMatcherに異なる名前を割り当てており、名前を指定して特定のMatcherを無効化する機能もあるので、利用者側で警告だけ非表示にするなどの用途も考えられる。
+RuboCopの違反には出力で言うと `W` と `C` の2パターンがあるので、RuboCop Problem Matchersではそれぞれwarningとerrorに割り当てている。[ソースコード](https://github.com/r7kamura/rubocop-problem-matchers-action/blob/b8ef1656b34a223cf80f04e6b45b5bb6722cef31/.github/matchers/rubocop.json)を見ると分かるが、このために2つのMatcherを用意している。それぞれのMatcherに異なる名前を割り当てており、名前を指定して特定のMatcherを無効化する機能も提供されているので、利用者側で警告だけ非表示にするなどの使い方も考えられる。
