@@ -24,16 +24,13 @@ html {
 body {
   margin: 0 auto;
   max-width: 36rem;
-  padding: 2rem 1rem 4rem;
+  padding: 2rem 1rem;
   word-wrap : break-word;
 }
 
+article,
 section {
   margin: 4rem 0;
-}
-
-article {
-  margin-top: 4rem;
 }
 
 h1 {
