@@ -7,11 +7,6 @@ require 'rack/static'
 
 $LOAD_PATH.unshift('lib')
 require 'r7k'
-require 'r7k/controllers/list_articles'
-require 'r7k/controllers/show_article'
-require 'r7k/controllers/show_articles_feed'
-require 'r7k/controllers/show_sitemap'
-require 'r7k/controllers/show_top_page'
 require 'r7k/models/article'
 
 module R7k
