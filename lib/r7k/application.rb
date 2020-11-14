@@ -6,6 +6,7 @@ require 'rack/reloader'
 require 'rack/static'
 
 $LOAD_PATH.unshift('lib')
+require 'r7k'
 require 'r7k/controllers/list_articles'
 require 'r7k/controllers/show_article'
 require 'r7k/controllers/show_articles_feed'
