@@ -5,6 +5,8 @@ require 'r7k/views/base'
 module R7k
   module Views
     class ShowTopPage < ::R7k::Views::Base
+      include ::R7k::Helpers::SelfDescriptable
+
       # @param [Enumerable<R7k::Models::Article>] articles
       def initialize(articles:, **argv)
         super(**argv)
@@ -16,11 +18,6 @@ module R7k
       # @return [String]
       def canonical_url
         "#{request.base_url}/"
-      end
-
-      # @return [String]
-      def description
-        '日々の生活やプログラミングなどに関する、個人的な文章を公開しています。'
       end
 
       # @return [String]

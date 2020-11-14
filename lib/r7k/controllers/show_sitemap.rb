@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'r7k/models/article'
-
 module R7k
   module Controllers
     class ShowSitemap < ::Hibana::Controller

@@ -5,6 +5,8 @@ require 'r7k/views/base'
 module R7k
   module Views
     class ShowArticlesFeed < ::R7k::Views::Base
+      include ::R7k::Helpers::SelfDescriptable
+
       # @param [Enumerable<R7k::Models::Article>] articles
       def initialize(articles:, **argv)
         super(**argv)

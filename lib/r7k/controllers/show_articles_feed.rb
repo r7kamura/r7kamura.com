@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'r7k/models/article'
 require 'r7k/views/show_articles_feed'
 
 module R7k
