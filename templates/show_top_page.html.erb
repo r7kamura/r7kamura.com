@@ -1,5 +1,7 @@
 <section>
-  <h2>最近の記事</h2>
+  <p><%= description %></p>
+</section>
+<section>
   <ol class="articles">
     <% @articles.each do |article| %>
       <li>
@@ -8,35 +10,4 @@
       </li>
     <% end %>
   </ol>
-</section>
-<section>
-  <h2>このサイトについて</h2>
-  <p>
-    このサイトでは、Ryo Nakamura（@r7kamura）が、日々の生活やプログラミングに関する文章を公開しています。<br>
-    商品の紹介に、Amazon.co.jpアソシエイトを利用しています。<br>
-    ご不明点等は、<a href="https://twitter.com/r7kamura">Twitter</a>、<a href="https://github.com/r7kamura/r7kamura.com/issues">GitHub</a>、または<a href="mailto:r7kamura@gmail.com">メール</a>にてご連絡ください。
-  </p>
-</section>
-<section>
-  <h2>リンク</h2>
-  <dl>
-    <dt>
-      <a href="/feed.xml">フィード</a>
-    </dt>
-    <dd>
-      記事の更新情報をRSSで配信しています。
-    </dd>
-    <dt>
-      <a href="https://github.com/r7kamura/r7kamura.com">リポジトリ</a>
-    </dt>
-    <dd>
-      このサイトのソースコードをGitHubで公開しています。
-    </dd>
-    <dt>
-      <a href="https://github.com/sponsors/r7kamura">スポンサー</a>
-    </dt>
-    <dd>
-      支援していただける方をGitHub Sponsorsで募集しています。
-    </dd>
-  </dl>
 </section>
