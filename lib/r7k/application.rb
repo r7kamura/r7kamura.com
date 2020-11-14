@@ -7,7 +7,6 @@ require 'rack/static'
 
 $LOAD_PATH.unshift('lib')
 require 'r7k'
-require 'r7k/models/article'
 
 module R7k
   class Application < ::Hibana::Application
