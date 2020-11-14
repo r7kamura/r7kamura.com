@@ -28,6 +28,10 @@ body {
   word-wrap : break-word;
 }
 
+section {
+  margin: 4rem 0;
+}
+
 article {
   margin-top: 4rem;
 }
