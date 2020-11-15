@@ -15,7 +15,6 @@ jobs:
           bundler-cache: true
           ruby-version: '2.7.2'
       - uses: r7kamura/rubocop-problem-matchers-action@v1
-      - run: bundle install --jobs=$(($(nproc) - 1)) --retry=1
       - run: bundle exec rake build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
