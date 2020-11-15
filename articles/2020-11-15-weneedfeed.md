@@ -26,7 +26,7 @@ pages:
   item_title_selector: p:nth-child(2)
 ```
 
-`weneedfeed build` コマンドを利用すると、適当なRSSフィードをXMLファイルとして `./output` ディレクトリに出力できる。このファイルをどこかにホスティングして使う訳だが、RSSフィードの中では (ホスト名などの含まれた) 完全な形式のURLを使う必要があるので、このURLの生成に使う情報も引数として与える必要がある。例えば、r7kamura/weneedfeed-r7kamuraというリポジトリを利用してGitHub Pagesにプロジェクトサイトとしてホスティングしてもらう場合はこういう感じで使う。
+`weneedfeed build` コマンドを利用すると、適当なRSSフィードをXMLファイルとして `./output` ディレクトリに出力できる。このファイルをどこかにホスティングして使う訳だが、RSSフィードの中では (ホスト名などの含まれた) 完全な形式のURLを使う必要があるので、このURLの生成に使う情報も引数として与える必要がある。例えば、r7kamura/weneedfeed-r7kamuracomというリポジトリを利用してGitHub Pagesにプロジェクトサイトとしてホスティングしてもらう場合はこういう感じで使う。
 
 ```
 weneedfeed build --base-url=https://r7kamura.github.io/weneedfeed-r7kamuracom
