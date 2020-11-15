@@ -1,3 +1,2 @@
-/dist
-/.bundle
-/bundler
+# For rack-capture output.
+/output
