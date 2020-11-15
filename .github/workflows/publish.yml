@@ -21,4 +21,4 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: dist
+          PUBLISH_DIR: output
