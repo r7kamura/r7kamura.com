@@ -106,7 +106,6 @@ Rubyでメソッドを定義するときに使う `def` に与えられる識別
     - 正規表現を利用する上で参考にした
 - [Unicode character property - Wikipedia](https://en.wikipedia.org/wiki/Unicode_character_property)
     - Unicodeプロパティについて説明されている
-    - Unicodeプロパティは今回利用しなかった
 - [Regular Expressions/POSIX Basic Regular Expressions - Wikibooks](https://en.wikibooks.org/wiki/Regular_Expressions/POSIX_Basic_Regular_Expressions)
     - POSIX文字クラスについて説明されている
 - [k-takata/Onigmo](https://github.com/k-takata/Onigmo/)
