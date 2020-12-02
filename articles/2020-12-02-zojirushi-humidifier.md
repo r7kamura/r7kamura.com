@@ -2,7 +2,7 @@
 title: 象印の加湿器 EE-DB50
 ---
 
-[象印の加湿器 EE-DB50](https://www.amazon.co.jp/dp/B07VGCMF67)を買って以来、稼働させ続けている。
+[象印の加湿器 EE-DB50](https://www.zojirushi.co.jp/syohin/humidifier/eedb/)を買って以来、稼働させ続けている。
 
 ![](https://i.imgur.com/YZQBNyph.jpg "様子")
 
