@@ -2,7 +2,7 @@
 title: リングフィットアドベンチャー 30日目
 ---
 
-リングフィットアドベンチャーを30回やった。
+[リングフィットアドベンチャー](https://www.amazon.co.jp/dp/B07XV8VSZT)を30回やった。
 
 ![](/images/2019-12-29-ring-fit-adventure.jpg "めでたい")
 
