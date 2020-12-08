@@ -2,7 +2,7 @@
 title: Bluetoothアダプター
 ---
 
-Windowsで使うために[Bluetootアダプター](https://www.amazon.co.jp/dp/B08FD5TSNF)を買った。
+Windowsで使うために[Bluetoothアダプター](https://www.amazon.co.jp/dp/B08FD5TSNF)を買った。
 
 ![](https://i.imgur.com/n95kVvzh.jpg "筐体前面に刺している様子")
 
