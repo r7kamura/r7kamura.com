@@ -2,7 +2,7 @@
 title: エルゴトロン LXデスクマウントアーム
 ---
 
-エルゴトロンのモニターアーム、[LXデスクマウントアーム](https://www.amazon.co.jp/dp/B07Q8TJ2KL)を取り付けた。Amazonのブラックフライデーで半額程度で手に入れたやつ。
+エルゴトロンのモニターアーム、[LXデスクマウントアーム](https://www.amazon.co.jp/dp/B07Q8TJ2KL)を取り付けた。Amazonのブラックフライデーで手に入れたやつ。
 
 ![](https://i.imgur.com/bm7ilbLh.jpg "嬉しがって手前に引き寄せている様子")
 
