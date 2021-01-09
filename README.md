@@ -4,3 +4,16 @@
 
 The source of [r7kamura.com](https://r7kamura.com/).
 
+## Development
+
+### Setup
+
+```
+docker-compose run --rm ruby bin/setup
+```
+
+### Server
+
+```
+docker-compose up
+```
