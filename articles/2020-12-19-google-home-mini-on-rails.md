@@ -6,7 +6,7 @@ title: ダクトレールにGoogle Home Miniを設置
 
 ![](https://i.imgur.com/Eom5dM4h.jpg "設置した様子")
 
-スマートホーム向けアクセサリーを造っているフィンランドの会社、Kiwi Designの[壁掛けホルダー](https://www.amazon.co.jp/dp/B086HJL73H)を使う。
+スマートホーム向けアクセサリーを造っているフィンランドの会社、KIWI Designの[壁掛けホルダー](https://www.amazon.co.jp/dp/B086HJL73H)を使う。
 
 ![](https://i.imgur.com/bGPzQjDh.jpg "壁掛けホルダーを組み立てる")
 
