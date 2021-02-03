@@ -13,7 +13,7 @@ title: フロントパネル用コネクタのHDD LEDを無効化
 - HDD LED +
 - HDD LED -
 
-これらを分割する変換コネクタが付属していたので、これを接続し、HDD LED +とHDD LED -以外の残りのピンだけ接続する。
+これらを分割する変換コネクタが付属していたので、これを利用し、HDD LED +とHDD LED -以外の残りのピンだけをマザーボードに接続する。
 
 ![](https://i.imgur.com/MuFEjlVh.png "NZXT H510 Eliteのマニュアルより")
 
