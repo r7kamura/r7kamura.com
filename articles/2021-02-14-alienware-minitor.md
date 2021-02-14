@@ -1,8 +1,8 @@
 ---
-title: Alianwareのディスプレイ AW3821DW
+title: Alienwareのディスプレイ AW3821DW
 ---
 
-Dellの子会社Alianwareの曲面37.5型ディスプレイ、AW3821DWを設置した。
+Dellの子会社Alienwareの曲面37.5型ディスプレイ、AW3821DWを設置した。
 
 - [Amazon.co.jp - AW3821DW](https://www.amazon.co.jp/dp/B08P49Z6BX)
 
