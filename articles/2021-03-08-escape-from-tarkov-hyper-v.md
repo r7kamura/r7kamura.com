@@ -15,7 +15,7 @@ title: 『Escape from Tarkov』とHyper-V
 
 最終的には、Redditで紹介されている方法で解決できた。
 
-次のようにPowershellで次のコマンドを実行すると、表示名にHyper-VまたはDockerを含むサービスを一覧できる。
+次のようにPowershellでコマンドを実行すると、表示名にHyper-VまたはDockerを含むサービスを一覧できる。
 
 ```
 PS C:\Windows\system32> Get-Service | where { $_.DisplayName -like "Hyper-V*" -or $_.DisplayName -like "Docker*" }
@@ -42,4 +42,4 @@ Docker Desktop for Windowsを終了させた状態では、上のような状態
 PS C:\Windows\system32> Get-Service | where { $_.DisplayName -like "Hyper-V*" -or $_.DisplayName -like "Docker*" } | % { Stop-Service $_ }
 ```
 
-結果的に、Escape from Tarkovの起動前に毎度これを実行することにした。また、Windows TerminalとVisual Studio Codeを起動したままの状態で放置していると、停止させたはずのvmcomputeが再度Runningに戻っているという事象が確認できたので、あわせてこれらのプログラムも終了させることにしている。
+結果的に、Escape from Tarkovの起動前に毎度これを実行することにした。また、WSL2で実行しているUbuntuに繋いだターミナルを起動したままの状態で放置していると、停止させたはずのvmcomputeが再度Runningに戻っているという事象が確認できたので、あわせてこれも終了させることにしている。
