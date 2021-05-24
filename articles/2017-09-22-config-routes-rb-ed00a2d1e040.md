@@ -19,13 +19,11 @@ title: "config/routes.rb の書き方を見直した"
 
 ```
 MyApp::Application.routes.draw do
-  get '/' => 'top_pages#show', as: :top_page
+  get    '/' => 'top_pages#show', as: :top_page
   delete '/api/applications/:application_id' => 'api_applications#destroy', as: :api_application
-  get '/api/applications/:application_id' => 'api_applications#show'
+  get    '/api/applications/:application_id' => 'api_applications#show'
   patch '/api/applications/:application_id' => 'api_applications#update'
-
   ...
-
 end
 ```
 
