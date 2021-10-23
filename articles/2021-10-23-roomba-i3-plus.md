@@ -2,7 +2,7 @@
 title: ルンバi3+
 ---
 
-ロボット掃除機のルンバのi3+というモデルを購入した。
+ルンバのi3+というモデルを購入した。
 
 ![](https://i.imgur.com/8J5KeNXh.jpg "my new gear...")
 
