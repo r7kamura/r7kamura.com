@@ -2,7 +2,7 @@
 title: ルンバi3+
 ---
 
-ルンバのi3+というモデルを購入した。
+i3+というモデルのルンバを購入した。
 
 ![](https://i.imgur.com/8J5KeNXh.jpg "my new gear...")
 
