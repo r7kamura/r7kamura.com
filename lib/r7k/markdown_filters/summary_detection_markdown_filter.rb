@@ -8,7 +8,7 @@ module R7k
       def call
         doc.xpath('p').each do |paragraph|
           text_node = paragraph.children.first
-          next if text_node.nil? || !text_node.text? && text_node.name != 'a'
+          next if text_node.nil? || (!text_node.text? && text_node.name != 'a')
 
           string = paragraph.text.lstrip.split("\n")[0]&.gsub(/。.+/, '。')
           if string && !string.empty?
