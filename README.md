@@ -6,14 +6,14 @@ The source of [r7kamura.com](https://r7kamura.com/).
 
 ## Development
 
-### Setup
-
-```
-docker-compose run --rm ruby bin/setup
-```
-
-### Server
+### Preview on local HTTP server
 
 ```
 docker-compose up
+```
+
+### Build static files
+
+```
+docker-compose run --rm ruby bundle exec rake build
 ```

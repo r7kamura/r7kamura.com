@@ -1,4 +1,0 @@
-#!/bin/bash
-
-gem install bundler --conservative
-bundle install
