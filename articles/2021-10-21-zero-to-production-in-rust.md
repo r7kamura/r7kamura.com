@@ -39,6 +39,6 @@ async fn index(parameters: web::Query<Parameters>) -> String {
 
 ---
 
-『Zero To Production In Rust』の記事をまとめたものを電子書籍として35ユーロで販売しているようなので、興味が湧いた人はそちらも見てみてほしい。
+『Zero To Production In Rust』の記事をまとめたものを電子書籍として販売しているようなので、興味が湧いた人はそちらも見てみてほしい。
 
 - https://www.zero2prod.com/
