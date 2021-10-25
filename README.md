@@ -9,11 +9,11 @@ The source of [r7kamura.com](https://r7kamura.com/).
 ### Preview on local HTTP server
 
 ```
-docker-compose up
+cargo run -- serve
 ```
 
 ### Build static files
 
 ```
-docker-compose run --rm ruby bundle exec rake build
+cargo run -- build
 ```

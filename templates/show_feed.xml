@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <description>{{ description }}</description>
+    <link>{{ request_base_url }}/</link>
+    <atom:link href="{{ canonical_url }}" rel="self"/>
+    <title>r7kamura.com</title>
+    <managingEditor>r7kamura@gmail.com (Ryo Nakamura)</managingEditor>
+    <lastBuildDate>{{ current_time_in_rfc2822 }} %></lastBuildDate>
+    {% for article in articles %}
+    <item>
+      <title><![CDATA[{{ article.title|safe }}]]></title>
+      <description>{% if article.summary.is_some() %}<![CDATA[{{ article.summary.clone().unwrap()|safe }}]]>{% endif %}</description>
+      <link>{{ request_base_url }}{{ article.canonical_path }}</link>
+      <pubDate>{{ article.published_at_in_rfc2822 }}</pubDate>
+      <content:encoded><![CDATA[{{ article.html_body|safe }}]]></content:encoded>
+      <guid>{{ request_base_url }}{{ article.canonical_path }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
