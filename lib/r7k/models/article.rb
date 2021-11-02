@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'date'
 require 'html/pipeline'
 require 'r7k/markdown_filters/amazon_affiliate_markdown_filter'
 require 'r7k/markdown_filters/figure_code_block_markdown_filter'
