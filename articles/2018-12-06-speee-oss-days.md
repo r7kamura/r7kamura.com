@@ -8,20 +8,20 @@ Speee 社のラウンジに行って活動してきたという話です。
 
 Speee では毎週火曜に OSS Days という活動をやっているという噂を聞いており、Public に参加できると聞いて少し気になっていたので参加してきました。これらについては以下の記事が詳しいです。
 
-- https://tech.speee.jp/entry/2018/08/06/123000
-- https://tech.speee.jp/entry/2018/10/09/140500
+- <https://tech.speee.jp/entry/2018/08/06/123000>
+- <https://tech.speee.jp/entry/2018/10/09/140500>
 
 # やったこと
 
 スーパーマリオブラザーズ™ がターミナル上で動くところまでつくった r7kamura/rnes という NES  エミュレータの実装があり、これは Ruby で書いたのですが、別言語での書き味や速度をゆるく比較したいなと思っていたので、TypeScript への移植作業を進めました。以下の Pull Request にその作業内容が含まれています。
 
-https://github.com/r7kamura/nes8/pull/6
+<https://github.com/r7kamura/nes8/pull/6>
 
 元々 CPU までは実装できていたので、その日は GPU の実装を進めました。語弊を恐れずめちゃくちゃざっくり言うと、NES では 256 × 240 px の映像を出力することになるので、CPU が VRAM に入れてくれた情報を読み取りながら、基本的には1サイクルごとに1ピクセルのデータを用意していくような部分の処理を、TypeScript で実装していきました。
 
 図で言うとこういう感じで、このタイプの絵は2枚あるレイヤーの内の背景レイヤーに描画しているんですが、背景は 8 × 8 px のタイルから構成されていて、それを左から右へ、上から下へと描画していくような処理を実装していきました。
 
-あと https://www.patreon.com/posts/typescriptnoshen-23135935 で言っていた Microsoft/TypeScript に出した Pull Request を少し手直しする作業も進めました。ごはん食べて走って帰って一眠りしている間に merge されていました。
+あと <https://www.patreon.com/posts/typescriptnoshen-23135935> で言っていた Microsoft/TypeScript に出した Pull Request を少し手直しする作業も進めました。ごはん食べて走って帰って一眠りしている間に merge されていました。
 
 ## Ruby から TypeScript への移植についての雑感
 

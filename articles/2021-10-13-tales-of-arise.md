@@ -4,7 +4,7 @@ title: 『テイルズ オブ アライズ』をやった
 
 テイルズシリーズの最新作、『テイルズ オブ アライズ』をプレイした。
 
-- https://toarise.tales-ch.jp/
+- <https://toarise.tales-ch.jp/>
 
 ![](https://i.imgur.com/PJwCvbah.jpg "オープニング画面より")
 

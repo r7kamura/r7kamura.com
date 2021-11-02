@@ -12,7 +12,7 @@ rurema/bitclust#61 の話です。
 
 あれから Issue にコメントをいただき、問題の原因や解決方法も見えてきたので、Bitclust に Pull Request を出してみました。でも最初に推奨されていた解決方法とは違う結果になってしまったかもしれません。これでいいのか...?
 
-https://github.com/rurema/bitclust/pull/61
+<https://github.com/rurema/bitclust/pull/61>
 
 あらためて考えてみると、Issue と Pull Request にほぼ全ての経緯が記述されているので、この記事に書くことはほとんどありませんでした…。
 
@@ -24,7 +24,7 @@ Bitclust のコードを変更する作業の中で、ひさしぶりに test-un
 
 test-unit や minitest などの歴史的経緯を追っていると、勉強用途で peritest というテスティングフレームワークを過去につくっていたことを思い出します。本体は assert という matcher しか提供せず、極力プラグインと組み合わせて使うことを推奨したり、結果の出力などは全て subscriber という機構に抽象化したりと、おれのかんがえた最強のテスティングフレームワークをつくる子どものような感じで、当時はやけに楽しんでつくっていました。
 
-https://github.com/petitest/petitest
+<https://github.com/petitest/petitest>
 
 ![](/images/2018-11-19-rurema-whitespace-2-1.png)
 

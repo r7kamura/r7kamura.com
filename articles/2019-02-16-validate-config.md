@@ -2,7 +2,7 @@
 title: 設定値のバリデーション
 ---
 
-Ruby の Web アプリケーションのコードに外部から注入したい定数値は https://github.com/railsconfig/config で管理して、スキーマ定義してバリデーションを行ってはどうかという話です。
+Ruby の Web アプリケーションのコードに外部から注入したい定数値は <https://github.com/railsconfig/config> で管理して、スキーマ定義してバリデーションを行ってはどうかという話です。
 
 ## config
 
@@ -10,11 +10,11 @@ Ruby の Web アプリケーションのコードに外部から注入したい�
 
 よく使う機能として、開発環境でのみ読み込む config/settings/development.yml を用意したり、本番環境でのみ読み込む config/settings/production.yml を用意したりという機能があります。例えば開発環境だと、config/settings.yml と config/settings/development.yml が deep merge されたものが読み込まれるという感じです。
 
-同じような機能を持った別のライブラリとして https://github.com/settingslogic/settingslogic があります。自分も前までは settingslogic を利用していましたが、config のバリデーション機能を利用するようになってからは config を使うようになりました。
+同じような機能を持った別のライブラリとして <https://github.com/settingslogic/settingslogic> があります。自分も前までは settingslogic を利用していましたが、config のバリデーション機能を利用するようになってからは config を使うようになりました。
 
 ## インターフェースの統一
 
-https://12factor.net/ja/
+<https://12factor.net/ja/>
 
 そもそも設定値とはなんぞやという話ですが、The Twelve-Factor App では、環境によって変わる値が設定値だとしています。それで、その設定値は環境変数として格納すべきであるという話です。とはいえ、今のところ環境ごとに変わらないながらも設定値として注入するのと同じインターフェースで扱いたいような値もあると思います。将来的に環境ごとに変わるようになるかもしれない値や、明らかにアプリケーションのロジックと関係の無い定数などです。
 
@@ -28,7 +28,7 @@ https://12factor.net/ja/
 
 似たような話が以下の発表資料でも話されていました。この発表資料の話では JSON Schema での解決を試みています。
 
-https://docs.google.com/presentation/d/12d9qdyNK1u7DquYAGZDs6_q9SiVm8c-QX1LIcmwP7d8/edit
+<https://docs.google.com/presentation/d/12d9qdyNK1u7DquYAGZDs6_q9SiVm8c-QX1LIcmwP7d8/edit>
 
 実は config gem には、予め期待するスキーマを定義しておいてバリデーションを行う機能が付属しています。これを利用すると、アプリケーションに注入したい定数値の型を保証しつつ、ドキュメンテーションの要素も兼ねられます。個人的にはこの機能はかなり役に立つものだと思っているのですが、あまり言及されている様子を見かけません。なのでこの記事で取り上げてみています。
 

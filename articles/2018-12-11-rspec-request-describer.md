@@ -2,7 +2,7 @@
 title: rspec-request_describerを整えた
 ---
 
-https://github.com/r7kamura/rspec-request_describer を少し改善したという話です。
+<https://github.com/r7kamura/rspec-request_describer> を少し改善したという話です。
 
 ## Rails Developers Meetup 2018 Day 4
 
@@ -10,7 +10,7 @@ https://github.com/r7kamura/rspec-request_describer を少し改善したとい�
 
 ## CHANGELOG
 
-まずは CHANGELOG あたりから見直していこうと考えました。これについては以前も Patreon で触れたことがありますが、http://keepachangelog.com/ という CHANGELOG の書き方の指針を示している Web サイトがあり、この書き方に従うように全体的に表現方法を変更しました。Semantic versioning に従っていることを明示して、カテゴリごとに分類して、リリース日を付けてという作業になりました。
+まずは CHANGELOG あたりから見直していこうと考えました。これについては以前も Patreon で触れたことがありますが、<http://keepachangelog.com/> という CHANGELOG の書き方の指針を示している Web サイトがあり、この書き方に従うように全体的に表現方法を変更しました。Semantic versioning に従っていることを明示して、カテゴリごとに分類して、リリース日を付けてという作業になりました。
 
 これまで、リポジトリによっては Pull Request で Contribute してくれた方の名前を CHANGELOG に載せたり載せなかったり揺れていましたが、載せない側に寄せることにしました。また、対応している Pull Request や Issue へのリンクも載せたり載せなかったりしていましたが、これも載せない側に寄せることにしました。この辺りを書かない側に寄せたのは、手軽に CHANGELOG を書けるようにしたいことと、より多くのケースをカバーできるようにするねらいが大きいです。
 
@@ -38,8 +38,8 @@ Workflow を利用して RuboCop と RSpec を並列に動かすように設定�
 
 これまでテストが書かれていなかったので、この機会に追加しておくことにしました。RSpec のプラグインなので、かなりメタ的なことをしないと上手くテストが書けないのではないかと思っていましたが、普通にそのプラグインを利用するようなテストケースを自分で書いて動かば良いだけでした。
 
-rack-test や rspec-rails で本当に上手く動くか確かめるには、テスト用の Rails アプリを用意して動かす必要がありそうで、ちょっと面倒だなと思っています。そういえばこの文章をいま書いているときに思い付いたんですが、https://github.com/r7kamura/rails_kwargs_testing を書いたときに Rails アプリを用意せずに ActionDispatch で適当に Controller と Router だけ用意してテストするというようなコードを書いたので、もしかしたら同じ仕組みで簡単にテストが書けるかもしれません。あとで試してみようと思います。
+rack-test や rspec-rails で本当に上手く動くか確かめるには、テスト用の Rails アプリを用意して動かす必要がありそうで、ちょっと面倒だなと思っています。そういえばこの文章をいま書いているときに思い付いたんですが、<https://github.com/r7kamura/rails_kwargs_testing> を書いたときに Rails アプリを用意せずに ActionDispatch で適当に Controller と Router だけ用意してテストするというようなコードを書いたので、もしかしたら同じ仕組みで簡単にテストが書けるかもしれません。あとで試してみようと思います。
 
 ## おわり
 
-https://github.com/r7kamura/rspec-request_describer を少し改善したという話でした。
+<https://github.com/r7kamura/rspec-request_describer> を少し改善したという話でした。

@@ -4,7 +4,7 @@ title: ActiveRecord::EnumのI18n
 
 ActiveRecordのenumにI18n用の機能を提供するgemをつくった。
 
-https://github.com/r7kamura/activerecord-enum_translation
+<https://github.com/r7kamura/activerecord-enum_translation>
 
 ## どういうものか
 
@@ -33,7 +33,7 @@ user.human_enum_name_for(:status) #=> "利用中"
 
 同じ問題を解決するためのgemとして、昔からenum_helpというものがあるので、これを使っても良い。あとここでは紹介しないけれど似たようなものが幾つかあります。
 
-https://github.com/zmbacker/enum_help
+<https://github.com/zmbacker/enum_help>
 
 解決策としてもちろん知ってはいたのだけれど、個人的にはあまり気に入らなくて、別のものを自作してしまった。せっかくだから、気に入らなかったところなどについて書いてみる。
 

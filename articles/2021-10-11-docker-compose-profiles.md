@@ -52,5 +52,5 @@ docker compose --profile application up
 
 profiles属性が利用できるのはdocker compose file version 3.9から。
 
-- https://docs.docker.com/compose/profiles/
-- https://docs.docker.com/compose/compose-file/compose-file-v3/
+- <https://docs.docker.com/compose/profiles/>
+- <https://docs.docker.com/compose/compose-file/compose-file-v3/>

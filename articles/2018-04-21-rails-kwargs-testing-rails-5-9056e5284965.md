@@ -6,13 +6,13 @@ title: "rails_kwargs_testing で緩やかに Rails 5 向けのテストコード
 
 rails\_kwargs\_testing という gem の紹介記事です。
 
-https://github.com/r7kamura/rails_kwargs_testing
+<https://github.com/r7kamura/rails_kwargs_testing>
 
 ## Rails 4 から 5 でテストで使う HTTP メソッドの引数が変わった
 
 Rails 4 から 5 にかけて、ActionController::TestCase と ActionDispatch::IntegrationTest の #get や #post などのメソッドの引数の形式が変わり、Rails 5 ではキーワード引数を利用するようになりました。RSpec であれば、ActionController::TestCase は controller-specs、ActionDispatch::IntegrationTest は request-specs で利用するやつです。
 
-https://github.com/rails/rails/pull/18323
+<https://github.com/rails/rails/pull/18323>
 
 ## Rails 4 でも rails\_kwargs\_testing でキーワード引数を使う
 
@@ -20,7 +20,7 @@ Rails 4 から 5 への変更と共に、全ての引数の形式を書き換え
 
 こういった背景から、Rails 4 の状態で引数の形式だけを変更しておきたいという需要があり、rails\_kwargs\_testing という gem をつくりました。実際には、業務委託で色々なサービスの Rails のバージョンを上げる仕事を請け負っている中で、これまで使ってきたコードをライブラリとしてまとめたような形になってます。
 
-https://github.com/r7kamura/rails_kwargs_testing
+<https://github.com/r7kamura/rails_kwargs_testing>
 
 ## 使い方
 

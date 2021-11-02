@@ -12,6 +12,6 @@ Dellの子会社Alienwareの曲面37.5型ディスプレイ、AW3821DWを設置�
 
 PowerToysの機能を利用し、Windowsのスナップ機能を上書きして左右に1:2:1の比率でウィンドウを配置する使い方が気に入っている。
 
-- https://github.com/microsoft/PowerToys
+- <https://github.com/microsoft/PowerToys>
 
 これまで使っていた曲面ディスプレイよりも更に湾曲度が大きく、画面端がより見やすくなった。現在は新しいモニターアームを注文中で、それが届いたら曲面ディスプレイを縦に2枚並べようとしている。

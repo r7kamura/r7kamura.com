@@ -4,7 +4,7 @@ title: 『Zero To Production In Rust』を読んでいる
 
 初学者用のRustの教材として、RustでWebアプリケーションのサーバーサイド側をつくる一連のチュートリアル記事、『Zero To Production In Rust』を読んでみている。
 
-- https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/
+- <https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/>
 
 一気に読んでいるかのような雰囲気でさらりと書いているが、仕事と遊びの合間に少しずつ、数日に1章程度の速度でゆっくり読み進めている。
 
@@ -34,11 +34,11 @@ async fn index(parameters: web::Query<Parameters>) -> String {
 
 こういう形で「Parameters型のデータが欲しいです」ということを引数で表現しておけば、内部的にこの情報を使って引数を用意してくれる。型を表現しない（する必要がない）動的型付けの言語ではこういった表現方法は取りにくい。例えばRailsの似たような実装だと、ハンドラー関数の仮引数の名前を利用してパラメーターを引数としても渡してくれるように出来るaction_argsというライブラリがあるが、actix-webのExtractorsを見た後だと、やはり大きな物足りなさを感じてしまう。こういった観点の変化こそ、新しいものを学んで得られる面白さの一つだ。
 
-- https://actix.rs/docs/extractors/
-- https://github.com/asakusarb/action_args
+- <https://actix.rs/docs/extractors/>
+- <https://github.com/asakusarb/action_args>
 
 ---
 
 『Zero To Production In Rust』の記事をまとめたものを電子書籍として販売しているようなので、興味が湧いた人はそちらも見てみてほしい。
 
-- https://www.zero2prod.com/
+- <https://www.zero2prod.com/>

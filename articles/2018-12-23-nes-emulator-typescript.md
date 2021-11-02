@@ -4,7 +4,7 @@ title: TypeScript版NESエミュレータここまでの振り返り
 
 11月から開発している TypeScript 版 NES エミュレータで、NES 研究所の提供してくれているサンプル ROM で「HELLO, WORLD!」が表示できるようになったので、この記事でここまでの開発の振り返りを行います。
 
-https://github.com/r7kamura/nes8
+<https://github.com/r7kamura/nes8>
 
 ## Prettier
 
@@ -27,43 +27,43 @@ Web ブラウザで動かすためにコードを bundle したい気持ちが�
 
 PPU バスの実装が未完成なまま動かしていて、あれ動かないなと不思議がっていた。コード中に TODO のところは TODO とコメントで真面目に書いていたので、これを TODO リストとして上手く管理しながら開発していったほうが良かったかもしれない。とはいえ音声周りなどはかなり遠い将来に実装する TODO になるので、TODO の中でも優先度付けが必要そう。
 
-https://github.com/r7kamura/nes8/commit/8d35472a4a8f9b4478e2553470bb822554ffcec8
+<https://github.com/r7kamura/nes8/commit/8d35472a4a8f9b4478e2553470bb822554ffcec8>
 
 ## requestAnimationFrame
 
 メインループの処理が際限なく動いていたため、canvas がいつまで経っても更新されない状態になっていた。1画面更新する単位で処理を関数に分けて、requestAnimationFrame で 60fps を維持するように変更することで対処した。
 
-https://github.com/r7kamura/nes8/commit/8f63a614b92ef47ede51e9dcf4536895a325ddbb
+<https://github.com/r7kamura/nes8/commit/8f63a614b92ef47ede51e9dcf4536895a325ddbb>
 
 ## DEY 命令
 
 DEY 命令が DEX 命令のコピペを元に実装されていたが、操作対象のレジスタを X から Y にするのを忘れていた。命令群の実装はこういう不具合が発生しがちなので、数十個の命令を疲れを押して一気に実装するのは避けるべきだった。
 
-https://github.com/r7kamura/nes8/commit/fdab8a55d9795e1aa497fe0222eedb16eaf8f459
+<https://github.com/r7kamura/nes8/commit/fdab8a55d9795e1aa497fe0222eedb16eaf8f459>
 
 ## 2次元配列から1次元配列へのインデックス変換
 
 256 x 240 のカラーコードの配列を canvas 要素に描画する際、XY 座標を一次元配列に置き換える処理に不具合があった。XY 座標から一次元配列のインデックスに変換するところをもう少し抽象化しておけば、明らかに不具合があることに気付けたかも。
 
-https://github.com/r7kamura/nes8/commit/66e4519aa93e1355ac1bc4258589cd3b881b0534
+<https://github.com/r7kamura/nes8/commit/66e4519aa93e1355ac1bc4258589cd3b881b0534>
 
 ## ImageData のインデックス計算
 
 canvas で利用する ImageData は、Uint8Array で RGBA を格納するので、4要素で1画素を表すことになるが、これの計算処理に不具合があった。インデックス計算で不具合が発生しがちなので何とかしたい。
 
-https://github.com/r7kamura/nes8/commit/8bc75bebc7cfd0ea2ae46fe7420b7a5766f101be
+<https://github.com/r7kamura/nes8/commit/8bc75bebc7cfd0ea2ae46fe7420b7a5766f101be>
 
 ## オーバーフロー対策の丸め処理
 
 与えられたアドレスの次のアドレスからデータを読み取る処理において、16 bit の範囲を超えないように & 演算子で対策をしていたが、誤って 8 bit の範囲に丸めている不具合があった。
 
-https://github.com/r7kamura/nes8/commit/23f1b9d7c7fc3dab922c7a5ee64009ecaee85a01
+<https://github.com/r7kamura/nes8/commit/23f1b9d7c7fc3dab922c7a5ee64009ecaee85a01>
 
 ## 三項演算子の結合規則
 
 引き算のオペランドとして三項演算子で求めた値を利用しようとするコードがあったが、括弧を忘れていて意図しない式が結合する不具合があった。これは演算子の優先順位の問題ではなかったが、別言語からの移植時に困ることも多いので、演算子の優先順位に関係無く動くように明示的に括弧を付けるようにした方が良いかもしれない。
 
-https://github.com/r7kamura/nes8/commit/b6e25e59040c2304476a61c4d4101d50f6d5a21b
+<https://github.com/r7kamura/nes8/commit/b6e25e59040c2304476a61c4d4101d50f6d5a21b>
 
 ## 開発途中の様子1
 

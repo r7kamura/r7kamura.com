@@ -4,7 +4,7 @@ title: 『ダンジョンエンカウンターズ』をやっている
 
 探索型RPG『ダンジョンエンカウンターズ』のSteam版がスクエニから発売されたので、早速プレイしている。
 
-- https://www.jp.square-enix.com/de/
+- <https://www.jp.square-enix.com/de/>
 
 ![](https://i.imgur.com/iCL4flkh.png "起動画面")
 

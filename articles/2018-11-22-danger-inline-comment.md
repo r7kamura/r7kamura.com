@@ -2,7 +2,7 @@
 title: Dangerでインラインコメントをうまく付けられないケースに対処した話
 ---
 
-https://github.com/danger/danger#1039 の話です。
+<https://github.com/danger/danger#1039> の話です。
 
 ## Unified format
 
@@ -24,6 +24,6 @@ Danger では、GitHub で Pull Request にインラインコメントを付け�
 
 Danger のインラインコメントに関する実装を一通り見てみたところ、hunk の範囲情報は正規表現で抜き出しているだけのようだったので、これを少しだけ書き換える形で修正を加えました。
 
-https://github.com/danger/danger#1039 
+<https://github.com/danger/danger#1039> 
 
 Pull Request を作成してみたところ、数時間後には素早く merge していただけて、この修正が取り込まれた danger 5.8.2 がめでたくリリースされていました。

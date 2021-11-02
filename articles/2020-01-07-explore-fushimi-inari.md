@@ -6,7 +6,7 @@ title: 『Explore Fushimi Inari』をやった
 
 伏見稲荷を散策できるウォーキングシミュレーター『Explore Fushimi Inari』をプレイした。
 
-https://store.steampowered.com/app/1098490/Explore_Fushimi_Inari/
+<https://store.steampowered.com/app/1098490/Explore_Fushimi_Inari/>
 
 ゆったりとした音楽を聴きながら、カメラを手に伏見稲荷の山の中を散策できる。現実の伏見稲荷にここまで人が居ないことは珍しいので、静謐な雰囲気の伏見稲荷が新鮮だった。
 

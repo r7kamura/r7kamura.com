@@ -4,7 +4,7 @@ title: PowerToysで豪遊
 
 Windows用にPowerToysというのを教えてもらって、使ってみたら思いの外よかったという話。
 
-https://github.com/microsoft/PowerToys
+<https://github.com/microsoft/PowerToys>
 
 ## PowerToys Run
 

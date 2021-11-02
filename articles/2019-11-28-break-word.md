@@ -26,19 +26,19 @@ body {
 
 今のところどこでも動く。元々Microsoftの拡張としてword-wrapというプロパティが存在し、各ブラウザもword-wrapという名前で実装していたが、後にoverflow-wrapという名前に変更された。
 
-https://caniuse.com/#feat=mdn-css_properties_word-wrap
+<https://caniuse.com/#feat=mdn-css_properties_word-wrap>
 
 ## overflow-wrap: break-word
 
 IE11等で動かない。word-wrapの新しい名前。
 
-https://caniuse.com/#feat=mdn-css_properties_overflow-wrap
+<https://caniuse.com/#feat=mdn-css_properties_overflow-wrap>
 
 ## word-break: break-word
 
 `word-wrap: break-word`と同じことが、このプロパティでも実現できる。IEやEdge等で動かない。
 
-https://caniuse.com/#feat=mdn-css_properties_word-break_break-word
+<https://caniuse.com/#feat=mdn-css_properties_word-break_break-word>
 
 ## break-all
 

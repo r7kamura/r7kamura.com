@@ -8,8 +8,8 @@ title: WindowsのDocker Engineのアップデート
 
 `docker-compose` ではなく `docker compose` を使って対話型のシェルを起動すると、コントロールシーケンスの入力を意図した形に認識してくれず、Rawモードで動作してしまう。要は、例えば矢印キーを入力したりすると `^[[D` 等が直接入力されてしまう。Googleで検索すると、GitHub Issuesで報告されていることが分かる。
 
-- https://github.com/docker/compose-cli/issues/1908
-- https://github.com/docker/compose-cli/pull/1934
+- <https://github.com/docker/compose-cli/issues/1908>
+- <https://github.com/docker/compose-cli/pull/1934>
 
 docker/compose-cli v2.0.0.rc-1で修正されているらしい。そもそも今のDocker Engineのバージョンは幾つなんだ。
 
@@ -26,7 +26,7 @@ Docker version 20.10.7, build f0df350
 
 最新版は4.1.1なので、最新版のインストーラーをダウンロードして起動し、Windowsを一度再起動する。
 
-- https://docs.docker.com/desktop/windows/release-notes/
+- <https://docs.docker.com/desktop/windows/release-notes/>
 
 ```
 $ docker -v

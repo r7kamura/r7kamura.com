@@ -51,8 +51,8 @@ RSpec.describe User do
 
 RSpecのディレクトリ構成に関するドキュメントは以下から。
 
-https://relishapp.com/rspec/rspec-rails/docs/directory-structure
+<https://relishapp.com/rspec/rspec-rails/docs/directory-structure>
 
 typeとディレクトリパスの対応関係の定義は以下から。`|` を使って1つのStringに構造を詰め込んでいるところが正直言ってダサいと思う。
 
-https://github.com/rspec/rspec-rails/blob/e5cbfde4635fca69f9fe0cafc4df7a075a4ce990/lib/rspec/rails/configuration.rb#L25-L40
+<https://github.com/rspec/rspec-rails/blob/e5cbfde4635fca69f9fe0cafc4df7a075a4ce990/lib/rspec/rails/configuration.rb#L25-L40>

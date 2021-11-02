@@ -33,8 +33,8 @@ Go Ando氏がまとめてくださっている、noteの投稿集。本記事の
 
 これと比べると流石に熱量は劣るが、以下のsubreddit達も現実的な着地点・非ゲーミング環境の情報源として参考になる。
 
-- https://www.reddit.com/r/Workspaces/
-- https://www.reddit.com/r/desksetup/
+- <https://www.reddit.com/r/Workspaces/>
+- <https://www.reddit.com/r/desksetup/>
 
 ## randomfrankp
 

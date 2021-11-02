@@ -61,7 +61,7 @@ Increments と言えば Qiita を運営している会社というイメージ�
 はてなブログから Medium に緩やかに移転しつつあります。前のブログはこちらです。
 
 [**_✘╹◡╹✘_**  
-✘╹◡╹✘r7kamura.hatenablog.com](http://r7kamura.hatenablog.com/ "http://r7kamura.hatenablog.com/")[](http://r7kamura.hatenablog.com/)
+✘╹◡╹✘r7kamura.hatenablog.com](http://r7kamura.hatenablog.com/ "<http://r7kamura.hatenablog.com/>")[](http://r7kamura.hatenablog.com/)
 
 ## 例のリンクないの？
 

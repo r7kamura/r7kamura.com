@@ -14,6 +14,6 @@ title: 『Hyper Light Drifter』をやった
 
 この作品もEpic Gamesの無料セールでプレイする機運が生まれた。
 
-https://www.epicgames.com/store/ja/product/hyper-light-drifter/home
+<https://www.epicgames.com/store/ja/product/hyper-light-drifter/home>
 
 今回のEpic Gamesの一連の無料セールは、ラインナップが名作ばかりで本当に良い。自分の好み以外の外的要因に従ってゲームを選ぶのも、発見があって案外良いな、という体験が得られている。

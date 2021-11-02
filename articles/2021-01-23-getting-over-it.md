@@ -4,7 +4,7 @@ title: 『Getting Over It』をやった
 
 山登りアクションゲーム『Getting Over It with Bennett Foddy』をやった。
 
-- https://store.steampowered.com/app/240720
+- <https://store.steampowered.com/app/240720>
 
 壺に入ったおじさんをマウスポインターで操作して、険しい山を登っていくゲームだ。山頂を目指す挑戦者を待ち受けるのは、偉大なる神秘と素晴らしきご褒美。
 

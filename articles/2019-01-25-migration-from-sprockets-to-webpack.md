@@ -4,7 +4,7 @@ title: Sprocketsから移行するときのWebpackの設定
 
 Rails アプリでの assets 管理を Sprockets から Webpack に移行できないか調査するために、ひさしぶりに Webpack の設定を一から用意する機会があったので、設定についてまとめておこうと考えました。
 
-https://gist.github.com/r7kamura/46a28a8c35174ec69989d0d7bfc3fc79 にコード例を載せておきます。これを題材にこの記事で解説を書いていきます。また Sprockets からの移行を主眼としているため、出力されるファイルの形式などを大きく変えずに実装手段だけ変えないといけないという厳しい制約があり、そういった状況での解決手段を模索しているということを考慮の上で記事の内容をお読みください。
+<https://gist.github.com/r7kamura/46a28a8c35174ec69989d0d7bfc3fc79> にコード例を載せておきます。これを題材にこの記事で解説を書いていきます。また Sprockets からの移行を主眼としているため、出力されるファイルの形式などを大きく変えずに実装手段だけ変えないといけないという厳しい制約があり、そういった状況での解決手段を模索しているということを考慮の上で記事の内容をお読みください。
 
 ## Sprockets のおさらい
 
@@ -37,7 +37,7 @@ Webpack の設定のうち、mode、output、plugins の項目は開発環境向
 
 Webpack の公式サイトに、本番環境向けの設定ファイルの分割方法として同じ方法が紹介されています。設定ファイルを統合するために webpack-merge というライブラリを利用していますが、これもここで紹介されているものです。
 
-https://webpack.js.org/guides/production/
+<https://webpack.js.org/guides/production/>
 
 ## entry
 

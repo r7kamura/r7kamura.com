@@ -4,14 +4,14 @@ title: 『Escape from Tarkov』とHyper-V
 
 最近やり始めた『Escape from Tarkov』で、チート対策のプログラムにHyper-Vが誤検知されるという問題が起きたので、自分の行った対策を書いておく。
 
-- https://www.escapefromtarkov.com/
+- <https://www.escapefromtarkov.com/>
 
 前提として、自分はWSL2とDocker Desktop for Windowsを利用している。このWindows PCでEsacpe from Tarkovを実行し、レイドに入って8分程度経過すると、Hyper-Vが云々というメッセージが表示され、退出させられる。Docker Desktop for Windowsを終了させて再試行しても、同様に退出させられる。
 
 「escape from tarkov hyper-v」で検索すると、同様の問題が公式フォーラムやRedditで報告されていることが分かる。
 
-- https://forum.escapefromtarkov.com/topic/147299-ejected-from-game-because-hyper-v-is-running/
-- https://www.reddit.com/r/EscapefromTarkov/comments/l8vx5k/disallowed_program_hyperv/
+- <https://forum.escapefromtarkov.com/topic/147299-ejected-from-game-because-hyper-v-is-running/>
+- <https://www.reddit.com/r/EscapefromTarkov/comments/l8vx5k/disallowed_program_hyperv/>
 
 最終的には、Redditで紹介されている方法で解決できた。
 

@@ -6,7 +6,7 @@ title: 『Broken Reality』をやった
 
 遂に『Broken Reality』をクリアした。短いようでいて、ものすごく長い時間に感じられた。だがやり遂げた。
 
-https://store.steampowered.com/app/757480/Broken_Reality/
+<https://store.steampowered.com/app/757480/Broken_Reality/>
 
 あなたは仮想世界にログインし、Likeを集め、いけてるプレイヤーになることを目指す。Likeは、そのへんに落ちているものを拾ったり、人々のお願いを聞いたり、悪質なウィルスをカタナでぶった切ったりすることで手に入る。Likeを沢山持っていると、豪華客船やホテルのVIPルームに入れたりする。
 

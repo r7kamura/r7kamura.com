@@ -8,7 +8,7 @@ title: デスクトップPCを譲渡
 
 Microsoftの提供しているツールを利用し、全てのデータを削除しつつWindows 10をクリーンインストールした。
 
-- https://www.microsoft.com/ja-jp/software-download/windows10startfresh
+- <https://www.microsoft.com/ja-jp/software-download/windows10startfresh>
 
 このデスクトップPCで使われていたWindowsのライセンス認証方式はOEM OA3で、UEFIファームウェアにプロダクトキーが書き込まれているタイプなので、これでそのままライセンス認証が保持される。プリインストールされていたドライバは入れ直しになるので、インターネットに接続してWindows Updateの設定辺りからドライバを入れてもらう。GPUのドライバも別途必要になるはず。
 
@@ -18,7 +18,7 @@ OSが書き込まれているCドライブしか初期化してくれないの�
 
 個人的に何度か利用経験のある、ヤマト運輸のパソコン宅急便を利用した。
 
-- https://www.kuronekoyamato.co.jp/ytc/customer/send/services/pasotaku/
+- <https://www.kuronekoyamato.co.jp/ytc/customer/send/services/pasotaku/>
 
 PCの大きさは510 × 450 × 210で、一辺が10mm超過しており一番大きいものに入るか少し不安だったが、問題無く梱包してくれた。以前の利用時にも少し超過しているときに上手くやってくれた記憶がある。
 

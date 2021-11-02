@@ -4,8 +4,8 @@ title: 個人事業主で転居したときに出す書類
 
 2019年11月29日時点の、自分の状況に対しての情報をまとめておく。
 
-- https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/06.htm
-- https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/zeimusho_shinseisho.htm
+- <https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/shinkoku/annai/06.htm>
+- <https://www.nta.go.jp/taxes/tetsuzuki/mynumberinfo/zeimusho_shinseisho.htm>
 
 上記の国税庁のウェブサイトから、以下のPDFをダウンロードして印刷する。
 

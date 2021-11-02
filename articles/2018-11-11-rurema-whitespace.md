@@ -51,7 +51,7 @@ Firefox では正しく実装されてることだし、ほっといたらその
 
 Ruby 書いてるとき Ruby リファレンスマニュアルほんとうによく利用するので、自分の書いたものが表示されているのはかなり嬉しい…。大学時代は電車で2時間ほど掛けて通学してたので、昔は Refe というツールでオフライン環境で Ruby リファレンスマニュアルを読めるようにして、古い電車のボックス席で小さくPCを開けてコードを読み書きしていたのが懐かしい。
 
-[1]: https://github.com/rurema/doctree#1579
-[2]: https://developer.mozilla.org/ja/docs/Archive/CSS3
-[3]: https://github.com/rurema/doctree#1176
-[4]: https://docs.ruby-lang.org/ja/latest/class/DateTime.html
+[1]: <https://github.com/rurema/doctree#1579>
+[2]: <https://developer.mozilla.org/ja/docs/Archive/CSS3>
+[3]: <https://github.com/rurema/doctree#1176>
+[4]: <https://docs.ruby-lang.org/ja/latest/class/DateTime.html>

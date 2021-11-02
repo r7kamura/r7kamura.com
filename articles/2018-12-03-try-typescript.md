@@ -6,7 +6,7 @@ Ruby で書いてみた NES エミュレータを、Web ブラウザで動かせ
 
 ## 公式ドキュメント
 
-新しいソフトウェアを利用するときは、まず公式のドキュメントを読むのが基本だと思うので、まずは https://www.typescriptlang.org/ の内容を読みました。
+新しいソフトウェアを利用するときは、まず公式のドキュメントを読むのが基本だと思うので、まずは <https://www.typescriptlang.org/> の内容を読みました。
 
 導入としての簡単なサンプルと、既存の JavaScript のプロジェクトからの移行方法、React や Webpack との連携方法などのチュートリアル、それから過去のバージョンからの大まかな変更履歴や、細かい言語仕様、ディレクトリ構成例、コンパイラオプションについての説明などが書かれています。まあ結構長いんですが、後から振り返ると、これらを一通りすべて読んでおいたことによって、実際にコードを書くときに全く苦労しなかったなという感想があります。
 
@@ -39,7 +39,7 @@ CI 用のサービスは色々ありますが、今回は CircleCI を利用す�
 
 実際には以下のリポジトリで作業を進めています。
 
-https://github.com/r7kamura/nes8
+<https://github.com/r7kamura/nes8>
 
 今から TypeScript やるぞという人には、tslint.json と package.json と .circleci/config.yml あたりが参考になるかもしれません。tsconfig.json は tsc --init で生成したものに少し手を加えただけなので、あまり情報量は無いと思います。
 
@@ -49,4 +49,4 @@ https://github.com/r7kamura/nes8
 
 今回初めて TypeScript を書き始めるにあたって、設定ファイルを生成するために tsc --init というコマンドを利用したんですが、このとき生成される tsconfig.json の末尾に改行が付いていないことに少し不満を感じたので、TypeScript に Pull Request を出してみました。
 
-https://github.com/Microsoft/TypeScript/pull/28772
+<https://github.com/Microsoft/TypeScript/pull/28772>

@@ -8,7 +8,7 @@ title: ActiveStorageの不具合報告をやりやすく
 
 GitHubスポンサーの審査を通過した旨をTwitterでつぶやいたところ、何人かにすぐにスポンサーになってもらえてモチベートされたので、Railsで最近気になっていたところについてPull Requestを送ってみることにした。
 
-https://github.com/sponsors/r7kamura
+<https://github.com/sponsors/r7kamura>
 
 気になっていたところというのは、ActiveStorageについて。仕事ではよくRailsのアップグレードを請け負っていて、いろんな会社のRailsアプリをRails 6にしているのだけど、「ActiveStorage 5だと動くのに6だと動かない！」という問題にあたることが多くて、最近はActiveStorageにIssueを出す作業を[やっていた][2]。
 
@@ -26,8 +26,8 @@ rails/railsリポジトリには、不具合報告用に、1ファイルで実�
 
 これでIssueの品質が良くなって、ActiveStorageの開発が捗るようになってほしい。
 
-[0]: https://github.com/rails/rails/pull/37888
-[1]: https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates
-[2]: https://github.com/rails/rails/issues/37836
-[3]: https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
-[4]: https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html
+[0]: <https://github.com/rails/rails/pull/37888>
+[1]: <https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates>
+[2]: <https://github.com/rails/rails/issues/37836>
+[3]: <https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html>
+[4]: <https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html>

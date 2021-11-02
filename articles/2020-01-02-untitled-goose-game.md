@@ -6,7 +6,7 @@ title: 『Untitled Goose Game』をやった
 
 ドタバタアクション・ステルス・サンドボックス・ガチョウシミュレーター『Untitled Goose Game』をやった。
 
-https://www.epicgames.com/store/ja/product/untitled-goose-game/home
+<https://www.epicgames.com/store/ja/product/untitled-goose-game/home>
 
 ガチョウになって、平和な村の人々にとにかく迷惑を掛けまくりながら、先に進んでいく。クリアしたとき、なんとなくその目的が分かる……そんなゲーム。のんびりとした雰囲気で、短いボリュームながらもやりがいのあるパズルゲームという感じ。
 

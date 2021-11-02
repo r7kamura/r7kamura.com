@@ -2,7 +2,7 @@
 title: 凍結された文字列リテラルとltsv gem
 ---
 
-https://github.com/condor/ltsv/pull/7 の話です。
+<https://github.com/condor/ltsv/pull/7> の話です。
 
 ## Object#freeze
 
@@ -30,7 +30,7 @@ Rails には ActiveSupport::TimeWithZone というタイムゾーン付きの日
 
 この問題への対応として、以下の Pull Request をつくりました。要は String#gsub! の代わりに String#gsub を利用しても構わない箇所だろうということで、単純に String#gsub に置き換えることにしました。
 
-https://github.com/condor/ltsv/pull/7
+<https://github.com/condor/ltsv/pull/7>
 
 当時最新のバージョンであった ltsv 0.1.0 がリリースされたのは2013年のことで、「最新の変更を含んだ 0.1.1 はいつリリースされるんだ？」という Issue が立っている状態だったので若干不安がありましたが、この Pull Request は当日中にすぐに merge していただけて、ltsv 0.1.2 からはこの変更が含まれるようになりました。Pull Request を出して良かったと思います。
 

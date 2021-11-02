@@ -2,7 +2,7 @@
 title: ActionDispatch::Response#charsetの改善を試みた
 ---
 
-https://github.com/rails/rails/pull/35549 を出したという話です。
+<https://github.com/rails/rails/pull/35549> を出したという話です。
 
 ## Content-Type
 
@@ -25,12 +25,12 @@ HTTP レスポンスで CSV を返すときは、Content-Type に text/csv と�
 
 先述した Content-Type を持つ HTTP レスポンスで ActionDispatch::Response#charset を呼び出したとき、"sjis" が返ってきてほしいところですが、現時点で最新版の rails/rails で試すと "sjis; header=present" という値が返されることが分かりました。どうやら ;charset= 以降の部分を全て charset の値として扱う実装になっているようです。
 
-そういう訳で、この問題に対して修正を加えたのが https://github.com/rails/rails/pull/35549 です。; と = で区切られている一連のパラメータを真面目に Hash として組み立てた上で、charset パラメータの値を調べるようにしています。
+そういう訳で、この問題に対して修正を加えたのが <https://github.com/rails/rails/pull/35549> です。; と = で区切られている一連のパラメータを真面目に Hash として組み立てた上で、charset パラメータの値を調べるようにしています。
 
 なお、HTTP のヘッダ部分の書式の仕様が示されている RFC 7231 によると、このパラメータの値部分はクォートすることも出来るようだと知人に教えてもらいましたが、クォートへの対応はこの Pull Request の主旨からは外れると思うので、とりあえずこの Pull Request では対応しませんでした。この Pull Request が merge されたら、また別途 Pull Request を出そうと思います。
 
-- https://tools.ietf.org/html/rfc7111
-- https://tools.ietf.org/html/rfc7231
+- <https://tools.ietf.org/html/rfc7111>
+- <https://tools.ietf.org/html/rfc7231>
 
 ## 追記
 

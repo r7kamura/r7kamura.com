@@ -12,7 +12,7 @@ title: 画像とリンク
 
 具体的には、木構造に変換フィルター群を適用して別の木構造にしていく、というパターンで実装している。
 
-https://github.com/r7kamura/r7kamura.com/pull/11
+<https://github.com/r7kamura/r7kamura.com/pull/11>
 
 ## 思い出
 
@@ -20,4 +20,4 @@ https://github.com/r7kamura/r7kamura.com/pull/11
 
 当時、emojiやmention、他の記事への言及、外部リンク、シンタックスハイライトやタスクリストなど、Markdownパーサの仕事は日に日に増えつつあり、この要求に耐え得るべく2014年頃に自分が実装し直したものがこれで、今でもまだ元気に動いているはず。
 
-https://github.com/increments/qiita-markdown
+<https://github.com/increments/qiita-markdown>

@@ -2,7 +2,7 @@
 title: ActiveSupport::SafeBuffer#* を改善した
 ---
 
-https://github.com/rails/rails/pull/36012 の話です。
+<https://github.com/rails/rails/pull/36012> の話です。
 
 ## ActiveSupport::SafeBuffer
 
@@ -14,10 +14,10 @@ Rails では XSS 対策として String を継承した ActiveSupport::SafeBuffe
 
 余談ですが、どうして `"<br /><br />"` という HTML が必要になったかと言うと、元々 `"<br /><br />".html_safe` というコードで実現していたのを、RuboCop の Rails/OutputSafety を有効化したことにより、String#html_safe を使わない方法でこれを実現する必要が出てきたからなのでした。RuboCop の違反を元にして rails/rails に Pull Request を出す流れが最近多い気がしています。
 
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Rails/OutputSafety
+<https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Rails/OutputSafety>
 
 ## ActiveSupport::SafeBuffer#*
 
-上述した問題を解決するために、ActiveSupport::SafeBuffer#* で情報を引き継ぐように上書きする https://github.com/rails/rails/pull/36012 を出しました。先日 merge してもらえたので、恐らく Rails 6.0.0 には含まれるのではないかと思っています。
+上述した問題を解決するために、ActiveSupport::SafeBuffer#* で情報を引き継ぐように上書きする <https://github.com/rails/rails/pull/36012> を出しました。先日 merge してもらえたので、恐らく Rails 6.0.0 には含まれるのではないかと思っています。
 
 String 由来の ActiveSupport::SafeBuffer のメソッドには、他にも同じ問題を持つメソッドが含まれているような気がしているので、今後も似た変更が加えられるかもしれません。

@@ -6,7 +6,7 @@ title: 『ファイアーエムブレム 風花雪月』をやった
 
 ようやく3つの学級をクリアしたので感想を書ける。
 
-https://www.nintendo.co.jp/switch/anvya/pc/index.html
+<https://www.nintendo.co.jp/switch/anvya/pc/index.html>
 
 特にシリーズ未プレイの人におすすめの作品なので、この機会に是非やってほしい。この記事では感想を書いているけれど、ネタバレ的な要素は多分無いはず。
 

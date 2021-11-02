@@ -2,7 +2,7 @@
 title: RuboCopのRails/Validationの改善
 ---
 
-https://github.com/rubocop-hq/rubocop/pull/6689 の話です。
+<https://github.com/rubocop-hq/rubocop/pull/6689> の話です。
 
 ## Rails/Validation
 
@@ -20,7 +20,7 @@ Ruby 向けの静的解析ツールであるところの RuboCop には、現在
 
 ## 対応
 
-https://github.com/rubocop-hq/rubocop/pull/6689 のように変更を加える Pull Request を出してみました。要約すると、以下のようなパターンで auto-correct を行おうというものです。
+<https://github.com/rubocop-hq/rubocop/pull/6689> のように変更を加える Pull Request を出してみました。要約すると、以下のようなパターンで auto-correct を行おうというものです。
 
 1. もし引数の末尾が Hash リテラルであればそれをオプションとして扱う
 2. もし引数の末尾がその他のリテラルか splat operator であればオプション無しとして扱う

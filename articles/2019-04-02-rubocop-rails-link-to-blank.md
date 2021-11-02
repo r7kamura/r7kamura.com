@@ -10,7 +10,7 @@ RailsのViewではlink_toというメソッドを呼び出すことができ、�
 
 link_toメソッドに `target: '_blank'` が指定されているとき、同時に `rel: 'noopener'` が指定されているかどうかを検査するために、RuboCopにRails/LinkToBlankというCopがあります。
 
-https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Rails/LinkToBlank
+<https://www.rubydoc.info/gems/rubocop/RuboCop/Cop/Rails/LinkToBlank>
 
 ## targetがSymbolだとauto-correct結果がおかしい
 
@@ -20,10 +20,10 @@ RuboCop v0.65.0からv0.66.0にアップデートしたことにより、これ�
 
 Symbolでの指定自体がRuboCop的にサポートしていない状況だったらどうしようかと思いましたが、targetがSymbolでも違反を正しく検知できるというテストケースが書かれているのを発見したので、多分サポート範囲内だろうということでauto-correctの修正を試みました。
 
-https://github.com/rubocop-hq/rubocop/pull/6868
+<https://github.com/rubocop-hq/rubocop/pull/6868>
 
 ## relがSymbolだと誤検知される
 
 前述のPull Requestがmergeされると、`target: :_blank` が指定されているときはauto-correctによって `rel: :noopener` が指定されるようになるのですが、検査時にはrelは文字列リテラルであることしか想定されていないようで、自動修正後のコードから違反が誤検出されるようになってしまいました。そこで、relにSymbolリテラルも許可するように修正を試みました。
 
-https://github.com/rubocop-hq/rubocop/pull/6869
+<https://github.com/rubocop-hq/rubocop/pull/6869>

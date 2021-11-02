@@ -6,7 +6,7 @@ title: 『Return of the Obra Dinn』をやった
 
 死体謎解きアドベンチャーゲーム『Return of the Obra Dinn』をやった。
 
-https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/
+<https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/>
 
 舞台は1807年のイギリス。航海中に消息を絶った商船が、突如として港に流れ着く。主人公は保険調査官として、船内の死体や形跡を調べながら、船員60名の消息を追っていく。
 

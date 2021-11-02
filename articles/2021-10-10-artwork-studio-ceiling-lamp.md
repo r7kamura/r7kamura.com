@@ -20,9 +20,9 @@ ART WORK STUDIOは工業的なデザインの家具も多く取り扱ってい�
 
 どちらもFLYMEe (家具のZOZOTOWNみたいなサイト) で多くの製品を扱っているので、それぞれのオンラインストアを見るよりこちらを見たほうが分かりやすいかもしれない。
 
-- https://www.artworkstudio.co.jp/
-- http://www.hermosa.co.jp/
-- https://flymee.jp/
+- <https://www.artworkstudio.co.jp/>
+- <http://www.hermosa.co.jp/>
+- <https://flymee.jp/>
 
 ただ最近はIKEAやニトリ、無印良品なんかも全然侮れず、普通に良さげな製品を安価で売ってくれている。壊れたときに再入手しやすかったり、人に紹介しやすかったりという理由もあって、近頃は困ったらこの辺りに寄せ気味になってきている。このあと天井照明をあと2つ適当に見繕わないといけないので、これは多分IKEAで探すと思う。
 

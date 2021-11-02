@@ -20,7 +20,7 @@ title: ストレスレストーキョーのリクライニングチェア
 
 ショールームでは直接の販売は行っていないとのことだったので、翌日に届いて搬入のサービスも付けられるAmazonで購入した。革製品なので、ついでに手入れ用品も購入。
 
-- https://www.stressless.com/ja-jp/promotions/products/tokyo
+- <https://www.stressless.com/ja-jp/promotions/products/tokyo>
 - https://www.amazon.co.jp/dp/B08B3S2SNZ
 - https://www.amazon.co.jp/dp/B08YZ11SQS
 

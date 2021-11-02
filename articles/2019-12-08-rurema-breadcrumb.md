@@ -6,9 +6,9 @@ title: るりまのパンくずリスト
 
 るりま (※) のパンくずリストのマークアップ方法について、これまでほぼプレーンテキストとして表現されていたのを、順序付きリストで表現するようにし、ついでにheader要素とnav要素で囲んでナビゲーションであることを表現するように変更した。
 
-https://github.com/rurema/bitclust/pull/86
+<https://github.com/rurema/bitclust/pull/86>
 
-※るりまとは、https://docs.ruby-lang.org/ja/ で配信されている、プログラミング言語Rubyの日本語のリファレンスマニュアルの通称である。
+※るりまとは、<https://docs.ruby-lang.org/ja/> で配信されている、プログラミング言語Rubyの日本語のリファレンスマニュアルの通称である。
 
 ```
 <p>A &gt; B &gt; C &gt; D</p>
@@ -37,8 +37,8 @@ RubyのドキュメントをGoogleから検索したいときに、るりまが�
 
 より機械に優しいHTMLにすべく、パンくずリストの情報をJSON-LDでもマークアップしてはどうか、という変更も提案している。
 
-https://github.com/rurema/bitclust/pull/91
+<https://github.com/rurema/bitclust/pull/91>
 
 他に、クラスのドキュメントページに記述する継承リストについても、パンくずリストで表現した方がより良くなるのではないか、というPull Requestも出している。
 
-https://github.com/rurema/bitclust/pull/90
+<https://github.com/rurema/bitclust/pull/90>

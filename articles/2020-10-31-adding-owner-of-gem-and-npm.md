@@ -25,7 +25,7 @@ rubygems.orgのサイトで、そのやり方が説明されている。
     <p>Step: 2 The user added as an owner will be sent an email with a link to confirm the ownership. The ownership will be confirmed after the user clicks on the confirmation link within 48 hours. On confirmation, all the existing owners will be notified about the owner addition.</p>
     <p>Note that the user won’t have access to the gem until they confirm the ownership addition.</p>
   </blockquote>
-  <figcaption><a href="https://guides.rubygems.org/managing-owners-using-ui/">Managing Owners via UI - RubyGems Guides</a></figcaption>
+  <figcaption><a href="<https://guides.rubygems.org/managing-owners-using-ui/>">Managing Owners via UI - RubyGems Guides</a></figcaption>
 </figure>
 
 ## npmjs.com

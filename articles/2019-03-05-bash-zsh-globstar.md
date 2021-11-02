@@ -4,7 +4,7 @@ title: bashとzshとglobstar
 
 久方ぶりの投稿となります。2月初旬に Apex Legends というバトルロイヤル形式のゲームが公開されて以来、どっぷりはまって気付けば3月になっていました。ひさしぶりに見たら Patreon のフォントが若干大きめに変更されていますね。
 
-https://www.ea.com/ja-jp/games/apex-legends
+<https://www.ea.com/ja-jp/games/apex-legends>
 
 さて、あまり大した話ではないんですが、昨日 CircleCI でシェルの globstar を利用しようとしてはまったのでその件について。というのも、`erblint app/views/**/*.erb` というコマンドを CircleCI で実行していたのですが、手元の環境と展開結果が異なるという問題にはまっていました。
 

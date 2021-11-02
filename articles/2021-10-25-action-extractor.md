@@ -4,7 +4,7 @@ title: action_extractor gem
 
 action_extractorという、Railsでアクションへの入力値を表明するためのGemをつくって試してみている。
 
-- https://github.com/r7kamura/action_extractor
+- <https://github.com/r7kamura/action_extractor>
 
 ## 使い方
 
@@ -60,26 +60,26 @@ end
 
 引数として `#params` の値を受け取れるようにするという実装は、例えばRails 3に統合されたMerbのmerb-action-argsというGemがあって、いまよく使われるものだとaction_argsというGemがその手の拡張を提供している。
 
-- https://github.com/merb/merb/tree/master/merb-action-args
-- https://github.com/asakusarb/action_args
+- <https://github.com/merb/merb/tree/master/merb-action-args>
+- <https://github.com/asakusarb/action_args>
 
 RESTfulなWebサービスの使用を記述する仕様としては、いま広く使われているものだとOpenAPIがあって、今回つくっているGemもその仕様の恩恵にあずかれる形にしようとしている。このGemを組み込むことで、少なくとも入力値に関する制約が定義されるようになるので、OpenAPIドキュメントを生成する素材として、実装とリンクした情報が使えるようになるはず。
 
-- https://swagger.io/specification/
+- <https://swagger.io/specification/>
 
 `#params` についてのバリデーション機能をDSLで提供しつつ、そのメタデータが外部から参照できるような実装として、例えば拙作ながらweak_parametersというGemがある。テスト実行時に得られる情報からWeb APIドキュメントを自動生成するautodocというGemがあるのだけど、このドキュメント生成時に使う情報としてこのメタデータを使うという活用例がある。
 
 また、Railsのコントローラー向けにDSLを提供しつつメタデータを別の形で活用するという話で言えば、garage Gemの構想時にも似たような考えを持ちながら設計していたと思う。
 
-- https://github.com/cookpad/garage
-- https://github.com/r7kamura/autodoc
-- https://github.com/r7kamura/weak_parameters
+- <https://github.com/cookpad/garage>
+- <https://github.com/r7kamura/autodoc>
+- <https://github.com/r7kamura/weak_parameters>
 
 これらはどれも、まだOpenAPIのようなものが台頭していなかった頃につくったものなので、昨今の開発情勢や様々な目的意識を元に今一度何か軽量なものを再設計してみるとどうなるか、という実験でつくってみたのが今回のGemだ。
 
 最近よくactix-webというフレームワークに触れていて、型安全な形でリクエストの情報にアクセスする方法を提供するExtractorsという仕組みがたいへん気に入っており、今回のGemに大いに影響を与えている。actix-webのExtractorsは、`FromRequest` というTraitを実装した型を用意すればどんな情報でも取得できるようになっていて、面白い使い方だと、アプリケーションの設定情報やコネクションプールなんかも引数として受け渡せるようになっている。このおかげで、単なるリクエスト情報へのアクセサーという位置付けに留まらず、リクエストハンドラーにおける外部依存性を引数という形で表現できるようになっていて、これでDependency Injectionが実現されている。
 
-- https://actix.rs/docs/extractors/
+- <https://actix.rs/docs/extractors/>
 
 どんな情報でも取得できるという拡張性は欲しかったので、今回のGemでも自前の抽出器を定義できるようになっている。例えば、URLクエリーから値を抽出するという意味で `from: :query` というのが使いたければ、次のようなコードを書けば実装できるようにしてみている。即ち、`Base` を継承して `#call` を持った `Query` というクラスをつくれば良い。
 

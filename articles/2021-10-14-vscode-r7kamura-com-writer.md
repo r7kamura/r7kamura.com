@@ -4,7 +4,7 @@ title: 記事作成用のVSCode拡張
 
 r7kamura.comの記事の雛形を用意してくれるVSCode拡張をつくった。
 
-- https://github.com/r7kamura/vscode-r7kamura-com-writer
+- <https://github.com/r7kamura/vscode-r7kamura-com-writer>
 
 ![](https://i.imgur.com/I0o4f73h.png "タイトルを入力すると適当なファイルを用意してくれる")
 
@@ -22,11 +22,11 @@ title: 適当なタイトル
 
 昔の自分であればこういうのはCUI向けのスクリプトで済ませていたかもしれない。しかし最近よく利用しているSlackワークフローというやつの体験が良く、こういうリッチなUIを用意しておくことの意義を、近頃は少し見直している。
 
-- https://slack.com/intl/ja-jp/features/workflow-automation
+- <https://slack.com/intl/ja-jp/features/workflow-automation>
 
 "create custom vscode extension" とかでググるとVSCodeのドキュメントが出てくるので、それに従ってやっていく。Node.jsも入っていない環境なので、適当にnvmを入れて、Node.jsやNPMを入れるところから…。
 
-- https://code.visualstudio.com/api/get-started/your-first-extension
+- <https://code.visualstudio.com/api/get-started/your-first-extension>
 
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash

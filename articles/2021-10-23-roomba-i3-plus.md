@@ -27,7 +27,7 @@ i3+というモデルのルンバを購入した。
 
 - https://www.amazon.co.jp/dp/B08TWR2GLQ
     - Amazon.co.jpのi3+の商品ページ
-- https://www.irobot-jp.com/roomba/
+- <https://www.irobot-jp.com/roomba/>
     - ルンバの公式ページ
 
 ---

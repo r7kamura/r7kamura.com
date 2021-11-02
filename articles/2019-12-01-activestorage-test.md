@@ -4,7 +4,7 @@ title: ActiveStorageを使うテストを1つのファイルで書く
 
 ActiveStorageを使ったテストを書きたいときに、わざわざRailsアプリを1つ用意するのは手間が掛かるので、単一ファイルで完結するような書き方を模索してみた。
 
-https://gist.github.com/r7kamura/7ee56572693fcd07a17219cd0ee6a4ca に動くコードがある。Rubyスクリプトとして実行すれば動く。ちなみにこのファイルは https://github.com/rails/rails/issues/37836 の調査用に用意した。
+<https://gist.github.com/r7kamura/7ee56572693fcd07a17219cd0ee6a4ca> に動くコードがある。Rubyスクリプトとして実行すれば動く。ちなみにこのファイルは <https://github.com/rails/rails/issues/37836> の調査用に用意した。
 
 以下は奇妙なところについての説明。
 

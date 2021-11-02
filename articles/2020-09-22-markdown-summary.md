@@ -16,4 +16,4 @@ title: 記事の説明文
 
 > 記事の説明文を抽出する方法を変更した。
 
-ソースコードの変更は https://github.com/r7kamura/r7kamura.com/commit/637bcc8f52db48ab7fd38cbe28ef55d75a2e1ad2 のようになった。フィルタの仕組みは、変換だけでなく、メタデータの収集にも利用できる。この手法は、例えば `@r7kamura` のように文章内でmentionする機能をつくるときなんかに、mentionをリンクに変換しつつ通知先のアカウント名を収集する、といった感じでよく使われる。
+ソースコードの変更は <https://github.com/r7kamura/r7kamura.com/commit/637bcc8f52db48ab7fd38cbe28ef55d75a2e1ad2> のようになった。フィルタの仕組みは、変換だけでなく、メタデータの収集にも利用できる。この手法は、例えば `@r7kamura` のように文章内でmentionする機能をつくるときなんかに、mentionをリンクに変換しつつ通知先のアカウント名を収集する、といった感じでよく使われる。

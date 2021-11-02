@@ -40,7 +40,7 @@ Windows 10 Pro 64bit辺りをライセンスキー無しでインストールし
 
 WSL2とUbuntu 20.04を入れる。
 
-https://docs.microsoft.com/ja-jp/windows/wsl/install-win10#manual-installation-steps のページを見ながら進めると良い。
+<https://docs.microsoft.com/ja-jp/windows/wsl/install-win10#manual-installation-steps> のページを見ながら進めると良い。
 
 作業内容としては、まず以下のコマンドを管理者として開いたPowerShellで実行し、OSを再起動する。
 
@@ -61,7 +61,7 @@ wsl --set-default-version 2
 
 Windows Package Managerで入れられるものはこれで入れた方が楽なので、これを導入する。
 
-https://github.com/microsoft/winget-cli/releases でMicrosoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundleをダウンロードして実行すると入る。
+<https://github.com/microsoft/winget-cli/releases> でMicrosoft.DesktopAppInstaller_8wekyb3d8bbwe.appxbundleをダウンロードして実行すると入る。
 
 ```
 winget install Discord
@@ -78,7 +78,7 @@ Windows Terminalで次の設定をする。
 1. フォントを変更する
 2. 起動時にUbuntu-20.04をホームディレクトリで開く
 
-設定方法は https://docs.microsoft.com/ja-jp/windows/terminal/customize-settings/global-settings を見ると良い。
+設定方法は <https://docs.microsoft.com/ja-jp/windows/terminal/customize-settings/global-settings> を見ると良い。
 
 例えば、フォントは以下のように変える。
 

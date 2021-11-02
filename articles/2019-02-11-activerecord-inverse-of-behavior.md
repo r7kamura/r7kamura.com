@@ -2,7 +2,7 @@
 title: ActiveRecordで同じクラスに自動でinverse_ofが設定されたときの挙動がおかしい
 ---
 
-unasuke.rb という会で2時間ほど OSS とかの作業をやる機会があったので、前から少し気になっていた件を調査して https://github.com/rails/rails/issues/35204 に Issue を出してみました。
+unasuke.rb という会で2時間ほど OSS とかの作業をやる機会があったので、前から少し気になっていた件を調査して <https://github.com/rails/rails/issues/35204> に Issue を出してみました。
 
 ## inverse_of
 

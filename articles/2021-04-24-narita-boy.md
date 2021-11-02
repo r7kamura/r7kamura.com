@@ -4,7 +4,7 @@ title: 『Narita Boy』をやった
 
 ナリタボーイとなりテクノソードを手にデジタルキングダムを救うアクションアドベンチャーゲーム、Narita Boyをプレイした。
 
-- https://store.steampowered.com/app/1069530
+- <https://store.steampowered.com/app/1069530>
 
 ![](https://i.imgur.com/YmdIVGJh.jpg "起動画面")
 

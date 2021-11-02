@@ -2,7 +2,7 @@
 title: danger-suggesterをプロジェクトに導入するときの話
 ---
 
-https://github.com/r7kamura/danger-suggester の話です。
+<https://github.com/r7kamura/danger-suggester> の話です。
 
 ## 背景
 
@@ -11,9 +11,9 @@ https://github.com/r7kamura/danger-suggester の話です。
 
 これらの問題に対策を講じた上でも、更にいくつか注意が必要な事柄が分かってきたので、今回はそれについての話を書こうと思います。前回までの話に興味がある方がいれば、以下の記事を読んでみてください。
 
-- https://www.patreon.com/posts/danger-22714545
-- https://www.patreon.com/posts/dangerdeinrainko-22832118
-- https://www.patreon.com/posts/danger-jia-22852173
+- <https://www.patreon.com/posts/danger-22714545>
+- <https://www.patreon.com/posts/dangerdeinrainko-22832118>
+- <https://www.patreon.com/posts/danger-jia-22852173>
 
 # Dangerfile 内での処理の順序に気を付けなければならない
 

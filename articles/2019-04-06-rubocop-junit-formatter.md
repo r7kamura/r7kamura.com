@@ -6,7 +6,7 @@ title: rubocop-junit_formatterを導入した
 
 CircleCI では、テスト実行後にメタデータを送信しておくと色々と便宜を図ってくれる機能があります。
 
-https://circleci.com/docs/2.0/collect-test-data/
+<https://circleci.com/docs/2.0/collect-test-data/>
 
 ## rubocop-junit_formatter
 
@@ -14,8 +14,8 @@ rspec_junit_formatter を使うことで RSpec の失敗件数などがテスト
 
 rubocop-junit_formatter と rubocop-junit-formatter の2つがあるようですが、前者の方がメンテナンスされていて良さそうだったので、前者を使っています。
 
-- https://github.com/ngan/rubocop-junit_formatter
-- https://github.com/mikian/rubocop-junit-formatter
+- <https://github.com/ngan/rubocop-junit_formatter>
+- <https://github.com/mikian/rubocop-junit-formatter>
 
 ## 様子
 

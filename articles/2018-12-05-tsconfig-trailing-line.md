@@ -2,7 +2,7 @@
 title: TypeScriptの生成するtsconfig.jsonの末尾に改行を付けた
 ---
 
-https://github.com/Microsoft/TypeScript/pull/28772 の話です。
+<https://github.com/Microsoft/TypeScript/pull/28772> の話です。
 
 ## 経緯
 
@@ -12,7 +12,7 @@ https://github.com/Microsoft/TypeScript/pull/28772 の話です。
 
 まず生成される tsconfig.json の末尾が実際にはどうなっているか詳しく見てみましたが、やはりファイル末尾に改行は付いていないようでした。UNIX のコマンドでやるなら、例えば cat -e tsconfig.json | tail とやると、ファイル末尾に改行があるかどうか簡単に分かります。cat に -e を付けると、改行を $ マークで表示してくれるはずだが、末尾にこれが付いていないことが確認できます。
 
-https://gist.github.com/r7kamura/7c2148053e88902a98c17efa9de27f68
+<https://gist.github.com/r7kamura/7c2148053e88902a98c17efa9de27f68>
 
 次に、あえて付けていないのかどうかを調べてみることにしました。Microsoft/TypeScript のリポジトリ内には tsconfig.json が複数個存在するので、これらを調べてみましたが、ファイル末尾に改行が付いているものと付いていないものが混在しており、付いているほうが多数派のようでした。複数の思想が混在しているか、あるいは誰もあまり気にしていないのではないかと推測しています。結論としては、「あえて付けていないとは言い難い」という感じでした。
 
@@ -24,7 +24,7 @@ https://gist.github.com/r7kamura/7c2148053e88902a98c17efa9de27f68
 
 コードをエントリポイントから追いかけてみたところ、tsc --init を呼び出したときに JSON ファイルに書き込むための文字列を生成している箇所は src/compiler/commandLineParser.ts の generateTSConfig という関数内にあることが分かったので、これを書き換えて、末尾に改行を継ぎ足すことにしました。tsconfig.json が生成されるかどうか確認するテストも既に用意されていたので、ここにも改行を継ぎ足し、上手く符号することも確認できました。
 
-https://github.com/Microsoft/TypeScript/pull/28772
+<https://github.com/Microsoft/TypeScript/pull/28772>
 
 これらの作業を終えて最終的に出したのが上記の Pull Request です。英語がかなり拙い感じですが、前述した通り、POSIX が云々とかは言わずに、「ファイルをエディタで編集するときに面倒で、package.json とかには改行が付いている」ということを言っています…。
 
