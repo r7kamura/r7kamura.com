@@ -42,5 +42,5 @@ Ruby で実装すると他のスクリプト言語で実装した場合に比べ
 
 上の画像はスクロールを実装したあとで動かしてみたレースゲームの様子。
 
-[1]: <https://github.com/r7kamura/rnes>
-[2]: <https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System>
+[1]: https://github.com/r7kamura/rnes
+[2]: https://ja.wikipedia.org/wiki/Nintendo_Entertainment_System

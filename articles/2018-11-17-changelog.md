@@ -54,4 +54,4 @@ Keep a Changelog の話については以上です。完全にこのガイドラ
 
 この Patreon は今のところ、Twitter と Medium との間を補完する、フロー的な技術記録を残しておく場所として利用しています。この記事の内容は幾らか汎用性がある気がしたので、Medium のブログに投稿しても良い内容かなと思うところも少しあったんですが、この記事をブックマークしてもらうぐらいなら keepachangelog.com をブックマークしてもらえれば十分だし、この記事はそこに誘導するための情報なので、ストック情報寄りではなく、あまり多くの被リンクを持つべきページではないと考え、Patreon に投稿しておくことにしました。
 
-[1]: <https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt>
+[1]: https://softwareengineering.stackexchange.com/questions/301691/readme-txt-vs-readme-txt

@@ -68,6 +68,6 @@ nesdev という NES エミュレータの膨大な情報をまとめたあり�
 
 以上、ここまで10日間程度の進捗報告でした。
 
-[1]: <http://hp.vector.co.jp/authors/VA042397/nes/index.html>
-[2]: <http://gikofami.fc2web.com/>
+[1]: http://hp.vector.co.jp/authors/VA042397/nes/index.html
+[2]: http://gikofami.fc2web.com/
 [3]: /articles/2018-11-09-ruby-nes-emulator

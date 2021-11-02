@@ -35,7 +35,7 @@ FactoryBot.create(:user)
 
 例えば、name属性にUniquenessValidatorが定義されていて、name属性の内容が決め打ちだったりすると、こういうコードは失敗する。factoryの定義で `sequence` 等の機能を利用して回避するのが望ましい。
 
-[1]: <https://github.com/thoughtbot/factory_bot>
+[1]: https://github.com/thoughtbot/factory_bot
 
 ## その他
 

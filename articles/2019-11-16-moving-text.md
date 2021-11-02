@@ -84,5 +84,5 @@ MediumはHTMLでエクスポートされるので、最初はNokogiriでぎこ�
 
 全部終わったら、今度は記事に含まれる画像のURLを探索して、適切なサービスに移し替えたい。
 
-[1]: <https://github.com/increments/qiita-rb>
-[2]: <https://hackernoon.com/medium-2-md-convert-medium-posts-to-markdown-with-front-matter-c044e02c3cbb>
+[1]: https://github.com/increments/qiita-rb
+[2]: https://hackernoon.com/medium-2-md-convert-medium-posts-to-markdown-with-front-matter-c044e02c3cbb

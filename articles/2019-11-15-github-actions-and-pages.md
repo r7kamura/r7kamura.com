@@ -16,6 +16,6 @@ Publicリポジトリ向けに用意されているアクセストークンに�
 
 これはGitHub Pagesは関係無い話題。キャッシュ機能を使うために `hashFiles("package-lock.json")` と書いていたのだけど、ここで怒られた。GitHub Actionsでの文字列リテラルは、二重引用符ではなく一重引用符で囲む必要がある。ドキュメントにも[そう書いてある][3]。
 
-[1]: <https://github.com/r7kamura/r7kamura.com/blob/113cef36c0c635f35f1c155061381776cfb71ff2/.github/workflows/publish.yml>
-[2]: <https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/m-p/26869/highlight/true#M301>
-[3]: <https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions#literals>
+[1]: https://github.com/r7kamura/r7kamura.com/blob/113cef36c0c635f35f1c155061381776cfb71ff2/.github/workflows/publish.yml
+[2]: https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/m-p/26869/highlight/true#M301
+[3]: https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions#literals

@@ -75,7 +75,7 @@ suggested changes では、「この1行をこういう複数行にするのは�
 
 調べた結果だけ述べると、それぞれの語の発生時期の分布を元に「-able の能動態としての機能が -ive の持つ機能と競合したために、それ以降の時代では機能分担が進み、-able の能動態としての役割が弱まっていったのではないか」とする説が考えられていいることが分かりました。自分の中での結論としては、能動態と受動態の両方の意味を持ってしまう -able を利用した語の利用には注意しつつ、可能なら利用を避け、もし -ableで造語をつくる場合は受動態に限定しよう、というように考えを改めました。
 
-[1]: <https://github.blog/changelog/2018-10-16-suggested-changes/>
-[2]: <https://github.blog/2018-11-01-suggested-changes-update/>
-[3]: <https://ja.wikipedia.org/wiki/Diff>
-[4]: <https://github.com/r7kamura/danger-suggester/blob/79a3fb0904ce15b45dcbb756349bd584175a5148/lib/danger/suggester/change.rb#L23-L26>
+[1]: https://github.blog/changelog/2018-10-16-suggested-changes/
+[2]: https://github.blog/2018-11-01-suggested-changes-update/
+[3]: https://ja.wikipedia.org/wiki/Diff
+[4]: https://github.com/r7kamura/danger-suggester/blob/79a3fb0904ce15b45dcbb756349bd584175a5148/lib/danger/suggester/change.rb#L23-L26

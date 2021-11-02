@@ -89,4 +89,4 @@ end
 
 トップレベルに奔放に定数を定義せず、そのアプリの名前空間に、ExampleGroupに`include`するmoduleを定義するための名前空間をつくり、そこに定義すること。
 
-[1]: <https://github.com/r7kamura/rspec-request_describer>
+[1]: https://github.com/r7kamura/rspec-request_describer

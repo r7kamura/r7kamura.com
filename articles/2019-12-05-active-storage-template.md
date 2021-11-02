@@ -26,8 +26,8 @@ rails/railsリポジトリには、不具合報告用に、1ファイルで実�
 
 これでIssueの品質が良くなって、ActiveStorageの開発が捗るようになってほしい。
 
-[0]: <https://github.com/rails/rails/pull/37888>
-[1]: <https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates>
-[2]: <https://github.com/rails/rails/issues/37836>
-[3]: <https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html>
-[4]: <https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html>
+[0]: https://github.com/rails/rails/pull/37888
+[1]: https://github.com/rails/rails/tree/v6.0.1/guides/bug_report_templates
+[2]: https://github.com/rails/rails/issues/37836
+[3]: https://guides.rubyonrails.org/contributing_to_ruby_on_rails.html
+[4]: https://edgeguides.rubyonrails.org/contributing_to_ruby_on_rails.html
