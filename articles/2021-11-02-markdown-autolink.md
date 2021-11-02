@@ -1,5 +1,5 @@
 ---
-title: MarkdownのURL記法の見直し
+title: Markdownのautolink記法の見直し
 ---
 
 本文中にURLを直接記述するときの記法を見直した。
