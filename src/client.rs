@@ -27,7 +27,7 @@ impl Client {
                 canonical_path.push_str(".html");
             }
         };
-        let body = response.body().await.unwrap();
+        let body = response.body().limit(10485760).await.unwrap();
         (body, canonical_path)
     }
 }
