@@ -1,2 +1,7 @@
 # For rack-capture output.
 /output
+
+
+# Added by cargo
+
+/target

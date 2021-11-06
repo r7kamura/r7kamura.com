@@ -1,5 +1,0 @@
-#!/usr/bin/bash
-
-set -euo pipefail
-
-mogrify -resize 1920x $1
