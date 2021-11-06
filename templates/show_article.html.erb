@@ -1,0 +1,9 @@
+<article>
+  <header>
+    <time datetime="<%= @article.published_at.iso8601 %>"><%= @article.published_at.strftime('%Y年%m月%d日') %></time>
+    <h1><%= @article.title %></h1>
+  </header>
+  <div>
+    <%= @article.rendered_body %>
+  </div>
+</article>

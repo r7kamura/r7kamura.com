@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+set -euo pipefail
+
+exiftool -all= $1
