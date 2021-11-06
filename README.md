@@ -1,6 +1,6 @@
 # r7kamura.com
 
-[![](https://github.com/r7kamura/r7kamura.com/workflows/publish/badge.svg)](https://github.com/r7kamura/r7kamura.com/actions?query=workflow%3Apublish)
+[![](https://github.com/r7kamura/r7kamura.com/workflows/master/badge.svg)](https://github.com/r7kamura/r7kamura.com/actions?query=workflow%3Amaster)
 
 The source of [r7kamura.com](https://r7kamura.com/).
 
