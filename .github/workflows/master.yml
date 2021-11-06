@@ -19,7 +19,7 @@ jobs:
             ~/.cargo/registry/cache/
             ~/.cargo/registry/index/
             target/
-          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          key: ${{ runner.os }}-cargo-v3-${{ hashFiles('**/Cargo.lock') }}
       - uses: actions-rs/cargo@v1
         name: cargo run -- build
         with:
