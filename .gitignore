@@ -1,7 +1,5 @@
-# For rack-capture output.
+# `cargo run -- build` creates files here.
 /output
 
-
-# Added by cargo
-
+# Cargo's artifacts will be located here.
 /target
