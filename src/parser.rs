@@ -2,24 +2,6 @@ use pulldown_cmark::{html, Options, Parser};
 use scraper::{Html, Selector};
 use serde::Deserialize;
 
-#[derive(Debug)]
-pub struct Data {
-    pub title: String,
-    pub html_body: String,
-    pub image_url: Option<String>,
-    pub summary: Option<String>,
-}
-
-#[derive(Debug)]
-pub enum Error {
-    Frontmatter,
-}
-
-#[derive(Deserialize)]
-struct Frontmatter {
-    title: String,
-}
-
 pub fn parse(content: &str) -> Result<Data, Error> {
     let (yaml, markdown) = split(content)?;
     let frontmatter = parse_yaml(yaml)?;
@@ -37,6 +19,24 @@ pub fn parse(content: &str) -> Result<Data, Error> {
         summary,
         title,
     })
+}
+
+#[derive(Debug)]
+pub struct Data {
+    pub title: String,
+    pub html_body: String,
+    pub image_url: Option<String>,
+    pub summary: Option<String>,
+}
+
+#[derive(Debug)]
+pub enum Error {
+    Frontmatter,
+}
+
+#[derive(Deserialize)]
+struct Frontmatter {
+    title: String,
 }
 
 fn parse_markdown(content: &str) -> String {
