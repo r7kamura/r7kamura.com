@@ -1,0 +1,20 @@
+[package]
+name = "r7kamura_com"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-files = "0.5.0"
+actix-web = "3.3.2"
+askama = "0.10.5"
+chrono = { version = "0.4.19", features = ["serde"] }
+globwalk = "0.8.1"
+pulldown-cmark = "0.8.0"
+scraper = "0.12.0"
+serde = "1.0.130"
+serde_yaml = "0.8.21"
+structopt = "0.3.25"
+
+[features]
