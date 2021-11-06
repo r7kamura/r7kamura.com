@@ -33,19 +33,17 @@ jobs:
         name: cargo build
         with:
           command: build
-          args: --release
       - uses: actions-rs/cargo@v1
         name: cargo clippy
         with:
           command: clippy
-          args: --release -- -D warnings
+          args: -- -D warnings
       - uses: actions-rs/cargo@v1
         name: cargo test
         with:
           command: test
-          args: --release
       - uses: actions-rs/cargo@v1
         name: cargo run -- build
         with:
           command: run
-          args: --release -- build
+          args: -- build
