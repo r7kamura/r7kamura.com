@@ -23,7 +23,7 @@ jobs:
         name: cargo run -- build
         with:
           command: run
-          args: --release -- build
+          args: -- build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
