@@ -25,7 +25,7 @@ struct ShowArticleTemplate<'a> {
 
 fn render(article: Article) -> Result<String, askama::Error> {
     let article: ArticleDecorator = article.into();
-    let canonical_url = format!("https://r7kamura.com/{}", article.id);
+    let canonical_url = format!("https://r7kamura.com{}", article.canonical_path);
     let template = ShowArticleTemplate {
         article: &article,
         canonical_url: &canonical_url,
