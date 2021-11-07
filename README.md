@@ -15,7 +15,7 @@ cargo install --git https://github.com/r7kamura/r7k.git
 ### Preview on local HTTP server
 
 ```shell
-r7k server
+r7k serve
 ```
 
 ### Build static files
