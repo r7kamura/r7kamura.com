@@ -1,8 +1,8 @@
 ---
-title: Markdownのautolink記法の見直し
+title: Autolink記法の再考
 ---
 
-本文中にURLを直接記述するときの記法を見直した。
+このサイトの記事中にURLを記述するときの記法を見直た。
 
 変更前はこう。
 
@@ -20,7 +20,7 @@ https://example.com/
 
 過去記事については機械的な変換を掛けたのだけど、これが近年稀に見る雑な仕事で、恐らく抜け漏れが沢山ある。何なら、もしリンクが壊れていたら古い記事を見直すいい機会になりそうで丁度いいと思っている節もある。
 
-- https://github.com/r7kamura/r7kamura.com/commit/63b673401a38507c34787b0b530db23c2a27753b
+- <https://github.com/r7kamura/r7kamura.com/commit/63b673401a38507c34787b0b530db23c2a27753b>
     - 機械的な変更
-- https://github.com/r7kamura/r7kamura.com/commit/62d8c9392c4256e3ecc4566dbeb0e70938abdf7d
+- <https://github.com/r7kamura/r7kamura.com/commit/62d8c9392c4256e3ecc4566dbeb0e70938abdf7d>
     - 後の手作業での修正
