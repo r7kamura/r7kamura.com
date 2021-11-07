@@ -12,7 +12,7 @@ The source of [r7kamura.com](https://r7kamura.com/).
 cargo install --git https://github.com/r7kamura/r7k.git
 ```
 
-### Preview on local HTTP server
+### Preview on localhost:8080
 
 ```shell
 r7k serve
