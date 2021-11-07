@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-        wget https://github.com/r7kamura/r7k/releases/download/v0.1.0/r7k_v0.1.0_x86_64-unknown-linux-musl.zip
-        unzip r7k_v0.1.0_x86_64-unknown-linux-musl.zip
-        r7k build
+          wget https://github.com/r7kamura/r7k/releases/download/v0.1.0/r7k_v0.1.0_x86_64-unknown-linux-musl.zip
+          unzip r7k_v0.1.0_x86_64-unknown-linux-musl.zip
+          r7k build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
