@@ -72,6 +72,10 @@ actix-webは、HTTPサーバーだけでなく実はHTTPクライアントの機
 
 そこまで見慣れないcrateとしては他に、HTMLやXMLを生成するためのテンプレートエンジンとしてaskamaを、CommonMark準拠のパーサーとしてpulldown-cmarkを、記事本文から細かいメタデータを抽出するためのHTMLパーサーとしてscraperを使っている。
 
+- <https://github.com/djc/askama>
+- <https://github.com/raphlinus/pulldown-cmark>
+- <https://github.com/causal-agent/scraper>
+
 ## 再実装時に変えた挙動
 
 Markdown (をベースとした方言) で書かれた記事データの変換結果が変わり、結果的に生成されるHTMLに違いが出ることになった。変換前まではGitHub Flavored Markdownに準拠したRedcarpetというMarkdownパーサーを利用しており、かつ生成後のHTMLにも幾つか後処理を加えていた。この後処理をやめ、更にCommonMarkに準拠したMarkdownパーサーを利用するように変えたので、次のような追加機能が色々と取り払われた。
