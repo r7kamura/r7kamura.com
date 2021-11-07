@@ -14,7 +14,9 @@ fn asset_paths() -> impl Iterator<Item = String> {
     glob("static/**/*")
         .unwrap()
         .flatten()
-        .map(|entry| entry.path().to_str().unwrap()[8..].to_string())
+        .map(|entry| entry.path().to_owned())
+        .filter(|path| path.is_file())
+        .map(|path| path.to_str().unwrap()[8..].to_string())
 }
 
 fn other_paths() -> impl Iterator<Item = String> {
