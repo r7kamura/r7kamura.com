@@ -16,7 +16,7 @@ winget install PowerToys
 
 wingetで入れられるので試しに入れてみて、その中のPowerToys Runという機能を常用してみることにした。
 
-![](/images/2020-09-28-power-toys-run.png "PowerToys Runsの様子")
+![](https://i.imgur.com/wqEmkxgh.png "PowerToys Runsの様子")
 
 Macの[Alfred](https://www.alfredapp.com/)と使用感がかなり似ていて、使い心地もわりと良い。似たようなことはWinodwsキーを押したあとに使える検索機能でも代替可能なのだけど、こちらの方が使い勝手が少し良い。
 
@@ -26,7 +26,7 @@ Macの[Alfred](https://www.alfredapp.com/)と使用感がかなり似ていて�
 
 一応他の機能の例も紹介しておくと、FancyZonesという機能も、人によっては活用できることが多いと思う。自分は画面は常に2分割しかしない派なので、Windowsのスナップ機能で間に合っており、今のところは間に合っている。
 
-![](/images/2020-09-28-power-toys-fancy-zones.png "FancyZonesの設定画面")
+![](https://i.imgur.com/rxY6Qcoh.png "FancyZonesの設定画面")
 
 スナップ機能については、もともと気に入らない挙動があったので困っていたところ、amagiさんが教えてくれたおかげで解決できた。設定 > マルチタスク から「ウィンドウをスナップしたときに、横に配置できるものを表示する」という機能をオフにできるらしい。
 

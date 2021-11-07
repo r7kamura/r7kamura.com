@@ -2,7 +2,7 @@
 title: 『Return of the Obra Dinn』をやった
 ---
 
-![](/images/2020-01-06-return-of-the-obra-dinn.jpg)
+![](https://i.imgur.com/7JOsgJhh.jpg)
 
 死体謎解きアドベンチャーゲーム『Return of the Obra Dinn』をやった。
 

@@ -65,7 +65,7 @@ suggested changes では、「この1行をこういう複数行にするのは�
 
 下図は rubocop の自動修正結果が danger-suggester によって提案されている様子です。
 
-![](/images/2018-11-15-danger-suggester.png)
+![](https://i.imgur.com/A6Qh0Yph.png)
 
 ## 余談: -able 形容詞
 

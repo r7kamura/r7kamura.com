@@ -2,7 +2,7 @@
 title: 『ライザのアトリエ 〜常闇の女王と秘密の隠れ家〜』をやった
 ---
 
-![](/images/2020-01-19-atelier-ryza.jpg)
+![](https://i.imgur.com/WFYzWICh.jpg)
 
 ライザのアトリエがSteamで30%オフで売られていたので、購入した勢いで一気にクリアした。
 

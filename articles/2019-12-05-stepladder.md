@@ -6,9 +6,9 @@ title: 折り畳める踏み台を購入
 
 [Lifinsky 踏み台](https://www.amazon.co.jp/dp/B07MZV8YVL)
 
-![](/images/2019-12-05-stepladder-1.jpg "畳んだ様子")
+![](https://i.imgur.com/Zh2fjVRh.jpg "畳んだ様子")
 
 普段は玄関周りに置いておいて、靴の脱ぎ履きのときに荷物を置いたり座ったりするのに使う。
 
-![](/images/2019-12-05-stepladder-2.jpg)
+![](https://i.imgur.com/nAFlGJLh.jpg)
 開いた様子

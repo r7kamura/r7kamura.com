@@ -2,7 +2,7 @@
 title: 『A Short Hike』をやった
 ---
 
-![](/images/2020-01-03-a-short-hike.png)
+![](https://i.imgur.com/PF06K51h.png)
 
 短編ハイキングアドベンチャーゲーム『A Short Hike』をやった。
 

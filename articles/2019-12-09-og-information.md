@@ -2,7 +2,7 @@
 title: ページのメタデータを整えた
 ---
 
-![](/images/2019-12-09-og-information.png)
+![](https://i.imgur.com/RjZ1jpFh.png)
 
 meta要素を見直して、これまで用意されていなかったdescriptionとog:imageを適切に用意するようにした。
 

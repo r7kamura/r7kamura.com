@@ -2,7 +2,7 @@
 title: 排水口の掃除
 ---
 
-![](/images/2020-10-12-ember-restored.jpg)
+![](https://i.imgur.com/rFUicB5h.jpg)
 
 ひさしぶりに浴室の排水口を掃除した。
 

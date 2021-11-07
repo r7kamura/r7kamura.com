@@ -6,15 +6,15 @@ title: バナナの冷凍おき
 
 長期保存できる材料でスムージーをつくろうと思い、近所で売っていた1房72円のバナナを冷凍保存しておき、調整豆乳で割って飲むことにした。
 
-![](/images/2019-12-20-frozen-banana-1.jpg)
+![](https://i.imgur.com/VChzKvOh.jpg)
 
-![](/images/2019-12-20-frozen-banana-2.jpg)
+![](https://i.imgur.com/fBu8FTXh.jpg)
 
-![](/images/2019-12-20-frozen-banana-3.jpg)
+![](https://i.imgur.com/DGw3lweh.jpg)
 
-![](/images/2019-12-20-frozen-banana-4.jpg)
+![](https://i.imgur.com/g6mwcoMh.jpg)
 
-![](/images/2019-12-20-frozen-banana-5.jpg)
+![](https://i.imgur.com/jQjnh5Hh.jpg)
 
 ---
 
@@ -22,4 +22,4 @@ title: バナナの冷凍おき
 
 電動ミキサーならくっついた状態でも無理矢理スプーンとかで塊を剥がしてすり潰せそうだけど、自分のはハンドミキサーだからちょっとしんどい。リングフィットが30日間続いたら、褒美に洗いやすい電動ミキサーを買いたい。
 
-![](/images/2019-12-20-frozen-banana-6.jpg)
+![](https://i.imgur.com/iGvTw8Th.jpg)

@@ -21,4 +21,4 @@ rubocop-junit_formatter と rubocop-junit-formatter の2つがあるようです
 
 こういう感じで失敗件数等が分かって便利。実行に時間が掛かったファイルや、ビルド間での統計的な情報も得られるようになるので、わりと重宝するのではないかと思っています。
 
-![](/images/2019-04-06-rubocop-junit-formatter-1.png)
+![](https://i.imgur.com/bDuLxDYh.png)

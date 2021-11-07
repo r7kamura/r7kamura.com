@@ -4,7 +4,7 @@ title: PCデスクの機器と配線の計画
 
 PCデスクを買い換えることにしたので、機器と配線について整理する。
 
-![](/images/2020-09-21-cable-dependencies.jpg)
+![](https://i.imgur.com/hDxuRn7h.jpg)
 
 ## 機器
 

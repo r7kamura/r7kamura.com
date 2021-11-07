@@ -2,7 +2,7 @@
 title: トップページへのリンク名を変更
 ---
 
-![](/images/2019-12-16-top-page-link-title.png)
+![](https://i.imgur.com/KYM34dyh.png)
 
 トップページへのリンクのテキストを「トップページ」から「r7kamura」に変えた。
 

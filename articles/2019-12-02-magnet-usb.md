@@ -2,7 +2,7 @@
 title: TOPK Coのマグネット式USBアダプタ
 ---
 
-![](/images/2019-12-02-magnet-usb.jpg)
+![](https://i.imgur.com/oh2Eskjh.jpg)
 
 マグネット式USBアダプタを買ってみた。
 

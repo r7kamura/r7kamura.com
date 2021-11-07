@@ -4,9 +4,9 @@ title: 記事一覧と順序付きリスト
 
 記事一覧も順序付きリストなのだから、`list-style-type: none` で数字を消さず、自然状態にしておく方が良いかもしれない。そう思って実験してみたが、うるさすぎて没にした。
 
-![](/images/2020-09-27-list-style-1.png "没案・上部")
+![](https://i.imgur.com/UTvsrOdh.png "没案・上部")
 
-![](/images/2020-09-27-list-style-2.png "没案・下部")
+![](https://i.imgur.com/cL8XoQ6h.png "没案・下部")
 
 良い感想もあったので記録しおく。
 

@@ -2,7 +2,7 @@
 title: 『ペンギン・ハイウェイ』観た
 ---
 
-![](/images/2019-12-14-penguin-highway.jpg)
+![](https://i.imgur.com/OayQ362h.jpg)
 
 Amazonプライム・ビデオで『ペンギン・ハイウェイ』が配信されてたので観た。
 
