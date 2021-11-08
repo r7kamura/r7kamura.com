@@ -26,8 +26,8 @@ test-unit や minitest などの歴史的経緯を追っていると、勉強用
 
 <https://github.com/petitest/petitest>
 
-![](/images/2018-11-19-rurema-whitespace-2-1.png)
+![](https://i.imgur.com/5zLyaXMh.png)
 
 テスティングフレームワークと言えば、最近 anolson/git_diff に Pull Request を出そうとしたときも、テスト結果の出力方法が fabulous で、ちょっと楽しくなりました。これは minitest/pride を利用した出力結果だと思います。こういう些細なところへの機知みたいなものを大事にしていきたいですね。
 
-![](/images/2018-11-19-rurema-whitespace-2-2.png)
+![](https://i.imgur.com/K0oL3U1h.png)

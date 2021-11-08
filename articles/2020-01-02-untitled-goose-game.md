@@ -2,7 +2,7 @@
 title: 『Untitled Goose Game』をやった
 ---
 
-![](/images/2020-01-02-untitled-goose-game.jpg)
+![](https://i.imgur.com/iqw9OBRh.jpg)
 
 ドタバタアクション・ステルス・サンドボックス・ガチョウシミュレーター『Untitled Goose Game』をやった。
 

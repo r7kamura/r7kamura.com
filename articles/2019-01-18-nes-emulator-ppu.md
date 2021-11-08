@@ -4,7 +4,7 @@ title: NESエミュレータの画面描画
 
 <https://github.com/r7kamura/nes8> の画面が一通り動くようになりました。忘れないように、画面描画周りの実装について振り返っておこうと思います。
 
- ![](/images/2019-01-18-nes-emulator-ppu-1.gif)
+ ![](https://i.imgur.com/y7v50hIh.gif)
 
 ## 想定読者
 

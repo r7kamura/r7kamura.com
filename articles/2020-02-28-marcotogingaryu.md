@@ -2,7 +2,7 @@
 title: 『マルコと銀河竜』をやった
 ---
 
-![](/images/2020-02-28-marcotogingaryu.jpg)
+![](https://i.imgur.com/gHuLNNSh.jpg)
 
 前々から気になってた『マルコと銀河竜』が遂に発売されたので、購入してそのままエンディングまで駆け抜けてしまった。
 

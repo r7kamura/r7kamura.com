@@ -2,7 +2,7 @@
 title: つくりおき
 ---
 
-![](/images/2020-10-29-tsukurioki.jpg)
+![](https://i.imgur.com/LnDV4E2h.jpg)
 
 気が向いたときにホットクックで常備菜をつくっている。
 

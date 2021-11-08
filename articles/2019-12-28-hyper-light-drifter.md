@@ -2,7 +2,7 @@
 title: 『Hyper Light Drifter』をやった
 ---
 
-![](/images/2019-12-28-hyper-light-drifter.png)
+![](https://i.imgur.com/I8nWNrxh.png)
 
 美しい2DアクションRPG『Hyper Light Drifter』をやった。
 

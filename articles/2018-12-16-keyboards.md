@@ -2,7 +2,7 @@
 title: キーボード遍歴
 ---
 
-![](/images/2018-12-16-keyboards-1.jpg "PCデスク周りの様子")
+![](https://i.imgur.com/q8QHGNah.jpg "PCデスク周りの様子")
 
 これまで使ってきた、打鍵用キーボードの話。
 

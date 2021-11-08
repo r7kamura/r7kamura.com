@@ -2,7 +2,7 @@
 title: 『ファイアーエムブレム 風花雪月』をやった
 ---
 
-![](/images/2020-02-10-fe-three-houses.jpg)
+![](https://i.imgur.com/dEYLapZh.jpg)
 
 ようやく3つの学級をクリアしたので感想を書ける。
 

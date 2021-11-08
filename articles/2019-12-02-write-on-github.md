@@ -4,7 +4,7 @@ title: GitHub上で文章を書く
 
 GitHubのファイル作成画面から日本語の文章を書いてみたところ、意外と体験が良かった。
 
-![](/images/2019-12-02-github-screenshot.png)
+![](https://i.imgur.com/fA4jDUOh.png)
 
 IMEや折り返しの挙動には今のところ困ってないし、Markdownのプレビュー機能やリッチな差分表示もあるし、URLが固定なのでアクセスもしやすく、画像のアップロードもできる。
 
