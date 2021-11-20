@@ -22,4 +22,18 @@ workflowsというリポジトリに、自分がよく使うWorkflowをまとめ
 - Rustでcrateを更新する
 - Rustでバイナリを生成してGitHub Releaseに紐付ける
 
-コピペを防げたり、何か方針を変更したいときに一気に変更を適用できたりと、何かと利点が多い。
+例えば、利用する側では次のようなコードを書くことになる。
+
+```yaml
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    uses: r7kamura/workflows/.github/workflows/rust-test.yml@main
+```
+
+コピペを防げたり、何か方針を変更したいときに一気に変更を適用できたりと、何かと利点が多い。これまでも、単一のWorkflowごとにリポジトリを用意することで再利用できる仕組みはあったが、Reusable workflowでは1つのリポジトリで何個もWorkflowを公開できるので、より気軽にWorkflowを再利用できるようになったと思う。
