@@ -6,7 +6,7 @@ title: AnkerのiPhone 12用充電スタンド
 
 TwitterでiPhone 12用充電スタンドのおすすめを聞いてみたところ、hsbtさんにこちらの製品を教えてもらって即購入。使い勝手も良く大満足。
 
-- https://www.amazon.co.jp/dp/B094JCGS5L
+- <https://www.amazon.co.jp/dp/B094JCGS5L>
 - <https://www.ankerjapan.com/products/a2543>
 
 以下気に入っているところ。
@@ -19,5 +19,5 @@ TwitterでiPhone 12用充電スタンドのおすすめを聞いてみたとこ�
 
 ちなみにこの製品にはUSB Type-Cのケーブルしか付属しておらず、例えばコンセントから給電したいならアダプタは自分で用意する必要があるので、購入時は注意されたい。自分はAnkerの充電器と接続して使っている。
 
-- https://www.amazon.co.jp/dp/B072KBG9W4
+- <https://www.amazon.co.jp/dp/B072KBG9W4>
 - <https://www.ankerjapan.com/collections/charger/products/a2056>

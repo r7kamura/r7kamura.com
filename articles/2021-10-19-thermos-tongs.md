@@ -4,7 +4,7 @@ title: サーモスのトング
 
 調理用の汎用トングとして、サーモスのトングを購入した。タンブラー以外でサーモスの製品を買うことになるとは思っておらず、少し意外。
 
-- https://www.amazon.co.jp/dp/B08DTDBF58
+- <https://www.amazon.co.jp/dp/B08DTDBF58>
 
 ![](https://i.imgur.com/vbBYfYnh.jpg "置いても先端が下に触れない")
 
@@ -24,7 +24,7 @@ title: サーモスのトング
 
 トングと言えば、他にもう1本ピンセット型の金属のトングもよく使っている。
 
-- https://www.amazon.co.jp/dp/B006M80ODC
+- <https://www.amazon.co.jp/dp/B006M80ODC>
 
 ![](https://i.imgur.com/4xnKcMHh.jpg "先端が細くて扱いやすい")
 

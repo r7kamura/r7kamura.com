@@ -4,7 +4,7 @@ title: グラボを支える技術
 
 重いグラフィックボードを支えるために、長尾製作所が製造している磁石式のVGAサポートステイを取り付けた。
 
-- https://www.amazon.co.jp/dp/B01LPO6KJO
+- <https://www.amazon.co.jp/dp/B01LPO6KJO>
 
 ![](https://i.imgur.com/WuY04fkh.jpg "構成要素")
 

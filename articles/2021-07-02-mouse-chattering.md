@@ -10,4 +10,4 @@ LogicoolのG903というマウスを利用していて、最近チャタリン�
 
 ちなみにうちには接点復活剤が無かったので代わりにKUREの5-56を使ったが、樹脂部が溶けたりしそうなので、本当は接点復活剤を使った方が良いと思う。
 
-- https://www.amazon.co.jp/dp/B000TGO0ME
+- <https://www.amazon.co.jp/dp/B000TGO0ME>
