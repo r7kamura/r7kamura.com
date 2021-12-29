@@ -1,5 +1,5 @@
 ---
-title: AnkerのiPhone 12用充電スタンド
+title: AnkerのiPhone充電スタンド
 ---
 
 ![](https://i.imgur.com/8kDTSgWh.jpg)
