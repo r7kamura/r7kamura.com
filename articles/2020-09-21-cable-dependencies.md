@@ -77,7 +77,7 @@ iPad Proは気難しく、充電できない製品が多いが、この製品で
 
 [Stouchi マグネット式充電アダプタ](https://www.amazon.co.jp/dp/B07GGCSV45)
 
-iPhoneは[2年ほど前から](http://localhost:9292/articles/2018-10-31-iphone-xs-max-cb840d595fae)ロジクールの白い充電スタンドをベッドサイドで使っていて、安定感があるし充電量的にも寝るときだけ充電する問題は無いのだけど、デスクでもiPhoneの定位置が欲しいので新しいのを買うかも。
+iPhoneは[2年ほど前から](/articles/2018-10-31-iphone-xs-max-cb840d595fae)ロジクールの白い充電スタンドをベッドサイドで使っていて、安定感があるし充電量的にも寝るときだけ充電する問題は無いのだけど、デスクでもiPhoneの定位置が欲しいので新しいのを買うかも。
 
 [ロジクール 無線充電スタンド iD20WH](https://www.amazon.co.jp/dp/B07QB62131)
 
