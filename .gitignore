@@ -1,5 +1,0 @@
-# `cargo run -- build` creates files here.
-/output
-
-# Cargo's artifacts will be located here.
-/target
