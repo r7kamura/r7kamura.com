@@ -4,7 +4,7 @@ title: iOSでタイトルとURLをコピーするショートカット
 
 まだAppleに破壊されていなければ、次のリンクから導入できる。
 
-- <https://www.icloud.com/shortcuts/b2ad9cf6ee854c109d2f1f3e21f49131>
+- <https://www.icloud.com/shortcuts/b036fc2f850c4de496c65eb6eb72f90e>
 
 導入すると、SafariやChromeなどのアプリケーションでページを閲覧中に、iOSの共有ボタンから選択できるようになる。現在のSafariで言うと画面下部中央のボタン、Chromeで言うと画面上部のロケーションバー右側のボタンだ。手元ではiOS 15.1.1で動作を確認した。
 
