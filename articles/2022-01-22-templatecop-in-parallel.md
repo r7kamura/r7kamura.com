@@ -24,7 +24,7 @@ offenses = Parallel.flat_map(file_paths) { ... }
 
 しかし、ここで二点の課題がある。
 
-一点目。子プロセスの実行結果（ブロックの返り値）を親プロセスで受け取りしたい場合、その値はMarshalでシリアライズ・デシリアライズできる形式でなければならない。今回はRuboCop::Cop::Offenseオブジェクトがインスタンス変数内にProcオブジェクトを含んでおり、そのままではMarshalに対応していなかったので、`#marshal_dump` と `#marshal_load` を定義することで解決を図った。
+一点目。子プロセスの実行結果（ブロックの返り値）を親プロセスで受け取りたい場合、その値はMarshalでシリアライズ・デシリアライズできる形式でなければならない。今回はRuboCop::Cop::Offenseオブジェクトがインスタンス変数内にProcオブジェクトを含んでおり、そのままではMarshalに対応していなかったので、`#marshal_dump` と `#marshal_load` を定義することで解決を図った。
 
 - <https://docs.ruby-lang.org/ja/latest/method/Object/i/marshal_dump.html>
 
