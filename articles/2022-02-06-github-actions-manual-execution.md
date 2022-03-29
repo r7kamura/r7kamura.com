@@ -24,3 +24,7 @@ index 67d24e3c..e431c5c6 100644
 これで、ワークフローのページに手動実行用のUIが現れるようになる。
 
 ![](https://i.imgur.com/X1n9JDwh.png)
+
+ちなみに、GitHub Actionsが不調なときに手動実行の命令を出しても反応が無いことが多いので、元気になってから手動実行した方が確実である。
+
+- <https://www.githubstatus.com/>
