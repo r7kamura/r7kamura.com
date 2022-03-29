@@ -41,7 +41,7 @@ ifの項目で `contains` 関数や `||` オペレーターを利用すると、
 
 ifの項目で `steps.*.conclusion` を利用すると、if-else的な表現を行える。このためにif側のstepにidを割り当てている。前述の通り、`rubocop` コマンドは引数無しだと全てのファイルに対して実行してしまうので、変更されたファイルが存在しない場合は処理自体を実行しないようにも配慮している。つまりelse ifになっている。
 
-GitHub Actionsのドキュメントでは、ifの項目で使える関数やオペレーターの説明は[Expressionsのページ](https://docs.github.com/en/actions/learn-github-actions/expressions)に、conclusionの説明は[Contextのページ](https://docs.github.com/en/actions/learn-github-actions/contexts)に記載されている。
+GitHub Actionsのドキュメントでは、関数やオペレーターの説明は[Expressionsのページ](https://docs.github.com/en/actions/learn-github-actions/expressions)に、conclusionの説明は[Contextのページ](https://docs.github.com/en/actions/learn-github-actions/contexts)に記載されている。
 
 変更されたファイルにはRubyではないファイルも含まれるが、`rubocop --force-exclusion` のようにオプションを付けると、例えコマンドライン引数としてファイルパスを指定したとしても、設定を元に対象のファイルかどうかを判断してくれるようになるので、これで上手くいく。例えばそういった機能が無いコマンドを対象とする場合、拡張子で判断するならば、次の例のようにもできる。これはSlimテンプレートを対象に、`slimcop` コマンドを実行する例。
 
