@@ -29,3 +29,25 @@ Bundlerに対して、設定ファイルの配置されるディレクトリを�
 例えば `bundle config set --local path vendor/bundle` とか、1系の頃のBundlerであれば `bundle install --path vendor/bundle` のように指定すると、このディレクトリのconfigというファイルにパスに関する設定が書き込まれ、`bundle install` の実行時に利用されるようになる。環境変数で指定されなかった場合は、カレントディレクトリの .bundle というディレクトリが利用される。
 
 DockerHub公式のRuby向けDockerイメージでは、BUNDLE_APP_CONFIGが /usr/local/bundle に設定されているので、これを知らないとその挙動に驚かされがち。
+
+## Dockerfileの設定例
+
+ここまでの話を元に、開発環境で使うRuby向けのDockerfileの設定例を用意してみる。
+
+```
+# Note that we use data-volume mounted on /gem to persistent gems.
+
+# Let RubyGems to install gems into /gem and install executables into /gem/bin.
+ENV GEM_HOME=/gem
+
+# Let Bundler to install gems into /gem.
+ENV BUNDLE_PATH=/gem
+
+# Let Bundler to install executables into /gem/bin.
+ENV BUNDLE_BIN=/gem/bin
+
+# Let shells to search executables from /gem/bin.
+ENV PATH="/gem/bin:${PATH}"
+```
+
+利用すべきBundlerのバージョンはアプリケーション側のGemfile.lockで指定されているので、DockerfileにBundlerのインストール工程を含むことは避け、アプリケーション側の `bin/setup` 等の環境構築用スクリプト内でそれをやってもらう、という想定をしている。
