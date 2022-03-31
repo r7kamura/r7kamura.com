@@ -37,16 +37,16 @@ DockerHub公式のRuby向けDockerイメージでは、BUNDLE_APP_CONFIGが /usr
 ```
 # Note that we use data-volume mounted on /gem to persistent gems.
 
-# Let RubyGems to install gems into /gem and install executables into /gem/bin.
+# Let RubyGems install gems into /gem and install executables into /gem/bin.
 ENV GEM_HOME=/gem
 
-# Let Bundler to install gems into /gem.
+# Let Bundler install gems into /gem.
 ENV BUNDLE_PATH=/gem
 
-# Let Bundler to install executables into /gem/bin.
+# Let Bundler install executables into /gem/bin.
 ENV BUNDLE_BIN=/gem/bin
 
-# Let shells to search executables from /gem/bin.
+# Let shells search executables from /gem/bin.
 ENV PATH="/gem/bin:${PATH}"
 ```
 
