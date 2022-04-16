@@ -45,7 +45,7 @@ jobs:
           git push --force origin "HEAD:refs/heads/${branch_name}"
 ```
 
-GITHUB_REF_NAMEに `v3.4.5` のようなタグ名が入っているので、これをsedで処理して `v3` に加工し、remote側のその名前のブランチにpushしている。こういった環境変数については、[GitHub Actionsの公式ドキュメント](https://docs.github.com/en/actions/learn-github-actions/environment-variables)にまとめられている。例えばactions/checkout@v3はタグとして管理されているようだったが、継続的に更新されていくものなので、タグよりブランチの方が好ましいと考えてブランチを選んだ。
+GITHUB_REF_NAMEに `v3.4.5` のようなタグ名が入っているので、これをsedで処理して `v3` に加工し、remote側のその名前のブランチにpushしている。こういった環境変数については、[GitHub Actionsの公式ドキュメント](https://docs.github.com/en/actions/learn-github-actions/environment-variables)にまとめられている。参考にしたactions/checkout@v3はタグとして管理されているようだったが、継続的に更新されていくものなので、タグよりブランチの方が好ましいと考えて今回の実装ではブランチを選んだ。
 
 プッシュ先は `refs/heads/v3` と指定している。注意点として、例えばこれを `v3` と指定しまうと、まだv3というブランチもv3というタグも存在しなかった場合に `refs/heads/v3` と `refs/tags/v3` のどちらを意味しているのか分からないという理由でエラーになってしまうため、初回実行時から成功させるためにこのように正確な指定が必要になる。
 
