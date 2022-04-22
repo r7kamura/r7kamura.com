@@ -12,4 +12,4 @@ Railsは、app/views/home/index.html.erbのようなViewテンプレートを一
 2. テンプレート候補をvirtual pathで絞り込む
 3. テンプレート候補をdetailsで絞り込む
 
-例えば、jpmobile gemでは独自のResolverを用意して、app/views/home/index_smartphone.html.erbのようなViewテンプレートが探索されるように挙動を変えている。テンプレート候補それぞれに対して、正規表現を利用してファイルパスを細かい部品に分類する工程があるのだけど、jpmobile 7.0だとその正規表現に細工して `_smart_phone` の部分も受け入れられるようにしている。更にdetailsの比較処理にも細工して、この部分も含めて要求に一致するかどうか調べるように変えている。
+例えば、jpmobile gemでは独自のResolverを用意して、app/views/home/index_smart_phone.html.erbのようなViewテンプレートが探索されるように挙動を変えている。テンプレート候補それぞれに対して、正規表現を利用してファイルパスを細かい部品に分類する工程があるのだけど、jpmobile 7.0だとその正規表現に細工して `_smart_phone` の部分も受け入れられるようにしている。更にdetailsの比較処理にも細工して、この部分も含めて要求に一致するかどうか調べるように変えている。
