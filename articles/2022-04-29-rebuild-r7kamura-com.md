@@ -35,7 +35,7 @@ CSSも少しだけ変えた。これまで白背景だけだったが、Google D
 改めて、このウェブサイトの歴史を振り返る。
 
 - 2013年 r7kamura.github.io をRubyで実装
-- 2019年 r7kamura.github.io から r7kamura.com へドメインを変更
+- 2019年 r7kamura.com へドメインを変更
 - 2019年 r7kamura.com へ各種サービスから移行
 - 2021年 r7kamura.com をRustで再実装
 - 2022年 r7kamura.com をJavaScriptで再実装
