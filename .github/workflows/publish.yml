@@ -10,14 +10,22 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: r7k build
-        run: |
-          version=0.4.0
-          wget "https://github.com/r7kamura/r7k/releases/download/v${version}/r7k_v${version}_x86_64-unknown-linux-musl.zip"
-          unzip "r7k_v${version}_x86_64-unknown-linux-musl.zip"
-          ./r7k build
+      - uses: actions/checkout@v3
+        with:
+          repository: r7kamura/r7n
+      - uses: actions/checkout@v3
+        with:
+          path: r7kamura.com
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
+          cache: npm
+      - run: npm install
+      - run: npm run export
+        env:
+          ARTICLES_DIRECTORY_PATH: ./r7kamura.com/articles
       - uses: peaceiris/actions-gh-pages@v3
         with:
+          cname: r7kamura.com
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: output
+          publish_dir: out
