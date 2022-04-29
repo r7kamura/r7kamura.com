@@ -1,5 +1,5 @@
 ---
-title: r7kamura.comの再実装
+title: r7kamura​.comの再実装
 ---
 
 ウェブサイトをまた作り直した。
