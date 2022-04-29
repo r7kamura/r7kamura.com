@@ -6,20 +6,8 @@ The source of [r7kamura.com](https://r7kamura.com/).
 
 ## Usage
 
-### Setup
+Use [r7kamura/r7n](https://github.com/r7kamura/r7n) as local preview server.
 
 ```shell
-cargo install --git https://github.com/r7kamura/r7k.git
-```
-
-### Preview on localhost:8080
-
-```shell
-r7k serve
-```
-
-### Build static files
-
-```
-r7k build
+ARTICLES_DIRECTORY_PATH=/path/to/r7kamura.com/articles npm run dev
 ```
