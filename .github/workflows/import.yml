@@ -16,7 +16,7 @@ jobs:
         with:
           service_account: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
           workload_identity_provider: ${{ secrets.GOOGLE_WORKLOAD_IDENTITY_PROVIDER }}
-      - uses: r7kamura/google-docs-to-local@main
+      - uses: r7kamura/google-docs-to-markdown@main
         with:
           google_drive_folder_id: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
           output_directory_path: output
