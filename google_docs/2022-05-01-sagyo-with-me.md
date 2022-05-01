@@ -20,4 +20,4 @@ Next.jsや最近のGitHub APIの学習も兼ねて、GiHub IssuesをCMSとして
 
 [https://github.com/r7kamura/github-issues-as-blog](https://github.com/r7kamura/github-issues-as-blog)
 
-dataブランチにissues.jsonというファイルが配置されており、Issueを作成したり編集したりすると、にそのIssueの内容が
+dataブランチにissues.jsonというファイルが配置されており、Issueを作成したり編集したりするとその内容が更新される、という仕組みを今回実装できた。また、このファイルをデータソースとしてブログのように見せるNext.jsのアプリも、半分ぐらい実装できた。
