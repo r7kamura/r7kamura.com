@@ -12,8 +12,8 @@ SSRであればAPI RoutesとRewrites、あるいはgetServerPropsが使えるの
 
 この問題に対して巷ではどんな回避策が取られているのかというと、次のような作戦が試みられているようだった。
 
-*   next exportの直前に、publicディレクトリにファイルをつくる
-*   適当なページのgetStaticPropsの中で、publicディレクトリにファイルをつくる
+*   next exportの直前に、publicディレクトリにファイルをつくる作戦
+*   適当なページのgetStaticPropsの中で、publicディレクトリにファイルをつくる作戦
 
 今回サイトマップを例に挙げたが、説明例としてはあまり良くない点がある。サイトマップの生成には、どんなページが存在するのかというメタデータがあると実装しやすいので、next buildとnext exportの間に処理を挟むことには幾らか妥当性がある。実際、サイトマップ生成によく利用される[next-sitemap](https://github.com/iamvishnusankar/next-sitemap)というパッケージもそういう作戦を取っている。なので、今回はRSSフィードの例を第一に考えるのが妥当かも。
 

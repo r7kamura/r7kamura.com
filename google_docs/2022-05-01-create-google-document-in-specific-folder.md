@@ -7,7 +7,11 @@ title: フォルダにGoogleドキュメントを作るURL
 
 {folder\_id} の部分は、フォルダのIDに置き換えること。フォルダのIDは、Googleドライブでフォルダにアクセスすると、URLの末尾の部分に記載されている。
 
-アカウントを指定して開きたい場合、次のような形式のURLを利用できるらしい。
+このURLでは他に、次のようにtitleというURLクエリパラメーターも使えるらしい。例えば、今日の日記を書くようなBookmarkletとかで便利に使えるかも。
+
+[https://docs.google.com/document/create?title=2022-05-01-diary](https://docs.google.com/document/create?folder=%7Bfolder_id)
+
+アカウントを指定して開きたい場合は、次のような形式のURLを利用できる。
 
 [https://accounts.google.com/AccountChooser?Email={email}&faa=1&continue={url](https://accounts.google.com/AccountChooser?Email=%7Bemail%7D&faa=1&continue=%7Burl)}
 
