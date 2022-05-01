@@ -23,7 +23,7 @@ jobs:
       - run: npm install
       - run: npm run export
         env:
-          ARTICLES_DIRECTORY_PATH: ./r7kamura.com/articles
+          ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles,./r7kamura.com/google_docs
       - uses: peaceiris/actions-gh-pages@v3
         with:
           cname: r7kamura.com
