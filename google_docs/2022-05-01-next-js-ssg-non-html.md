@@ -18,3 +18,7 @@ SSRであればAPI RoutesとRewrites、あるいはgetServerPropsが使えるの
 今回サイトマップを例に挙げたが、説明例としてはあまり良くない点がある。サイトマップの生成には、どんなページが存在するのかというメタデータがあると実装しやすいので、next buildとnext exportの間に処理を挟むことには幾らか妥当性がある。実際、サイトマップ生成によく利用される[next-sitemap](https://github.com/iamvishnusankar/next-sitemap)というパッケージもそういう作戦を取っている。なので、今回はRSSフィードの例を第一に考えるのが妥当かも。
 
 もしNext.jsをこういう用途に対応させるなら、HTML以外を返すページを定義できるようにする、とかになるのだろうか。そうすれば、getStaticPathsとgetStaticPropsという仕組みを再利用できる。API RoutesをSSGに対応させることについても少し考えてみたが、API Routesは引数にrequestとresponseを取る形式になっているから、SSGではリクエストやレスポンスという概念が登場しないように出来ているので、この方向性は具合が悪そうに思う。
+
+* * *
+
+後日、[Generate non-HTML files on \`next export\` · Discussion #36640 · vercel/next.js · GitHub](https://github.com/vercel/next.js/discussions/36640) を投稿した。Next.jsはGitHub Discussionsも活用しているようで、投稿前はIssuesとDiscussionsのどちらを利用するか迷った。結局Issueにfeature requestのテンプレートがあったのでそこから投稿したのだけど、しばらくしてメンテナーの方によってGitHub Discussionに移管されていたので、この手の話はDiscussionsでやりたいらしい。
