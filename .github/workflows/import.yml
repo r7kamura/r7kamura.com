@@ -16,14 +16,7 @@ jobs:
         with:
           service_account: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
           workload_identity_provider: ${{ secrets.GOOGLE_WORKLOAD_IDENTITY_PROVIDER }}
-      - uses: r7kamura/google-docs-to-markdown@main
+      - uses: r7kamura/google-docs-to-github@v3
         with:
-          google_drive_folder_id: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
-          output_directory_path: output
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          destination_dir: google_docs
-          disable_nojekyll: true
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          publish_branch: main
-          publish_dir: output
+          google_drive_folder_id: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
