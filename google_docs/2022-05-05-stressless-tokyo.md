@@ -1,19 +1,19 @@
 ---
 title: ストレスレストーキョーで作業
 ---
-[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh4.googleusercontent.com/w1OMt4s7kpTpJd_L7G7xddOTjEbpumnxaA5FDBSl2HnITnhlEMaKVcvt7YZqOesdhf-zcBYvysJgxRDHvbhZloKYX_90qsUPQctvjB-e2B3Qoc3g4e1owu_-DNZhDVRbLZBrWuHLtVDUnR3EOQ)
+[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh5.googleusercontent.com/serA_RINFk5WNyAOvipfHg7rSQlQEY55Grj6J3ek_wBd_EBQpfSvFsmnPfwlyMLTS-5n5SPQocVUiwAxhSfDyn0tefGgOV3heMoxz3hDnrrg_NIUjYqSMLZFO7Mgp4kIzZKiJsQcIlMEamEiFg)
 
 温泉施設や宿泊施設などによく、リクライニングチェアやマッサージチェアが置かれていると思う。これに座ると体力が回復する。使用感としては、あれに近い。
 
-この椅子は座っているだけでHPが徐々に回復していくので、これで作業しているとほぼHPが減ることがない。例えば10秒あたり400のダメージを受ける作業をしていても、この椅子に座っているとバトルヒーリングスキルで10秒あたり600ぐらい自動回復していくので、何時間作業しても倒れることはない。
+この椅子は座っているだけでHPが徐々に回復していくので、これで作業しているとほぼHPが減ることがない。例えば10秒あたり400のダメージを受ける作業をしていても、この椅子に座っていると10秒あたり600ぐらい自動回復していくので、何時間作業しても倒れることはない。
 
 リクライニングチェアを作業に使うために、幾つか工夫している点がある。
 
 画面の位置が適切になるように、ディスプレイアームを使って調整している。色々と試した結果、湾曲ワイドディスプレイを上下に並べる配置に落ち着いた。ディスプレイアームについては『[エルゴトロン LX デュアル](https://r7kamura.com/articles/2021-02-27-ergotron-lx-dual)』 という記事にも書いている。手前方向にディスプレイを引っ張り出すこともできるので、たまにそういう使い方もしている。
 
-後傾姿勢で作業するとき、机の上にキーボードを置くと使いづらいので、太ももの上に無線のキーボードを載せて使っている。キーボードについては『[キーボード G913-TKL](https://r7kamura.com/articles/2020-10-21-keyboard-g913-tkl)』という記事にも書いている。より適切に調整したい人は、昇降デスクを使うとかなり相性が良いと思う。
+後傾姿勢で作業するとき、机の上にキーボードを置くと使いづらいので、太ももの上に無線のキーボードを載せて使っている。このキーボードについては『[キーボード G913-TKL](https://r7kamura.com/articles/2020-10-21-keyboard-g913-tkl)』という記事にも書いている。より適切に調整したい人は、昇降デスクを使うとかなり相性が良いと思う。
 
-元々は作業用に購入した訳ではなく、居眠りしてしまわない程度に寛げるソファ的な何かとして使っていた。ストレスレストーキョーを作業用に使うという案は、[kir1caさんの記事](https://gadget-shot.com/53119)で教えてもらったことがあった。これも試してみて良かったら使おうぐらいに考えていたのだけど、実際やってみると自分の作業環境には上手くはまった。
+元々は作業用に購入した訳ではなく、居眠りしてしまわない程度に寛げるソファ的な何かとして使っていた。ストレスレストーキョーを作業用に使うという案は、[kir1caさんの記事](https://gadget-shot.com/53119)で読ませてもらったことがあった。これも試してみて良かったら使おうぐらいに考えていたのだけど、実際やってみると自分の作業環境には上手くはまった。
 
 ![](https://lh6.googleusercontent.com/C5lQfl4doqPqdIWEQ4r23WD-9YG51Lf5fxLvR5tU-i46xJQhJh031YbQzEw2cHkkpovW7AE1QmpCBxIuUuj73Kvc5xpoMGndrGAhf9fYeNE8w1ixuKMgj-F192uupAJqvaao-8Ip9f4DH0ai5A)
 
