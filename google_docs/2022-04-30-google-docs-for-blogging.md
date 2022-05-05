@@ -3,8 +3,8 @@ title: Googleドキュメントでブログを書く
 ---
 Googleドキュメントで記事を書けるブログシステムをつくった。
 
-*   [https://github.com/r7kamura/godolog](https://github.com/r7kamura/google-docs-blog-example) (ソースコード)
-*   [https://r7kamura.github.io/godolog-example/](https://r7kamura.github.io/google-docs-blog-example/) (デモサイト)
+*   [https://github.com/r7kamura/godolog](https://github.com/r7kamura/godolog) (ソースコード)
+*   [https://r7kamura.github.io/godolog-example/](https://r7kamura.github.io/godolog-example/) (デモサイト)
 
 使い方
 ---
