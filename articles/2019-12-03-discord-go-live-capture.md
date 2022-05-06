@@ -32,6 +32,8 @@ OBSでプレビュー画面を表示し、Discordでその画面を選択する�
 
 ![](https://i.imgur.com/Ew9zpYMh.png)
 
+![](https://i.imgur.com/MmIeqI6h.png)
+
 ## 編集履歴
 
 Discordの仕様変更に合わせて、何度か書き直した。
