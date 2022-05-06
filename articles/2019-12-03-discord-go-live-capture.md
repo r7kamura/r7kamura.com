@@ -1,5 +1,5 @@
 ---
-title: Discordでキャプチャボードの映像を配信
+title: DiscordとOBSでキャプチャボードの映像を配信
 ---
 
 キャプチャボードで取り込んだ映像を、[OBS](https://obsproject.com/ja)のプレビュー画面を通してDiscordで配信する方法について。
