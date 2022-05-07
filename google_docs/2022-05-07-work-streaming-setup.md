@@ -13,7 +13,7 @@ title: 作業配信の環境構築例
 タイマー表示
 ------
 
-![](https://lh3.googleusercontent.com/fPo12JryDDUs_BHWSkNOpIUFoPxOZ5vFvsidtOa6dXMSpgA2kwigPK6hwoFiklO0DJRw0wOAN9oskK7xCAvkCpYBciQXy3Zl6yR10O7lvEhYjDYwV_9HTbaR_2Q4Rx2fVDmYAKclXF9lV7SOcw "OBSの様子")
+![](https://lh5.googleusercontent.com/Uwbsi8Wcr8e8XECTgDy3b5K0hzqpWnKuQ944UMf4fdfCGHvnIRnnAhLFZkbb6JFl6Wn3Cf1jDwGoOM9I2O_MZ7N94bCbFAQC9nvC-3sJvblhwJ1bzOGihrq99eW5Mpn5sZk9ANugCKJp-F7G8A "OBSの様子")
 
 配信用のソフトとして、[OBS](https://obsproject.com/)を利用している。OBSには画面上に任意のテキストボックスを表示する機能の他、テキストボックスにタイマーを表示するスクリプトが付属しているので、これを利用していまの状態と残り時間を右下に表示している。
 
@@ -29,7 +29,7 @@ title: 作業配信の環境構築例
 音楽
 --
 
-雨とノイズが好きなので、作業配信中は常に雨.mp3を流している。
+雨が好きなので、作業配信中は常に雨.mp3を流している。
 
 休憩中は、適当に当たり障りのないBGMを流している。休憩シーンにBGMを設定してあるので、前述の設定によりシーンが切り替わると自動的にBGMが流れ始め、休憩時間が始まったことが分かる。これは心理的にかなり効く。また、アーカイブ動画から頭出しをしたいときにも役立つ。
 
@@ -38,7 +38,7 @@ lo-fi的なBGMが好きなので、著作権フリーでおすすめのBGMセッ
 カメラ
 ---
 
-![](https://lh5.googleusercontent.com/PBkEDD3INFSVdU12VA7yLpqh5LS3xi_Sh0dRswjp1C_usMXU2PqGJtXkDoyaNhVLhpbVwfb_W41sErryYVwmWvQXbRMks0vwbKmAqs958pg_FYo7LM2doV2jM6U75vJ-WfXXbvYVUt-0g16yvg)
+![](https://lh6.googleusercontent.com/xXpkXhdfuOSBXUJqHZCw8hNa0bGu8c9T1Cr4uGuD7N9d3EUpJo93n-tXcwGrxrAeXpb2rlN-3fjVXp4n5U_4TQL5ANv5XsbhITqTzRsR0TWrBtj3B0UI7LL_o4Jwz-1nHC0pwpx2JnUEFkkbIA)
 
 会議用にロジクールの[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを持っていたので、これを配信でも使っている。三脚を持っていなかったので設置に少し工夫していて、この話については[ウェブカメラを支える技術](https://r7kamura.com/articles/2022-05-04-super-crab-clamp)という記事にまとめてある。
 
