@@ -1,9 +1,9 @@
 ---
 title: Chrome拡張 つくりかた 令和最新版
 ---
-数年ぶりにChrome拡張をつくることになったので、つくりかたを調べた。
+数年ぶりにChrome拡張のつくりかたを調べた。
 
-本当に何も分からなかったので、Twitterで「2022年にChrome拡張つくりたかったら何見て学べばいい？」と[つぶやいてみた](https://twitter.com/r7kamura/status/1522696083109212160)ところ、何人かの人が教えてくれたので、そのリンク先を紹介するという形式で記述していく。
+本当に何も分からなかったので、Twitterで「2022年にChrome拡張つくりたかったら何見て学べばいい？」と[つぶやいてみた](https://twitter.com/r7kamura/status/1522696083109212160)ところ、何人かの人が教えてくれた。教えてもらった中から幾つかのリンク先を紹介するという形式で記述していく。
 
 [Create a Vite-React Chrome Extension in 90 seconds - DEV Community](https://dev.to/jacksteamdev/create-a-vite-react-chrome-extension-in-90-seconds-3df7)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -23,4 +23,9 @@ Chrome拡張公式のGetting Started。自分はmanifest v2時代の知識はあ
 [とほほのChrome拡張機能開発入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/chrome_extension.html)
 -------------------------------------------------------------------------------------
 
-とほほさんがChromeかくちょうこの前は[とほほの仏教入門](https://www.tohoho-web.com/ot/buddhism.html)を読ませてもらった。とほほさんは本当に手広くやっていてすごい。
+とほほさんがChrome拡張の作り方を書いていてつい嬉しくなってしまった。かなりシンプルにまとまったChrome拡張の作り方の記事も書かれていて、分かりやすい。この前は[とほほの仏教入門](https://www.tohoho-web.com/ot/buddhism.html)を読ませてもらったが、とほほさんは本当に手広くやっていてすごい。
+
+[r7kamura/copy-rich-link: Browser extension to copy the page title and URL as rich text.](https://github.com/r7kamura/copy-rich-link)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+今回自分がつくったChrome拡張がこれ。いまはChromeウェブストアの審査待ち。npm init vite@latestで雛形を用意して、記事を見ながらmanifest.jsonを適当に書いて、クリップボードを使う数行のコードをmain.tsに書いただけという、至って素朴な出来になっていると思う。
