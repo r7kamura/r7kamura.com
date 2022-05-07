@@ -33,11 +33,13 @@ title: 作業配信の環境構築例
 
 休憩中は、適当に当たり障りのないBGMを流している。休憩シーンにBGMを設定してあるので、前述の設定によりシーンが切り替わると自動的にBGMが流れ始め、休憩時間が始まったことが分かる。これは心理的にかなり効く。また、アーカイブ動画から頭出しをしたいときにも役立つ。
 
-lo-fi的なBGMが好きなので、著作権フリーでおすすめのBGMセットがあればぜひ知りたいと思っている。YouTube Audio Libraryという大量の楽曲を利用できるサービスがあるが、これは楽曲が無限にありすぎるため、どれが良いか一切分からず立ち尽くしてしまいがち。
+lo-fi的なBGMが好きなので、著作権フリーでおすすめのBGMセットがあればぜひ知りたいと思っている。YouTube Audio Libraryという大量の楽曲を利用できるサービスがあるが、これは楽曲が無限にありすぎるため、どれが良いか一切分からず立ち尽くしてしまった。
 
 カメラ
 ---
 
-会議用にロジクールの[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラをもらったので、これを配信でも使っている。三脚を持っていなかったので設置に少し工夫していて、この話については[ウェブカメラを支える技術](https://r7kamura.com/articles/2022-05-04-super-crab-clamp)という記事に内容をまとめた。
+![](https://lh5.googleusercontent.com/PBkEDD3INFSVdU12VA7yLpqh5LS3xi_Sh0dRswjp1C_usMXU2PqGJtXkDoyaNhVLhpbVwfb_W41sErryYVwmWvQXbRMks0vwbKmAqs958pg_FYo7LM2doV2jM6U75vJ-WfXXbvYVUt-0g16yvg)
+
+会議用にロジクールの[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを持っていたので、これを配信でも使っている。三脚を持っていなかったので設置に少し工夫していて、この話については[ウェブカメラを支える技術](https://r7kamura.com/articles/2022-05-04-super-crab-clamp)という記事にまとめてある。
 
 OBSの知識を付けたら色々と自動化が進み、特に手動で操作しなくても配信できるようになってきたので、持て余している古いMacBook Proを配信専用機にしても良いなと思っている。正直なところ、MacBook Pro内蔵のインカメラとマイクだけで配信しても全く問題無いし、そういう再現可能でミニマルな構成に寄せたい気持ちが少しある。
