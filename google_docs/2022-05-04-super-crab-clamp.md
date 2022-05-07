@@ -13,7 +13,7 @@ title: ウェブカメラを支える技術
 
 マイクアーム自体は、持て余していたスツールに挟み込んで固定している。3mほどに延長したUSBケーブルをPCまで引き回すなどしていてこれも大変だが、とりあえずいい位置にウェブカメラを固定することに成功した。
 
-![](https://lh6.googleusercontent.com/4rv1MkiFRKxGNQey267S9jW91qVeY-z_kb12c5HvFL64S2Aky5HJS3lDyIofcgm4x8SIoVnJ0C5kctnb4A_2T_8EJPwIf6vQYoRngSgqAUK6PzZfj7oSsFaWVE8If6Zb8IKqzuQl296iNodIDQ)
+![](https://lh3.googleusercontent.com/bDeRLOONrGiODsgHOdG9wRX0_mOZmlm2mgfWBRCw2EoQxSAunNaAUyCJyUFnsYiqmPCwfZP3XigAsoqDSpEYqA7fkrtzbaaDmOFF-lUG9pZRJx475wFbRabJtd8p95IwCFiqQlV0S_m-lyt1ig)
 
 ゴリラポッドに固定したiPhoneをウェブカメラ化して使う作戦や、余っているMacBook Proを配信用に利用する作戦も考えたのだけど、そっちはそっちでまた別の問題があるので、順当にウェブカメラを使えて良かった。
 
