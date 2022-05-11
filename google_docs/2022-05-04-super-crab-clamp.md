@@ -7,13 +7,13 @@ title: ウェブカメラを支える技術
 
 手持ちのウェブカメラ[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)には、丁度良く⅝インチのネジ穴付きのマウントパーツが付属している。しかし残念ながら、引越し時にこのパーツを紛失してしまったので、別の方法を考える必要がある。ディスプレイ上部に引っ掛けるためのクリップが付いているので、これをマイクアームに引っ掛けてみるも、かなり不安定。
 
-![](https://lh6.googleusercontent.com/jE5gwnX7t8iZO0h16HtGd47Wh9K_30nAZG_1ay3HhpIF5m_31ezpiqRfE-UDNufKqxxFiC0SWMuHYPLvhcSU4pBoiutUQvUCKQJZzLO3UMwJdcsxzOX-NK7o0togNEwQZHocE9x2rpWXT9gNYw)
+![](https://lh6.googleusercontent.com/B2U_nhXGzV4uGVxV-aGGHeHCAmOg1cn5u-8goU1d1-NCw675LONzlOjFXuZN3OkG8LbECi2SlQPKBt9IgGJ4fOuL-Yqzppw5pQawz6CJMiZalF1bnJDjDuE4yAH8q79ghKkyn-zeoL4RnLjW6Q)
 
 そこで[数百円ほどのクランプパーツ](https://www.amazon.co.jp/dp/B0832PFWCV)をAmazonで雑に見繕ってみたところ、ウェブカメラ本体を挟み込んで上手く固定することに成功した。
 
 マイクアーム自体は、持て余していたスツールに挟み込んで固定している。3mほどに延長したUSBケーブルをPCまで引き回すなどしていてこれも大変だが、とりあえずいい位置にウェブカメラを固定することに成功した。
 
-![](https://lh6.googleusercontent.com/lMX_uRXayqpXnIkJoqAXE42Vgqkyap5qAge4E_SFExHYPcPl7UsQT9WU_VYjRiRqrxdu1RXgWcUNb4zOlsr4sgSQqsEukks-qfUwSScc8zAfHtj0SxCCOzYe5dA-MT5DJRzr6hMW26yZBWtcgA)
+![](https://lh5.googleusercontent.com/heSJgL0ImRUNDWigYH7sCyyqqq3uvgLSUlw4-Ba5y1w49CkA_BvK1WXB6JBvEBacCy6xeXO9POd9RdLSUL8Tex1uaVgFhb1_JT8ZrvkKDzDx5lRWj-Tnpw_r3WHBMTe3FMa2yfFdbyMKLgyOsg)
 
 ゴリラポッドに固定したiPhoneをウェブカメラ化して使う作戦や、余っているMacBook Proを配信用に利用する作戦も考えたのだけど、そっちはそっちでまた別の問題があるので、順当にウェブカメラを使えて良かった。
 
