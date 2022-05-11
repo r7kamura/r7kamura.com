@@ -1,7 +1,7 @@
 ---
 title: ストレスレストーキョーで作業
 ---
-[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh5.googleusercontent.com/XTgTNJCKiqBmtBBj1SF21zUTtF7ix9Wq6QMO8wpXwSoefbuVR9Cz17YLZ3tmtf8YWllyH2OSxia8gBvcrDt0etAuM-IhgPckGjZTfd1Rr1aSOJMto4pjIyVE1q9Ejj2HcrITtzuYURMuq_yV-g)
+[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh4.googleusercontent.com/9D_gd7FxTLV2TgoUMkRht7AV8qq4vQcRN8UlrDQMMTxntjWBp2xL2bffJYdUSLjq1LjWEdpLYategaBTJ_GONliBS5CjzvO1H8SwTllZf-S37zbzmVNE1i5COS0FKdxt1Tu6z6_xROQWh5QnCg)
 
 温泉施設や宿泊施設などによく、リクライニングチェアやマッサージチェアが置かれていると思う。これに座ると体力が回復する。使用感としては、あれに近い。
 
