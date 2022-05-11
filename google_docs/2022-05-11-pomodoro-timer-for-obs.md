@@ -8,7 +8,7 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 どういうものか
 -------
 
-毎時00分から50分まで作業して、50分から00分まで休憩するという、[ポモドーロ・テクニック](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF)用のタイマーを表示するもの。時間は変えられる。
+毎時00分から50分まで作業して、50分から00分まで休憩するという、[ポモドーロ・テクニック](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF)用のタイマーを表示するもの。間隔は変えられる。
 
 タイマーと言っているが、自分でボタンを押して開始する訳ではない。現在時刻を元に、自動的にいまの残り時間が表示される仕組み。配信者と視聴者で一緒に作業することを想定してこうなっている。
 
@@ -19,18 +19,20 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ![](https://lh5.googleusercontent.com/PlWvDtSMJq4QXlac5DTX9X92uGZ7-X1fN-zeA6jxYw4vx4ORLV-JjpKC7bcWX6NKusKuho1brR81QIAbMW5J3_0__Iu52exdKVSb0QSoDUt_eOP3-qlDygL2Ugb3aTAv6x_V9aUY7NmPLLtvsQ)
 
-ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) をここに入力する。25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) と入力する。
+ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
+
+25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) を入力する。
 
 ![](https://lh3.googleusercontent.com/yrX95sunLBkYnWJ3DpVZUEZPKDuui21jwUBHwpq2WQxeozugCmvbLTMgfCY2puchqbNpK5I2YLUugMmgdVRwq9_PUCrb8hGGnxSvPsm_8abH7a0NxqpfiCXe890k8bfinXAMVlO3CfDjxNb_Ng)
 
-これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。
+これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。デフォルトだと作業中は緑色、休憩中は赤色で表示される。
 
-発展的な使い方
--------
+隠し機能
+----
 
 このタイマーは、シーンの自動切替機能も備えている。
 
-分かりづらいが、ブラウザの設定画面は下にスクロールできる。下の方にあるページ権限に「OBSへの高度なアクセス」を指定し 、更に「Work」と「Break」というシーンを用意する。コピーするなどして両方のシーンにこのブラウザのソースを入れておくと、タイマーが切り替わるタイミングで自動的にシーンを切り替えてくれる。
+ブラウザの設定画面を下にスクロールして、ページ権限として「OBSへの高度なアクセス」を指定し 、更に「Work」と「Break」というシーンを用意する。コピーするなどして両方のシーンにこのブラウザのソースを入れておくと、タイマーが切り替わるタイミングで自動的にシーンを切り替えてくれる。
 
 ![](https://lh5.googleusercontent.com/Oxoj-M4ePLWEm2tSYGH_Yp0GSxU-XE0xpP3aIe6bRfgt0Xd6JIxP2EnZf7A9HiUO33WX_A06qjxUBa4J-o85QPxuMzNQy2TuWVGK5-vST3v-_tKv9Q1d5AMIBbM2FU2jr1Qfhs2Py0NKfry_ww)
 
@@ -39,4 +41,4 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 使い方の説明は以上。
 
-このタイマーはもともと[作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で使っていたものなので、配信のアーカイブを適当に見てもらえると使用感が分かるはず。ちなみにOBSでなくとも、適当なウェブブラウザで表示しておくこともできるので、スマホやタブレットで表示しておくのも良いかも。
+このタイマーはもともと[作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で使っていたものなので、配信のアーカイブを適当に見てもらえると使用感が分かるはず。ちなみに、適当なウェブブラウザでURLを開けばタイマーを表示できるので、スマホやタブレットで表示しておいて使うこともできる。
