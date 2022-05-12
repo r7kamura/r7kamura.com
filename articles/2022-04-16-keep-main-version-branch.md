@@ -23,6 +23,9 @@ on:
       - "v*.*.*"
   workflow_dispatch:
 
+permissions:
+  content: write
+
 jobs:
   release:
     uses: r7kamura/workflows/.github/workflows/keep-main-version-branch.yml@main
@@ -55,3 +58,16 @@ GITHUB_REF_NAMEに `v3.4.5` のようなタグ名が入っているので、こ�
 git config user.name "${GITHUB_ACTOR}"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 ```
+
+---
+
+上のYAMLのコード例を修正した。
+
+デフォルトで用意される `GITHUB_TOKEN` には書き込み権限が付与されていない。なので、`git push` を許可するためにはリポジトリの設定画面でこの挙動を変更するか、あるいはWorkflowのYAMLファイルに次のように書くかする必要がある。
+
+```yaml
+permissions:
+  content: write
+```
+
+今回は後者のパターンで行くことにしたので、この部分を追記させてもらった。
