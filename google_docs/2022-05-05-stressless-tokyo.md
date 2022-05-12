@@ -1,7 +1,7 @@
 ---
 title: ストレスレストーキョーで作業
 ---
-[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh4.googleusercontent.com/cy3afrhHnqk_BI3rTsWtuSljCDRTMRccHIeLedP-7AB-YBbqpBaHUzA51OBhF2fHBiF2ildSpZvcmhfvbE1DheGgTlQ4RJkNIQVftVq-035UDe6gs-F-V5LlsCMTAeThA_7P3dUR5nSc6iZ8KQ)
+[ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3NM7RW)というリクライニングチェアを、作業用に使っている。![](https://lh6.googleusercontent.com/jUCGJDom1g-NNq3xK0ZsLA5fNN-v4ycd-_fHhnspGtHKO5NArNBebHK0jAI0Y24p-00vXHbAi_7Bcn0RXF0clOxKBxDKaNKf3JR7LTBor93CzjybI2oVzd9Ol8h8AsOx0eh5Iycgt-uSEdSXqw)
 
 温泉施設や宿泊施設などによく、リクライニングチェアやマッサージチェアが置かれていると思う。これに座ると体力が回復する。使用感としては、あれに近い。
 
@@ -15,7 +15,7 @@ title: ストレスレストーキョーで作業
 
 元々は作業用に購入した訳ではなく、居眠りしてしまわない程度に寛げるソファ的な何かとして使っていた。ストレスレストーキョーを作業用に使うという案は、[kir1caさんの記事](https://gadget-shot.com/53119)で読ませてもらったことがあった。これも試してみて良かったら使おうぐらいに考えていたのだけど、実際やってみると自分の作業環境には上手くはまった。
 
-![](https://lh4.googleusercontent.com/M_TtopsNwn6WryInQPMvv3V8BPE8Y7o2lI7aNCxFLOyrFQb_FJ6AYm46hJK-xDtyaqT046ObCXQtEegkefAsHy-8UI-W_T0CPH4FEXJ1NcM5iYpeDMQIZUtRzk-B3RvuZD6xM5ww78ebpPUAiQ)
+![](https://lh6.googleusercontent.com/g8fmNXBoJQbeSgJeBLKAo3ZHkcGkO7F-QhgBJBELCdIdO116hgRP5v8yJooXMdH4A6GEirmZWISNbY-V7kz8h7uuWkVMBhGSaqpOIOFihotIh-x1vh-DhBVn5kw_vwcEMWgUTnBBFIgl4b8yzA)
 
 本来の用途としては、こういう感じで使うべきなのだと思う。しかしテレビの前でリングフィットアドベンチャーをやりたかったので、ちょっと作業机の方に移動させるか、と動かしてみたらそのまま住み着いて今の形になってしまった。
 
