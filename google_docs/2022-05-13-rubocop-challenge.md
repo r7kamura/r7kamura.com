@@ -9,14 +9,14 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 ![](https://lh5.googleusercontent.com/D1KfgLTRM-DJT6cD-mYITRovnWAhUg-TkvES_jir-W-czwytklNCno3TyOgh-m-fzQGN0VrLmGbEy3BHhNPC2AkRVxWQsg9xwYDlwioO5DsoJD72sRUCNNy7nGtnf1c_eivRsMnUWD-HDfWnKg)
 
-READMEに書いてあるようなYAMLファイルを適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
+READMEに書いてあるようなYAMLファイルを、適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
 
-![](https://lh5.googleusercontent.com/CSA7tzWdAN26hQSi8v8fuH7UZYEhIHVhE144nXwKXDBFkLc6AdqCzFRJvTFGaFvUgOAwgSE4yyhpwLTAqALtZEBoKo9LCWynsuyaKt6tDUYMjxkuCljjNrNJ3e0rwMTAJBYZvKf7OtwxCQyWDg)
+![](https://lh3.googleusercontent.com/V0l_IbBGQKKzJV3nefz-6bPPmmOSaOtC0kDfa3qhQFb4NFM8-outj4_JfeOGOLsKTa-eiic_Rta_id6p4Y9_9bRufjDTRskeb_8apwve7td96OZ0MqDzShKvgep1VwpIQq6oN-um06LzLKB1CA)
 
-実行すると、Pull Requestがつくられる。StyleStringLiterals Copを自動修正してくれたらしい。
+実行すると、Pull Requestがつくられる。Style/StringLiteralsへの違反に対応してくれたらしい。
 
 ![](https://lh3.googleusercontent.com/3LHZEeeLaxDrhZUpHc8gFZuPXszTPhiJpSfjyHBFKsAy2gWMsGbzL1AHy0-VQq-GPE1ULGDzpljtJ2ZyRBKxu-vtt4rnN3Sxo12yjerS2kJbpa8t9vj3nH1L8P9yv2kKLy_IXfSn_P1BnSZmTA)
 
-差分を見てみると、.rubocop\_todo.ymlと違反のあったファイルが自動修正されていることが分かる。
+差分を見てみると、.rubocop\_todo.ymlや違反のあったファイルが自動修正されていることが分かる。
 
 READMEに書いてあるように、手動実行はCLIからも行える。GitHub Actionsにはスケジュール機能もあるので、慣れてきたら定期的に実行するようにしても良いと思う。
