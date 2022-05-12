@@ -1,7 +1,7 @@
 ---
 title: 2つのGemfile.lockの差分を検知する
 ---
-というGitHub ActionsのCustom actionを書いた。
+というGitHub ActionsのCustom actionを書いた。大きなバージョン変更の過渡期など、2つのGemfile.lockを並行運用する場合におすすめ。
 
 [https://github.com/r7kamura/gemfile-diff](https://github.com/r7kamura/gemfile-diff)
 
