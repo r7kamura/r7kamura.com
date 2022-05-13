@@ -1,5 +1,5 @@
 ---
-title: 作業 with me
+title: 作業 with r7kamura
 ---
 作業の様子をYouTubeで配信する活動を始めてみることにした。
 
