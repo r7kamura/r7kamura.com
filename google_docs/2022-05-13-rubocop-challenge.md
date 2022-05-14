@@ -3,19 +3,19 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 ---
 [r7kamura/rubocop-challenge](https://github.com/r7kamura/rubocop-challenge)というCustom Actionの話をする。
 
-ただ開発しているだけで、.rubocop\_todo.ymlはそこ此処に積もる。たまに慈善活動的に解消してPull Requestを出したりもする。しかし人力でやっているとキリがない。この作業を自動化したい。こういうときに便利な、[rubocop-challenger](https://github.com/ryz310/rubocop_challenger)というGemがある。
+ただ開発しているだけで、.rubocop\_todo.ymlはそこ此処に積もる。たまに慈善活動的に解消してPull Requestを出したりもする。しかし人力でやっているとキリがない。この作業を自動化したい。こういうときに便利な、[rubocop\_challenger](https://github.com/ryz310/rubocop_challenger)というGemがある。
 
 便利なGemだが、設定しようとすると幾つかハマりどころがあり、導入が大変。そこで、簡単に導入できるように[r7kamura/rubocop-challenge](https://github.com/r7kamura/rubocop-challenge)というCustom actionをつくった。
 
-![](https://lh4.googleusercontent.com/PvuyRQF_E4NAQrNfjJlb3_yM_90zeBhvXq2XwZy0UomwI5759bZE3ATRblbz3fnhC1bRpB6gQlzK2_W8fOcEho6xaHNLJk1_IiKsyLnpL6jxJEKsgC06Op6pcWOYP0DA8MrX99Ebo65zRUhKmA)
+![](https://lh4.googleusercontent.com/XZ2mSvpXqfhMctmTquVyyoXOKoAGVZeykud7GdUSXYsbc0VoxEo4kvaxsfGdbV3kjs_FS2uygr2DE6jTfm6SFismE5jPyxvCsK4sLI52AASGjmq2JBCGPF0jsB7p94CrdzaE9xWkFsU2mApVDA)
 
 READMEに書いてあるようなYAMLファイルを、適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
 
-![](https://lh3.googleusercontent.com/4cR4UqBpb7RuRlq6TugqYaPIKM4pd-12ab-ppbp9JvXl4hM5xEYZEQZf0iVkdTs2vVKn0Y4C55LLXOPcplo2_Bs5sna3PgiPWCOwi9l7TT7gJAb67VlN9lZ9ZTPWcZbUVd8PVq6uTASfHNt7jg)
+![](https://lh5.googleusercontent.com/-SSE8c_kouiy6NEa4LJXeQZA-a3uTXtv9reANBYNdErmlcHjRill_yh6VnwI2O31mY2KmjiJHf00Hsjs72neOxl-CGVYjgPRH2Gx15x8ZFXXT1-jCqA8-3eKHu8_HaSK5nKxybq8-WGfgYUfeQ)
 
 実行すると、Pull Requestがつくられる。デフォルトではランダムでCopが1つ選択される。実質無料ガチャみたいなものだ。今回はStyle/StringLiteralsへの違反に対応してくれたらしい。
 
-![](https://lh3.googleusercontent.com/u5Lz7nAejljQROCQ3ex9imnjBCCqYD-5qJxGoUQnkfDUjDNpNeT7_Yfnk0R2b0OyyM_PB4eoSvZY9yDWzzW9UjSHPodgk7Q51_Um-HgEqUejePdsNlqhUhLW7T0Si4kmqdXE1rNadCTuKHzeDA)
+![](https://lh6.googleusercontent.com/nRpk5I0MPVMRVmvo1SAEk3RC3hqL1U43iESS6T67Uyl-yhZOKM7u31yHvRL3bPt0_fSPwWqVRw1426IgVLwXLBfwcQB2JbbIvzQRl_YpkqCKU8h9-uyiuZFnuppuFWRk11gepM_AFdV0Cd9HTg)
 
 差分を見てみると、.rubocop\_todo.ymlや違反のあったファイルが自動修正されていることが分かる。
 
