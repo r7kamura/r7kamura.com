@@ -8,7 +8,7 @@ GitHubで[Mermaid](https://mermaid-js.github.io/)記法が使えるようにな�
 
 料理のレシピについて、大まかな作業工程は記憶しやすいものの、それぞれの食材の細かな分量を忘れがちという問題を抱えていた。そこで、フローチャートを使い、データフローに焦点を当てて表現してみることにした。
 
-![](https://lh3.googleusercontent.com/2rSWm7HR6B8iiGYKtebI39XX3WfqHpV1e-JeE0wmID-_3jS99riNuIB-YoI9MGaHXbuiqscS0yHdDIZCHacAnwDamCMqlafP6LlUi8JzjY6c2x3CuvyvXLz6mZmpNnnGjC3nzHB7YWCmKVKURg)
+![](https://lh3.googleusercontent.com/kU7B5MRnSoM2alN_xJZr5l-xWsEOdLxOZonEkbqGj66t217USgpLJG9QGRAsNAo44rjVxa55fL4Zf5JnWyyvNX7RCRi7tWHDh2tVNsn9Z--j4nZAsPGb5_zRgx7uj4jvkDPhnEeoUEqzyD0u4A)
 
 これは混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
