@@ -8,11 +8,11 @@ GitHubで[Mermaid](https://mermaid-js.github.io/)記法が使えるようにな�
 
 料理のレシピについて、大まかな作業工程は記憶しやすいものの、それぞれの食材の細かな分量を忘れがちという問題を抱えていた。そこで、フローチャートを使い、データフローに焦点を当てて表現してみることにした。
 
-![](https://lh5.googleusercontent.com/YB0JKNWCtbqG1wAiMEMxqMq3e3vopizKhSKO7Aa5FQCy37Hwk95cuBrPsGU19SiWj5SIO-5FmleYWWI8gvcA4-rTHB4HLo2c473vAtGsg4QydJa_19ozKkR7AL3E3i6iq2yIGc9RZlmsHSaCHg)
+![](https://lh5.googleusercontent.com/bceHDWobJzmt0t8ZvaNrXHdwOjNYBglanMCcGmIUotj9MJMoOw3wA2XsUqZoIoylQm0CIf-35yzuFeH3WQqdW2KJdlCxNOFT1pyO_Wt7vS5N-6PMlnUB_lVltzMPtkppXqsJxRBTFkW3KtUMLw)
 
 これは混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
-![](https://lh4.googleusercontent.com/SImWCmFT_9ugGGvqDh7uoXh_nweFv66G09-xhvCAlU2uv810a5rFR_qp56IImh3kzU1Q1kxFac1bh9ectSXVwULIS4uwRP5aPw-_TwaYf_6A-exnAZSyvSUiQGSbbWNziErJLu0gjcVL60ZFAQ)
+![](https://lh5.googleusercontent.com/i9kM0EzHUwYCenkXa4gwoHW9rzZtqJFtTNVk1V9DkJ8QKOaEcG8ee_y2VQmAy9-ZdWcaDG900D4kHXNZuve9-wZQzyzlIhSLoSEDqBsriMMhCGzk9qczX9tcJISilN89itVuZ05iRsNYIcxedg)
 
 これは鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
 
