@@ -12,7 +12,7 @@ title: リッチテキストとしてリンクをコピーするChrome拡張を�
 
 ショートカットはデフォルトだとCtrl+Shift+L (MacでCommand+Shift+ L) で、これはChromeの設定から変更できる。
 
-![](https://lh6.googleusercontent.com/_Q6k2Ct5j6iB4ShjyqJQZ2A8e256HnM3f4erBIvdGp7DZX653b3OBe5zS17eC3_QAwErtccJ3CWyncEg-zyJaCCmQ2Q2n72TZxm2Y3IZNS4iNl3-ibnP6_6GdAmhuFojOJbn5deRfjVmM-DtEA)
+![](https://lh3.googleusercontent.com/q_E6EwrA7vCk9EUoHbHpew3AaMMPeKQZP1VmA-X2wETDZLj1Lq0fEofLcp0BC8ChyrFGoK11cxBNcLNC1IYGaBw0QYO-wpWV7Ss7rwM-0sPyQoPpH0F5hPewq__HiG4T7eEJ7q9xkpDq-2n7qw)
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
