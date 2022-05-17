@@ -12,15 +12,15 @@ title: リッチテキストとしてリンクをコピーするChrome拡張を�
 
 ショートカットはデフォルトだとCtrl+Shift+L (MacでCommand+Shift+ L) で、これはChromeの設定から変更できる。
 
-![](https://lh4.googleusercontent.com/PrvB5sZOalPM4Z1WnqZA4XZBUBDnYPwEhWkLUI8XBqdh-qzBd88deiJ9yuzLDzinLm7GG_aQGpg2QUZI78gRN6r2x3fQFD3wDdz2dPfAASM_Ywfz8brDGmcXWi-W-9UTu-xar9k-UsgVW9M2fg)
+![](https://lh4.googleusercontent.com/w01NwxC45PVGdTW-B0KrT4rO4N3zsQPO-Xu1m1COLYRLljyLtBKCO950HB65NGiSoZVwCGcjhu6bKArcYuz4u00uI2AOfrb_XfchGGW7lPtrg00H0GdPIzjkmdjBV0h5qJjFSFcdcV45EZ2rLw)
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
-![](https://lh5.googleusercontent.com/K-9EFhMYNJ0UinebHL59XbgoTdRusgMHKcDPCwQxKxw129FO3cLMpbsApk5QdkZr4qoZOezepwmnKExFWNRql73R8WywT29duCjlCozQK2nTbfZYcn89np8UnccHYPfIGskQXWJtnJQaMpD7gQ)
+![](https://lh3.googleusercontent.com/CSSDujI4fhDXD5ojPR076MJ0q1QghPQsZTMemN25dY5n4bnY67DGpHQE2Pvf38jIWUEPFvsWB58GXE2tcJNnGjce7oFyJTu6bHibX44CXhg8YaDvPrxeC2gs0YUgWJSHG1el7xzzW9aJdnkOpg)
 
 リッチテキストに対応していないところに貼り付けた場合や、Ctrl+Shift+V (MacではCommand+Shift+V) でプレーンテキストとして貼り付けた場合は、「”タイトル” URL」という形式で貼り付けられるようになっている。
 
-![](https://lh4.googleusercontent.com/ZnNp8G9xF4bYNytyDLiJDwYHGXlPSHxGepgL4f-qVST2P7Wf29jAKgLlJeYo68OX5ye1ngaUE0Ih24X4DlE-7mLkm_bgQhyBBkXyaq830c7FMaCkktR5jn8B8DdfKSqlO8yNX5dlIEBbgxTCDg)
+![](https://lh5.googleusercontent.com/RNgnR76xiZtThXHy1zS7plMnJ6rPBho5KrK1UPmdOdUqMeevYwdtQVaFwG36qi-PWoX_zoinZXv1pwY2L8Bx8yT13tY0m4m4esSjbHv4e_nL8k5da8cgzV5irCHP7Isc9uIBKdbXU15wz3_u_g)
 
 開発の裏側
 -----
