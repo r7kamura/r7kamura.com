@@ -3,7 +3,7 @@ title: OBS用ポモドーロタイマー
 ---
 OBSで手軽にポモドーロタイマーを組み込めるようにした。[https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
-![](https://lh3.googleusercontent.com/ibDoN4tUDvaoeCO5wmtxHBFicfXO7356P9qlZZTTY72PLR0AOVwp7fYjIIRbnnwr2wCmz4xxM8Be76-5RJCQfC9Bx0jnIYSldynjTjLxs72yhTvy9Bj1zDc8n3TgKpSCym_ecT1LOuufK6hhrA)
+![](https://lh5.googleusercontent.com/562YZ5oI6kpXJcNbtAiiFzgLsuaTq2xRompiRhoQBETljS5LTmez_6S4AWybjAhQDE_Ugnx27p06HD8TVeAUFfp1hx0lWFVZ0FEngFKC1z_mCjQPjtbb6djwLjNbjBjFUw5yTxae2rrIRIQNYA)
 
 どういうものか
 -------
@@ -17,13 +17,13 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ソースとしてブラウザを追加する。
 
-![](https://lh5.googleusercontent.com/vj-jvWUAWdvMxu0ZE2zfKjZEr1D4LV34NVthP-5eFAxHMQBB14eWllETs_3D0gP_gkd1GgR_X3-cz7O6AN6H30j8bWCGYlzrcbQ2PesvXfbt0lFvZjgNFCFBiC7bhSo1yMmVCCGZnaoIGcFAvg)
+![](https://lh4.googleusercontent.com/wo_lO-_URqBuviLLQhXR4RS-AeIRPDf2-mi0b5nmt9UQVpcd_wZ2YR6goYYpROxtwGnrO6BChpE1xiRaNRFFxL8YbFfgefEvJKziE1pZFYkwpM2hpv19H1Aq2x94aT8YcXCbR6Cs8Oo_lk-RRQ)
 
 ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
 
 25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) を入力する。
 
-![](https://lh3.googleusercontent.com/z8ly_Eun7ZpzNk8vxLacJcQGcW3yLGfH4agzSLYaTuvkbU8CLF02XdzCzyV1HmphkxeWrbErSym4i2dZgiD3r8yf6rQp6VS-_JEJC9dNipfkDQTE3TJln-KIK6GY9bkTaPBFM6h_-lZbVxxDhA)
+![](https://lh6.googleusercontent.com/4UHMYcTz_L0EBQ3NivNH3LX11H8EmsraLVKk5MXNpFg-DQ385156IB-dQMtiflnB-Etf3vps_qrYnF72-fD5iSTKETvgNSjuuMkM8TN0X4phzFGS8dNkrMpaGj3HKP35EySo_NpxwBw1tmlUQQ)
 
 これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。デフォルトだと作業中は緑色、休憩中は赤色で表示される。
 

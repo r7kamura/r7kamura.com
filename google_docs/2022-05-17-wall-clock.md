@@ -9,6 +9,6 @@ title: 掛時計を付けた
 
 [作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で毎時00分から50分まで作業することにしているので、見やすいところに時計があると捗る。また、アーカイブで見返すときに何時頃に行われた配信なのか分かって良い。
 
-![](https://lh6.googleusercontent.com/E44HbKkfcqSpaMgk38qP9d3HXFHKeDSsYNCS7E3PWzdQ8YIx0kK_-sc1y5te88vt1zAucH9f2pz5bPhK7fUdbrKVygo4l-3CpmNW-3hgQWnEB9n68sny9qgNisRmmIGxelKZowzJXNuiYd6n5Q)![](https://lh6.googleusercontent.com/9vl-dPrCQ42zKXapfQ5SMu3OSdeqxegjWx-Pjk75xen18p_GnwHBUrf_I3Qc7dnzILSPICN_984nCVPTrzWPtFWvsjLrfwbNhHsHUwJ2xOqlDQleQ9-aWDo_ZPSM0N7Y66cRGA2L3I92crzLuQ)
+![](https://lh6.googleusercontent.com/E44HbKkfcqSpaMgk38qP9d3HXFHKeDSsYNCS7E3PWzdQ8YIx0kK_-sc1y5te88vt1zAucH9f2pz5bPhK7fUdbrKVygo4l-3CpmNW-3hgQWnEB9n68sny9qgNisRmmIGxelKZowzJXNuiYd6n5Q)![](https://lh6.googleusercontent.com/lXvmOVky12uSI_dLi38dMD9Y4iqfyAJlJTHQn-_F0FNZdsRnh8YeUEr0o2tb4WyweACTzYmNqq63Hd40HFEnn4hmv9KQtIOAjDvFpdh3A510wOK0UVrz5sU60pDcr8u1It4mSEoSzeSFOrGZbA)
 
 [マックスのホッチキス](https://www.amazon.co.jp/dp/B000O9WRWG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。
