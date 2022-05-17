@@ -1,22 +1,19 @@
 ---
 title: GitHub Issuesで作業ログを書く
 ---
-GitHub Issuesで作業ログを書いているので、その方法をまとめる。
+自分がやっている方法をまとめる。
 
 リポジトリ
 -----
 
-[Gialog](https://github.com/r7kamura/gialog)製の[r7kamura/diary](https://github.com/r7kamura/diary)というリポジトリがある。ここでIssueを書くと、自動的に[https://r7kamura.github.io/diary](https://r7kamura.github.io/diary/)に反映される。
+[r7kamura/diary](https://github.com/r7kamura/diary)のGitHub Issuesの内容が、自動的に[https://r7kamura.github.io/diary](https://r7kamura.github.io/diary/)に反映される。[Gialog](https://github.com/r7kamura/gialog)を使っている。
 
-記述形式
-----
+書き方
+---
 
-日ごとに「2022-05-09」のようなIssueをつくる。作業内容や思考をコメントとして書き連ねていく。
+日ごとに「2022-05-09」のようなIssueをつくり、作業ログをコメントとして書き連ねていく。[r7kamura/gh-diary](https://github.com/r7kamura/gh-diary)というGitHub CLI Extensionを使い、エディタからコメントすることもある。
 
-GitHub CLI Extension
---------------------
+読み方
+---
 
-[r7kamura/gh-diary](https://github.com/r7kamura/gh-diary)というGitHub CLIの拡張機能を、次の用途で便利に使っている。
-
-*   その日のIssueをブラウザで開く
-*   その日のIssueにエディタからコメントする
+前日分までの作業ログをまとめた内容を[RSS](https://r7kamura.github.io/diary/feed.xml)で配信していて、翌朝にフィードリーダーで拾って読んでいる。

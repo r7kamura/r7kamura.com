@@ -12,7 +12,7 @@ GitHubで[Mermaid](https://mermaid-js.github.io/)記法が使えるようにな�
 
 これは混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
-![](https://lh5.googleusercontent.com/ZHAMDeqWW_igozlNVjbV4litfYEJd0Yvo9rUO2AkFsbS-5ZTlYAeBzi3c6hVNGcsckct2rS0XA48VxkDDidqHKK-Kgk4fXy2Ns_j0XFlPx55VXz-YMffOcdG5pFQt7TtsI5qEc2EUcE8s8AMuA)
+![](https://lh3.googleusercontent.com/8soNrlE5auUU0xPVOovLcpLBgdL-v8YKhRUIPrICvKZsqv_7MgONzrOC7UCbxfvsegFDIWamG3BexlclBSykXUdFgeaToj70aXj24MGfF73og2fuMjldnCnAR82afs7GNG9comX5C6QWnFMQrQ)
 
 これは鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
 

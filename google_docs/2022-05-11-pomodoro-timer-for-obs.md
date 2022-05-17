@@ -3,7 +3,7 @@ title: OBS用ポモドーロタイマー
 ---
 OBSで手軽にポモドーロタイマーを組み込めるようにした。[https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
-![](https://lh5.googleusercontent.com/xh09wVn5NpE0GZdskkU8n_6H3ZvAD-FMq6E5stsCJP_WR9xNUpdgJuol2304JsPi3wdD3ikqVhJnKHj0qvBvJhOyMugd36mEIg9NLrMaXiAvudvuPVKMoHsonYKKibeV_Q2Rdw_SFVkDldTY-g)
+![](https://lh4.googleusercontent.com/UYjZ8ET85Es9FlQAN1vculEeOWjZTZ3Vrig9k-dKswZQUq6Uj7uZ7wRrL9n2LNIv-2Er7_M7FrPqjSL8rDC7ZdCae7Auv_ACh0RPVGtNso5lCKD9koUEJ9niJw7iWRXnBteZWinwhVfi3bMhPA)
 
 どういうものか
 -------
