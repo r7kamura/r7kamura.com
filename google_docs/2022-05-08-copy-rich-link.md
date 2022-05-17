@@ -20,7 +20,7 @@ GoogleドキュメントやSlackなど、リッチテキストに対応してい
 
 リッチテキストに対応していないところに貼り付けた場合や、Ctrl+Shift+V (MacではCommand+Shift+V) でプレーンテキストとして貼り付けた場合は、「”タイトル” URL」という形式で貼り付けられるようになっている。
 
-![](https://lh5.googleusercontent.com/uP3RrIOgG9YuRkH3OAx6SWuA0xJK2dfYBRXK0hpwLcXLc0nZBouG5R7AcO_H0H5eiaIAntFlx4eXTk7jPvIdE5jlLLyDAQBh7_l2QYi5TzDwc6em5GxluW79pozNKtM4_kxWS7jT85Nywd1Ysg)
+![](https://lh3.googleusercontent.com/xYlnUW258H5t5A5yi2fWtPFUbJMAHuzUO4KJER88svlUW5JxbKtS6ttFgi8MWpJe2vRe7ZeCWBfjwM_8Wwx1x40o-N_M2rz_OownaXguENqRTa4q-19zmuODFWxG0AyToELHPxrblYm-dMAIYA)
 
 開発の裏側
 -----
