@@ -9,4 +9,4 @@ title: 掛時計を付けた
 
 ![](https://lh6.googleusercontent.com/_oOUa7AUUvNQnb-Af6yxj9R4yaNSnWM11wHrMgtvOuOm_ulXZJrMRvKiTxmYjl3lMvNmyZePdPfaoWWskDJ8dPL-r4b_3dQiD0Mf3sk2oYtGywf5webGINUaJHGYWJ44thXTY9Q4rXlOPrOOBw)![](https://lh4.googleusercontent.com/Ev5Ro9EBAzX7rYpMS4ai9BkKXT5rRPkIXxNpgDXMe_OVEXi55daJ2wvZjpi9H605GMz6CnFbmNkSP9xl87-96tzIr8L0T81OqxN7WrA_E7JCVosrsTt0Na7Qh_ymi8HXUiNx0BGlzm1hFmkoMg)
 
-[マックスのホッチキス](https://www.amazon.co.jp/dp/B00CU78TDG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。
+[マックスのホッチキス](https://www.amazon.co.jp/dp/B000O9WRWG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。

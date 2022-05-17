@@ -16,7 +16,7 @@ title: リッチテキストとしてリンクをコピーするChrome拡張を�
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
-![](https://lh5.googleusercontent.com/-dmylFGiUC4OskN85uFgNpyf79Recrz8bqt9-REl6sjrorHSt5ASGSYce5TCu3bheXKJ9TcJPR6onrH-YUkzIkx01I3ixUBaFUp5BESjSWK_OWn-dC-xHFj1f3JYxebrqPzrYBdqcvjx2PowDw)
+![](https://lh6.googleusercontent.com/V_XXAvHJM9ArXBSxMCfL9oUqEckjlRzDK4jEaxNIrPHU-1CjajnI0Ldi5rpeCfwdVWTlfWNDF1pz4zvO-2f7yusZqh_fc9DmKjHC4FQ7i8vfn8oBT-wyVwT4blrCYihBGBnDjeLnB06yHS3ZNA)
 
 リッチテキストに対応していないところに貼り付けた場合や、Ctrl+Shift+V (MacではCommand+Shift+V) でプレーンテキストとして貼り付けた場合は、「”タイトル” URL」という形式で貼り付けられるようになっている。
 
