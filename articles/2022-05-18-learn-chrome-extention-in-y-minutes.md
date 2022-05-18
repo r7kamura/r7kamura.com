@@ -70,7 +70,7 @@ git commit --message "npm install --save-dev @crxjs/vite-plugin"
 
 manifest.jsonを書く。
 
-内容は、アイコンを押すか `Ctrl+M` を押すとポップアップを開くようにしてもらう。また、必要な権限を定義しておく。現在開いているタブのURLとタイトルを取得するために `activeTab` を、でクリップボードに書き込むために `clipboardWrite` を使う。
+アイコンを押すか `Ctrl+M` を押すとポップアップを開くようにしてもらう。また、必要な権限を定義しておく。現在開いているタブのURLとタイトルを取得するために `activeTab` を、でクリップボードに書き込むために `clipboardWrite` を使う。
 
 更に、Viteの設定ファイルを用意して、さっき入れたプラグインの設定もする。
 
