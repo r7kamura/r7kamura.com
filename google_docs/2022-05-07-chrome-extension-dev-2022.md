@@ -31,3 +31,10 @@ Chrome拡張公式のGetting Started。自分はmanifest v2時代の知識はあ
 今回自分がつくったChrome拡張がこれ。いまはChromeウェブストアの審査待ち。npm init vite@latestで雛形を用意して、記事を見ながらmanifest.jsonを適当に書いて、クリップボードを使う数行のコードをmain.tsに書いただけという、至って素朴な出来になっていると思う。
 
 [リッチテキストとしてリンクをコピーするChrome拡張をつくった](https://r7kamura.com/articles/2022-05-08-copy-rich-link)という記事にもう少しだけ詳しく書いている。
+
+* * *
+
+[Learn Chrome拡張 in Y minutes](https://r7kamura.com/articles/2022-05-18-learn-chrome-extention-in-y-minutes)
+-----------------------------------------------------------------------------------------------------------
+
+最終的に、過去の自分を救うために自分でチュートリアル記事を書いた。リンクをMarkdown形式でコピーするという素朴なChrome拡張を例に、コミットログを追いかけながら学ぶ記事。
