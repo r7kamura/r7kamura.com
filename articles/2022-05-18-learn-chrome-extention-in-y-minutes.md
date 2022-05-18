@@ -24,12 +24,8 @@ $ npm -v
 `npm init vite@latest` で雛形をつくる。
 
 ```
-cd /home/r7kamura/ghq/github.com/r7kamura
 npm init vite@latest
 cd copy-markdown-link
-git init
-git add .
-git commit --message "Run: npm init vite@latest"
 ```
 
 雛形生成時に幾つか質問されるので、次のように入力した。React等は不要で、TypeScriptで書く。
@@ -48,8 +44,6 @@ Select a variant: vanilla-ts
 
 ```
 npm install
-git add .
-git commit --message "Run: npm install"
 ```
 
 - <https://github.com/r7kamura/copy-markdown-link/commit/ce72f7423f65eb81eafc1b3a673af971b183f46e>
@@ -60,8 +54,6 @@ Vite向けのChrome拡張用プラグインを入れる。これがあると、m
 
 ```
 npm install --save-dev @crxjs/vite-plugin
-git add .
-git commit --message "npm install --save-dev @crxjs/vite-plugin"
 ```
 
 - <https://github.com/r7kamura/copy-markdown-link/commit/5e856b9e23887d3191336d0f0177ed1f56d9dbf5>
