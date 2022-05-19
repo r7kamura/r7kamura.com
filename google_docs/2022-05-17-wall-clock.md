@@ -3,7 +3,7 @@ title: 掛時計を付けた
 ---
 株式会社タカタレムノスの[MONO Clock](https://www.amazon.co.jp/dp/B004UIT8BK)という製品。
 
-![](https://lh6.googleusercontent.com/Uc5FDSHOCvcR298xY3Pt1b6HGQYm0Wuf-2j1a0j62ibJu32MKMRT0PaCyp9PvFQElyot11iRYWhb4c1UEp1Qhy7CcOSbuaoQ744zRtCowWHamN0i4F1XuU4DiWsbJwecs2MwNYDjQZrzLd4UAw)
+![](https://lh3.googleusercontent.com/a0B_amLgoidjjFonSlTKJ1gcaY_zKyl--FJYnJ_bPfh-uio4o3yTs_l3D784tqjghUxLPXq_pgiVwvI1xep0wvVeMmsMMqMmg0lL0L0SNh1VUepcFxfOB9YC4V_msGqU-mSLl9pGt6iWSxz1Sg)
 
 ![](https://lh3.googleusercontent.com/rZ4FYY_QS4_z4Wkzie2Xc3NFf2hFUwlV8pmhVA6tbHFFxCB8_B4B1KOqMBHYeMasi3iZDPafkyYKP8plGwut_6Y_rYiAPU3y3Qtl4bp6uQetTn56ACvqTpXVXBKvBPklYSSbrWgcMVAJYk6x_g)
 
