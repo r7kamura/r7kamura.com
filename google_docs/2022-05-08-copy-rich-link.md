@@ -1,26 +1,24 @@
 ---
-title: リッチテキストとしてリンクをコピーするChrome拡張をつくった
+title: Copy Rich Link
 ---
 [Copy Rich Link](https://chrome.google.com/webstore/detail/copy-rich-link/hikiamlgpdcabppakpmemaofmkgknpea)というChrome拡張をつくった。
 
-使い方
----
+どんな拡張？
+------
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/copy-rich-link/hikiamlgpdcabppakpmemaofmkgknpea)からインストールできる。
+見ているページへのリンクをリッチテキストとしてコピーする拡張。アイコンのクリックか、キーボードショートカットから使える。コピーに成功すると、小さなポップアップが表示される。
 
-拡張のアイコンをクリックするか、キーボードショートカットを呼び出すと、見ているページへのリンクがコピーされる。コピーに成功すると、小さなポップアップが表示される。
+![](https://lh3.googleusercontent.com/JRMhlmYw1ggP3sOnGEgMsfrFzNdzQoTjzZDGfZqEkD2y0FS-1ruXCLyVeCYf7aU-KZKQhDuorZbhCL3lKrFacaJ_blN1BTRtbzFNHVoLN2sNgN6lch1cTNim9_XrS0uOkSqSQwp495rJc9AedA)
 
-ショートカットはデフォルトだとCtrl+Shift+L (MacでCommand+Shift+ L) で、これはChromeの設定から変更できる。
-
-![](https://lh4.googleusercontent.com/5xkpLwR6mDg1eIiydBkhItsTlM22L0enMfHWcZ8wRQRY9RuAXfsqRgJs1GOYbtwkgqD_LH4Z7kgh58lZyQ47pxqvwv2HppIh3cCGoK5_8ncO1LhskXlb5GdgliaSc2lwutNUhEf65hDUtEGmGw)
+![](https://lh5.googleusercontent.com/R7sne2kiomF-UM8sj2zStl5pdDTfLvyjEED3wH0AFKzgww9fHWjDtDC9GgOk1kOXQOQrme6sXAuhDgIUUlHwIo98KPYF0CjUXESSGo4LMCh3V3g8gu6LVQvU2QI-VJu2R9cUC2ZcJ44-9T8fwQ)
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
-![](https://lh5.googleusercontent.com/eduby_lkSeXxTsvPMv1fnc7b3LChbmaI_jkC4-WWwZ72fyrUOBjzLhwUvRXA3FHpVBDeo-e1jb5k-sZMG93RASKcOeWO5NdcxZzhpsK4bXqUDNneBtAK4P1a-RkawkEJtd9GdkxYZxmlxS0RJQ)
+キーボードショートカットは、デフォルトだとCtrl+Shift+L。MacではCommand+Shift+ L。これはChromeの設定から変更できる。
 
 リッチテキストに対応していないところに貼り付けた場合や、Ctrl+Shift+V (MacではCommand+Shift+V) でプレーンテキストとして貼り付けた場合は、「”タイトル” URL」という形式で貼り付けられるようになっている。
 
-![](https://lh3.googleusercontent.com/P8bw5n_JpuqtIMEdUoDPG9A8ALXTkJhq9nVtjlbz-ML3wkqMQyfSf3VcoNirWOulJnp96CsU8Gg22WBW8V8RZ4xHGtSVvjDVJeMXQyVbYLiw0lX37h3dEsstdChOluGswiHdJNlkMbbt-U801A)
+![](https://lh4.googleusercontent.com/YY6yiH-cGXAGLTsjKnVQawkN4uOCiHfUtUe9FDh4jNvGzqwmuQJ59xl5mC1lHVTHPF-j2VGDvkdrMjZnPrpiTRmluBj78t8aPd81zbbO2N4CS6QVQDCnvZEVI6p8x6H_MzTm8kW11NhrQsUF0Q)
 
 開発の裏側
 -----
