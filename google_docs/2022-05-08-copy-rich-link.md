@@ -8,7 +8,7 @@ title: Copy Rich Link
 
 見ているページへのリンクをリッチテキストとしてコピーする拡張。アイコンのクリックか、キーボードショートカットから使える。コピーに成功すると、小さなポップアップが表示される。
 
-![](https://lh3.googleusercontent.com/JRMhlmYw1ggP3sOnGEgMsfrFzNdzQoTjzZDGfZqEkD2y0FS-1ruXCLyVeCYf7aU-KZKQhDuorZbhCL3lKrFacaJ_blN1BTRtbzFNHVoLN2sNgN6lch1cTNim9_XrS0uOkSqSQwp495rJc9AedA)
+![](https://lh3.googleusercontent.com/kRjI_UBn1cM1Pne6HWDygppkAEdL8DA6Tif3nbojlNtgSBn1n5nnGw9a8w_tBPbi5SOaxf1yYZZKXY8y6ezKMl8pFvpuc134mUsCkcO2sds2wyEQVkAMfDbUoBrXdL2v3ul27nvAVl2lZfmRwQ)
 
 ![](https://lh5.googleusercontent.com/R7sne2kiomF-UM8sj2zStl5pdDTfLvyjEED3wH0AFKzgww9fHWjDtDC9GgOk1kOXQOQrme6sXAuhDgIUUlHwIo98KPYF0CjUXESSGo4LMCh3V3g8gu6LVQvU2QI-VJu2R9cUC2ZcJ44-9T8fwQ)
 
