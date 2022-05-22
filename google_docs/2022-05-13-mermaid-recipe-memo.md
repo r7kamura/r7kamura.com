@@ -1,24 +1,38 @@
 ---
-title: Mermaid記法で料理のレシピを書く
+title: 'レシピ記述形式メモ #1'
 ---
-GitHubで[Mermaid](https://mermaid-js.github.io/)記法が使えるようになったので、練習として料理のレシピをMermaid記法で書いてみることにした。[https://github.com/r7kamura/cooking](https://github.com/r7kamura/cooking)で公開している。
+料理のレシピの記述形式について。
 
-記述例
----
+背景
+--
 
-料理のレシピについて、大まかな作業工程は記憶しやすいものの、それぞれの食材の細かな分量を忘れがちという問題を抱えていた。そこで、フローチャートを使い、データフローに焦点を当てて表現してみることにした。
+料理のレシピについて、大まかな作業工程は記憶しやすい一方、材料の細かな分量を忘れやすく、また文章を読んでも思い出しにくいという問題を抱えていた。そこで、フローチャートを使い、材料のデータフローに着目しながらレシピを表現してみることにした。
 
-![](https://lh4.googleusercontent.com/I09vA3wz3la-_--xqD35Ews6p6-sXBdb9qreiKQG-mhLzFU3NBZ__Zr3cMsYNHybzksHz8J44NWSxeFeGLBYI-jp40p3ak8yKVxII3ZTWNG0DxcgMwPrG9f2WDdYGd8E6RCRhr4RHWc4VxGaXg)
+記述方法
+----
 
-これは混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
+GitHubでリポジトリをつくり、レシピごとにMarkdownファイルを用意し、[Mermaid](https://mermaid-js.github.io/)記法でフローチャートを記述することにした。[https://github.com/r7kamura/cooking](https://github.com/r7kamura/cooking)というリポジトリで、何件かのレシピを公開している。
 
-![](https://lh5.googleusercontent.com/xp-9JR-sQHw-fOb6OzxywxzaC0XWiRGpy-LkWWf3q84EE6M3Gx6RD4hj8oDgi4qubPB3f4DPb0WWczzyTWwxkTJBBaBP0qQaknS3QDR6aYWxoVtC0TUlo40tjxqMfHc0bv6qziDMVkFzFtUcMQ)
+記述例: ブロッコリーサラダ
+--------------
 
-これは鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
+混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
-改善したい点
-------
+![](https://lh5.googleusercontent.com/fpiMXrkRYo9gPG4mMNn05mf9bIEnlumYOrd-wt5GH5THam2teHkbZYoOZEpcyhU8Ul_5WHLLopfHBMo5385wVL4J6qTuGHy3OTvG1VLdl689lNab8bIx_jMv5Y2ZdGLvd09wxyJvPNVK5qADhA)
+
+記述例: チキンチャップ
+------------
+
+鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
+
+![](https://lh5.googleusercontent.com/Sa9xXDT7Jz3xkr-OZaSX5A_Qixt4M8JISUExc1IB3Nkju8AIrIWN0y6uMuYd8unIbpiQfyQ0KkQfcppr88Zhuh1MlRTkyfhDNEB-LbPJDJMVDa3iIlGasxewhO_L-tbDGGczCC7DAuje_2mVmw)
+
+課題: 中間状態の無用な命名
+--------------
 
 この形式だと、「ソース」や「味付肉」等の中間状態の概念が発生する。この中間状態に適切な名前を割り当てるのが難しい。あえて名前を付けず、無名のノードを作成しても良いかもしれない。
 
-またこのフローチャートだと、タイムラインが想像しづらい。例えば、この調理工程では肉の加熱に最も時間が掛かるので、まずそちらから処理すべきだが、それが表現できない。矢印の長さを利用するなどして、データフローとタイムラインの両方を表現できる形式を考案できると嬉しい。
+課題: タイムラインの表現
+-------------
+
+この図だと、タイムラインが想像しづらい。例えば、この調理工程では肉の加熱に最も時間が掛かるので、まずそちらから処理すべきだが、それが表現できない。矢印の長さを利用するなどして、データフローとタイムラインの両方を表現できる形式を考案できると嬉しい。
