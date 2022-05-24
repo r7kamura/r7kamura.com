@@ -11,7 +11,7 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 READMEに書いてあるようなYAMLファイルを、適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
 
-![](https://lh5.googleusercontent.com/G0UssIXLc1hk-t-dgaQ58W4eJiTKICzOY-qtfMioPIFo4lcry0b4ue4MA6ZMAK8XCWKjaBRRo7iW0zGPibl8nmYO4wu9CfAB_AhsQDb3qflx1fAFTuoUEycNohnjgriEBVfZz8S_PrY5bs7IOg)
+![](https://lh4.googleusercontent.com/ObcCZ-SIhVhTsUd5SHYuez19nYxYlUNngnU1a26zWAQ2SnxiUh9YrV3L85ux47G4jsAM8KlB78vIUBidKJsloU98jqf3AXw_rVTbNJcoRbGXDzNCimNxY_ENMkVwEn9IZdIxPpycOJF-S8WQGg)
 
 実行すると、Pull Requestがつくられる。デフォルトではランダムでCopが1つ選択される。実質無料ガチャみたいなものだ。今回はStyle/StringLiteralsへの違反に対応してくれたらしい。
 

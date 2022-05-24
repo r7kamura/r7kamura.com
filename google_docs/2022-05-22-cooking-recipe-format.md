@@ -10,7 +10,7 @@ title: 'レシピ記述形式メモ #2'
 
 サブグラフ（黄色い背景色の部分）を用意するという案も出た。見た目上のノードが散らばるのを防げ、視覚的な誘導もしやすい。
 
-![](https://lh3.googleusercontent.com/nskf6VI_w-G0rjnDH4WOK3yEBrG8qb-jT0L70PoHNtGHGu9w99M6cccJEr_k5wy-FkbhQfjD_b84GGHF9aZ8WZx-t_ZSayekuPE9HBM5XqL08JxuOfF6uFoY0Ods_0ECj4ZR8OH70g3qLidy0g)
+![](https://lh6.googleusercontent.com/NdOJER6JhYlVx7hZ6RMCSI4CD5gtC56NZEA-Hn4h0BkQ4iV8IF3jA7Ms_KMLGNA9vZxE4JyaXkWjRuKJxrcG5crSo_Xc4TkfGzGk2EXWSrnqLjP43GSmx0cKWHzzCbLTnKz5QYYN4dIneZ9WNA)
 
 複雑な例
 ----
