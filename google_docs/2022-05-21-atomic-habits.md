@@ -1,5 +1,5 @@
 ---
-title: Atomic Habitsを読んだ
+title: 『Atomic Habits』を読んだ
 ---
 [Atomic Habits](https://www.amazon.co.jp/dp/B07YY2WV6K)を読み終えた。
 
