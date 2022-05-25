@@ -42,7 +42,7 @@ Name objects based on their actual class
 
 変数名はクラス名と一致させろという主張。widget = WidgetPresenter.new はBadで、widget\_presenter = WidgetPresenter.new はGoodという話。
 
-賛成だ。常に守れ。現代ではエディタが十分に進化しているので、名前が長すぎてタイプするのが大変という問題は早々起こりにくい。Rubyのコードなんてそうでなくても型が無くてすぐぶっ壊れるんだから、タイプ数を抑えるためにわざわざ壊れやすいコードを書くべきではない。ところで、このルールに従うということは、widget = Presenters::Widget のように書けてしまうと良くないから、クラスの名前にはPresenters::WidgetPresenterのような命名規則を常に用いるべきというルールも付いてくることになるはずだ。
+賛成だ。現代ではエディタが十分に進化しているので、名前が長すぎてタイプするのが大変という問題は早々起こりにくい。Rubyのコードなんてそうでなくても型が無くてすぐぶっ壊れるんだから、タイプ数を抑えるためにわざわざ壊れやすいコードを書くべきではない。ところで、このルールに従うということは、widget = Presenters::Widget のように書けてしまうと良くないから、クラスの名前にはPresenters::WidgetPresenterのような命名規則を常に用いるべきというルールも付いてくることになるはずだ。
 
 Validations Are Awesome For User Experience
 -------------------------------------------
