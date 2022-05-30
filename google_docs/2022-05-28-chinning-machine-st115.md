@@ -24,7 +24,7 @@ Amazonで注文して2日後に届いた。部品が揃っていることを確�
 
 ![](https://lh6.googleusercontent.com/6QLExw1H7NkhIIxjXY-PW1ERQIC3u6w7_KpKwQUTcsVOT5Qf2iuprR65II57A5tOe2rhdWB0bBRr0hHnY__WmDwY0IBnSKO54MEhFIEq6Y_aa3Rap3NvvmCQ-rpj6xhJ4HWqmWa5PYB-jtcDCw)
 
-![](https://lh3.googleusercontent.com/FVaF76HERnMD0uUwEnRq9F2xyTXp5WCzw5dhtcU-G0TZBZfwXaz8SMktF1cihd9FESJLSKdLc5B3YLRupFALvn22zn9QQ1nikOA_MsNfWrH1Kt7pqtSYg63acLhktAu82WTbQO8g7pnhO1mnNA)
+![](https://lh5.googleusercontent.com/nYRYv3nayfwHMNUWNIc6QwUDY_kfb0S2Gw6pEXGw9ySUMc2O-gk3mrju0muQoMzeI5OqXt8hDj-ZsM8ikSzUBbaQKbfuUDPykcy9hpe6DOPzKpsnZDBzgBgb7XbeLo_olIggq12n-GRu5DU9bw)
 
 所感
 --
