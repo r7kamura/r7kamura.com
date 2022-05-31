@@ -1,11 +1,11 @@
 ---
-title: 作業配信31日経過振り返り
+title: 作業配信31日
 ---
 毎時00分から50分まで作業して、50分から00分まで雑談休憩する、という[作業配信](https://www.youtube.com/c/r7kamura)を始めてから31日経った。
 
-![](https://lh5.googleusercontent.com/Aw3oESghfctwmGpdGF7Wl8Qzu7twrIfxAnKRH4i7B2qLtatOnBE7lwTjWD4YkxsiY3ByQ-bkhoGWLDMfSWb7F44IfKxanRFpmJHS16B8aLRTnHdKmVstiwLzarYNS7D1yk-jTRE_dL9AcDlVKw)
+![](https://lh4.googleusercontent.com/itA6ih7QJqX7s72GctV1D5zzZw29uV1LUAvnZvuIJxEdFU7AgblRYmRVPjOHamhN2yWOzjWICrrTEw6ZR-7n1JISeFJkP0fPRW_O2oGt0jy5i71omQ9AK9wvU6xjGm9NPcmxn72noMeP5RWxTQ)
 
-作業時間の中では、色々つくったり、学んだり、変えたり、新しいことを始めてみたりした。
+作業時間の中では、色々つくったり、学んだり、変えたり、新しいことを始めたりした。
 
 *   開発: GitHub Issuesでブログを書くやつ
 *   開発: Googleドキュメントでブログを書くやつ
@@ -36,8 +36,8 @@ title: 作業配信31日経過振り返り
 *   読書が捗った
 *   家事が捗った
 
-詳細については、このウェブサイトや[作業ログ](https://r7kamura.github.io/diary/)に積極的に書き記すようにしている。配信も[アーカイブ](https://www.youtube.com/c/r7kamura)が残っている。気になる話があれば、適宜掘ってもらえると何か出てくるはず。何なら直接聞いてもらっても。
+詳細についてはこのウェブサイトや[作業ログ](https://r7kamura.github.io/diary/)にも書き記しており、配信も[アーカイブ](https://www.youtube.com/c/r7kamura)が残っている。気になる話があれば、適宜掘ってもらえると何か出てくるはず。
 
 人がサボってしまうことについては[以前から考えていて](https://twitter.com/r7kamura/status/1529728163068395521)、仕組みで解決したい課題だと思っていたので、自分にとって有効な手立ての一つを実践できて良かった。結果として、配信で監視してもらっていたおかげでサボらずに済んだ。ありがたいことだ。
 
-高い目標を用意せずとも、仕組みさえ適切であれば、人は勝手に高いところに登っていけるだろうと考えている。いつ終わるともしれない、刹那的な取り組みではあるが、この機会を存分に活かして、やりたいことを全てやっていきたいと思う。
+高い目標を用意せずとも、仕組みさえ適切であれば、勝手に高いところに登っていけるだろうと考えている。いつ終わるともしれない刹那的な取り組みではあるが、この機会を活かして、やりたいことを全てやっていきたいと思う。
