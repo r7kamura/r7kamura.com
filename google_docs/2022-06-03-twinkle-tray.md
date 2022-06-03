@@ -5,4 +5,4 @@ Windowsで画面の輝度を設定するアプリケーションを、[Monitoria
 
 [セコンさんの日記](https://secon.dev/entry/2022/06/02/210000/)で言及されていたのがきっかけ。無料で、グローバルショートカットキーで輝度を調整できて、JavaScriptで書かれているので壊れても最悪自分で直せそう、というところが良かった。
 
-![](https://lh6.googleusercontent.com/9nomxPxO43iNq2DBIfX2gtDsPuMf1mJE1AKPGhm9GOftOJhUwQHoW6fDHi13ESS8UCSwZXzth9qORe2E3eGcr26G7D-gmXDgla-b2RDIVvuQ3j3xVJ01BKPPt6r5yX-34Z-l8eZPuY0E-6aLaw)
+![](https://lh6.googleusercontent.com/bWz2s9ZV6YrU1H-BH7XqAJ_kFL2B3IgIhyBJjvFlDbKS6OJxeJv8623CDtqc5cVL7YhlWmsPElnp29K2GGG7qFbMhfKfsY8OL5okxDYlTaAEiWxY9OIwhMf46JiUdLPukVmHVaZr4QZ6_kE66Q)
