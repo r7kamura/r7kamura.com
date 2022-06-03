@@ -10,7 +10,7 @@ title: Copy Markdown Link
 
 キーボードショートカットは、デフォルトだとCtrl + M。これはChromeの設定で変更できる。
 
-![](https://lh5.googleusercontent.com/2EFC4PtL1DPY7_P_nebC1TZXuCPA8pcr4SppaRiKCEY6SBgQ2DKmIFr8DbEwYERZ8PG0GmQrIpoW4LrrleveMwS6FmviqeR5QT3-V6zHja-lDv1c4PoIrDzhmkY2eG_olnXyeboG1-9VJIJ74w)
+![](https://lh4.googleusercontent.com/1WoOS6jA6MsiF80foXh6oR88sk_gTcm35PVhMZUXye43r18kVR_T8lw7KxsJJGawkea_ZSMR_k2pIhoHgZTHyWpm3s-ihbHws2GXFvKp9tgSRyezbxhvc6VNhC91CUfyyOhS4Q1PAzoFWs-7Iw)
 
 ![](https://lh3.googleusercontent.com/gDK7LNddpfS4CDa6ReJm9C_3Bt4BgS2XSh71v7K5WKtdItqGIPld5b0jsuahh5fY1KsZ7IAwwNARAa8dTPtRy_XmVgMsTq35CgL7iEN-DvYN0TjTB-jyKcm1xKoEtJOYdRAxCcAbnvYgcRk1lg)
 
