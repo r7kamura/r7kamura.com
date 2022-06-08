@@ -5,9 +5,9 @@ title: サプリ
 
 「選択肢が多すぎてなんも分からん、適当にいいやつ全部ください」という気持ちだったため、友達が飲んでいるという理由で、AmazonでDHCの[マルチビタミン](https://www.amazon.co.jp/dp/B00GX1E3R6?th=1)と[マルチミネラル](https://www.amazon.co.jp/dp/B01MSSWA5K)を購入した。
 
-![](https://lh5.googleusercontent.com/RpTmwaUCcWfvgaemJvNI_H_HVGvUviAeXs8Q6LQj7RsodMbZNGNS8ry62sLwMvEjm5NRYL5A0c-jNhWwv9NONH4pF32j5zKRdxQS6gM0yypql3anoBOtMEk6Twy09zBIngLCMcoc7W2LylU65g "CGの教材みたいになっちゃったサプリの写真")
+![](https://lh3.googleusercontent.com/CvOAy-ITBuD9kOwGbuKy92bKebEGKThmbjt3EFo8UfqHN5zn4Mo4X3yWhWa9tLCprBcJ_6vzoC6uS2aYVhTnr44-5pY0vVLI7BOmN_xa_Ihd7khRQjzFIHGhDNA_7IMiRh5hVXJLx8e_iuKAxg "CGの教材みたいになっちゃったサプリの写真")
 
-![](https://lh5.googleusercontent.com/B4fvo8c8TF4B6REmApA_vUJLVYez9fWKsOYSgwEHz85W6lDK-bfo-esQXU6fXgSrZjBRszpzlinb4xRWmIJmeI2ccjGVMoc7axY3F_Hx_ZdoeshFWQJMjdchwzi4ZWNAH2u5nLSyZG-Y4mlFcg "怪しさと安心感が同居する不思議なパッケージ")
+![](https://lh4.googleusercontent.com/EFPluURfmtWMy9YG0RrQB2h-9_iq-vO0F5KVpPuYoriiLci1VaqXnPPDM3uS39bU0cfWoHyYipld_t4Gn9l_n8wozjEvrhHjgk3vwDFSzxCHrmFiHhsii0dhFhCPZ5_pQvVmGSDH7YCF0w0NcA "怪しさと安心感が同居する不思議なパッケージ")
 
 想像していたより安いので面白半分で買えそうだが、効くのか分からなくて不安になるほどは安くない……という絶妙な価格設定。サプリと言うとこういう粒やカプセルな印象があるけれど、運動をしっかりやっていた頃はプロテインでたんぱく質などを補っていたので、そういうものを含めると初めて飲むという感じではないのかもしれない。
 
