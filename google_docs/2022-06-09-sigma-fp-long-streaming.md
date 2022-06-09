@@ -1,16 +1,20 @@
 ---
 title: sigma fp Lで作業配信
 ---
-普段やっている[作業配信](https://www.youtube.com/c/r7kamura)で、sigma fp Lを使ってみた。
+[普段やっている作業配信](https://www.youtube.com/c/r7kamura)で、[sigma fp L](https://www.amazon.co.jp/dp/B0916G94WV)を使い始めた。
 
-アーカイブで比較してみたい人向けの情報を書いておくと、初回はロジクールのウェブカメラ、第37回からiPhone、第40回以降からsigma fp Lで配信してみている。
+アーカイブで比較したい人向けの、放送回と配信機材の対応:
 
-![](https://lh5.googleusercontent.com/aYvLclse829Lpn2erw-vK0pPjfNdx8R9TEPdcO5tKzvv7Jlgakal7s10E1S7u4O5WCF6PlkODHUjDckCjyECv1YF5_JEOeCRocupWva4ZUh1T80JAP2A5J0TabPakOcAIlHHiKSQLdiqntJesg "Teal & Orangeなしゃらくせえカラーモード")
+*   #01 - #36: C980GR
+*   #37 - #38: iPhone 13 Pro max
+*   #40 - #??: sigma fp L
 
-環境構築は超手軽で、PCとUSBケーブルで接続するだけ。ドライバーを追加で入れなくていいし、HDMIキャプチャボードは要らないし、USBで給電できるので電源アダプターも要らない。
+![](https://lh4.googleusercontent.com/QXDO3pd58TTDU9rVep28LEB4K2mmSMUgA9rQ7w69BoE_Ldo3F9cMC7uCAWjUnLqial9lTvVeUyT_Reiul0jLxDuiRZo5Xjsc7CeVIo1nloxo4VOoFMUnjwOZ67tph74IDu2871WUDd_shRGkXg "Teal & Orangeなしゃらくせえカラーモード")
 
-レンズの焦点距離は45mm、カメラと自分との距離は2m、カメラの高さは床から1.4m。もし空間的に余裕が無い場合は、もう少し広角のレンズを使った方が良いかも。
+sigma fp LはUSB接続するだけで動くのでお手軽。追加のドライバー、HDMIキャプチャボード、電源アダプターは要らない。
 
-![](https://lh3.googleusercontent.com/W7aJ1gTwT3lzXdSyXrO1fQgLwnB9rsifXWtykBpfPI-7fFemJoNxa8i_DKEeYEie2WreVgQaE1x8WuVW-PnL_bcyaufph2Eg4I_ZKwIrCQBGk9d63kxwf1NZF-qFPM0ZwwhaHVGPDT4Jpyk1wg "スタンダードなカラーモード")
+いまの自分の環境は、レンズの焦点距離が45mm、カメラと自分との距離が2m、カメラの高さが床から1.4m。4mのUSBケーブルでPCと接続している。配信で使う場合、空間的に余裕が無いことが多いので、基本的にはもう少し広角のレンズを使った方が良いように感じている。標準ズームレンズぐらいが丁度良いかも。
 
-配信中のカメラに触れてみると、普段静止画を撮り続けているときぐらいの温度になっていて、一見した限りではめちゃくちゃに熱くなるということは無さそうに思う。この日は解像度1080p、フレームレート29.97fps、室温27℃で9時間配信していた。
+![](https://lh6.googleusercontent.com/t7AnCCj0m4QwdDSdS3WOrm_MDpXw0IxWaSuvHjhqwE2ZjVIwT8c00jJ7Qa_evIwSQTvEI_C_c75MwbYS_sccH9izJeLTysYypNguNbRj4ijONnmRmUs2ZFxySRFnkFXb2udNcAZJqFKEOM7WlQ "スタンダードなカラーモード")
+
+気になっていた熱の具合について。配信中のカメラに触れてみると、普段静止画を撮り続けているときぐらいの温度になっていて、一見した限りではめちゃくちゃに熱くなるということは無さそうに思う。この日は解像度1080p、フレームレート29.97fps、室温27℃で9時間配信していて、特に問題は認識できなかった。
