@@ -6,8 +6,7 @@ title: SolargraphをDocker環境でこっそり使う
 
 一番の問題として、`gem install solargraph` でsolargraph gemを入れたい訳だけど、揮発しないように工夫が必要になる。
 
-一般的なRuby向けのDockerfileの構成だと、`bundle install` で入れるGemだけをdata volumeで永続化していることが多い。よく見るパターンは、`vendor/bundle` または `/usr/local/bundle` にdata volumeをmountするようdocker-compose.ymlで設定し、加えてこのパスを `BUNDLE_PATH` に設定するパターン。これに加えて例えば `GEM_HOME` も同じパスに設定しておくと、`gem install` でインストールするGemもそこに
-相乗りできるようになる。今回は雑にそのように設定する。こうすることで、次のようにDockerコンテナ内で `gem install` するとsolargraphが永続化されるようになる。この辺の環境変数については[RubyのDockerイメージでよく使う環境変数](https://r7kamura.com/articles/2022-04-01-ruby-dockerfile-env)で整理しているので良ければ参考にどうぞ。
+一般的なRuby向けのDockerfileの構成だと、`bundle install` で入れるGemだけをdata volumeで永続化していることが多い。よく見るパターンは、`vendor/bundle` または `/usr/local/bundle` にdata volumeをmountするようdocker-compose.ymlで設定し、加えてこのパスを `BUNDLE_PATH` に設定するパターン。これに加えて例えば `GEM_HOME` も同じパスに設定しておくと、`gem install` でインストールするGemもそこに相乗りできるようになる。今回は雑にそのように設定する。こうすることで、Dockerコンテナ内で `gem install solargraph` するとsolargraph gemが永続化されるようになる。この辺の環境変数については[RubyのDockerイメージでよく使う環境変数](https://r7kamura.com/articles/2022-04-01-ruby-dockerfile-env)で整理しているので良ければ参考にどうぞ。
 
 但し、こっそりやるという主旨なので、Dockerfileやdocker-compose.ymlに `GEM_HOME` に関する設定は追加できない。そこで、docker-compose.override.ymlを使う。このファイルは、存在する場合はdocker-composeが勝手に設定をmergeしてくれるというもので、今回のような用途で便利に使える。このファイルは .gitignore で無視するように設定しておく。
 
