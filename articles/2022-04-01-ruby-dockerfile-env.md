@@ -1,5 +1,5 @@
 ---
-title: RubyのDockerイメージでよく使う環境変数の整理
+title: RubyのDockerイメージでよく使う環境変数
 ---
 
 Ruby向けのDockerイメージで使いがちな環境変数について整理する。
