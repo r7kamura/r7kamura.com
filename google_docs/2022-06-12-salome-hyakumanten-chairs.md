@@ -5,7 +5,7 @@ title: サロメ椅子 百万点見本市
 
 ![](https://lh5.googleusercontent.com/jVntxYThKDYQm6OjtDY9jeW-mvgCX0IqvEERzGIkoqCGYEp1pgiaJ_3pALtY_v2ES4oJt4MoGnVS1YGGEtimz1Uop3hSAK9ddLMFWUJPveQcPNWx18aZd0UquPC2-yz_CrhqxYF5zTgW7TqTZQ "私の椅子ですわ")
 
-掲載方法を統一するため、Amazon.co.jpで内容を確認できなかったもの、面白枠のもの、画像やテキストから製品を特定できなかったものは除外した。一覧に含められなかったものとして、[ニトリのオフィスチェア](https://www.nitori-net.jp/ec/search/?q=%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2)への言及が多かったので特筆しておく。
+掲載方法を統一するため、Amazon.co.jpで内容を確認できなかったもの、面白枠のもの、画像やテキストから製品を特定できなかったものは除外した。一覧に含められなかったものとして、[ニトリのオフィスチェア](https://www.nitori-net.jp/ec/search/?q=%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2)への言及が多かった。
 
 オフィスチェア
 -------
