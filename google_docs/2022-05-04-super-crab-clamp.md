@@ -7,7 +7,7 @@ title: ウェブカメラを支える技術
 
 手持ちのウェブカメラ[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)には、1/4インチのネジ穴付きのマウントパーツが付属している。しかし残念ながら、引越し時にこのパーツを紛失してしまったので、別の方法を考える必要がある。ディスプレイ上部に引っ掛けるためのクリップが付いているので、これをマイクアームに引っ掛けてみるも、かなり不安定。
 
-![](https://lh6.googleusercontent.com/I0F7QP4UsA9d8Pyb-SzDZMliyg6R-8NYTdzmg6fPoS8ozGgFqdLvacH8pmVGuEl3k0qO65AgmdjqLbgESx9LfQ1ogBTdUcq1FxLaQhbL5jkba31nla0W0aFjHM7IVErZHDlUyUqZynOqeHerIA)
+![](https://lh3.googleusercontent.com/WPrZjljaTpoxNv9KtqQ_fYgTf8SarMSWjG-UtAOwkqX-4GzmLbJ5RcfArmPSLqn3P1fQOwc1M6NuCO0D81T9fPTMOeEAHIEWDz3OK8kI5iinHzJF0BCF2kBJy56hMiqGL-X6lMDTUlU-S7waCg)
 
 そこで[数百円ほどのクランプパーツ](https://www.amazon.co.jp/dp/B0832PFWCV)をAmazonで雑に見繕ってみたところ、ウェブカメラ本体を挟み込んで上手く固定することに成功した。
 
