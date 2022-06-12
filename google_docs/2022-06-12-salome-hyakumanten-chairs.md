@@ -3,7 +3,7 @@ title: サロメ椅子 百万点見本市
 ---
 おすすめの椅子のまとめ。
 
-![](https://lh3.googleusercontent.com/JhCnyRVUKfKGitMWI43SSbSKxqnnPf0wvhCDVpv2VB355v8whgNsCfbVKn6IMBezsqVPl6_wSDN1_VsQMAOh3AYsPffzZbrFrZ8Ia1_SKk6Cbud55quUBvLcTFEb2Hc6_8qagg0X0Bd5Q4G3hA "私の椅子、ですわ")
+![](https://lh6.googleusercontent.com/QxWSX4ATERFz9OroBKPHUF-MCyAQK5u9Pax52hviGJIRtez-QBTE5B-D6zh2BEzBFOS2eFS1s5DyeChgGBqeDcixa7dnMVxboFuuo0-eB0rsfnNgy9P9BFZ26AQC9OzF03P3aq35tzYqcWcMXg "私の椅子、ですわ")
 
 [壱百満天原サロメ](https://www.nijisanji.jp/members/salome-hyakumantenbara)さんによる[疲れにくい椅子を募集するツイート](https://twitter.com/1000000lome/status/1534788006913404928)に寄せられたリプライと引用を読み、紹介されていた椅子を幾つかのカテゴリに分け、言及数の多かったブランド順に整理してみました。
 
