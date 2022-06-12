@@ -1,7 +1,7 @@
 ---
 title: サロメ椅子 百万点見本市
 ---
-[壱百満天原サロメ](https://www.nijisanji.jp/members/salome-hyakumantenbara)さんによる[疲れにくい椅子を募集するツイート](https://twitter.com/1000000lome/status/1534788006913404928)に寄せられたリプライと引用をすべて読み、紹介されている椅子を幾つかのカテゴリに分け、言及数の多いブランド順に整理した。
+[壱百満天原サロメ](https://www.nijisanji.jp/members/salome-hyakumantenbara)さんによる[疲れにくい椅子を募集するツイート](https://twitter.com/1000000lome/status/1534788006913404928)に寄せられたリプライと引用をすべて読み、紹介されていた椅子を幾つかのカテゴリに分け、言及数の多いブランド順に整理した。
 
 ![](https://lh5.googleusercontent.com/jVntxYThKDYQm6OjtDY9jeW-mvgCX0IqvEERzGIkoqCGYEp1pgiaJ_3pALtY_v2ES4oJt4MoGnVS1YGGEtimz1Uop3hSAK9ddLMFWUJPveQcPNWx18aZd0UquPC2-yz_CrhqxYF5zTgW7TqTZQ "筆者の椅子")
 
@@ -15,7 +15,6 @@ title: サロメ椅子 百万点見本市
 *   [オカムラ - コンテッサII](https://www.amazon.co.jp/dp/B072J7ZS6H)
 *   [オカムラ - バロン](https://www.amazon.co.jp/dp/B000NMQX1A)
 *   [オカムラ - CG-M](https://www.amazon.co.jp/dp/B07SLXPSKD)
-
 *   [エルゴヒューマン - プロ](https://www.amazon.co.jp/dp/B002KG8WA2)
 *   [エルゴヒューマン - ベーシック](https://www.amazon.co.jp/dp/B0040JGOSO)
 *   [エルゴヒューマン - WINcase](https://www.amazon.co.jp/dp/B0862KHHPQ)
@@ -41,7 +40,6 @@ title: サロメ椅子 百万点見本市
 *   [Contieaks - Titlis](https://www.amazon.co.jp/dp/B08BFFLCMY)
 *   [AKRacing - AKR-PREMIUM/LOW-RAVEN](https://www.amazon.co.jp/dp/B075R8DPJ5)
 *   [AKRacing - Pro-X V2](https://www.amazon.co.jp/dp/B086JTT1GM)
-
 *   [Bauhutte - ゲーミングソファチェア2](https://www.amazon.co.jp/dp/B09MRH2142)
 *   [SKYE - ゲーミングチェア](https://www.amazon.co.jp/dp/B09MLHCCLD)
 *   [SKYE - ファブリックチェア](https://www.amazon.co.jp/dp/B09PG295HQ)
