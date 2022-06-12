@@ -1,9 +1,11 @@
 ---
 title: サロメ椅子 百万点見本市
 ---
+おすすめの椅子のまとめ。
+
 [壱百満天原サロメ](https://www.nijisanji.jp/members/salome-hyakumantenbara)さんによる[疲れにくい椅子を募集するツイート](https://twitter.com/1000000lome/status/1534788006913404928)に寄せられたリプライと引用を読み、紹介されていた椅子を幾つかのカテゴリに分け、言及数の多かったブランド順に整理した。
 
-![](https://lh5.googleusercontent.com/jVntxYThKDYQm6OjtDY9jeW-mvgCX0IqvEERzGIkoqCGYEp1pgiaJ_3pALtY_v2ES4oJt4MoGnVS1YGGEtimz1Uop3hSAK9ddLMFWUJPveQcPNWx18aZd0UquPC2-yz_CrhqxYF5zTgW7TqTZQ "私の椅子ですわ")
+![](https://lh3.googleusercontent.com/xF9oOrV04wRX2KVq65LpRf7cAMY-Vr5KNV1edj-pwnmaOVVoi2nrnrFkcxyvTTUcHk-ZD4OLB9BSFXsUZctxqVsl-c6dUmdmuPKKgxjV7OpU7aNJofmizdrgVM89z4zMrK89Qo34-6uUvfKZwg "私の椅子ですわ")
 
 掲載方法を統一するため、Amazon.co.jpで内容を確認できなかったもの、面白枠のもの、画像やテキストから製品を特定できなかったものは除外した。一覧に含められなかったものとして、[ニトリのオフィスチェア](https://www.nitori-net.jp/ec/search/?q=%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2)への言及が多かった。
 

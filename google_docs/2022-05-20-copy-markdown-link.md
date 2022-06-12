@@ -12,7 +12,7 @@ title: Copy Markdown Link
 
 ![](https://lh6.googleusercontent.com/2GhDLXmdpVKPlt32lC5vdO55VDyj7fd_hBizZcmDJeMrd8Rhd2wQtka4zSoLfTaO9t-Mc8xprhNyibfg3vEfjvVoE82sZjY8o94zPM8h1V22B4hBXl5FxnSvlb8ZKmkqk8_-wT9DOu1UUg3UCA)
 
-![](https://lh6.googleusercontent.com/a4_nFfo94cPFqzpkcp-eZxenXmYUY-RthOMA6yiZY_Yg_gXsDC3iRiVEVWgCDeG-fg5rm1LHw-z7IscfVNoQfGIjL4Hx28mm-X-eN_96NG8ZN_UaTHeCZHt2ZaH9sY2zwHJrwi2jr74tVdb4kA)
+![](https://lh6.googleusercontent.com/Lhn7mkdA95fFiUFxgSzTqAoNuEaRLNcGH9PJv1bm64g4QlE4GIBryhWmRDLxHjRNmzBOrGpmfmh1RGWNXkpu9FZ643f0FO244gq4NsYO3kHJWrKdFSC2teOw5yxEuus0SQddAOPqmchx48aL1A)
 
 チュートリアルとして
 ----------
