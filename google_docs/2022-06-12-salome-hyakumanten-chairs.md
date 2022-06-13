@@ -3,7 +3,7 @@ title: サロメ椅子 百万点見本市
 ---
 おすすめの椅子のまとめ。
 
-![](https://lh6.googleusercontent.com/ToezzSAu9m4_CJbi8O-xS2ztKv4FDlrAkpxDgiNhi7pwrocA4P4wCuPdSN32KPABG0oJNu06oqzh_8Iq4w7pw1cNUsDrhLGXXQ8_-ETDH8ILU8MynNHVBkQhaqCJBEUbrcioJz2EOWbjpKbDRQ "私の椅子、ですわ")
+![](https://lh5.googleusercontent.com/SjJbHNlwEyBq9p2_CzfKE6WfNLaLaj9VPaBTJvUkCpj9SpInbVjn1m5BLY-yoJio-yLO4bW92DAO9nyltMVp_nvp6KhbqtGUvYdv72h2Lt-1Hbt98V2w33hRDcEeD_R6v4GrtmNFD_D9osi4GQ "私の椅子、ですわ")
 
 [壱百満天原サロメ](https://www.nijisanji.jp/members/salome-hyakumantenbara)さんによる[疲れにくい椅子を募集するツイート](https://twitter.com/1000000lome/status/1534788006913404928)に寄せられたリプライと引用を読み、紹介されていた椅子を幾つかのカテゴリに分け、言及数の多かったブランド順に整理してみました。
 
@@ -83,6 +83,4 @@ title: サロメ椅子 百万点見本市
 
 掲載方法を統一するため、Amazonで確認できなかったもの、面白枠のもの、製品を特定できなかったものについては、泣く泣く除外しました。一覧に含められなかったものとして、[ニトリのオフィスチェア](https://www.nitori-net.jp/ec/search/?q=%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%83%81%E3%82%A7%E3%82%A2)への言及が多かったことも記しておきます。
 
-椅子を見直すということ、身の回りのことから現状を改善し、昨日よりも今日を良くしていこうという試みや、その知見を分かち合う活動は、それ自体が尊いものであると思います。
-
-紹介されていた椅子の情報が素晴らしいものであったため、自分なりに振り返りやすいようにまとめてみました。勝手な試みではありますが、人々の椅子選びの一助になればと思います。
+椅子を見直すということ、身の回りのことから現状を改善し、昨日よりも今日を良くしていこうという試みや、その知見を分かち合う活動は、それ自体が尊いものであると思います。紹介されていた椅子の情報が素晴らしいものであったため、自分なりに振り返りやすいようにまとめてみました。勝手な試みではありますが、人々の椅子選びの一助になればと思います。
