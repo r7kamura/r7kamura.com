@@ -2,7 +2,7 @@
 title: Sevencop/UniquenessValidatorExplicitCaseSensitivity
 ---
 
-[sevencop](https://github.com/r7kamura/sevencop)にSevencop/UniquenessValidatorExplicitCaseSensitivityというcopを追加した。
+[sevencop](https://github.com/r7kamura/sevencop)にSevencop/UniquenessValidatorExplicitCaseSensitivityというCopを追加した。
 
 ActiveRecord 6.0と6.1の間で、MySQLアダプターを利用している場合、UniquenessValidatorの発行するクエリが変わるという問題がある。この対策を講じる上で活用できるかもしれないCopだ。
 
