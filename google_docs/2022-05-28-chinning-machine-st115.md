@@ -3,7 +3,7 @@ title: 懸垂マシン ST115
 ---
 STEADY (ステディジャパン社) の懸垂マシン、[ST115](https://www.amazon.co.jp/dp/B09K3QQBKH)を設置した。
 
-![](https://lh4.googleusercontent.com/yt_X9SnGP8dxQFYXtOx-XHr6zwFcMsHbK3Dt2nJ_RnlVb-H7wmLHB4-nLAE4efw3liQXP24z0T8FzJ0lFFySomiXgyn44DxyMbmLpjSWZ-sw2j4Hovlminvjsml0TSJkwgXUKdLJBSOkh9xQKg)
+![](https://lh3.googleusercontent.com/ATUX5GDQq2TCfFRK_oYQ83LZvXVL-NCXiysx5QYpsL2QC3SiOGEREwgHMY2pSMDE_dJ4KfMdPCky_eK_PSCRelPbZOu2PKxiVIfA8xpFHel88kXkkV39EmL8PdpSFar58bxK-_UtZN0phFQ3Tw)
 
 なんで買ったの？
 --------

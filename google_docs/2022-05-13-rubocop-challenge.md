@@ -7,7 +7,7 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 便利なGemだが、設定しようとすると幾つかハマりどころがあり、導入が大変。そこで、簡単に導入できるように[r7kamura/rubocop-challenge](https://github.com/r7kamura/rubocop-challenge)というCustom actionをつくった。
 
-![](https://lh3.googleusercontent.com/2I2RRdIlvGFdXEk1JD1AN6MSzv6iIs13kS-XkkE9DUXvUsWrFhV31-JPzu7qF3vpP3LjI7z4PDw6oPyOHeVeXxml7JTp3ROnSWp4olAsfZ0vi5OO5jObiG7X2zKOcoLjlbPrKNjLKutoM8-wpA)
+![](https://lh3.googleusercontent.com/PhlAFu7xwRdXfpWJ7dkug2uG49m3MGqJ67TH7bb4aTRGPgWj6NixtjJjc5gaIJwgMgAIKNLTyPz2kwPLxSR0xG7MOxvb8Aua6x27fd3G_vFbMYsJ_-EJ15X8nybIKQ-l8vGljeA-ugABjIMzrw)
 
 READMEに書いてあるようなYAMLファイルを、適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
 
