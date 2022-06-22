@@ -17,7 +17,7 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ソースとしてブラウザを追加する。
 
-![](https://lh4.googleusercontent.com/tt_WzfvWg3UtSlxtkre2GPOTCFa1qpMfGZk3rnIsReMwqm4bXEw6dPLvG4ATuk-5_BnxT0w-fsCcox-0qEg7eAhmPNb2_QiMuMBcWe5tzB8mmiArXSahJugeKFYyANmIoh4UhZTQcn53ifAVBw)
+![](https://lh4.googleusercontent.com/4VgCvaG14C5ps8zSeG1CENgCEpqn4uiDqk4IHbgukNXDm-ZZD2eAgNUvT46r0Y_6ONwBbHdVjFSOWLp5tP5_qmZvC7RA6agjTWDCrO32teyJMYdQv-Oos4ZXEY3SoXBkQVMcKZz_SKvtw5m_ZQ)
 
 ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
 
