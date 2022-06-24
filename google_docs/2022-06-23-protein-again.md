@@ -5,9 +5,9 @@ title: プロテイン再開
 
 日々の食事量からたんぱく質量を計算してみたところ、筋トレをするならもう少し多くたんぱく質を摂取した方が良さそうだと感じたため、飲み始めることにした。運動後、すぐに食事を摂らない場合に飲んでいる。
 
-![](https://lh3.googleusercontent.com/5IEVSi0lJV8rTsVjj3psqMREJdB8WuTQ-U1Rs_LQw3AcW5wpzAPl3eGuPlcPZPpmZbFRXTvicB1g11r9NAkCbkHL9ErzQrsYubltFT4gBHgaMMc0BO80LDjSF5uf0dQ6AUyI1xFonZI4n4C3mA)
+![](https://lh5.googleusercontent.com/GGxDAsywwwTpUTHFkwsSdhVD3eb2hlafngILcxS1OEHNS1vU1R8hhgA8qd0KyziRqOSKDMD_5wUEqhJqGLmxW_jkTk8uUy919UxpeI5yfLgCeVss71sRTi2FCxUZT0bNFeWkcm960rcUB2Tc8A)
 
-購入したのは[マイプロテイン](https://www.myprotein.jp/)のホエイプロテイン チョコレートブラウニー味。製品や味は前に飲んでいたやつと同じもの。調整豆乳で割って飲んでいるが、元々プロテインが甘い上に調整豆乳だと更に甘くなるので、無調整豆乳に切り替えようとしている。友達におすすめされたバルクスポーツのプロテインも気になっているので、次回はそれを注文してみるつもり。
+購入したのは[マイプロテイン](https://www.myprotein.jp/)のホエイプロテイン チョコレートブラウニー味。製品や味は前に飲んでいたやつと同じもの。調整豆乳で割って飲んでいるが、元々プロテインが甘い上に調整豆乳だと更に甘くなるので、無調整豆乳に切り替えようとしている。友達におすすめされた[バルクスポーツのプロテイン](https://www.amazon.co.jp/dp/B086JSPKT3)も気になっているので、次回はそれを注文してみるつもり。
 
 2年半前にもプロテインを飲んでいた。これについては[マイプロテインのプロテインを買った](https://r7kamura.com/articles/2020-02-17-my-protein)という記事で書いた。味や細かい点、招待コードなどはこの記事に詳しく書いてある。このときはリングフィットアドベンチャーを200日ほど続けたあと、フィットボクシングを100日ほどやっていた。引越しでプロジェクターを手放したことでフィットボクシングをやらなくなり、そこでプロテインを飲む習慣が途絶えていた。
 
