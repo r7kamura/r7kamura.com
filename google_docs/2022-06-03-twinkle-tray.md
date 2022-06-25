@@ -5,6 +5,6 @@ Windowsで画面の輝度を設定するアプリケーションを、[Monitoria
 
 [セコンさんの日記](https://secon.dev/entry/2022/06/02/210000/)で言及されていたのがきっかけ。無料で、グローバルショートカットキーで輝度を調整できて、JavaScriptで書かれているので壊れても最悪自分で直せそう、というところが良かった。
 
-![](https://lh5.googleusercontent.com/O8msPV3A0TmKyrjRn2M4WJK-MMHp3Z6Dwqa1-QpGN41znN380-WBO93QOszcH-HLsFGlK79m5_-cQEP3g1wZ-7tyddHozrq-93xJl0P6rjwjTdFcaHW0LF2cviFDO4rMDaHRmEGa9L9V3t21XQ)
+![](https://lh3.googleusercontent.com/e7YzBc9XmY-yJuoBC0PNOdZf8MgXs2Ro8sUQuKcQkVgHROdmbeE6s85YhKJEgYjsS8oT1bj-_07v1pORsVzML8ogjxF9k27YBdeuvSfr4pdN14RHT-8Z9iWUutAE8SwtURBkIVBMRSWf1uXb8g)
 
 自分は大体1日9時間程度PCを見ている。長時間画面を見る上で、輝度設定は目の疲労具合に大きく影響してくる。映すコンテンツや作業内容、また自分の疲れ具合によっても細かく変えたいので、気になったときにすぐショートカットキーで調整できるのは嬉しい。
