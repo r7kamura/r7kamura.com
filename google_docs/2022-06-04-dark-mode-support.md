@@ -3,7 +3,7 @@ title: ダークモード対応
 ---
 [r7kamura.com](https://r7kamura.com/)をダークモードに対応した。
 
-![](https://lh5.googleusercontent.com/uqEvFKlqafm8Agl3p85nn5dxZzvmK8v5wLKgX3AtspZM1cB_M2Lj4AnWMQxQItNrW4FmJevZ9lJZ7WvVB8tmyL4t5PAqOTK0fyy9uIPv3xEt9xYcUymI4CIajupwT91n5dXR89U10hcnuJqcuQ "変更後")
+![](https://lh6.googleusercontent.com/A8yt2gyVAl-T_QJ-xWClw0GWYCkMdocu5_t_rVrjyX_tM3l-G7QjWWSQaNQFPvE5d4jBMdBH_AAzg7cJzy1_h0kTbvTmMcSNS08R49dh_BjqCFa_nwboR__QBz7vnpO2Y-Y0bdXwy9NwOX1QYg "変更後")
 
 ![](https://lh6.googleusercontent.com/-EUUOgIxKHhtlmWaU7wo3pugOknQpaeOgFmk-83lbnYztztSXCOSerj563lVdnwxMjBhI4Zyb9wN9Dwj1zfQHmzP0-5e_GKgmXIaIdL1suDJJAZ-ekm55C4Q-WtotvO2o4IYddCyPCxNnFgObw "変更前")
 
