@@ -5,7 +5,7 @@ title: ダークモード対応
 
 ![](https://lh4.googleusercontent.com/RMTW480iXXF9a7Zlxvdhy-uSXQl63Sb5NelAgYlNOPkL4BiYmYGUv4bwdfTbtLPKKUJ_a4f8wUipOboNznUwtcrr9_V3iyUTtLvx3ZYNO0XJXWCav5XqSOl0lTyE1U0uRXKDp_W05mQJAc-xHQ "変更後")
 
-![](https://lh4.googleusercontent.com/foainEdVFElrQXzTNBjibOmo-r7jzw7OhVcZktyLe8gUqEccTPYlzS_5r-bl_4nRzfHU_DkMK9ny9CUx0t28JJGkwBRvKSxJJs64JgrFeopuOzNgQcZoh99LDXtaH5S1D5TGYK3Wz_eFCNeWww "変更前")
+![](https://lh5.googleusercontent.com/XTKzYZlTlf4Z3QNgRKrKP8YBmPaJDEQOtBvszwefFujHwjuGIbY9diHy-XL9CuxZtyRbLiqLfLR2K_gECXmyFxMQW2QSUCDdNJFQENNouKdZbyuvDnfwSBhBoPK2pn9ngufv_upQbe_J5X5moA "変更前")
 
 普段から輝度を控えめに設定したり、寝る時間が近づいてくると照明を落とすようにしたり、いろんなアプリをダークモードで使うようにしたりと、最近はいろいろと気を遣うようになってきた。今回このウェブサイトでダークモードに対応したのも、その一環。
 

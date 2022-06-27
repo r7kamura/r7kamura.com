@@ -18,7 +18,7 @@ GitHubでリポジトリをつくり、レシピごとにMarkdownファイルを
 
 混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
-![](https://lh6.googleusercontent.com/UIeSbBQxU4yvIGSBqjl6ytjq7w9cAI3r1-uu8BpKe7o08kYi3xHlx1BIltlXpab8PedjK6mdE7nyzuEVHmCH0zXemsrdG9xdAL3__3nlO1kRsgkC_yH5yGllJc8JvZtbNFp8kMRgFBY0XdUf_g)
+![](https://lh3.googleusercontent.com/oNafNeBXy6g-3k3KWCcC3HY6lmQ--Qck-sR6ziZLOazkFa-6P3SLCMFE-4o-6gOweGeuJpnr1QmREHSaT7EMHgCzyf0QCQPkakGCiwXp4cA02ZrqAZsUpglGT9ifelbOYcjwSJnpE9ILJDjlgg)
 
 記述例: チキンチャップ
 ------------

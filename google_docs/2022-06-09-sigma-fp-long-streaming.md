@@ -9,7 +9,7 @@ title: sigma fp Lで作業配信
 *   #37 - #38: iPhone 13 Pro max
 *   #40 - #??: sigma fp L
 
-![](https://lh3.googleusercontent.com/iHGidhv894IhMC2Hs8C3zPpsE1NyPvhiTTeKH0v00JXQa7IqJcPVTOEwBENG9hxYBnJJ2Zjg_SX_jdFbm8xBUb6K-Mru5LwC09FS8-47wLcMQSMQQaRfyC5JWgGL3XQocN3pMLW9EV8zt9Gufg "Teal & Orangeなしゃらくせえカラーモード")
+![](https://lh6.googleusercontent.com/pxF1xevJ1KPvdor8Q5DH-TOd53r2dW4gvNRraXQuokWtYYtu4HKgExwT2HJNtqyEFoRHt7Yk0Ii6EW_Fh9qHXoF-2Qo1Ei020pd4sEnoVY2u3nYisiLVapBw7rHw9mIY6HipBZ-z-JSk2zlBPw "Teal & Orangeなしゃらくせえカラーモード")
 
 sigma fp LはUSB接続するだけで動くのでお手軽。追加のドライバー、HDMIキャプチャボード、電源アダプターなど要らなくて楽。
 

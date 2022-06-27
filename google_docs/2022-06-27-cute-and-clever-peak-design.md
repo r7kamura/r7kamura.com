@@ -3,7 +3,7 @@ title: スマホにかわいい小物を付けよう
 ---
 Peak Designのモバイルシリーズのご紹介。
 
-![](https://lh3.googleusercontent.com/QXI0RdoKXrst8WlX9oxaqJetceJCYbdJEr-98juOryLPPWe1fcegkQWu1yRoOVaSLL2TrwjtWuhBbQMUdfJfMkkAjRlide-ATwHB3fxMeUJmjL2Wt3as-YrHf14-dcbxMqcethfLVl9sZPvNeA "モバイルトライポッドとiPhone 12 Pro Max")
+![](https://lh4.googleusercontent.com/3CgABeT04J2zCUtS2X6TU1ArLIfy4Ee7roim3U_OSANNS4-2ITLL6FeIL5betce9050nzphBbTTeYbvBRA39soMiRDKr8mgJBhndVj-Oo5YIzm4PLXlI0iiXEYqPuquJ5TJKSN_4_BeTAjVcEQ "モバイルトライポッドとiPhone 12 Pro Max")
 
 最近よく散歩に行くようになり、オフラインで見られるよう保存しておいた動画を外で見たり、iPhoneで動画を撮ったりすることが増えてきました。そうなると角度の微調整ができる三脚があると嬉しいけれど、ごついアイテムを持ち運びたくはない。
 
@@ -24,10 +24,10 @@ Peak Designのモバイルシリーズのご紹介。
 
 最近は財布が必要な機会もほぼ無くなってきたので、[スマホに付けられる財布](https://www.amazon.co.jp/dp/B09FSGW671)を必要なときだけ付けて外出しています。これもスタンドと同じで、使わないときは磁石で適当なところに収納しておけるので、たいへん便利。
 
-![](https://lh5.googleusercontent.com/x_ubpRuqEP3Pttg9FJixZ9Ec82EZZD9NMEbu_dRtASDrUMHKQQi5GP5vhuW0zDGm16DJlP7j-_cM4UOmpl2MmMXcRibnFRdeE0kWd9vU1IKqaeRU-U_LltDanJSoBjIh0UYRyWAF5lgWnPW20Q "スリムウォレット")
+![](https://lh3.googleusercontent.com/stX5joeZtoI5wMdZ5QkHqlMtKgpmTk3DKxc7v7U7WvkxHkvlf1G8gEahb3VdNh_-H0w-rPYnfWKZf54yagddT0EMuRHLyJxdlN572ga5Q2UAfvhTI55NR6y8xgYL3qPo2q65QrIliMAZVO4zgg "スリムウォレット")
 
 以上です。普段使っている、Peak Designのモバイルシリーズの製品を幾つか紹介してみました。毎日使うスマホにかわいい小物を付けて、スマホの可能性を拡げ、快適なスマホ依存ライフを送りましょう。
 
 * * *
 
-「○○しよう」& ですます口調のパターンで製品紹介をするのがハマってきたので、しばらくこれで続けてみるつもり。
+「○○しよう」& ですます口調のパターンで物の紹介をするのがハマってきたので、しばらくこれで続けてみるつもり。
