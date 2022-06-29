@@ -5,7 +5,7 @@ title: サプリ
 
 「選択肢が多すぎてなんも分からん、適当にいいやつ全部ください」という気持ちだったため、友達が飲んでいるという理由で、AmazonでDHCの[マルチビタミン](https://www.amazon.co.jp/dp/B00GX1E3R6?th=1)と[マルチミネラル](https://www.amazon.co.jp/dp/B01MSSWA5K)を購入した。
 
-![](https://lh3.googleusercontent.com/Ksfd3bH37OITSgOwUORPNzxQn-6pzpt-S7kSKiE_7GsLy1YCPgMdY6mFS_2owQf_lsBfHluL_lFdHk-1Bfo5N512EJJztIIOcXTgqLDViyowo7aNpkT6hcXD2ulYKDm54m0hTixRd0qn9ZmXFQ "CGの教材みたいになっちゃったサプリの写真")
+![](https://lh4.googleusercontent.com/jirRYWHEXnUjjrYQqM_ZYF7WlFCG4IIwg3EnVXq446Ns9wOQIpDTRscvbZNRGqqT9UTmviSOczQyzk5k5_0J1Ld6_u5NPduWme1T-IZkEjkLZXy8lIMFkG6CfmooB7nxJG5gFTcX-WsiEFnqBQ "CGの教材みたいになっちゃったサプリの写真")
 
 ![](https://lh3.googleusercontent.com/sblE8wMGkGYN_fbAcoQ0KTdDFc_wEWqwUlfkpw2FZd9E9uIRJrLv3bC5d2-1B1HA1AseaM9dePsL4rqL5yKNsuc_T1fAYgN31CLeI0GOGq5CyPrgGnkXv5OjkLBj4Z5AgB_SICZ0fZU1FVEN2g "怪しさと安心感が同居する不思議なパッケージ")
 

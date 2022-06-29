@@ -7,9 +7,7 @@ title: 腹筋ローラー42日目
 
 ![](https://lh6.googleusercontent.com/LYxV_AiXNJZtF9Srmw7RIse2MuAw_vv5jieLH7VssGqR008uhg_ExK-xBuZBvPlAOQ-CTM7Fq0BzCpT1vnmkQwQBajSQqL234Nwl8ZDddoqmVebqkOLpO5Xzw1DHhawjdWp9wwwtXTvSfYBTXKY "my new gear......")
 
-これで膝を付けずにやると、立ちコロほど難しくはないが、膝コロほど楽でもないという、中間ぐらいの負荷が得られてちょうど良い。
-
-姿勢が安定するので、怪我をしづらく安全なところも嬉しい。
+これで膝を付けずにやると、立ちコロほど難しくはないが、膝コロほど楽でもないという、中間ぐらいの負荷が得られてちょうど良い。姿勢が安定するので、怪我をしづらく安全なところも嬉しい。
 
 難易度の低い順に並べるとこういう感じで、やる気はあるけど普通の膝コロまたは立ちコロが難しすぎるという人には丁度いいと思っている。
 
@@ -18,7 +16,7 @@ title: 腹筋ローラー42日目
 3.  立ちコロ アームレスト付き
 4.  立ちコロ
 
-良い製品だが、欠点としてはそこそこ値段が高い。[Amazon.co.jpのBODY RAJAから出ているやつ](https://www.amazon.co.jp/dp/B091DVYKXJ)を7000円ぐらいで購入したが、この製品は恐らく同じOEM製品を色々なブランドが販売しているらしく、Amazonや楽天などで同じ見た目の商品が幾つも見つかる。たぶんどれを購入しても同じだろうと思っている。製品自体はかなりしっかりしている印象だ。
+良い製品だが、欠点としては値段が高い。[Amazon.co.jpのBODY RAJAから出ているやつ](https://www.amazon.co.jp/dp/B091DVYKXJ)を7000円ぐらいで購入したが、この製品は恐らく同じOEM製品を色々なブランドが販売しているらしく、Amazonや楽天などで同じ見た目の商品が幾つも見つかる。たぶんどれを購入しても同じだろうと思っている。製品自体はかなりしっかりしている印象だ。
 
 マッスルグリル（筋肉と食をテーマにいろんな動画を投稿されているチャンネル）の[初心者でもできる腹筋！レベル1〜3【腹筋を割る】](https://www.youtube.com/watch?v=5Ie0jGMgzto&list=PLJWXeNPGozjtVGumqcAacWnJxX7YsNo4e&index=5&t=240s)という動画で、アームレスト付きの腹筋ローラーを使う方法が紹介されている。説明も参考になるし、フォームも参考になる。動画内に出てくる四輪タイプの製品は[これ](https://www.amazon.co.jp/dp/B09HKXMRL8)と同じやつかもしれない。
 
