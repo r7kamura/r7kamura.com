@@ -4,8 +4,6 @@ title: Sevencop/BelongsToOptional
 
 [Sevencop](https://github.com/r7kamura/sevencop)にBelongsToOptionalというカスタムCopを追加してみた。Rails 5.0未満で `rails new` されたアプリケーションの設定を是正するために使うことを想定している。
 
-## 背景
-
 Rails 5.0以降で `rails new` した場合、config/application.rbに次のような設定が加わっているはず。
 
 ```ruby
@@ -45,9 +43,7 @@ config.active_record.belongs_to_required_by_default = false
 
 ここで「既存のすべての `belongs_to` に `optional: true` 付けて設定変えたら良いんじゃね？」となるのは自然な発想だが、手作業で田植えのようにオプションを付けて回るのは、大変であるし見落としも発生しそうで怖い。
 
-そこで、RuboCopで機械的に検出して自動的に置換しようや、という考えでつくったのがSevencop/BelongsToOptionalというCop。
-
-## 使い方
+そこで「RuboCopで機械的に検出して自動的に置換しようや」という考えでつくったのがSevencop/BelongsToOptionalというCop。
 
 次のように実行すると、全てを書き換えてくれる。
 
@@ -55,4 +51,4 @@ config.active_record.belongs_to_required_by_default = false
 rubocop --auto-correct --only Sevencop/BelongsToOptional
 ```
 
-常用するCopではないと思うので、一時的に手元に入れて置換用途で使うことだけを想定している。
+常用するCopではないと思うので、sevencopは一時的に手元に入れて置換用途で使うことだけを想定している。
