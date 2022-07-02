@@ -3,7 +3,7 @@ title: 山崎実業のスポンジホルダー
 ---
 掃除用品は掃除対象の近くに置くべきだよなと思い、[山崎実業の蛇口にかけるスポンジホルダー](https://www.amazon.co.jp/dp/B07MM4GC6P)を導入した。
 
-![](https://lh4.googleusercontent.com/EtQCXo3mtEEOnZR1Uwdu5T82hXfmIC_rCDZx4r7tWn_cem4inlU6Vkc6wjC15AR9TmCiJlzuC0vyMBa0SXYOLuGeLraha1bVPo3kIMjrwkkNTMS28tnI2X0a0fIL2hS-NCgY_Z-qBPWVlltl4Q)
+![](https://lh3.googleusercontent.com/dOZb5lk5R8qKLxQo6XjLAq36pCnUk5ZKhiZ7zPtCUUdkLFe1k662E1kP5sPzgR1UJ5C68MUYruNawJtnthqsBfOH1rMebo6uYBfZYs9GJk0CWnNBXuyfe-dBFjJSrtaIxjiKtXHesbXMWhUjJg)
 =========================================================================================================================================================================================
 
 これで気になったときにいつでも掃除できる。写真を撮って記事に載せていたら気になったので、早速掃除した。こういうものを付けるとスポンジホルダー付近が掃除しにくくなるものだけど、これは引っ張るだけで外せて掃除しやすい。
