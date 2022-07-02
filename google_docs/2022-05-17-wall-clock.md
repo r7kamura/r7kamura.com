@@ -3,7 +3,7 @@ title: レムノスの掛時計
 ---
 株式会社タカタレムノスの[MONO Clock](https://www.amazon.co.jp/dp/B004UIT8BK)という製品。
 
-![](https://lh4.googleusercontent.com/nUKlyLk2aEj1f7zsHK2Ygir0pW8cSMcmk1TmdPHS1JXnw4OUDZHFtIu5hCyrlY6yFe8DkSMrV_8hbP19xD73pVsCNQRGFa6q_lFw8-V_xcU_lQ8RpZkGUCzy8UKAsaI9iigl4kB1D7c31FDAsg)
+![](https://lh5.googleusercontent.com/jcdk5fVhyiv4h6e8r66JP68kVBQcbqBXuweYgqroXebvoNf-7Y5ZxpVHlAVswF_12u3FIX93HsFVJh1Ik93JJV1-QlH2QB2cN6qrOHpu6TQVqkpLvtE5ZYwyiQXtiZqWW_B7L2SPntTEjKLBJg)
 
 ![](https://lh3.googleusercontent.com/f3cP_x1BUKKo_A1mfFwTiOMcCYt64yFkOz6OWuHmlHo0fYhbm0s30OdKmTlOVCTvquJuGir7F3x-xXWDpCln4_PgEcetzqQFlD4FiBFxFOgG6AoSrxu2e0QQNjTbC75V-oiC34yVsuGGrsEd7w)
 

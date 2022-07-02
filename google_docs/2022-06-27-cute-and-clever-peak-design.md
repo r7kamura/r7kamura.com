@@ -18,7 +18,7 @@ Peak Designのモバイルシリーズのご紹介。
 
 ![](https://lh3.googleusercontent.com/hi0k9QIEQRsfrrfFuAnTyTwLN9Dab8fyEeo5xLcJNNGOrRyfd0sxlj3x2pC2UcN2UNDLQcQ_G7OGREWr8_aK2T5SAGRdo8-RBq7d5i5c1TZlj3maHDKVvRqJjn-LBt8d6h3jxzOv1mLPVaKR_w "かわいい")
 
-![](https://lh5.googleusercontent.com/-22zwR3H3r8z1gXYmz8er7B-Iscd42gujQQ360VTU70u5vlBhlFn5ha8IgxWsjhZFUYAy7QXJb5N_Bhbw0PHGNSJcEW-NPAK8fLPQ50LDGRhKKIXoSBw_lZ2ZUTaj_k9Go6KmcdwVGWfAHp6Kg "折りたたんだ様子")
+![](https://lh5.googleusercontent.com/s0kaUCUhy34XcY51pGOT8_HILEJ9SyNACfSn-S3-hHWBySOq5vcjYaqRyAczq-pvSCFtgQZoKGbCsrhqaWIqkZ_wXfKH1tf-T7N3IDFrr3R5Iky00LOI8RklhntgE7T--2EmcH_9IuOBKvRKCg "折りたたんだ様子")
 
 最初は「MagSafeあるんだからケースあるの非効率的じゃない？バンパーで運用できるものを探したほうが良くない？」と思っていましたが、背面に指を通せるリングも付いてるし、布感のある見た目と触り心地で落ち着いた雰囲気になるし、他の同社製品ともいろいろ組み合わせられるしということで、結果的には大満足。ケースを付けた状態でも、MagSafeの充電器は普通に使えます。
 
