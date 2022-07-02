@@ -4,6 +4,10 @@ title: Sevencop/BelongsToOptional
 
 Rails 5.0未満で `rails new` されたアプリケーションの設定を改善するために、[Sevencop/BelongsToOptional](https://github.com/r7kamura/sevencop#sevencopbelongstooptional)というカスタムCopを便利に使っている。
 
+## 背景
+
+Rails 5.0以上で `rails new` した場合は、次のような設定が自動的に用意される。
+
 ```ruby
 load_defaults 5.0
 ```
@@ -38,6 +42,8 @@ config.active_record.belongs_to_required_by_default = false
 しかしこれだと「新しく `belongs_to` を書くときは基本的には `optional: false` を付けましょう」みたいなルールの統制が必要になってしまう。
 
 ここで「既存のすべての `belongs_to` に `optional: true` 付けて設定変えたら良いんじゃね？」となるのは自然な発想だが、手作業で田植えのようにオプションを付けて回るのは、大変であるし見落としも発生しそうで怖い。そこで「RuboCopで機械的に検出して自動的に置換しようや」という考えでつくったのがSevencop/BelongsToOptionalというCop。
+
+## 使い方
 
 次のように実行すると、全てを書き換えてくれる。
 
