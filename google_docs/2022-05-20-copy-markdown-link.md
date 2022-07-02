@@ -10,9 +10,9 @@ title: Copy Markdown Link
 
 キーボードショートカットは、デフォルトだとCtrl + M。これはChromeの設定で変更できる。
 
-![](https://lh4.googleusercontent.com/kxsDWMwKToPk8jyr-Vffm7B53D_FEjEUtR3-s_ohivzvYd-uAHJAsWT5F2dAHi8_GHXC6t2CNRkoQZ0FmPBsSonTxeWowL_GEDrhARSMOpqk40snk6_N-yVJCzypKsx_u_tE24xiW0zlhCdDNQ)
+![](https://lh3.googleusercontent.com/7kTcnclQGueMrYFp82sU6-2clFoS5B7s1EzROdtmX0K7IEqCCE9UaEGy0qM5xX1tiSsvpLKDrbU2IqWL2-BR7vqmwf6r7bVvOXu4o-DxQD0q83RH3vVIrepH427CJx2XTpuvBBJsQinfF3jQfA)
 
-![](https://lh3.googleusercontent.com/lJ7yCfRJxxCLVDZEEbitOmEkUKdCefS_fuc1Cp_1RlLDOQkcRmfKjo6VHXl1KVL5nBHjGCU8gi2h03e7-WAk2wUjF2slXue59JPLoJLbkoDvZIO1eoPQeXa0L7CeK0z8KZOVAqFRP62pumDY3Q)
+![](https://lh5.googleusercontent.com/qO89CgoqszNstQ1wRqyklFlbGAKVaZ0MHBST5BYcj3kHCSOlqBhtNlOhXd-w10x9OP13tYl4zPcrLVlksBC6Llzqw4kiF2q9eXPyypiqS14Hj4r1gLueo-dls9NyTP-gvV09HuKoWEL6opqegA)
 
 チュートリアルとして
 ----------
