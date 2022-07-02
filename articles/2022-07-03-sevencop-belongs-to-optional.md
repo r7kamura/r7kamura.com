@@ -2,9 +2,7 @@
 title: Sevencop/BelongsToOptional
 ---
 
-[Sevencop](https://github.com/r7kamura/sevencop)にBelongsToOptionalというカスタムCopを追加してみた。Rails 5.0未満で `rails new` されたアプリケーションの設定を是正するために使うことを想定している。
-
-Rails 5.0以降で `rails new` した場合、config/application.rbに次のような設定が加わっているはず。
+Rails 5.0未満で `rails new` されたアプリケーションの設定を改善するために、[Sevencop](https://github.com/r7kamura/sevencop)にBelongsToOptionalというカスタムCopを便利に使っている。
 
 ```ruby
 load_defaults 5.0
