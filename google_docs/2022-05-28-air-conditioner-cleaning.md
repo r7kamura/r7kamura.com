@@ -5,7 +5,7 @@ title: エアコンの掃除と試運転
 
 ダスキンの天井に設置して四方向に風が出る種類の製品。型番がすぐには分からず説明書も持っていなかったので、適当にググって掃除方法を調べた。上蓋を開けて掃除機で埃を吸い取れば素人の掃除としては十分らしい。掃除機であらかた埃を吸い取った後、もふもふするモップで残った埃を取った。
 
-![](https://lh3.googleusercontent.com/yucgiKb6NbhKrvbqg6o6dfqyn4gB-E_w5LxBVwbDMVwmXDDkhplr00qv-hx9fKdy89t-okizq6HgSAG1r4wFlt6qkfa0pFfk3BxtIwLSk8sWYU4igKKC4JGRrOQPKbZJbTm--ScFQY_DFrztOg)
+![](https://lh3.googleusercontent.com/zmXPiQLqwuukGcu-oqN9QfKGO3ZSKux6uoDC0XPOmUTLnag9A6y-bZPJZMvYSQOmGUuMUTmz4MtlKstW6bh2UJvMj7XGSY_tX8xFf3kDn6vtRHgbEoMveCpexM1DqmnpeK4AdUeHtoToPIpjag)
 
 手入れの時期だったので、維持管理の方法を知らないのは良くないなと思ってやり方を調べて掃除したものの、入居前にここも清掃してもらっていたようで、実際のところはほぼ埃は溜まっていなかった。マキタのハンディクリーナーを持っているのだけど、こういうときに手軽に使えて先端にライトまで付いているので便利だった。
 
