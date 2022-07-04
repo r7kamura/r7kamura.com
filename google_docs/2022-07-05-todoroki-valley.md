@@ -1,0 +1,26 @@
+---
+title: 等々力渓谷に行った
+---
+週末、暑すぎて発狂し、等々力渓谷（とどろきけいこく）で涼んできた。
+
+![](https://lh5.googleusercontent.com/mOfrVu4TOnWkMl5bB__Z_2851N4Ig3h9ndtdm9sLooXapLgWLUNOw0oieAI9af3w40ESIS7VX0Yyg5tddtvjpc6TXkYxIr0_GVTHM_3qRwUDRHWf7bqXvmv-ZnGVlcC3ny-OMvBlX3tIUCjq0wE "シンボル的な橋")
+
+等々力渓谷は、東京駅から電車で40分ぐらいのところにある渓谷。都内唯一の渓谷らしい。渓谷のプロではないので、詳しいことは知らない。崖に挟まれた川沿いに、数百メートルほどの遊歩道がある。川の水には触れられそうなほど近い。
+
+![](https://lh6.googleusercontent.com/k2mvirTHO-WpIJX5RAKRvrnZ2dpSNiFOSFn_ZWKwIS1ECY9REOcMrPLImlGrnpzJ3YLppyyobiJTqtDgpvTZ35E5o7tJySUzufVKAPoP4j0-JbALzVogQxO8J9NQ58gtsdywKAMElnApExU8G28 "谷、沢、そして川")
+
+![](https://lh3.googleusercontent.com/G45YK5L6FPxnbc-iujG76ibU3nsuUIhWa3uKFH7k5uMYP4HYXo_0yWNubwj54P6KyEDNvVYIggnIMByURrW8Opk4O1Y--79OVJ_jyd4t4up2x1HETB28kx3w2vaiew0rwcYh_ZrrDjop7S7XKs4 "しっとりした雰囲気の道が続く")
+
+木漏れ日が稀に落ちてくる程度にほどよく植物に囲まれており、涼しい遊歩道を一往復できる。たいへん雰囲気が良い。視界から消えることはない程度には沢山人が居たので、早朝や平日に行くとより楽しめるかもしれない。平日朝に行くと、スーツで出社する者達が渓谷を歩いている様子を見られると聞いた。
+
+週末の午後に行ったこともあり、家族連れの人々が多かった。家族で川に入ってバシャバシャとやったり、川を泳いでいる蛇を見つけてはしゃいだりと、元気そうでたいへん微笑ましい。
+
+![](https://lh4.googleusercontent.com/2pENRVRm85thSnliyJ-CaIvwiE-qsF-NMFQzmBPdb62Fe7pFv70EmbS73VoVsUh6dlwR1IroUu3CIzGEkE2EdfE5fOx7SrB6UPbpt-1JripodcitDgZFJ8kz97gGH7eapQAZpZNCd7LrOTaV-ok "口から水を吐き出す何か")
+
+![](https://lh4.googleusercontent.com/hIofzOM82f_ugEHhfuBBsYx4EqKi9hgP5jppckgShy2q6OFMYnEeyQO30BQRfp02lu3oOTHLHodH2vfUPplFWb6oZKlAnctsYsY2hvDyO8xf46DrTEhkIX9w-ROhXctBoXfzM2B-21xcrSy_V08 "SEKIROとかでよく見るやつ")
+
+![](https://lh3.googleusercontent.com/GHoVmuMD6RWhtwFJjQLZEgqpgtB1GyKrexE3tIOd_SESyVFUMe3RD7tZC2e35w_8E3_f0E9WT8A-K4r6F961Sn8yh7FoEp5TmBqjIxQmK6G8ufKjtS3ay4XGNFrhrNrGjI-61Wa5p83qF3yE8oM "手水舎")
+
+![](https://lh6.googleusercontent.com/QM1e3l-3Y5dtAbuyi-hoyGjGkP-VwfahgWjPiS9vN94feMHQGgX8r_kkRtijmmNKwRqSI-PijdqK_HN8odziAVslnXXVaONlRyd9BRbwyZZ6oeS9bjHJRdyV_7YYxtA6vHohIgbpz_JSOCAdVTk "多摩川")
+
+一通り楽しんだ後、多摩川沿いを2kmほど歩くと、二子玉川駅に辿り着く。こういう心地良い散歩場所を、もっと見つけていきたい。
