@@ -27,7 +27,7 @@ title: Nanoleafを付けると楽しい
 
 ……というのは嘘で、配信しながら組み立てをしていたのだけど、iPhoneとのペアリングが上手くいかず、10分ぐらいまばゆい光の中で途方に暮れてしまった……。本体の電源抜き差しやリセットなどを試して、最終的にはiPhoneを再起動したら解決した。やはり再起動はすべてを癒やす……
 
-![](https://lh6.googleusercontent.com/rfFU7IJV8JnHzMY8q4KJH7qRKcJpik12eWsrxzSwLLMhcU9O25gcg04KCSr7_Ii51tm4DkiswtlRHPWkZu-P06WQgmAABPDEL6Oi-x6sQEpO8PhiRv2cPBK54Yv-2WsYdCC3FZL9jUL-Ny8IYF8 "設置した様子")
+![](https://lh3.googleusercontent.com/IwNXHWLIFTjYefFgonbJ1iLgwsYhdFy90aVo0BwNMmJhBGnpvZpYjelXtu-yU9v495-9odckF55TNfo0BWVyR8PbckbyCW5UymOZeHldk0twHwVzpA4HOug54DOeYSc78sRAqTOs4LeFE0F3AJ4 "設置した様子")
 
 設置したあとは光らせ方の設定。アプリから提供されている膨大なパターンの中から好きなものを選んだり、Razerのアプリと連携させてパターンを同調させたりできる。うちはマウスパッドがRazerのやつなので、マウスパッドと光らせ方を同期させたりできる。これはRazerのアプリ主導でパターンを決めるのだけど、再生中の音楽と同期して光らせる機能があって楽しい。
 
