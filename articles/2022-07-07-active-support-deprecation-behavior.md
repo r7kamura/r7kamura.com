@@ -2,7 +2,7 @@
 title: ActiveSupport::Deprecation.behavior
 ---
 
-RailsのDeprecation Warningを独自の方法で出力する方法について。
+RailsのDeprecation Warningの出力手段を好きにカスタマイズする方法について。
 
 ## config.active_support.deprecation
 
