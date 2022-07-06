@@ -2,7 +2,7 @@
 title: Sevencop/BelongsToOptional
 ---
 
-Rails 5.0未満で `rails new` されたアプリケーションの設定を改善するために、[Sevencop/BelongsToOptional](https://github.com/r7kamura/sevencop#sevencopbelongstooptional)というカスタムCopを便利に使っている。
+Rails 5.0未満の時代につくられたアプリケーションの設定を改善するために、[Sevencop/BelongsToOptional](https://github.com/r7kamura/sevencop#sevencopbelongstooptional)というカスタムCopを便利に使っている。
 
 ## 背景
 
