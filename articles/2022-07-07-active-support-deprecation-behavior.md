@@ -4,9 +4,17 @@ title: ActiveSupport::Deprecation.behavior
 
 RailsのDeprecation Warningを独自の方法で出力する方法について。
 
+## config.active_support.deprecation
+
 Railsはその機能について破壊的な変更を入れるとき、まず「次のマイナーバージョンでこの機能を廃止するよ」という警告を出すように計らってくれている。この警告は常に `ActiveSupport::Deprecation` の機能を使って出力される。
 
-Railsアプリの設定で `config.active_support.deprecation = :notify` のような項目を見たことがないだろうか。例えばこの設定をした場合、Railsは起動時にこの設定値を見て、`ActiveSupport::Deprecation.behavior = :notify` みたいなことをしてくれる。`ActiveSupport::Deprecation.behavior` は警告の出力方法を司っているやつで、デフォルトで5パターンぐらいの出力方法を用意してくれている。その名前をSymbolを指定すると、それに設定してくれるという訳だ。
+Railsアプリの設定で、次のような項目を見たことがないだろうか。
+
+```ruby
+config.active_support.deprecation = :notify
+```
+
+例えばこの設定をした場合、Railsは起動時にこの設定値を見て、`ActiveSupport::Deprecation.behavior = :notify` みたいなことをしてくれる。`ActiveSupport::Deprecation.behavior` は警告の出力方法を司っているやつで、デフォルトで5パターンぐらいの出力方法を用意してくれている。その名前をSymbolを指定すると、それに設定してくれるという訳だ。
 
 - `:log`
 - `:notify`
@@ -46,6 +54,8 @@ config.active_support.deprecation = MyCustomRailsDeprecationHandler
 - [Fix NoMethodError on custom ActiveSupport::Deprecation behavior by r7kamura · Pull Request #45521 · rails/rails](https://github.com/rails/rails/pull/45521)
 
 RailsのDeprecation Warningを独自の方法で出力する方法について、ざっくりと書いてみた。昔からある機能なので、何を今更という感じではあるが、あらためて書いてみた。
+
+## ActiveSupport::Deprecation.debug
 
 昔からあるActiveSupport::Deprecationの機能と言えば、自分は次のコードをよく手元で一時的に入れることが多い。
 
