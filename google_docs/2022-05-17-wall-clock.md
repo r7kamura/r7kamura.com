@@ -3,9 +3,9 @@ title: レムノスの掛時計
 ---
 株式会社タカタレムノスの[MONO Clock](https://www.amazon.co.jp/dp/B004UIT8BK)という製品。
 
-![](https://lh4.googleusercontent.com/mHlX5cs9Ov8wk17FttaMECrQ8wT2TCSk06SyTYe-MCIfDkxqb5iHFNyPA0E21cqZMViVXZv_bZAg8ttkeV8IYlKuhWaeNNGUvneh_2-bJ_PxFkqfgbWBIaWBSDRRi1mc1HliZuZrNBAJXv6-2A)
+![](https://lh6.googleusercontent.com/ds-2J3a_Zfa5REban0Ry77TsSEanPcdeom9O4E1sjW0xOPok10sAeeYgwybltRssmFLIaNURsOCJPWvCEllsNCsO1kBFA7piElHUYVJTWRDhijx_mQOksTvOfL_4UrF1vmyrW2-OzUG8VTvLLA)
 
-![](https://lh4.googleusercontent.com/QQFuFz6pxMvDAwsjLTcF7cswaT3kfeglibEZE0beZkS4dhMovvW5iApAyuaQlsPlW4hPZ5NrkEgP9nSHV9VnmVRegW9sRzuHye7jVtrVwhGFCEFiEdg1cBI17s2kNFy2rKq9S2JgeCBNNtz3Lg)
+![](https://lh6.googleusercontent.com/NzAY7oLv8iabkMyeRV4JMyS315RX0QXxJXOklM1G8LG3_OdLdJagCRVAbjyJYpcpAXeqci4j49eNcz-xEs4P6Lz1uaGCgzpGeSnepGwMDlFYQqHmbUR6hrd4WL9T6K9FaVC8USVVPoHXUJ0kxg)
 
 [作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で毎時00分から50分まで作業することにしているので、見やすいところに時計があると捗る。また、アーカイブで見返すときに何時頃に行われた配信なのか分かって良い。
 

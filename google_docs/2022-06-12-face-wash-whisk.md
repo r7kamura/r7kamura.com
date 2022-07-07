@@ -5,7 +5,7 @@ title: 洗顔用泡立て器
 
 1回分の洗顔料と規定量の水を入れて、10秒弱ほどシュコシュコやると、レモン1個分ぐらいの良い泡ができあがるという、簡単な仕組み。手に乗せてひっくり返しても落ちないような、良い泡ができる。
 
-![](https://lh6.googleusercontent.com/sWSf6dcW7PtZix7EQgLaAhtYjjZPUwvZug6CBGf5cH9kkxDMpIpT8trlD_PpIvaDIfXOezUbzLC_ISYYZsX8juJJnkTBss1LxUxSfigCsMwhxt7zV85J8fPzfRXDg3FgvzomGPOWV3FdV6s8hQ "角が立つようなふかふかの泡")
+![](https://lh6.googleusercontent.com/BPRAV5ZuUCc3SE7JDA12BQlmsE9-mpU2QavkTo5WFxsMrszExfdY5lXJz0bi3JnCBSjJw7acVbsyB57OK7SaxUvZ86jYUKpjUhWIX31EOM3NBiyuFrd2ovvrLc34HL7SHjfcCPcXrO0WYHAWTA "角が立つようなふかふかの泡")
 =========================================================================================================================================================================================================
 
 ![](https://lh6.googleusercontent.com/xrDPK_fOinqz5mfmKEEJFSBvNZ8R6RThg0rZ8xJRtZS-MSJq5oco5vJkzEJg34W3RS3eidvTwUczNO8lPyNaXWcNSyiE1szk0wgqJSLkd8hD28_ZM9-blPGK1cYHxFvqHiPFR8qDplEjXAVSeg "シンプルな仕組みの容器")

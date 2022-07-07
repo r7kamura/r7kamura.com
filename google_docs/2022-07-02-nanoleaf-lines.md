@@ -9,7 +9,7 @@ title: Nanoleafを付けると楽しい
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh5.googleusercontent.com/k_XZ1l4_sm9Qf-U5WLxHV3XE2Jt_8JKvQ3LSk6QwJA-bPUf_XgexxmpHv7NnBaUhQhpGu02Z67gqvQ5yPRrsSNhRBtlD6oifG1WrjBC-lmg1G-yB-VOz1J_b0BF49kgIWC1OdxNBf_GEqsJwlU8 "化粧箱")
+![](https://lh6.googleusercontent.com/ipxRqmpinkmy6UsBvnUqWEO-cB4XMRX7MqokUgL75jnr76FJLxpWM51tlR2hwXaRHxU8xquQ9B6YGI2GUvAVPyNAkUOxAmd724haGk3mttCbu-hP-kwNhzwQnihIFEoDTvcpP9pWgUjUkql1ZQ4 "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
@@ -21,7 +21,7 @@ title: Nanoleafを付けると楽しい
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh4.googleusercontent.com/MmKxCUenhDCBuz_9E5KERyLfxoFfnkUqZpBpXSUJ-4laDVYIUzsmw_8YPM3WPTjOs8VjdUQfkIvZIMjkMR4KfbClMIkFMCQctd0tVBWnjd3KCh1tRAYTa0gtFTuiPHzvlzs2cSQ8Pfx_guOANg "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh4.googleusercontent.com/IEs2dLk0mD6LH6P1yoy2-jnK_haCPBc0r8TQnral-0lHLzOwvG2mi6ADjGdgzwN4JUMFJjnHdFu-sB-r-V0-ih_a2BLStqXElnMqQUX_i1V5eChM-HGKAfK0qjPf_0oF158FslJPEfCCwxSFew "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
@@ -33,6 +33,6 @@ title: Nanoleafを付けると楽しい
 
 個人的に面白いなと思ったのが、環境音に反応する機能。本体にマイクが組み込まれていて、発話したりその場で音楽を鳴らしたりすると、それに反応して光ってくれる。配信中に会話しながら部屋を映していると、話すのに合わせて照明が光ってたのしい。しかもこの音に反応するやつのパターンも豊富に用意されている。他にも、PCで映している画面の色と同期したり、部屋の明るさに合わせて輝度を自動的に調整したりと、機能は盛りだくさん。
 
-![](https://lh6.googleusercontent.com/mNYUT4_1v0jQk565l9K4AZ_sSVYOt8V4BUxKcYf2loVdsRDRjaF4hiu9qjvy0ghQ2sGNYLGWFBuyBZy5RyQZNjBDF4O1DVvohtlqDPolOQi0qoxhF2YgQdM00b5-VAMHqwLcz8oITH7-fJE-aC4 "暗い部屋もかわいくなる")
+![](https://lh5.googleusercontent.com/y31eZQ1u7rgf9oWHkagRRg1-WFQnyYZxorRwHoATKyieyvQ5djrWqdS8HNuRJzo18pT3CvZNcI6Hjdd_tZ5B9AOFefTU10LxYajz2UGOCmE5LGsTEipzZ0_rwX25Y7Kxsv2YITcdweXVfSvPdR0 "暗い部屋もかわいくなる")
 
 以上、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)の様子を紹介しました。壁が光ると楽しいね。
