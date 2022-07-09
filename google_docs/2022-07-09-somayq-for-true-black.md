@@ -1,7 +1,7 @@
 ---
 title: 染めQで黒に染まれ
 ---
-手持ちのガジェットを染めQで黒く染めた。
+手持ちのガジェットを染めQで染めた。
 
 ![](https://lh3.googleusercontent.com/3gnPRFxfxBeUiWImHZGm5bmdEbXBAuDkcmo4uYYGU7VoO7EQpe_WKi1LHTkqt50BqB6psYkXcTz-ZCDzDarg7m8E8kS9gBvEutGGHzEAod0a2UGjvj__a0J97Xi9FSIMHOqFA4zXA9gkbBwjfo4 "今回染めたやつ")
 
@@ -15,7 +15,7 @@ title: 染めQで黒に染まれ
 
 しかし、一昨年購入したAnkerの充電スタンドには白のものしか無かったので、統一感が無く目立ってしまっていた。このデバイスはアクセントカラーを入れて目立たせたいような存在ではないので、できれば周りの色と合わせて溶け込ませたい。AirPodsケースは市販のカバーが沢山存在しているので、見た目は変更可能だが、充電スタンドはどうしようもない。
 
-![](https://lh6.googleusercontent.com/-Tx0apGvOjzD1hHA2z0FSvUsH6L3FhW_AlvLhLKEsV3rpjNaIAbvhwhUOzKLtyKgDMhcusX3moTDdt-StIXu6RWxYnwozkKH-N58VMZbgBZ-yV_zFMdpdGfmEezegNPpMnhqHYj8SF6lEdfdhQ "充電スタンドが白くて若干目立つ")
+![](https://lh3.googleusercontent.com/d5ERp0hlX8MGPT06af8sQaAA4Ehf7vtiiTHfM23kiEY9NiLtkdCnFQcuFjRblCb3NFkAQ_WbC3N2mOO7DM-M1pNX-Z29Cua_NbjGW7Ld79hXcyKbbih21z22pEp7BfHRcevWmRXHyGEFePM8nQ "充電スタンドが白くて若干目立つ")
 
 そこで、[ミニ染めQ エアゾール ブラック](https://www.amazon.co.jp/dp/B003QMFUKO)で無理やり黒に染めることにした。染めQのスプレーは、一般的な塗料と比べると少し高価なものの、一見塗装しづらそうな金属やプラスチックなどにも使えるのが良いところ。70mlのミニタイプでも、このぐらいの塗装作業だと余裕で足りる。
 

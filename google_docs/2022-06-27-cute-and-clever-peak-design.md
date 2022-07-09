@@ -16,7 +16,7 @@ Peak Designのモバイルシリーズのご紹介。
 *   スマホに貼り付けたまま持ち運ぶこともできる
 *   磁石が付いているので玄関ドアとかに雑に貼り付けておける
 
-![](https://lh6.googleusercontent.com/XSdfPTYhFq5j06fbnJOeuAFJBZ2FOK40j8ySiojnZe7DaVjfM-kGT7ujUCHbZeLdxMQhil-HrNxTSqurxnmS8VBmRFAh5vgg19etFUn1intMD-qmtBwOId2hTQv7k5Lm_Fr8RDm8xzhJL6iByQ "かわいい")
+![](https://lh3.googleusercontent.com/fv5s6Sp01ezZKVhIW6AAkZweYELc4zh2xx8sDgsbmRJZzyCAKKAAPwm-WPJfFfjVOUsglwU3g-zeNcJ4AnrOpHE60mLLbhjVfTo5tV_wQVl1s43phBtjy0_I9vpwWURQjsiQmNq58BfTXPxaNg "かわいい")
 
 ![](https://lh6.googleusercontent.com/FzSIgl6HfiZjB3e6DD_hZ5u4C4gicF5QRs5nHwDbD2aMB5ZkfWxjXvNrUkHmvdvecxrb3HKnvCJVsQ4xXj_9cnsDTB742fwaMB2hFgw0O04I1RpZ-ZsIFVrQdSOrUI8vnK512oM1ubtfCAxKbw "折りたたんだ様子")
 

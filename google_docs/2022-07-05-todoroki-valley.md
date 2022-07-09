@@ -9,7 +9,7 @@ title: 等々力渓谷に行った
 
 ![](https://lh6.googleusercontent.com/C0KhxIwQO9x_aLIKi4RmmVuDRmgky9HAYc3kdzZMWez_vB5PAEeqyPOZ26Lcczq3VhhrRxvHlSP5ZmqD79dl4HlnKSCCTXXAbwSUy93x41ewkolJNVoLxyVZ8SIlUND3dRx817He0qGHnZeTWd0 "谷、沢、そして川")
 
-![](https://lh3.googleusercontent.com/sQgOMxHTl1DTojfiNeYn7yip4gol-mZ-ePy18oYwZDlyn5T9sWJo75gE0vJmzw_U9gszFTohQvu2cTGMqEwZBfLzPaYG_acV0aF2tSOdEYHJIusjXmMZQG1qWnCEKliEw283uCuHqIUcLlcUT00 "しっとりした雰囲気の道が続く")
+![](https://lh5.googleusercontent.com/-lArxS8_DHQNZnxl3FqFqlUtBAzVdazThdmihX-PeDvCYzmHQdV23ag7hrbajZrUrIDQgfDDHGHXH6Xn33QY_ZD1jv09vzmL49v5_mJ_5MmKHKHRuGjOPERX9RGpUsaf7fPTNb1Xk_phrIq_XsE "しっとりした雰囲気の道が続く")
 
 木漏れ日が稀に落ちてくる程度にほどよく植物に囲まれており、涼しい遊歩道を一往復できる。たいへん雰囲気が良い。視界から消えることはない程度には沢山人が居たので、早朝や平日に行くとより楽しめるかもしれない。平日朝に行くと、スーツで出社する者達が渓谷を歩いている様子を見られると聞いた。
 

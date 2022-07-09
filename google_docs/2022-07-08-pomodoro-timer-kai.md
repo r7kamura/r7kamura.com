@@ -32,7 +32,7 @@ title: ポモドーロタイマー改
 
 ![](https://lh5.googleusercontent.com/vuenpP6T06ckRLOiqvYu7Ta6YENYmuHtEqiEfhWbI6JB2FDH-HmJBDJzliI8l2zVpnyugmOs8j-VrEV9ljFcIM59699v4RbRPPR51k0X3nX-feZoek3_eljSeqSneiM9IZmE4jM0sMjrBMquWNY "配信画面の様子")
 
-![](https://lh3.googleusercontent.com/QznQ78JOj0GtuEgJ5sgLBE_oVNU9mLj2M-Oy3DUdPt_1jIgPUxa1jVWfUoE4lkbf8dzTB7QP1AJLMQS0AtoOsgUJGnTp2-xBFzsExgn0lSxYTqS1p3ImjBSiKbUln9TWe2uB1ECN1H-1htR3Y84 "ライブコーディング中")
+![](https://lh6.googleusercontent.com/vlcNXYVNSHRIsjTmmpKhhr8tJ9h8Om8bzIkgnzvF3FFA8x0xOLmDrTe8KO13u-qbwhG-4xxdrETsp7MAENTuSxTHFmMG55WbUEqlTElV51W3Pp3DlXpVUaG3QGQqlYWkEwIVxlP9ws1N2BxJZc4 "ライブコーディング中")
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
