@@ -5,6 +5,8 @@ title: 染めQで黒に染まれ
 
 ![](https://lh5.googleusercontent.com/eRXmWtYdbGQerLQan8Xp7UleRGwv8StIGpUf9FO1nX56MXd449RnHK9rsK71rwEwsb6scK50K3HLhzveRi2dCQEbEz4xlfa8BIgXgOsZPbTK1KMVw7wdFD3aLiOtxNzTvqyqUDMvmuVsEwt47A "今回染めたもの")
 
+![](https://lh3.googleusercontent.com/KG7datBTwk6Z32umxQryX92MmgpafI3-gW9itUDEytpRuwZYJyMZ2uJOP7YL9wJbnQgCwwR0pe-f_JMt648wGKQ5EUvcrdUDUCmUYfXHhXNw4snEMj4-D1R02Ey5cV60W9YKnGuDFLNDpsfLVg "染める前")
+
 今回染めたのは、[AnkerのiPhone充電スタンド](https://r7kamura.com/articles/2021-09-06-anker-iphone-stand)。
 
 「色数を抑えろ」というのは、グラフィックデザインであってもインテリアデザインであっても、基本中の基本としてよく語られている。自分の作業机でも、使う機器を黒色に統一するよう心掛けている。例えば、
