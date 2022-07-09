@@ -25,7 +25,7 @@ GitHubでリポジトリをつくり、レシピごとにMarkdownファイルを
 
 鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
 
-![](https://lh5.googleusercontent.com/Hs_l4ZjYXLuK5tKCp26FgbJRA1RRvngYYZfQRXZ6jQtny9HcWtIGBjJ3MxfABzuBGKJRs0p1qbhaPHR-66X5wGU4l6w46snHzzxyOVl7V6Dm8de_QRxJeKmRWMxbmYLlimn32jTQHRmuy6wAJw)
+![](https://lh6.googleusercontent.com/TySOtbLT_9amhOyllZZabT-Pc0SGsWB9p-dRYtRR8t9Sc2r7JHlRaK5WP5868N8ZRaaZYWPKAlpQw-VwLXl3KyWp_iuV-1ncp1XFDBsFui-8ePcsfy55cY61702ZQ024oLMP1n5WsU2biqkkLA)
 
 課題: 中間状態の無用な命名
 --------------

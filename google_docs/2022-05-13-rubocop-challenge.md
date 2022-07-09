@@ -15,7 +15,7 @@ READMEに書いてあるようなYAMLファイルを、適当にコピペする�
 
 実行すると、Pull Requestがつくられる。デフォルトではランダムでCopが1つ選択される。実質無料ガチャみたいなものだ。今回はStyle/StringLiteralsへの違反に対応してくれたらしい。
 
-![](https://lh6.googleusercontent.com/vODN_HU-wnWMuRT46nbBA-fDhepJG7eX3_qWuPfYv0IOXJeKd9R1CKYVkTm8JtYG5bMgX2gKe7Ms1OkyutiDLSDlAcj2MTI_sFA-CiYWAUqPcVd743TIkdQLWrcLXyM2ArlHE6tacGIgZhYCwA)
+![](https://lh6.googleusercontent.com/Gr7ou_3UGmvHGPnHkVTSK1RUah_se-rM72ys50HToN7FxiK7LfGt7embc7qkugAzxUwuUB4o5Ba5-6Fw0UkP1riL1wWv6ONta7X8OUypE9_zCIiS4gHcYFvlGVDt2HPtBxQrH65OLt6NtPY1Uw)
 
 差分を見てみると、.rubocop\_todo.ymlや違反のあったファイルが自動修正されていることが分かる。
 
