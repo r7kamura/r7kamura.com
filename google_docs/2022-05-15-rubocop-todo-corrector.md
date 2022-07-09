@@ -13,6 +13,6 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 前編と同じく、実際に動かしている画面を掲載する。READMEに書かれている通りにYAMLファイルを置くと、上のようなボタンが表示されるようになる。
 
-![](https://lh5.googleusercontent.com/zzZlBdT7k1V1ZMIsYxpJa9cuH-8vVhCmlERuIDHNpTHdVXdhVX64afHgZdWe93ozcEVBqhUiZtCRez9KttNFWcCYWYcsNp3RmboDipE4fZT0mC3Rnh0LRJtPPPz4HDMLLn1KsgYSEC0rzTgcxw)
+![](https://lh5.googleusercontent.com/P09BFCnkzX8E0ICNOH59YnGYsYHCmHXV1eMmU2nl4dyf7nFNwqWYQAZSitHVzhCfiywMJQ5p1byfGyxze60nd7QBpfcRarAjd9IHAfAUMig2QdZ1t-HbrTkFf52pnFxG30ps0lTxEJfmo7g4JA)
 
 ボタンを押すと、1分ほどで上のPull Requestが作成される。
