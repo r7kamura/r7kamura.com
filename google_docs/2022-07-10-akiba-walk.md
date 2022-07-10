@@ -1,0 +1,30 @@
+---
+title: 秋葉散歩
+---
+週末、気候が良かったので秋葉原まで散歩してきた。
+
+![](https://lh4.googleusercontent.com/SBtumqrBia7oFdMZq-b8Y65k8cGAc17J6ro15Q3UykM0Kq43xhFCtJbx8zT7SDS6zCG0mIRY-ffYUnkThLeWElEAjbYtKbGV59-jKv9_jR1zshieAbNR1j-dTp2FtjmBsa_4T_u0aAZgPqk40FY "鳩からの視線を感じる")
+
+港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
+
+![](https://lh4.googleusercontent.com/LCoqdNdIV3ZXsPKr9tF9FVyeVx5MIXpyT7ZGqPeIXeE0Ka7s3XoPMrkIYwvv2sOUpmKdqNvR_DWFAPK8Wwf5lAeWFCpLsIos_a245hsMKWGSrBfzvG30a80IW1oyORrD0zjZCH02h2lxwndLYug "アゲハチョウ")
+
+おれは猫と人間しか撮らない主義だが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
+
+![](https://lh5.googleusercontent.com/P85z2BA16_yufUjQ1RLs-V08OrQE8MsJiNGP_tBVly6FbopB2Fg7LWFLchp8aslK4c7d7hvWNYvcDM8hfKSEfAEtkCFADwOBAK7Q3VMiB8-C1UbssEDJcr3Zp0IIpVpjCzNU16yxj78Iw4-_qUs "ヨドバシ秋葉前")
+
+初めてカメラを買ってから、この日で丁度1ヶ月経ったことに気付いた。毎日9時間作業配信に使っていて、その上で散歩中たまに静止画を撮っているので、使用時間だけ考えるとこのカメラには相当お世話になっている。
+
+そういう訳で（？）ヨドバシ秋葉で前から欲しかった焦点距離85mmのレンズを購入し、嬉しがって早速付けて歩くことに。重いレンズを付けるとレンズ側にカメラが傾きがちなことに気付き、あとから角度を修正した。
+
+![](https://lh5.googleusercontent.com/CKIeto6sJaJWsEer7dMKBYqHk0sy5zEqxt7psvXLj2_ocwnXuMGkIttZCyz6v4vHTj1XGL5gPCq7wd8MNZtzgJghlC-Jlf3M7fjRwELJ3MYjO485HfyBvobfyHfTtW0TU55xrSFJEpnUrtlxRkY "宝飾店のかわいい椅子")
+
+秋葉原からキーボード屋さんを目指してふらふらと歩いていたところ、おしゃれな雰囲気の高架下が目に入り、つい吸い込まれてしまった。秋葉原と御徒町を結ぶ高架下には、2k540という職人街があるらしい。手作りの革製品や宝飾、雑貨などのお店が並んでいてたのしい通り。
+
+![](https://lh3.googleusercontent.com/vLrRApD5xHpBmezgivm4h5vPeARQvv59dsxqH_c2-nKTbS-rl9wpZjmjOcSK0pTMkWL6OaU2J5YffC6JrH8ho9mzBUHNcp2Hk9DSTFY3wWHpL3NZ_OQSqwM-lvj5TzlMclcxzpmdM9lNOxFDQUU "自作キーボードのおみせ 遊舎工房")
+
+作業配信で環境音として打鍵音を入れてみていることもあり、打鍵音の良いキーボードを求めて、自作キーボード屋さん『[遊舎工房](https://yushakobo.jp/)』へ。店内にいろんな部品や作例があり、試しに打鍵することもできる。かなり賑わっており、熱心に店員さんと相談しているお客さんが何人もおられた。
+
+![](https://lh4.googleusercontent.com/HsguIG3XaQmJxgj6IQ9WrLLz84EnBAPJ3nyQfUveXgyq3RS3w1t05K-u-0jlQTmfzdltnn4phMSAGpGsvCCLDpUSr0AaRSHld4sZD4_RtYFh8801pWx7C5lymJHNCdrzN2d1x6Pk77dq-NjzM4A "神田明神")
+
+神田神社にお参りし、秋葉の電気街で謎のガジェット達や激安テープライトなんかを漁ってから帰宅。特に計画なくぶらぶらと歩いただけだったが、都内はどこにいっても見どころが多く、たのしい散歩だった。
