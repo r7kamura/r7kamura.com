@@ -9,7 +9,7 @@ title: 秋葉散歩
 
 ![](https://lh4.googleusercontent.com/LCoqdNdIV3ZXsPKr9tF9FVyeVx5MIXpyT7ZGqPeIXeE0Ka7s3XoPMrkIYwvv2sOUpmKdqNvR_DWFAPK8Wwf5lAeWFCpLsIos_a245hsMKWGSrBfzvG30a80IW1oyORrD0zjZCH02h2lxwndLYug "アゲハチョウ")
 
-動物はふだん猫と人間しか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
+動物はふだん猫と鳥と人間ぐらいしか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
 
 ![](https://lh5.googleusercontent.com/P85z2BA16_yufUjQ1RLs-V08OrQE8MsJiNGP_tBVly6FbopB2Fg7LWFLchp8aslK4c7d7hvWNYvcDM8hfKSEfAEtkCFADwOBAK7Q3VMiB8-C1UbssEDJcr3Zp0IIpVpjCzNU16yxj78Iw4-_qUs "ヨドバシ秋葉前")
 

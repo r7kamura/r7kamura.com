@@ -17,7 +17,7 @@ title: ポモドーロタイマー改
 
 円弧（円周の一部分のこと）を描く方法は主に二つある。一つはArcという円弧を描画するための機能を使う方法、もう一つは正円の外周に破線を引く方法。今回は破線を使う方法を選んだ。
 
-![](https://lh5.googleusercontent.com/bGvw_zM07-ZumDXjF2c2-o3FF2A6omM0NfS-mV5Wyjz2DIYidIDKrJPR_uo-cVjGDFA0CCmx_wi0uGxZ7ItwFzIntUVB_1sX8oTPRNHjXJPEFq_JPW6NNnW5yegQijqD5DHt-d0GLSh-1OdpOyA)
+![](https://lh3.googleusercontent.com/TcV4nG-YsSHcKl2TAFFsg-EjMzh8lH79JUsVWTwuRLnBCBLDWxcyUxbg7x4THvnSbXrfYQdq8KLLdbMI7y6sqokhlVng2merKWWnTVVJYAXEMCgy7ieg3OS5W3Ii6dxFxKaiUTbr_unDZZm7uX0)
 
 あとから定義した順に上に重ねられていくので、次の順で合計四つの正円を用意して、それぞれ外周に適当に線を引いている。
 
