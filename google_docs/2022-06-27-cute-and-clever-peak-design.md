@@ -24,6 +24,6 @@ Peak Designのモバイルシリーズのご紹介。
 
 最近は財布が必要な機会もほぼ無くなってきたので、[スマホに付けられる財布](https://www.amazon.co.jp/dp/B09FSGW671)を必要なときだけ付けて外出しています。これもスタンドと同じで、使わないときは磁石で適当なところに収納しておけるので、たいへん便利。
 
-![](https://lh3.googleusercontent.com/1mcdu1pjMicbWYwoh-CvSUAgcwYvsL-H6XNFDn6d57GPIdZVwsz1x-bvcyoaMNWTYV-XgaY2C4bttQw26VtryaUxr9AZhxDNTEGbCuM_o3mdYiC_xyKs_jXYMfFyRKssdaGhPqJPNhUVqvxdBA "スリムウォレット")
+![](https://lh3.googleusercontent.com/AnQ7GlMgxHNGTYLWAeKH0ja5h7ESprX7hM0DsaxcgrjZuLVHytqdexHXbsU9eFlrm6wTchUdqiKe3M4-2NCcrg2s7lfFDjZzURucG-6dNJrOX0vq7kNZoZ9rgP6mERH5iQcKo54gR47r0iNg4A "スリムウォレット")
 
 以上です。普段使っている、Peak Designのモバイルシリーズの製品を幾つか紹介してみました。毎日使うスマホにかわいい小物を付けて、スマホの可能性を拡げ、快適なスマホ依存ライフを送りましょう。

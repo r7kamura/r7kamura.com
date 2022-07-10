@@ -5,7 +5,7 @@ title: 染めQで黒に染まれ
 
 ![](https://lh3.googleusercontent.com/uVzW8V1WJoCuZ0I94eDFTOD7PL9ILSWVN06sZajONUVZuI1b2EdNJ0zVSFMhcYyfX5sI7_u2KY5z80iQe6lxa6VMn5uQUdTCS2fKLjX_MiJveC4HI052Y526hmWUfbwBDNP4N1-pVYi4bdvW7A "今回染めたもの")
 
-![](https://lh3.googleusercontent.com/2bffYA3zLD5e-bWcQ_17Lq3i5hyYnE9jbWDLhxYJ88XAT-c1dIdoVTkns5ghoZ5UbDajqMFRvLRO9xWyWLUYKVSeu5EHFS80e-t-6RzAMHZUZgylRo9m2eDLDVv9QdkINJv2KgMMzTEEfSBr8g "染める前")
+![](https://lh3.googleusercontent.com/Gy1tC-XuY9fFh1GbksP2gXmRg-uqEFqV054QF6LzRSCIfnOaTcLruzE_yT9DD-lCaXzXpMu4eyZK2dbu7aRpxzwuAM_ifEMJv3AXaAaQ3dxiQXH6Ti5qiGXSoW3MiJPvx6Po0G3AFoQDxb1lOw "染める前")
 
 今回染めたのは、[AnkerのiPhone充電スタンド](https://r7kamura.com/articles/2021-09-06-anker-iphone-stand)。
 
@@ -19,7 +19,7 @@ title: 染めQで黒に染まれ
 
 そこで、[ミニ染めQ エアゾール ブラック](https://www.amazon.co.jp/dp/B003QMFUKO)で無理やり黒に染めることにした。染めQのスプレーは、一般的な塗料と比べると少し高価なものの、一見塗装しづらそうな金属やプラスチックなどにも使えるのが良いところ。70mlのミニタイプでも、このぐらいの塗装作業だと余裕で足りる。
 
-![](https://lh3.googleusercontent.com/2DTm5kf9hRbJpY2L5UnHR70YSi4OJ5Eg_Oe3WZ4uGMXi3Ej6rs3CinikkOG7LNJfZLSZsa0O6KvQuGPZbk1qO0KqfRhtxjTLReeqYJCeyPAZVCCCCyIwP54mKXKLyoDhYlXuDRh1iOlBHsZHfQ "塗装中の様子")
+![](https://lh5.googleusercontent.com/OFkb9wiDUwNQ5VggzTKhrY0IlX1Y_fpbuRpDhdvk1CukVq6v-ByES1zJPeTsFEH6I9XOGrbIV_lvyB41bKNAKr9Gzt6Z4NdAToRlWwEi4WqTI4Ugd72L4qUKqt-Q96K06VuusGVNs_5dYBYeKA "塗装中の様子")
 
 ![](https://lh3.googleusercontent.com/nSk4OelBSQ8fE5mXxRN7aRBTZiaIFA8396KYwtEkgu_VJaLVE2pbR0MZ5047d_SY4W053a6eMupKmI9Zk6ZY-iK2yt0F_YOmgFBCqU9_rTzCa34EjiTtxMdd3QaEAiOjMcMErnljD8_btc1-yQ "金属の柱も問題なし")
 
