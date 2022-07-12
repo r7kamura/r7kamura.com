@@ -5,7 +5,7 @@ title: 染めQで黒に染まれ
 
 ![](https://lh5.googleusercontent.com/8SprdoGIaibr21pxEH541yIWq8fhkR50oo6SQnhjRh2rwxN3K-sP2U-F4bKIj2tKVXKz4e_4kuiuXjNit5dvdslOUff58WMJfx-FzMauBNmMpOc3fml3wWxOn_4iJzn8DMi11OKd50py9XtRhg "今回染めたもの")
 
-![](https://lh3.googleusercontent.com/ntC3Ve26Slf_8SrHvMy99RuXgNYRHgbb4qgTPCE1j3FvyVt3CGjlPTxGM-pxUM-SJ64b1Gq8F82Udyz1Yf-j1DLW2G0vIBUzeHToZJ4AsK6l3ADNsPSxc2WZwJVgbiGbXrPbcX_KJJhCXoXnbw "染める前")
+![](https://lh4.googleusercontent.com/iqOsfwCLZcfDpD5VXdemqquNHqPrk45CF-GkEqq4XaBrwotaIvu7M_zbxp8tiB60bdhmk8Y3hgsm-WRVzk1g6x7hoFpBxoDkH5Ccg5eseDlo9_GMb8PrltlH67kYVonslxmU8JPjAkl5KKWjyQ "染める前")
 
 今回染めたのは、[AnkerのiPhone充電スタンド](https://r7kamura.com/articles/2021-09-06-anker-iphone-stand)。
 
@@ -15,11 +15,11 @@ title: 染めQで黒に染まれ
 
 しかし、一昨年購入したAnkerの充電スタンドには白のものしか無かったので、統一感が無く目立ってしまっていた。このデバイスはアクセントカラーを入れて目立たせたいような存在ではないので、できれば周りの色と合わせて溶け込ませたい。AirPodsケースは市販のカバーが沢山存在しているので、見た目は変更可能だが、充電スタンドはどうしようもない。
 
-![](https://lh6.googleusercontent.com/mFqnzBiHO6oEKrqg4uM7w9q2FoKyOKbYY4bUxjTncKy_Okg4fDlIfy-UhoM84nM1ieoT2bGm5bEQkT--PqkOuEhtYRnRg2zcY2--CLauGtP8b0G5G5LrnCgUSNOtiDMYvE1QmghHs8HAA2IjnA "充電スタンドが白くて若干目立つ")
+![](https://lh3.googleusercontent.com/3xciIIE47_sq8vAvmameAO5uffsdvA2ihlAzOgCXZSs2SSQ2cHBYMKNFtfdQBMowFqxckLn5JCtKBWFYTg3R_Uy1kNavBfmGDfAUa7c6nrXnpqc3PkLxeibHtW5zNnFmvmw1bzam58rkywaBtA "充電スタンドが白くて若干目立つ")
 
 そこで、[ミニ染めQ エアゾール ブラック](https://www.amazon.co.jp/dp/B003QMFUKO)で無理やり黒に染めることにした。染めQのスプレーは、一般的な塗料と比べると少し高価なものの、一見塗装しづらそうな金属やプラスチックなどにも使えるのが良いところ。70mlのミニタイプでも、このぐらいの塗装作業だと余裕で足りる。
 
-![](https://lh3.googleusercontent.com/Ler0KiP3WpjXqIlOa-6orzconvEIAC7RKZIZh65u57SUM1m-gyUYW4pO93g9aYnkSUPPRJYWhqgShA230POwQEZ2FWwJPgsyxz7lIeWleoipLXxwxEsQsqUP9dmI_ElNM2ysJqQxJdxLmUQv-g "塗装中の様子")
+![](https://lh5.googleusercontent.com/-0mlutJ5yaV2zxKqH-0w_quNSat0iGB-d3Vr8NPOwOCEaRt_xGyP56FU4sV4LAyXts45ZxCNjxJ3_BroACnlSjL_7s5e6nh1XPhnkzVV6vmOMRUS8x3N2-oUzV4NqjswafCDJQM4oA8NfIfT7g "塗装中の様子")
 
 ![](https://lh6.googleusercontent.com/5c8lGF63RLaB30OhVu0CcX4jethtLSeviWxfliTRoKWh8DeGaLY1nHLA8Tdv452ddGMoE88I1mOeE3u4X0gm9ZGFxtch911hWDIK5T0kLO-3VaY27cAcvpkG9PbPlOc4SUEhP4HThkRlVe416w "金属の柱も問題なし")
 

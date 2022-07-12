@@ -13,7 +13,7 @@ iVCamは見せ方や売り方が下手だし無料版で広告も入るしいろ
 
 ![](https://lh3.googleusercontent.com/djO-WVyLtbfhWNmrdvREPw92Y2wFKfzNUmD4KPIUL3-ULytS8TloPugLP9VqAT0sJtV51c9BCJ3jmx4G4B5zb4_uUhNX7tgu-QeZ8kG1z-SQaK4x0Rc_VhkljcBytR0FlMdmWuQwmWCjLDuT-g "iPhone 12 Pro Maxでの配信画面")
 
-![](https://lh3.googleusercontent.com/qs-r7nWoNNoKpH_xZIUMfGVprB2lu51LV7dmhH8etByDqYiqKi6pMn3JabMcqCahfYfNtf_CeGsEISliNbwHa1JfJzm2OOi75pBwpkr4mRCtT26IoyKHg7171amYVTIaK9lFqnGVGLfEkTlO9A "ウェブカメラ C980GRでの配信画面")
+![](https://lh6.googleusercontent.com/T568gGU8xk0xfxK1Yo5PM5tDXm10tLYlRxPIUaCW8gA2gd851U62WKWmWKRfNI_Twtp1kz5U6lwRT3xBT6WyaRnft_7wdBr67ALT0h56b_CvRwFL4oYif4Jh4ggiku0Rc9W8AtMtZkDQb7KZfA "ウェブカメラ C980GRでの配信画面")
 
 ホワイトバランスや露出の設定値も変わっているし、そもそも画像だと違いが分かりづらいと思うので、[作業 with r7kamura #36 - YouTube](https://www.youtube.com/watch?v=Nmf0NRTqbyw)のアーカイブで見比べるのが良いと思う。最初の25%ぐらいまでがウェブカメラ、その後はiPhoneで配信している。
 

@@ -3,7 +3,7 @@ title: Nanoleafを付けると楽しい
 ---
 なぜなら、壁が光ると楽しいから。
 
-![](https://lh3.googleusercontent.com/wdBK5vpb9wbDjfatReh2fHRP4hEe5JUplWAvHUoxmIh4H8QDTQ4rLrDGBSAvYByNLr-Wp_b0agD7uDRy1-urjRzkEQbQHTtA78hFBW0sUPoPsfQHcIB-5bltG5iF_Fq1mAbB5uKjc_JycN7OV2I "Nanoleaf Linesと作業机")
+![](https://lh3.googleusercontent.com/LS3eXhw-1_CBDFqoprTsIQ__zEdLpMT5W7-sMkoRlzSh_76AMtlB5Nbym1GHKYbMZZ6dwXdlNc0Az9KGRYpBpXriD-zauCWWrB4XZPb6b2LQKk76ECda3KCelJ3EVUpKFmemvQxu5M_VUC0oIVM "Nanoleaf Linesと作業机")
 
 5月1日から、[作業の様子を配信する活動](https://www.youtube.com/c/r7kamura)を続けている。その取り組みの一環として、毎日少しずつ作業環境を良くしていこうと試行錯誤している。配線を束ねて整理するとか、画面を綺麗に拭くとか、壁に時計を掛けてみるとか、そういう小さなことでも構わない。昨日より少しでも良くしていくことが大切だと思っている。1日1%なら1年後には37倍良くなる。
 

@@ -9,7 +9,7 @@ title: ポモドーロタイマー改
 
 50分作業 + 10分雑談休憩で朝6時から始めるという、自分の作業配信に適した設計にしている。視聴者と同じ時間を共有するために、自分でボタンを押してタイマーを開始するのではなく、時計の分針と同期するような仕組みになっている。つまり、毎時00分に作業を開始し、毎時50分に休憩を開始する。タイマーの外側が分針になっていて、内側の緑と赤の線がそれぞれ作業時間と休憩時間の目安のための補助線となっている。
 
-![](https://lh4.googleusercontent.com/tTJ2Jkh7bNq3ZHbwqvamZGWEXXOFcj8YEOTTGM1I4ohwgoDzDK0fximlRRj9uVjKoLUpjzgJo1SaTb8dgnSM9PofN-j-sc8S3WPQMMoMp5_qrk-_PJTkA43zfmhicXRltXv8oTBWxQx1FKzRGl8)
+![](https://lh6.googleusercontent.com/FXsLnQjavCAxnUC07_HQanoqJE4GWVaCXxTtfjM-aDANhHpFXq48I_AGWkkBlZSsMFHmC2whF6WN0bWRJw58pSnBGFFufj_ynffo7d7uHUcFMllNFGEhYZiPODi7o76KRpslEU_9O5qJsctgID8)
 
 このタイマーの実装には、SVGが利用されている。
 
@@ -30,7 +30,7 @@ title: ポモドーロタイマー改
 
 あとはCSSを使い、flexboxとかgridとかで適当に上下左右中央寄せしたり、Googleフォントから持ってきた適当な等幅フォントを使ったり、iPadやAppleWatchなどいろんな画面サイズに対応できるように画面の高さと幅の小さい方を基準にサイズを設定したり、背景透過させたりすると完成。
 
-![](https://lh6.googleusercontent.com/xYDhLPnbEsa0cFeT0TC7HYihTMzkfIUSrF7pQ1mpSWao6EY0I0pEHwUXDDh2bsu03q0BC-byd_jr68LymC68GeG-H3_T_cw1gWafRbxOKYI_UY-fKeytaDK8OFayEuO5y1R5Afur269HFFvIdCk "配信画面の様子")
+![](https://lh4.googleusercontent.com/Qu9RhLO8_bsF5Q-Uz7S-gh791fHeaey2ViN8tB0vlgvdmEH7_wy_Lo6i_Eu_nN7x9CDEmhAZnca_n_7Sr2wBKD7u7Cn39Hg0D9vJgBwj5lN0lfreG7S2-bFrs-IFBoDdvoEyEzoTjVZpSJwk0kI "配信画面の様子")
 
 ![](https://lh4.googleusercontent.com/Ek_iNeFOZzZi07j66lgRpWxM7mtFCmfAjcSh7zFhg2IzmRsfS6XcK-XwNOcnmlgbOSmQJ0OW9X8_5IuFyPsWf-rmyaU2y9juPrRzzBoklmMRMxHqpb2stLFyCrsKADxiVKirgS_LGVdu8deFXF4 "ライブコーディング中")
 

@@ -15,7 +15,7 @@ title: ストレスレストーキョーで作業
 
 元々は作業用に購入した訳ではなく、居眠りしてしまわない程度に寛げるソファ的な何かとして使っていた。ストレスレストーキョーを作業用に使うという案は、[kir1caさんの記事](https://gadget-shot.com/53119)で読ませてもらったことがあった。これも試してみて良かったら使おうぐらいに考えていたのだけど、実際やってみると自分の作業環境には上手くはまった。
 
-![](https://lh4.googleusercontent.com/v_NMW5_HaXVpUQiOPw3CPSpJSCmrBYexALb0gR3YFNBwjPMrpmOxlDMXcxEqPzw9xqFlTizYH9n9aTb7mZljhxndoxblmjrqiLg7HdW6YAMaE67c_D7FHbsAu7lo-O6pU8Gq0wuEOQf0tM4PAQ)
+![](https://lh4.googleusercontent.com/-1dOXN6hchyj8M2VMVZNG6ng9W0r3zBH3N-Zc55wC4c8r6BTjSXmeOsKXzuq6MCWL6TFW0w7POShYB_94dAHyiVucK75nK-gGnr-UHdCdqob_rz7DibwxVgUtYwQNWFeG6gXEqf_n4acnJEwcA)
 
 本来の用途としては、こういう感じで使うべきなのだと思う。しかしテレビの前でリングフィットアドベンチャーをやりたかったので、ちょっと作業机の方に移動させるか、と動かしてみたらそのまま住み着いて今の形になってしまった。
 
