@@ -1,5 +1,5 @@
 ---
-title: Learn Chrome拡張 in Y minutes
+title: Chrome拡張をつくるチュートリアル
 ---
 
 [copy-markdown-link](https://github.com/r7kamura/copy-markdown-link)という素朴なChrome拡張のコミットログを追いかけて、Chrome拡張のつくりかたを学ぼう。
