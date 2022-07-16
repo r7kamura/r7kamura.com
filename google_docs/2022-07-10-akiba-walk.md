@@ -7,7 +7,7 @@ title: 秋葉散歩
 
 港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
 
-![](https://lh3.googleusercontent.com/zt7BuPlqGmqBbSECeXcPw2wi_FuT_0uu9NS1WOeiqto7N9vXIpi1d5YqNMFBpg2EpfVOHlBjghLQAQL9HwU4EIA7o51AwX4uMrnSmLHYKHMcArWiTHphnPYQblkMwuN8bfqLJpvhpfGx2lKDMo0 "アゲハチョウ")
+![](https://lh4.googleusercontent.com/nCOWcx22Ju9fXdEUvmp3Bi4gjIEl0zxypZSbDfLZZqAaT5aF2RPebkf3sdk-liWPvXUSV1AleP7qzXsE-4uJzdE99ypuvF3ToRMT7M_KlQWhR17ljcMCgt4S6kdkgKHbFi-iHyVyDA0pFg6759M "アゲハチョウ")
 
 動物はふだん猫と鳥と人間ぐらいしか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
 
