@@ -3,13 +3,13 @@ title: 光るマウスパッド 2年経過
 ---
 Razer社製の光るマウスパッド[Goliathus Chroma Extended](https://www.amazon.co.jp/dp/B07JJ4RG2T)を光らせ続け、2年が経過した。
 
-![](https://lh3.googleusercontent.com/BSrqmX86I-defopLyUCD1o3zwIXwMNwHkhlMcd2PsaVUEizrb5gNu-bGfWIeFiKxyu61dtLOH3ds5lKbC7xTefJk35XvnM3l0wr-ElaBAKhECIFdzFp8YdVzWKb63YkK__pdKW6Zp3WzoL9Mkw)
+![](https://lh3.googleusercontent.com/E8dyCZ3Io9xfnmfgvqI5uUbaiQJA5ahPl-OjSLEmNZl2y27wkIB_sKSozlEytz3Mnkh7ZQ0bMmmaKPMvnGNOA-JzP4EV3Z91_tbIMDurrhC-30kXBwqKjAwTTEsvGkNjsZOLJUblvIqF88r1t6Q1BQ)
 
 はじめは冗談半分で購入した物だったが、いまではお気に入りのマウスパッドとなってしまった。寝やすくするために夜は主照明を落としているので、その状態で机の前を通りかかるとぼんやり光っていて楽しい。[作業配信](https://www.youtube.com/c/r7kamura)でも映っているので、アーカイブでも光る様子を確認できる。
 
 Razerは光るマウスパッドを他にも幾つか出しているし、SteelSeries社も似たものを出しているが、個人的には、2年経った今でもGoliathus Chroma Extendedがおすすめだ。ロゴとかの主張が無く簡素だし、2年間付けっぱなしで延々と光り続けているのはすごい。
 
-![](https://lh4.googleusercontent.com/3UsW8UuDd_0EZTUTNoWTNHa5XwPFzSnbs3gtrh2Mt-gIOis4cgDuqxOsCH0Kz1BrEP1bfjnpBiLbKzFcJYHi3lbA5X2MaM8Em2EaeoncWcZqDqdin7Oz-xm5EeAUCE0rjrybHrimX7ds7TTb9w)
+![](https://lh3.googleusercontent.com/IU_x_DGDaT0-sEe60rD_7ZWJ80PNf9cadEeaUYCtOZQXFUD9gvbnOIVKiI8uYJWWcTaKqaDjRYbO4yqfh_WOZ5InNNqe_POmwTSW-A8kJ1ZMV3QQ4_ABEQfSSGyegPgC8mr1U_rOm1IAr_ZrLu3mog)
 
 意外と厚く柔らかい素材なのが嬉しい。自分はキーボード用にパームレストを使っていないので、手首をマウスパッドに載せながらキーボードを打鍵していて、これで手首が幾らか保護されるので助かっている。
 
