@@ -21,7 +21,7 @@ title: 染めQで黒に染まれ
 
 ![](https://lh3.googleusercontent.com/E6Xa2n2E4ia1mR5vfYDldVfH4WjPj4X9y21GcpXPrJhOrtHGK0TS188R2WGtUUFxeHsDHVJ8OT9Bnz5Y3gdV6uxsXjNRDMa3ee-VSTkI5QbXfKj_eGn2FeCjUP1LMxqSmL6Ba-lJnTglpNe2Kw "塗装中の様子")
 
-![](https://lh4.googleusercontent.com/JNQNFN3NEBkjMWXgaJgYGo95wdgwGm_vckHKAzMCMt3QXvAATmcaKsNcN4ZHyee4vd7pxMb0T4XDcH7RGy_9ck3hh30XLPTT67yUVQH_qZL6qoGzDJPhFPyCmB_nVCsrUSqgTL-0aQbcVwbYeQ "金属の柱も問題なし")
+![](https://lh5.googleusercontent.com/BfDP6IJxg7BCRHPBsoTy5KoFHDWtgl6-Va8OZS0jRBzEysN5X5thZoizZYi54cjz6kVnSbsYLFq7Oo-zY_hRmTv4z5DePRa1b4PVlxeeD7r6n7kCtfXynAvl6n2GdveHSEvNh0ZoDcQPG2idBg "金属の柱も問題なし")
 
 15cmぐらいの距離から素早くまんべんなく振りかけるというのを、20分おきに3回ほど繰り返すと完成。初見プレイにしては意外と上手くいったと思う。表面に傷がある部分が少し浮き出てしまったので、事前にサンドペーパーで擦るなどしておけば、より完成度が上がったかもしれない。
 
