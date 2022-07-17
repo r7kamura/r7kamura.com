@@ -22,9 +22,9 @@ STEADY (ステディジャパン社) の懸垂マシン、[ST115](https://www.am
 
 Amazonで注文して2日後に届いた。部品が揃っていることを確認し、ゆっくりと組み立てて、無事完成した。適切な箇所に穴が開いており、ボルトとナットで繋いでいくだけなので、組み立てはそこそこ簡単。部品が多いので時間は掛かる。丁寧に進めて100分ほど要した。
 
-![](https://lh5.googleusercontent.com/b2sI0tDHW4EuKZ_50vYeKN8VK_CVBpArv04rHwjpvqK5rr-EDEF8yCkqreCGgF6o1P_tT6rXmfThrLpdobOabjDZpQJW-vETEZD-2Dtd13BH5kr8AUYBADz5YNx9tZ0-qjcqSYD-6YUcwTXXcQ)
+![](https://lh4.googleusercontent.com/tc9cJYlKPlmypK2PZGwu9-AXoFO6fO9AnbEI4YkDpiAPxZ5IkKwTVUAeTAs0TBAtacoAH9hpYO6pUDQPfVShY7s9g23Vjx3j2-pwjxACP8vWK8qa0EUHdayXTxMX1_D3gxp4ZENEInvR6jkAcA)
 
-![](https://lh5.googleusercontent.com/P_FWGmc31w-dhHIwtBfDprgKHFg4Jqy62Rrw0TpfQJvkawsTzb6w_jyCwT9hdpfTIYnX0088KzsI2SYnH8y16Cw4g7vxyE9PxA9yl7HM-k2vN-oCAjnooGqQy7TNp_-3f92zt_AHv_Hqb4jQtw)
+![](https://lh5.googleusercontent.com/4JvYeEtpmTY6MS2AGrM4Cq1WtdKEruxI3kd0HBdyvvYl3-6rftLFRrKY_E0-gOq60v9a9vPz0jhP2MPkIMTk9KyW1MkoaV037yigjfyesk8ns8vWcuwGkwTP5DH5TtYasG7bjcDGxoczUCLIfg)
 
 所感
 --

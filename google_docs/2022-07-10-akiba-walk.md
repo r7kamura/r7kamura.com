@@ -23,6 +23,6 @@ title: 秋葉散歩
 
 作業配信で環境音として打鍵音を入れてみていることもあり、打鍵音の良いキーボードを求めて、自作キーボード屋さん『[遊舎工房](https://yushakobo.jp/)』へ。いろんな部品や作例が置いてあり、試しに打鍵することもできる。店内はかなり賑わっており、熱心に店員さんと相談しているお客さんが何人もおられた。
 
-![](https://lh4.googleusercontent.com/SnwWpI1g8QlGSPbEWF-YOl_6fp_Kt1kMR-VmhhdCCXEe53whxTh9YMKckKltB3p1z6zy22cGAS3FSOaLGeVbtmFqgqiVDhfLF3-GKq7O7NSSRez_H2Dy-Ioe6lJSeEWr30HP0JdcbvR6ocjeOMs "神田明神")
+![](https://lh5.googleusercontent.com/sakIamMZ6J7NCdGgHdwNs-5JzKGtV6fFOaHbotYB9izNYC_JHZcCgtkMuJ2uoj8eo358xZrdaSj4SyN-sep76l5gPmuwtSlWjztF0GtRq5hZlSEaxq85Yn0b0Y54m8xSmAxUlPW5rJrXvaxK-MY "神田明神")
 
 近くの神社にお参りし、帰り際の電気街で謎のガジェット達や激安テープライトなんかを漁ってから帰宅。特に計画なくぶらぶらと歩いてみたものの、都内はどこにいっても見どころが多く、たのしい散歩だった。

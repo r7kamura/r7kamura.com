@@ -3,7 +3,7 @@ title: 染めQで黒に染まれ
 ---
 手持ちのガジェットを染めQで染めた。
 
-![](https://lh3.googleusercontent.com/7QuN060cGXV8JCu1oGTbx-udHiiJIfyi_OlW-pQEonZWXTg8MwWMmYjFRovgoGlhIFNBB575pHBnHDXzo7Umlj-Wkv2_hAu2NE0aPtLMK2xh96_ijEcW77NUZIln5EOfsE7AjN1PFv-vYSBgB97Lcg "今回染めたもの")
+![](https://lh3.googleusercontent.com/qfQSPt8zUn6gVWA2y4gcyBbEiW3om3hXjk8HMQkhYpyxQUiA1xdKY7LxaljfBDR2Wx5flN0MN4GXnoMGRVMXvpE0utTUR8cXcVftPCj8pPaCx6Zq2RE9x_emEuoiYl6ucaQA47K6PhDXL2cUtd253w "今回染めたもの")
 
 ![](https://lh4.googleusercontent.com/vCjSdFHxf9IYo8K2GP4pkK42JOK8ZgpWfCYUU5aByEwkTWNxPZY00L7uaNVllKHCIO0lIS0UD-JxPRcna-lnlSwvk88JCZJBWq2QDiDDyn4hY4MzFBxa04MW_0RUxOC0YFy8WY17XUK00DmuqPiq6g "染める前")
 
@@ -11,7 +11,7 @@ title: 染めQで黒に染まれ
 
 「色数を抑えろ」というのは、グラフィックデザインであってもインテリアデザインであっても、基本中の基本としてよく語られている。自分の作業机でも、使う機器を黒色に統一するよう心掛けている。例えば、黒のNintendo Switchを選ぶとか、黒のマウスパッドを選ぶといったような具合。
 
-![](https://lh5.googleusercontent.com/m2HTbkOrIB8ljJCkJ_bkbd6BLp-KWP1peWbB-WYDmtgPee60sjCcjSxVvjZNnkVMSdYyZFNWFKXvz4iT7VFfpi1cdxUrnFmM-yHaQemD4gX7Ws86wrFh_2Ls2-TSYIVL8epyiR5PHQLgnoMj7JUvvw "色数が抑えられていると落ち着く")
+![](https://lh4.googleusercontent.com/qNQWzKhnS06k1uLDgZ0oolrtZd04Z_DvKIwes2gH2RM1yy0f0DCyJvZGM24IyJU9gxzKzqddh12wNxJfavw77X1i_vu34efAyj4vUSISbCsJ9kNnbcyRpZw2Ij0vM3x_CSczdg49swP8GbKY1iqJLg "色数が抑えられていると落ち着く")
 
 しかし、一昨年購入したAnkerの充電スタンドには白のものしか無かったので、統一感が無く目立ってしまっていた。このデバイスはアクセントカラーを入れて目立たせたいような存在ではないので、できれば周りの色と合わせて溶け込ませたい。AirPodsケースは市販のカバーが沢山存在しているので、見た目は変更可能だが、充電スタンドはどうしようもない。
 
