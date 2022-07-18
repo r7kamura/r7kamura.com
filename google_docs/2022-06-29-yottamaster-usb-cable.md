@@ -3,6 +3,6 @@ title: USB Type-C転送給電最強5m
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)でsigma fp Lを接続するための長いUSBケーブルを探す日々を送っていたのですが、[Yottamasterの5mのUSBケーブル](https://www.amazon.co.jp/dp/B09Y1BY75P)がデータ転送と給電を同時にやってくれて問題無く動作したため、無事エンドゲームとなりました。
 
-![](https://lh3.googleusercontent.com/wjrasFujahFCcusU6x5_AGml522fp9shRryt7jD-5PHbVqVs-LIqbMZGGarzGpS86igrN9_3EILPaqy1AAgL382D07V6MWT3e1rgH86zKHaKvzTLmLhAL4yR0xb6MdxOq4KiJYkxxp2I0kjP0vV7IGE "ɹǝʇsɐɯɐʇʇo⅄")
+![](https://lh3.googleusercontent.com/6TOXCcWFOuvOAmNZE50EMWNQSb0ekeOFY-co5qdOPdAa-HLvMxPFyawp3kKtxHzFsa3LzT00NIzxovyda8EiQQBpOizCkKTYrrrTMAE0ssSj056alZAh7S3DBZB5eJbo6RszRmK9fxTe7_WdJV6kmXs "ɹǝʇsɐɯɐʇʇo⅄")
 
 Yottamaster、いい名前ですね。
