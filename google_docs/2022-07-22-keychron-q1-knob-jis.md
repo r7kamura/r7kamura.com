@@ -15,7 +15,7 @@ Keychronは、無線や有線のメカニカルキーボード、その他関連
 
 打鍵音については、この前YouTubeに投稿した[ASMR Coding: Chrome extension in 20 min](https://www.youtube.com/watch?v=B5wdRcv-zQA&t=531s)という動画で20分間の打鍵音を収録しているので、興味がある人はぜひ。Yetiというコンデンサーマイクで録音しているのだけど、イヤホンやヘッドホンで聴くと、実際に打鍵時に耳で聴くものとかなり近い音で聴こえる。
 
-![](https://lh3.googleusercontent.com/F62-SPKJDo-Uc5bReZXgan_F1cNu6a2zmeUSwzLwYk1Oq4mMW9eTT-j6e1kPWnxF-7eKf366kM_U-i4gtkS1py9obi3SSyxgYTYpoivBB7aOvr_QNlXrYMwFv0Aouk5WAE1QYgFmdOhTHQqzMSx7UnY)
+![](https://lh3.googleusercontent.com/F62-SPKJDo-Uc5bReZXgan_F1cNu6a2zmeUSwzLwYk1Oq4mMW9eTT-j6e1kPWnxF-7eKf366kM_U-i4gtkS1py9obi3SSyxgYTYpoivBB7aOvr_QNlXrYMwFv0Aouk5WAE1QYgFmdOhTHQqzMSx7UnY "ぼんやり光ってかわいい")
 
 いま付けているキーキャップは、EnjoyPBTのPink on Blackというキーキャップセット。加えて、足りないところに[FILCO Majestouch用の無刻印キーキャップセット](https://www.amazon.co.jp/dp/B00R1BZ60K)を付けている。FILCOのこのセットはとりあえず一家に一つあると捗る。
 
@@ -25,10 +25,10 @@ JIS配列においては4.5u (uはキーキャップの長さの単位) の長�
 
 キーキャップ換装作業の中で、公式の[Keychron Q1 JISのキーレイアウトのページ](https://www.keychron.com/pages/keychron-q1-japan-jis-layout-keycap-size)のスペースキーの長さが誤って6.25uと記載されているのを発見したので、念のため実機の写真を撮ってサポートに連絡しておいたら後日修正してもらえた。上の画像は、そのページから引用した修正後のもの。4.5uに修正されている。
 
-![](https://lh5.googleusercontent.com/x0aGvVPyjgUKXmIiZt3d7P1Q-Mj-EkGFdHSN63GUC1PgOtPeLVgRkQJSwjCln0HIWkOxPqycmaW7AO8kfzkDGB9urd6RJhLzpuFqW-HVcovV1w0b_eAGnDmzx6-KTi3eVfyA5TqDRhHVTsa_MnS4OaE "GunMjoの可愛いコイルケーブル")
+![](https://lh5.googleusercontent.com/x0aGvVPyjgUKXmIiZt3d7P1Q-Mj-EkGFdHSN63GUC1PgOtPeLVgRkQJSwjCln0HIWkOxPqycmaW7AO8kfzkDGB9urd6RJhLzpuFqW-HVcovV1w0b_eAGnDmzx6-KTi3eVfyA5TqDRhHVTsa_MnS4OaE "GunMjoのかわいいコイルケーブル")
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
-![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "作業机")
+![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "作業机 2022年7月22日版")
 
-以上、Keychron Q1というキーボードの話でした。現在の作業机はこういう状態。日常で使う自分の仕事道具を改善していくのは楽しい。
+以上、Keychron Q1というキーボードの話でした。現在の作業机はこんな感じ。日常で使う自分の仕事道具を改善していくのは楽しい。

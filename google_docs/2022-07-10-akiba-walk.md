@@ -3,11 +3,11 @@ title: 秋葉散歩
 ---
 週末、気候が良かったので秋葉原まで散歩してきた。
 
-![](https://lh4.googleusercontent.com/yCL0eK1NCGcvOyaNcIekaeKkOvPO-_3MLU7b8a9XYWY57n0sgXZZWYnKh6bKk0f7xht5nU4BjdB8nQhBtvPNcZinLMTsua30UU6-Of110-99_f9ogr4ybmdJSHvH10RzfuO1tvwVxmCnUImlmSv4euI "鳩からの視線を感じる")
+![](https://lh4.googleusercontent.com/j9BXcRiELK0EhFZO9jERjIqpINwsut2LYOKZDzIT_9tzqMK5FxlI5oFSzOJwP-4XKEe6McaFJ1MIz1b1SS8efAJPXxmFwNt_aniRleZrFphPrU3vXcJe5qi4wjrjVFGN8YLyfezveFnYXShPQUxXDDc "鳩からの視線を感じる")
 
 港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
 
-![](https://lh5.googleusercontent.com/epVM0WoyUTbIwt9T4iCIJUOUt9Uf9xp1-yLPmRaViDY8psQCzpPkCUq6bjjwRuQljHAeXzeJYmGJOBFwAwGhd6RcsoSYwMnoWItdjilFg_3rEONrPJB1bzgZaji5fb36vxf4om2x-MsMqc2ObENw-QQ "アゲハチョウ")
+![](https://lh4.googleusercontent.com/9blBgRlYXLs8PjAULqTwuxfsjfWAgVIGkLRd6e12FUxh2BywPwkTTO3Exlv8KUpxIg1rsesxZXmfQ0y1SQranyoRpODnOPxM1od06gRLdg8ciFvygIZc5kKk6F6RGmig0gHptAKIvkiUcZeBpYCrX-k "アゲハチョウ")
 
 動物はふだん猫と鳥と人間ぐらいしか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
 

@@ -7,7 +7,7 @@ title: サプリ
 
 ![](https://lh4.googleusercontent.com/JJoaDuHIg5DrBcRpj8RbglrEnok3d6JFa2bhZher5gc2lEjP7CnMwooiI5_YWwyXN1HqiOebqcIRHoYXkgjZULzyXBjgFlVr59oLfoiE3BodxjN957MAsLeKKVOTamC_87QiefpF0hcW0vomLd5dcg "CGの教材みたいになっちゃったサプリの写真")
 
-![](https://lh3.googleusercontent.com/nL6uLnOGw_cipIMrSrr7XBzK3onaplBq3LK8n1mW9ppiMxIgx0Fk5UDTvisPpEE8pg2SGjNPlFDHEexwMRh0rAvWD9wyl6x_0-Cp8OrEYGllAeesfqp75OiHBoW47fQnzyN2jBc7GUjDq1fnoutNaQ "怪しさと安心感が同居する不思議なパッケージ")
+![](https://lh5.googleusercontent.com/yD3ieAF8-Lj9ab6icrUdXTfyphtAjVCH-24q4E_nFaZqwKM4WA6eQMr6TAdZRLyEHnhis9o1ygPWmhLnyRCXNOTn9Xdpqg0eUt6iCAubs3NH-uAkVAKcJ4WieQv1CDfetwM5QalZEURduVk83Pvk0Q "怪しさと安心感が同居する不思議なパッケージ")
 
 想像していたより安いので面白半分で買えそうだが、効くのか分からなくて不安になるほどは安くない……という絶妙な価格設定。サプリと言うとこういう粒やカプセルな印象があるけれど、運動をしっかりやっていた頃はプロテインでたんぱく質などを補っていたので、そういうものを含めると初めて飲むという感じではないのかもしれない。
 

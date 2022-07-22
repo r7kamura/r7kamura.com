@@ -10,7 +10,7 @@ title: Copy Rich Link
 
 ![](https://lh4.googleusercontent.com/TgH9hbrEsQmM5H7ZDa-J9XqNsyi1i71Q0gvVexLAMiJTpwEQEmU8SJbXNi9_eBb_ij-j7mZXX3qwCuF6t8ijma4KHKxCMgZOTyMpWWnA3ZvMwTGjEJGYfDvSfyJYvjpl8C9PhD-Bj1JjrXMWh7bRQQ)
 
-![](https://lh3.googleusercontent.com/u450NajjJf2yU8Ai5HEaU4JCnjIZUwdX6BJCWrStnqnYLQj01t13LXdGSr7qOThTsh58vjL9mhxENRewRCI9Szak5jQZMaZmL1sdofQZYlEs4TeVHEEmtWFUBqyEIy-NcTuxHGfmct6RYMN5dmZd-g)
+![](https://lh3.googleusercontent.com/CzhpoGpjtWillSYdQtS4cmy8JwrkVqPWytZeIb_PfwgfL0e0GmoVOTyvS0p2kjfoDCFlMRfRiP2voylEHjG1_tc8VVTSgof-PaIuIFaUL7rJ029RvVJVECmOBC4WtoEhLk40WrbLX9cw_cJc96y2RA)
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
