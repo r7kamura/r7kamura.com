@@ -1,5 +1,5 @@
 ---
-title: Keychron Q1
+title: Keychron Q1と私
 ---
 [Keychron Q1](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout)というキーボードを使い始めてしばらく経った。
 
@@ -25,10 +25,10 @@ JIS配列においては4.5u (uはキーキャップの長さの単位) の長�
 
 キーキャップ換装作業の中で、公式の[Keychron Q1 JISのキーレイアウトのページ](https://www.keychron.com/pages/keychron-q1-japan-jis-layout-keycap-size)のスペースキーの長さが誤って6.25uと記載されているのを発見したので、念のため実機の写真を撮ってサポートに連絡しておいたら後日修正してもらえた。上の画像は、そのページから引用した修正後のもの。4.5uに修正されている。
 
-![](https://lh5.googleusercontent.com/h-0P1bImW1fc5TlHY05xjFcOuzlG9TDK5Fp80em7fiV8Gi49oNYlEuJrn32wf2WdWlb508WDtc0yyfWs6KLTPszCjxjzxLacbkCu3xc0xC6iN3gE5wbTyaxanU5tqAIrO7BA31jANDMNwhWVjBCyfZo "GunMjoの可愛いコイルケーブル")
+![](https://lh5.googleusercontent.com/x0aGvVPyjgUKXmIiZt3d7P1Q-Mj-EkGFdHSN63GUC1PgOtPeLVgRkQJSwjCln0HIWkOxPqycmaW7AO8kfzkDGB9urd6RJhLzpuFqW-HVcovV1w0b_eAGnDmzx6-KTi3eVfyA5TqDRhHVTsa_MnS4OaE "GunMjoの可愛いコイルケーブル")
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
-![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "2022年7月22日の作業机")
+![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "作業机")
 
 以上、Keychron Q1というキーボードの話でした。現在の作業机はこういう状態。日常で使う自分の仕事道具を改善していくのは楽しい。

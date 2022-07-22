@@ -36,7 +36,7 @@ title: ポモドーロタイマー改
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
-![](https://lh5.googleusercontent.com/2i73fpeRz9ZlzAAzzgWx1mlXePbrLUVrt2bIGKv-H-HNnlWLaEa03uU-qVW7jL3d8bGkbAFnT_djz-WHSHixL26FYWbi8b0rpOA1zuYOCCVn4oYf6HsW1F4Rg18PzJ7EtOFVPZRyp6rv9cK8v-ev4gY "iPhoneで表示")
+![](https://lh5.googleusercontent.com/M8xRiqGUdtj5fK3D_v7-hPQyKJD4vxXNPEbLm_LoZc_3qWS-eB2ychEvlz97GjjmioptaobWcWtaS1ofQJ9LY__Zf-YL4ER4aqHi1p2W5H7fqD5FLzvdesp5kjwQw69_9LUqtLDzEO-b6RUHVRnXdc4 "iPhoneで表示")
 
 スマホやタブレットでも、Webブラウザからアクセスするだけで簡単に表示できて便利。画面の大きさに合わせて適切に変形するようになっているので、縦表示でも横表示でも使える。
 

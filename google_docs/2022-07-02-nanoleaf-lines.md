@@ -15,7 +15,7 @@ title: Nanoleafを付けると楽しい
 
 しかし日本展開にはかなり力を入れている印象で、Twitterの[@NanoleafJP](https://twitter.com/NanoleafJP)もあるし、Instagramの[@nanoleafjp](https://www.instagram.com/nanoleafjp/)もあるし、更にRoomClipの[NanoleafJapan](https://roomclip.jp/myroom/5824865)もある。日本に実店舗があればもっと流行ると思うので、代理店でも良いのでどこかに来てほしい。
 
-![](https://lh3.googleusercontent.com/AMfhKeRrIN921EAA7LFBQACQqCv1Fwa5g0mTB5RCHgDTh-bWQ3hJcc84zRNhNwTsrElSnSNQhgPAY0dJuYYpQFbiRHjUKB5ou9SB5i77umptiB-gXpfhqaMuUh9c-Ke1k8TQNwdmmfBGQt87LA2TBg "形状を考え中")
+![](https://lh6.googleusercontent.com/6zFBPAWWypKvLnJanSHAz1LvgP3Gmdos5Vej1JauNo-Ag6tRCmH7P3Ku-7KTBHpzGkMJHkaf3nIf46GPEqSmjV1HdVs35zoRHLj9QSu9XWexHmApXGIGypZOS5HydYAqlAaxtEulPTNJGNushf8HVw "形状を考え中")
 
 スターターキットには9本の棒が入っているので、どういう形状にするか決めていく。これが一番楽しいところでもあり、難しいところでもある。こういうときはその道のプロを参考にすべきで、Instagramに[Nanoleafさんの公式アカウント](https://www.instagram.com/nanoleaf/)があるので、この作例を見ながら考えてみるのがおすすめ。設置場所の大きさを考えると、横幅をこれぐらいに収めたいとか、高さをこれぐらいにしたいみたいな条件があると思うので、大きさを基準に合うやつを考えていくのも良いと思う。
 
