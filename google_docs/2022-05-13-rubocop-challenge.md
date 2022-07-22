@@ -7,15 +7,15 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 便利なGemだが、設定しようとすると幾つかハマりどころがあり、導入が大変。そこで、簡単に導入できるように[r7kamura/rubocop-challenge](https://github.com/r7kamura/rubocop-challenge)というCustom actionをつくった。
 
-![](https://lh4.googleusercontent.com/zVLydxqpB4f_jy2DnUHNY2RcOpxKVcuBK6Bh1gXHOEYQJT7TuMTPXx-KSpxoEU1uFI_3D-QaaoFd-inNC1dl5PwAZ3ozyaUvswS1EdFYaaVa3FFodwQ8ykPxF7YnvDYBSaaJpz4ZJRHjtSjhSO5Lrw)
+![](https://lh6.googleusercontent.com/EFjt3qzRhhmlUC6MNKOq3UhQKCJ6H-yTQ6c604JhI8V-obOcXYUUZn5mdLVv-WlFw7jfybHgCsYFXfLCFB48aZLM8jiNSlL-qlneVS_m0FHfdnf9n0wD4MLqjmnK7BlUWRO1nSK0bi46-OMTrDhp7A)
 
 READMEに書いてあるようなYAMLファイルを、適当にコピペするなどしてリポジトリに置くと、rubocop-challengeというWorkflowを手動実行できるようになる。
 
-![](https://lh4.googleusercontent.com/dN2Ak5EHFqFo0gzopQ-XCui1i__JEh8GKRFfO5pMxmuVZHrhhlcMPy4w0yXFnhwQJQx1mP8x6nXL-rPWj_B3pECAhQxH5kv86BfuEMizMBt92utwj_Fr8a5I4c2rLVnghY1em-V0KCKrmmWalhyYbQ)
+![](https://lh3.googleusercontent.com/FgDa3pnvcwfISIZJe1rrx9FhcMFCV8cNqvIhRN35u9S-k-ZsLe3gmQP1GX4y1b_OK1M7e2Ka6xHiMX0y0KjK1fEPWL_LwTYOuHok5NQ4FAQ55g0_C1Scy8InJYQXvRzOSBUMg264rcYuELVFz_-UMQ)
 
 実行すると、Pull Requestがつくられる。デフォルトではランダムでCopが1つ選択される。実質無料ガチャみたいなものだ。今回はStyle/StringLiteralsへの違反に対応してくれたらしい。
 
-![](https://lh4.googleusercontent.com/xcaEW34f6S6pxd20G7crCChVAzKY2d0lCoqv3XW6bna_v5Va3xcLYaq3HRSBuU2Rwb8yQPl7uuHFU3wppTuGxifoepBDplBf6wSg_Jgg8xv6BWsgjLiyleINmCC_KOIn_u-Nj4aDMQsIs2CDqrbXxw)
+![](https://lh4.googleusercontent.com/2oI_nd0sajSaX6SecjqCi3aHxaEsyE8q9zb4TCaBTNPAmQPc7CLM2i6nKky0U7ENP9xzWCDHxhILmC_Xl0Of7uUiHKsZv3MJv_Kw5sdq0FKqSEado82u1gY9V8roPmbVqtYnzjNC8H4qgAlLCk6j2g)
 
 差分を見てみると、.rubocop\_todo.ymlや違反のあったファイルが自動修正されていることが分かる。
 
