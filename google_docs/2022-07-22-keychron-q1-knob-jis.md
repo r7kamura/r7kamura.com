@@ -29,6 +29,8 @@ JIS配列においては4.5u (uはキーキャップの長さの単位) の長�
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
-![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "作業机 2022年7月22日版")
+![](https://lh4.googleusercontent.com/4Q5udcbk0cEljB8sJaIGcVIVm5iWcNNZdt3UXieUm3Qr1XJvCHWgDLEbpwmMse778chZGSForEULvtKBzUzArAkKbrp6RZqOcr4wGeXR9pvCuCVDgkQF8OyNzutT5VSwvqO92AGH5uVRIZwueLAiYOc "2022年7月22日の作業机")
 
-以上、Keychron Q1というキーボードの話でした。現在の作業机はこんな感じ。日常で使う自分の仕事道具を改善していくのは楽しい。
+以上、Keychron Q1というキーボードの話でした。
+
+日常で使う自分の仕事道具を改善していくのは楽しい。
