@@ -32,11 +32,11 @@ title: ポモドーロタイマー改
 
 ![](https://lh3.googleusercontent.com/adZv1MLXTlcdznVBqku7zz6k_02ZCK-c_8KEvjNsyaAgWEghQib_55yy4bUfPWry8-lbGxBe8oVMI1Abani1Xas7SHgGV3uJo2L9z37PkkceMFclWyhvfB-J_lOnz7iexw08EJzZ8sUsJfzXUNPI9rU "配信画面の様子")
 
-![](https://lh4.googleusercontent.com/oUlfPPkGvc0SojrE-nuAtJ46Qi6WwHJrCZTz8Qc89dz9AClyGBdZXWU56BFy6jzPmECrbFxGU2_Bg7P0P8eUrv4FdNARYME1OMPElcsq8vrgq3Io6qGQshBV2YSniTDtpHLT7lMLRildQSKpprIbCfM "ライブコーディング中")
+![](https://lh3.googleusercontent.com/PnuCB_U1GNm7u-xTE3_owQih9-Q7bKEIe3L-naTWavP_jpeHAFX3fK0Ynv-k2hppaQEKxaGGUGKr4siLCCKskU1YVgP4CuvgiAIeFJr8AkXqZDJHtrUkdYS4mphIKkrtvmuAsLZR4UHk4roaKDwWDXo "ライブコーディング中")
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
-![](https://lh5.googleusercontent.com/9nztIXlGEJs1-vD1a1BJgWzzBCva27M2eqFMJpSR-XmDbwhAOd64ndtO4suCoGMvyKsediN1-zzUNJieU4ZR1nT0XxATPJ0BTsCQdtXfs7rqHRMCSvXXuVyCjDsQQLmSLg1G4DRFwXP4s6ldEdLi0o0 "iPhoneで表示")
+![](https://lh6.googleusercontent.com/Dyk7mn9folwxd580oniA7ExXony_KdQmGle8YZmfAVa2twt0v99UX1Uo-wA_H3BZv79yP-PqAAwtb0siGauHvFNoHhdvelVJ1z6XNqR-7RqmSrzDS5Xi-uknaaMvGALnFt3eyVvTbbXW2ELsXIlL9Pk "iPhoneで表示")
 
 スマホやタブレットでも、Webブラウザからアクセスするだけで簡単に表示できて便利。画面の大きさに合わせて適切に変形するようになっているので、縦表示でも横表示でも使える。
 

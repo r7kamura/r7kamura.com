@@ -16,9 +16,9 @@ Peak Designのモバイルシリーズのご紹介。
 *   スマホに貼り付けたまま持ち運ぶこともできる
 *   磁石が付いているので玄関ドアとかに雑に貼り付けておける
 
-![](https://lh6.googleusercontent.com/hzIVowh-3QUMvcoE183V2BN68Ob89QOMG_F6owl5uku3qWUgAAbte4IjL4khIjzifZZG84ob_Mnos9D9ZlWt8mjG0q-xLwfFxUZW57qxMjxsDKJrnAspHOCiI3BZ01GLfyDiE8UlmLaviwF9GL6VlA "かわいい")
+![](https://lh5.googleusercontent.com/X_-gTjklWvVAV9XLpGqhuy2gZMr9OBjpHl4P2JdI4gVAK_fdG6dHI2hdIdnQtB_cQzlHDUl_xFVmFSYiZTcaZyDtCBnNZER8JMNLGrQNA3NVKzEx5QpeR3A0J4b1tBhkvkxRjP_yPNcCjJIjl-Vz8Q "かわいい")
 
-![](https://lh3.googleusercontent.com/XC-gxNXFjlTGPFIFkhDEH8ObWeqfEXnbT4aQVuCHoE9SFEAO3RDo6ImejRYuZB4Nelsf8vtA3wOLF_NobDjH2jh2J6TzaVJHH97KRe-nVWi8yQz3dYFIUfFa98Ma6PsfZaAkacQfLmm5Rjo9EFAH0g "折りたたんだ様子")
+![](https://lh6.googleusercontent.com/E7qIq4_nl0E7Y3SSDtKqkR24QTrXuJ0ko5pOhPSSIztAdM23GUkatPL1cUsRkYKmki5wGdz40uFgt1BSeXHpMgP3gwceY7cVX0Nbm_8kTDd3CD1adklH-xZJ3O8cBrlEsAR-JrgKLe8GNi_Et8960g "折りたたんだ様子")
 
 最初は「MagSafeあるんだからケースあるの非効率的じゃない？バンパーで運用できるものを探したほうが良くない？」と思っていましたが、背面に指を通せるリングも付いてるし、布感のある見た目と触り心地で落ち着いた雰囲気になるし、他の同社製品ともいろいろ組み合わせられるしということで、結果的には大満足。ケースを付けた状態でも、MagSafeの充電器は普通に使えます。
 

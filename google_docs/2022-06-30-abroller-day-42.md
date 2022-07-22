@@ -5,7 +5,7 @@ title: 腹筋ローラー42日目
 
 新しく導入した[アームレスト付きの腹筋ローラー](https://www.amazon.co.jp/dp/B091DVYKXJ)が良かったので、紹介させてほしい。膝コロはできるが立ちコロはできないという微妙な状態で困っていたので、中間ぐらいの負荷を掛けるべく、これを導入した。これによりかなり適切な負荷を掛けられるようになり、また人間は適切な難易度の課題を与えられるとやる気が出るとよく言われている通り、モチベの維持という点でも捗るようになった。
 
-![](https://lh3.googleusercontent.com/wQsUHO2JlOLTQT1J9tfoeEaqgyh7pf7lEVwMkXGU65n2YuZlGJiDRMY2F_q-v4HosVfn867rHUvTiZteYfHRmRlAYrTJb1S7sOHgA2OKma0_Sw-dYLPB7aUygsJRz3L2aOwRJ_8uMlM7omyZSFlcqHo "my new gear......")
+![](https://lh6.googleusercontent.com/2RZL-0X2rl6OmEcGiS0FW_o3wqMzQ_9X7iOFyGseG_Sw-yry5kshjRUNQLcv7SSA4Kn_GmsFbtlkb4Wy4wuVpcu1n-0rohIu3fCqeY6UPgVUJdMtMzx8j2CHyRD9xz0ICdorddJh2N2BBIT5PPSM11c "my new gear......")
 
 これで膝を付けずにやると、立ちコロほど難しくはないが、膝コロほど楽でもないという、中間ぐらいの負荷が得られてちょうど良い。姿勢が安定するので、怪我をしづらく安全なところも嬉しい。
 
