@@ -3,9 +3,9 @@ title: ASMR Coding
 ---
 静かな打鍵音のみで構成された、字幕解説付きのライブコーディング動画をYouTubeに投稿してみた。
 
-[ASMR Coding: Custom Ruby Linter with RuboCop - YouTube](https://www.youtube.com/watch?v=HTuNoq9aEWQ)
+[Custom cop in 30 min - YouTube](https://www.youtube.com/watch?v=HTuNoq9aEWQ)
 
-![](https://lh5.googleusercontent.com/BB58c1cuDCFKBOp5QyllYlfaZKf4iN5qKm71FiR0AZyM3vxxag8t6lQvdzCao2pi5DLrhvbVPULAUVSR8p1i_IbI5GJ2O6ZethBaSIE4SCvDotBh2by_eX8qTsDclBRPsu-XINnB3HOsvTiUP_iqKng "動画内の様子")
+![](https://lh5.googleusercontent.com/nQedTSglaOIM13m2hPotQREdZnTu_1tZmih-XBHl5nDDgXIsJS-Q0WZ08KszN5UXXjOXweDubGLT0fObKsjV1_5ZbKmKJ9UoMC5qkQrwM8EwXK28gANMBxJENIOmQicyA41uWZ7hOign0YJ0E6h5720 "動画内の様子")
 
 「30分で◯◯をつくろう」というチュートリアル動画になっている。今回はRubyのLinterを題材にしてみたものの、別にRubyを書いたことがない人でも、へえRubyを書くのってこんな感じなんだという目線で見られると思う。反響が良ければ、お題を変えて幾つか別の動画もつくってもいいなと思っているので、コメント、高評価、チャンネル登録、ツイート、DMなど何でも良いので何かフィードバックをもらえると嬉しい。
 
