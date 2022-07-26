@@ -15,6 +15,6 @@ sigma fp LはUSB接続するだけで動くのでお手軽。追加のドライ�
 
 撮影環境的には、レンズの焦点距離が45mm、カメラと自分との距離が2m、カメラの高さが床から1.4mで、4mのUSBケーブルでPCと接続している。配信で使う場合、空間的に余裕が無いことが多い。基本的にはもう少し広角のレンズを使った方が良いように感じている。標準ズームレンズぐらいが丁度良いかも。
 
-![](https://lh3.googleusercontent.com/FTCfoD5xOp89XKe8SpmdEDCPa-kJ_y4PyBLrK-YzieCvNaPPD6ocbcyJOOVE9a87LR-Ir9pd-iOxmBd_jSW-JBVTx3ZhhoAVx6RA3uN_IfpMfNhGtFHE03uR5LmqmAlX-gXFeIsSX07jiRFPaKERDQ "スタンダードなカラーモード")
+![](https://lh4.googleusercontent.com/tbUpzBrfvhq_nH0iqKDiDnCk1NdfV1XTQoIrwLFRoJLnx1b9_N_N0IKteixtY6_EI1sJpFxKJsze93o2OZrUJfMVfsF_CCKVyRh7C8kO_1Z27N67SuR3g1CD4ttsPEVFyqBK_TZMFS4pdIJuXIKYpg "スタンダードなカラーモード")
 
 気になっていた熱の具合について。配信中のカメラに触れてみると、普段静止画を撮り続けているときぐらいの温度になっていて、一見した限りではめちゃくちゃに熱くなるということは無さそうに思う。この日は解像度1080p、フレームレート29.97fps、室温27℃で9時間配信していて、特に問題は認識できなかった。

@@ -30,7 +30,7 @@ title: ポモドーロタイマー改
 
 あとはCSSを使い、flexboxとかgridとかで適当に上下左右中央寄せしたり、Googleフォントから持ってきた適当な等幅フォントを使ったり、iPadやAppleWatchなどいろんな画面サイズに対応できるように画面の高さと幅の小さい方を基準にサイズを設定したり、背景透過させたりすると完成。
 
-![](https://lh6.googleusercontent.com/3rO_lfrlYrplacEj_wa0srhhouR_6YRZE3RyoJpnaFKUn3RFyCwdspNjnhhl0BwF5wk4fw83Ix2F_L92FdT3f4my-RmmajFgkZsSmM_P1uP1XIBbJh95IOG2peczyMGpgR1XqRqXms1lPNheiuI "配信画面の様子")
+![](https://lh5.googleusercontent.com/4HMfG1vP_9lw5TmxGp1D22OU2UDdzqcAZTBI51ICLVT_HB62lAQlJHG32xxmhfys1DB8-pLDe8me7X-EDYFbSs1E2Nnvvo7OOqw4RfcBqTb88C687iQ1W9wqRNHsDKGAhsZWHc9RnhQ3vEtAXXk "配信画面の様子")
 
 ![](https://lh5.googleusercontent.com/b5UDE8a-O-z-hNeQ0VtILkjHiT0k0rmB8UyalvS7AVYRalunI8yIRDf9fRtVc0RWAQNsYgrGWvlzR8KvGwrOr0jrT4MrCaLQD6sEDbrZLJh_QtRNsZxPQbkBEnBTi2jv2O2Tt3BeSEhne63kBEo "ライブコーディング中")
 

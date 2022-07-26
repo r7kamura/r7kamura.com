@@ -22,7 +22,7 @@ title: 腹筋ローラー42日目
 
 身体の様子はというと、30日目の時点ではこういう状態である。
 
-![](https://lh6.googleusercontent.com/pdu3SMFr1n0Ypmubu8SizqFaEzdBcv7rbl1ibD3X1EmiuXFTDPvc_sx0lSUTO7lGuttpwxnFX7ofGEXoMpxkGWmPI5H48J63dOs8CvGa_DxhdfaoYKR7A1fnwQxRCr5zLqLnwTDcdyEFrNZB4xzspKw "30日目の様子")
+![](https://lh4.googleusercontent.com/sWugOc2y6Mn8ND-ofW5OH3oYsAKwc5OsMIuiLk4IKczT1Miu7OK-3ferrsW3OV4KStSNA-fZZCbTUHBKliuS4ZArleGmlw_urzVqCoJQPj_5ULJ2a2LZybwqfsGulEBN4n0YAUictKTXLXNqZ5TDM2c "30日目の様子")
 
 1日目の様子を撮っていなかったので、特に参考にならず、ただ上裸の男の写真がいきなり貼られているだけになってしまっているような気がしなくもない……。元々筋トレなどしていなかったので、以前まではヒョロヒョロで平坦な身体つきだったが、少し筋肉質な感じになったなという雰囲気がある。
 
