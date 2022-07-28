@@ -52,7 +52,7 @@ title: 懸垂10回達成
 
 前まではマイプロテインの1kgのチョコレートブラウニー味のやつを飲んでいた。最近飲み終わったので、いまは[バルクスポーツのビッグホエイ](https://www.amazon.co.jp/dp/B086JSPKT3)を飲んでいる。これはアーモンドチョコレート味。無調整豆乳で割って飲んでいる。バルクスポーツの方がAmazonでも公式に扱っていて日本ですぐに入手しやすく、味も若干淡白ながら甘すぎず自分には丁度良いので、次もしばらくバルクスポーツのものを飲み続けようと考えている。余談だけど、ホエイプロテインって最近までクジラのプロテインか何かだと思ってました。
 
-![](https://lh6.googleusercontent.com/ZUYzn7yOamYOy7pLKt_NSllgk7E991DScz8ieBdTCnfEIh0xFE4Rb0rbENLMr2Nvidw3B5Tl7NeFvZQrxjSBxR-6-JOxWMFflIo8aYNsEK8MYVxJkvG6J8vTDQculDfnSAnhG7CPFvclSF8jY8KgmAQ "ビッグホエイ")
+![](https://lh5.googleusercontent.com/Cg8DI4YAyubsIETs_u19Fe0krO9olU0sk00WKjfUSBwIvPRf1pouTG8JghrJ_1iuzHMIWUNxPJiIvjGoHV2HXykJBmOo9_0lx_MDZ5h8nvLa2tO8i02SJ0IVyWWqyuUTKpFC6mGLVPdyprdNkkVVrOw "ビッグホエイ")
 
 食事は適当に自炊してて、無水カレーとかチキンチャップとか丼ものとかを冷凍でつくりおきしながら食べている。そんなにハードな筋トレをしている訳ではないと思うので、食事はあんまり関係無いかも。すぐお腹いっぱいになってしまう物を避けて、いろいろ栄養とれるものをおいしく調理して沢山食べると、いっぱい食べられてお得。
 

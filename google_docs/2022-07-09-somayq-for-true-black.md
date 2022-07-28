@@ -3,7 +3,7 @@ title: 染めQで黒に染まれ
 ---
 手持ちのガジェットを染めQで染めた。
 
-![](https://lh3.googleusercontent.com/C7dHucqvtGzgYRGqNIBRx9OPz3ExzvJaYR8U0VcTl1KAGTwNjZGjW93vqLLzv6q6i803vhctP6GfeKjvfFnPy7Jg5LJnYmKeiHyMCZuTsv6-Nw5k3Gj3qDiF0M_AHstRJUGD1qsi_LQ1thrMP8FUsw "今回染めたもの")
+![](https://lh6.googleusercontent.com/NDiBMUwC8TxMGPGKSQYxJ9P2Gd4m9i0J-J5qK3Td7ENCJbkWZpm4P7xftg_CseFxMtiW1YhNPNQBmxRADHpe91Ew9wV9W5GLc6tuZgK_DhBgFBlYPT-PKM_iq8g8FpyqhOCltp4y5nbi32QgNvwzzQ "今回染めたもの")
 
 ![](https://lh4.googleusercontent.com/kF8SKLomEYKTYiI4F9rpUuCNfrFUjLpWtuNIUO8aMx3pkZ28zla8UpgH7jMystpGfuXEaSDwEuttpADniXqkI-SPkn6lTZ2ZtYR2EZOxnPvhxxP_zy_loGDrTgsGmzpF1v2FT-EhLC9YPJu-VByeeA "染める前")
 
@@ -11,7 +11,7 @@ title: 染めQで黒に染まれ
 
 「色数を抑えろ」というのは、グラフィックデザインであってもインテリアデザインであっても、基本中の基本としてよく語られている。自分の作業机でも、使う機器を黒色に統一するよう心掛けている。例えば、黒のNintendo Switchを選ぶとか、黒のマウスパッドを選ぶといったような具合。
 
-![](https://lh6.googleusercontent.com/HmkRUZSV5Z900dvRu0ipZl60fxuOiqn3S4FRxKh_RMGxrtfyJtxPb051YJvW5214UyEr8uh6ORBrJyu4yBRc4bAbM9LHxaPG4Eaw43UpG-JaOiDwITNtr0Ut18wTadOs-kB2ATYhB7qWxRysec9Z5w "色数が抑えられていると落ち着く")
+![](https://lh6.googleusercontent.com/8PiXhU4Uxd08c5LGfzp5CYHN2_QHg3AkkkhG1KqY5kC4SziVJjGGYIdyba2iMtZ_wVvmyWWV2g8AcBNE1dgWvAE6MMD4q8aXR048SM_c46YwE16sFOEjSvTattGWZeGpDLcxTm_1A5mBsigwAJH69Q "色数が抑えられていると落ち着く")
 
 しかし、一昨年購入したAnkerの充電スタンドには白のものしか無かったので、統一感が無く目立ってしまっていた。このデバイスはアクセントカラーを入れて目立たせたいような存在ではないので、できれば周りの色と合わせて溶け込ませたい。AirPodsケースは市販のカバーが沢山存在しているので、見た目は変更可能だが、充電スタンドはどうしようもない。
 
@@ -21,7 +21,7 @@ title: 染めQで黒に染まれ
 
 ![](https://lh3.googleusercontent.com/4tLXl0i1ImnneqKkzrREalMUQDggizjLJIPFAOkLCL7IEY3Z05v_ZWscg22mO0BQv8zyVqHCrnucHuSQ6qpz7xuSgOsSZmJ5EBiW0tV4kqURkK430oc-1pzEs_ptje3uNevxangr6XKyapTRT7qpqg "塗装中の様子")
 
-![](https://lh3.googleusercontent.com/4C1cIJnPHn_W3ZzIUWrq68Lb4PY-kcbiz8nuiDh0fzvOxS5yJHF8mzZmKn5uPj1qT49h6m9nWndO9v6DWHztTmClZ2LFPtWWxmyGO7V6hss5CQB5-zxKEQqt1PU5WX1E8S9r7-oJhnIMEJrYW0BKKg "金属の柱も問題なし")
+![](https://lh5.googleusercontent.com/r8w3qIR4Xp1AxwxAodZAmIKjqJo2I6cEm_dDoWjE1Di7wZOlmI31WG6yDpHi_OKOJ0dGzJ44ypilr_RsJVdbv4ez4IjGesbf8PXnK6i4hBMg6Q-tY1b4uVwRZR1rft9v36jHZW47jWlpir4F4umZTw "金属の柱も問題なし")
 
 15cmぐらいの距離から素早くまんべんなく振りかけるというのを、20分おきに3回ほど繰り返すと完成。初見プレイにしては意外と上手くいったと思う。表面に傷がある部分が少し浮き出てしまったので、事前にサンドペーパーで擦るなどしておけば、より完成度が上がったかもしれない。
 

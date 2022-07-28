@@ -9,19 +9,19 @@ title: Nanoleafを付けると楽しい
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh4.googleusercontent.com/zo7RoodFUOljAzSKS5rIGO1KWRXekVYEb9N2tt2QB62LzoimZUgssm7xaeGtD9vYUzhLWFm6nAyRAJ9Ssn1SgbqajznHMTpOCFpsI9bDoYQFpryp7iE947nGLoLtxgu0V1p2xzpXplY3Fhz9GVI3dhc "化粧箱")
+![](https://lh6.googleusercontent.com/8lpYyICusiJHr8TeT1pjayAFEATRFC7MzcSiBQsvTe9JzVgOW5DvEGbfEg3C6BXjCYjbzX7KNgM0Ck3YWJOqV9R7b5q6jLUMeH19_KE1k_eP9sK0OiCb73o5clxuTTTuT8OSUGMMZDpFV5ePIF6LG4Q "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
 しかし日本展開にはかなり力を入れている印象で、Twitterの[@NanoleafJP](https://twitter.com/NanoleafJP)もあるし、Instagramの[@nanoleafjp](https://www.instagram.com/nanoleafjp/)もあるし、更にRoomClipの[NanoleafJapan](https://roomclip.jp/myroom/5824865)もある。日本に実店舗があればもっと流行ると思うので、代理店でも良いのでどこかに来てほしい。
 
-![](https://lh4.googleusercontent.com/5DJo18Fktk9f4Hud9Go9mjc_4e7jar9LS7IBOgYvR_gLJuvSog_XaPYKfFjcQKeMMPhCmBNiIzEZsKpSy16Lo2n6GUXtMt0EL7iJYt3qZ_Dz5DWq4am4wjBmk-_pja77KiVCQvM8JpHCtqQda0qpdA "形状を考え中")
+![](https://lh5.googleusercontent.com/8F2oGtK6RYIQpagRAJe-5UX4lkoXODNtI5tioWZLqeR2HC6fIT36TYR6g0UkD_nTg1PF7obEIFC1Ed2zU_eMWbyfcaZ2obKlS8BcokKdN1k5D3XcgDwYdDxSo9L9OTpuUkfhSRFpsoVlnPqZ7YakTw "形状を考え中")
 
 スターターキットには9本の棒が入っているので、どういう形状にするか決めていく。これが一番楽しいところでもあり、難しいところでもある。こういうときはその道のプロを参考にすべきで、Instagramに[Nanoleafさんの公式アカウント](https://www.instagram.com/nanoleaf/)があるので、この作例を見ながら考えてみるのがおすすめ。設置場所の大きさを考えると、横幅をこれぐらいに収めたいとか、高さをこれぐらいにしたいみたいな条件があると思うので、大きさを基準に合うやつを考えていくのも良いと思う。
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh3.googleusercontent.com/90pUX1X5JBn08RDMrJ8KNFqgIPcyO095iNPxe_8olT9DB7SoLpOTonJ3frSk2one--S9WTzEDtg0htd7vbTEnUSKXNi0YGM7S48g8ZMBLfTn3HtVN8X-CajRPUSibT-fut1wxcrI5isx4R9W2rM7LQ "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh5.googleusercontent.com/WjRIbMiHw1kjm_O1buN7uMeRHBfGe-K4rnPIfQrFd6L7oeB1Bkv2lUUeEacWSdWtlu29NdmF-Yie6ebi1z_Jm_v3f0DGJ_lajzUEF7cwXqK9HVpS18_tZP4fhEXmC2xtil9v_sc3E7YXA6oykyMnvA "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
@@ -33,6 +33,6 @@ title: Nanoleafを付けると楽しい
 
 個人的に面白いなと思ったのが、環境音に反応する機能。本体にマイクが組み込まれていて、発話したりその場で音楽を鳴らしたりすると、それに反応して光ってくれる。配信中に会話しながら部屋を映していると、話すのに合わせて照明が光ってたのしい。しかもこの音に反応するやつのパターンも豊富に用意されている。他にも、PCで映している画面の色と同期したり、部屋の明るさに合わせて輝度を自動的に調整したりと、機能は盛りだくさん。
 
-![](https://lh4.googleusercontent.com/NpyrJdyAfCcQoF_tyakpT5Nq6IhjXL5BRny-1lHSsgmMd7eURzgMOBPd5d6g2dPHHlfQ1_5vd8hE6eUBEuN80AVf7jkxGK87XD3Ead6bmH_9WSudQLDaBioIBsdCKG2I9n-2o1ZLUr1eM8KYG_H5XLs "暗い部屋もかわいくなる")
+![](https://lh5.googleusercontent.com/beh9DGZfp5uG_G-68mubBbeThJ9X4CFtbKgh1tuA4spbbHocxXLR3TSunAG9jLsX3so9H0ZsBt9IkBQ_u2wjL09RFwr8Jng7mQFum-NSxV8N8XCcMrShESpNYuAFhtqmSSdZmU_uxR_jOYPKxweXer0 "暗い部屋もかわいくなる")
 
 以上、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)の様子を紹介しました。壁が光ると楽しいね。

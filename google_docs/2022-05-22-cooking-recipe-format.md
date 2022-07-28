@@ -17,7 +17,7 @@ title: 'レシピ記述形式メモ #2'
 
 調理後の料理を、更に別のレシピの材料として利用する例。
 
-![](https://lh3.googleusercontent.com/BOFxKJlophpC3IQnsG8w8ZNU9aOW6Lbv5wmYUE9HLlkT04z8ziAFvv9pMgLzDibrVC1r_Kwy7I-eRqxdSO3WmfrnjwtLeTKXGYo5PlpG1afEXMaxqlQtAe0a9VygF00DcbHPCGP5PEQi_Rvht41hCg)
+![](https://lh4.googleusercontent.com/spRCV1fwztuwAYGqtsqkt4e_BALe6lfiGddtjQpkFP-3Xwt67fu4fo2PE4jwwBFjAk43CZVyC2a7iTqnhiyLLBWo9SEyZ8RIdSG7l-cVHQTZAAwEKpMZI5SIyOv14TuS2O55fLrGByuD3dAJIdszug)
 
 課題: 代用品の提案
 ----------

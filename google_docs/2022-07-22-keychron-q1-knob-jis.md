@@ -3,11 +3,11 @@ title: Keychron Q1と私
 ---
 [Keychron Q1](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout)というキーボードを使い始めてしばらく経った。
 
-![](https://lh6.googleusercontent.com/6cD14KaNwU3wTnOE1J_v3NAV3Q18Sb0G5M-q5kZ5E5kcJ9VzjGtY0NUgcI1dNT5DOuxGdEw-d6Qw3-nDujGbXVqqhUbX_pwvtjMEaZuylwyx4UxkQD4on9HevWkMDQIDJ3phyoDNP54b29IqawzqcKM "キーキャップとケーブルを換装したKeychron Q1")
+![](https://lh6.googleusercontent.com/1Zmck-GAFWO-2JJlinIS1Ly1W0z6JTTlEBp7173wXNdu41hq0gtHjMNHtr4IuCyLYWJYGzRCI9dZyFVbjTV5BwY1OmCTvXKOeJNzV9ZCdml63E34rdnrx2KjgaGE9cwCtOlEomm2DEChe4aTomLhMYI "キーキャップとケーブルを換装したKeychron Q1")
 
 Keychronは、無線や有線のメカニカルキーボード、その他関連製品を多数販売しているメーカー。今回購入したのは、無線接続には対応していないものの打鍵感は抜群に良いQ1というシリーズのキーボードの、最近出たノブ付きタイプのJIS配列版。自分はかな入力を好んで利用しているので、US配列版よりもキー数が多く都合の良いJIS配列版を選択した。
 
-![](https://lh6.googleusercontent.com/PIIS_Ft2zajoy5xtw20GcOF3iMn8Z6DiD7wwgBnYwVeiNXc6ZZWWXvvPQKU3eiF3R9hitYx7chYSfZSE7CLBOzIbERd8aZErdjLgRUe_ch_Rw6IRX-wYruTWUd6YgwzhiamzAHO_9bU7kWMdwPiyIk0 "初期状態")
+![](https://lh4.googleusercontent.com/0qvRM0t_P4v9wIWNbrzmMEmnzWSxPc-7XPXZLuPnT7zhkoPhyLPhu8GtbcWnjaeH6fDMNfFDV4cRMa5KQRmwHkYGU7qwa5vCZqyyHp7ZCk1jcDUZ_b3a_OEffZUlMvCudSOEuoztO0Zxp0KS7kMb3G0 "初期状態")
 
 日本から手近に購入しようと思うと、例えば[KOPEK JAPAN](https://superkopek.jp/products/keychron-q1knob-us?variant=42638615904496)や[ヨドバシ.com](https://www.yodobashi.com/product/100000001007077436/)から購入できる。実物がヨドバシカメラ秋葉原店に置いてあったので、自分はそこで打鍵して打ち心地を確かめてから購入した。
 
@@ -25,7 +25,7 @@ JIS配列においては4.5u (uはキーキャップの長さの単位) の長�
 
 キーキャップ換装作業の中で、公式の[Keychron Q1 JISのキーレイアウトのページ](https://www.keychron.com/pages/keychron-q1-japan-jis-layout-keycap-size)のスペースキーの長さが誤って6.25uと記載されているのを発見したので、念のため実機の写真を撮ってサポートに連絡しておいたら後日修正してもらえた。上の画像は、そのページから引用した修正後のもの。4.5uに修正されている。
 
-![](https://lh6.googleusercontent.com/C9K1Co9JmtOmg-SaGan7JMLf_hByNPcmEivX3nWuJrqLc_4PT4RoB8lXthXrb-n_r5BjHnCE1yHzDwwMVS5RSVC0gX81Ef82sRTd81f1jvvwC-nE_aHMVbkZQ-PsfS8eVsqPQEWerdqe5kQNO8UPlPg "GunMjoのかわいいコイルケーブル")
+![](https://lh5.googleusercontent.com/BtOHhYl4c8ffTXxAlL5-AN_otOOD6m7gAq7Dwy1vTkDDycWww1QjaWyOJYv0ZUSWMnioE6M8JZRtIG2Ib-SW3OQTRU68yMjjKnNpe-lTvOqJnZXJTzCexDIfsVpXSzMNg_g2691vji_dzSJ6MY3VcXI "GunMjoのかわいいコイルケーブル")
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
