@@ -3,7 +3,7 @@ title: Keychron Q1と私
 ---
 [Keychron Q1](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout)というキーボードを使い始めてしばらく経った。
 
-![](https://lh4.googleusercontent.com/Li6BWXW2JoQOvEh4uRiMllCaFmDqXYtI9au63ixZ43b2ipdzjGWStU8tyJiIuMYqyvT1-VOwfmTQ8sx83mXfdtUf-1fT-JI_A2kHJ4RH9CaGa_8us7YKX5NtjaUPTphY1-ScTvT8F7e1fpcqzuGI7vU "キーキャップとケーブルを換装したKeychron Q1")
+![](https://lh4.googleusercontent.com/e9lDmT2Qx2Hfpl3LNNp-sVyUiT50ij51yVE7dQOaCjuTuIy9FdHUOnal58RxsHHpX-il-memM9PmruTE9MzC1ERuHvM9x-3cyiAvUSIeftjPzaItezV7F8DCvNk6jGFBirPqznAUYwuAWacACVgDlvk "キーキャップとケーブルを換装したKeychron Q1")
 
 Keychronは、無線や有線のメカニカルキーボード、その他関連製品を多数販売しているメーカー。今回購入したのは、無線接続には対応していないものの打鍵感は抜群に良いQ1というシリーズのキーボードの、最近出たノブ付きタイプのJIS配列版。自分はかな入力を好んで利用しているので、US配列版よりもキー数が多く都合の良いJIS配列版を選択した。
 
