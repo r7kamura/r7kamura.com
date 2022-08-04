@@ -3,7 +3,7 @@ title: 懸垂10回達成
 ---
 2ヶ月前に書いた『[懸垂マシンを設置した](https://r7kamura.com/articles/2022-05-28-chinning-machine-st115)』という記事の続編。
 
-![](https://lh5.googleusercontent.com/6KN8P_aiTbkUnLNnMJy8tbmYjQ6xqQ-YJX4otmb2OXoYj5UHlOEi0xRlSgp4pQ9yN8qwVJMZNnCpkO6wGd5AWb37_eV3bQYY6C8oLibf1K6kdoYlkEuh_4QjQWao_Ri2cYtQi_hSQaBjHIPlXlLaygA "和室がサメと筋トレのコーナーになっている")
+![](https://lh3.googleusercontent.com/MEObSHf43qi8sZkd5JFFltlGSDfHT-ngIembYvfKgkRsOKvUxayJrzAs9ujcseuwyrTa4Z-QLT4dSVvU2e8d2bvddHCQj4whHAvQSf6goQ31YznQJOgTHJRKBXq270qFud3jITMhk06qUJ-celH1Bdw "和室がサメと筋トレのコーナーになっている")
 
 記録
 --
@@ -52,7 +52,7 @@ title: 懸垂10回達成
 
 前まではマイプロテインの1kgのチョコレートブラウニー味のやつを飲んでいた。最近飲み終わったので、いまは[バルクスポーツのビッグホエイ](https://www.amazon.co.jp/dp/B086JSPKT3)を飲んでいる。これはアーモンドチョコレート味。無調整豆乳で割って飲んでいる。バルクスポーツの方がAmazonでも公式に扱っていて日本ですぐに入手しやすく、味も若干淡白ながら甘すぎず自分には丁度良いので、次もしばらくバルクスポーツのものを飲み続けようと考えている。余談だけど、ホエイプロテインって最近までクジラのプロテインか何かだと思ってました。
 
-![](https://lh4.googleusercontent.com/TZbe7rd6PGYPwImUD5B-0vxa4GR46k7cSE6_xXg9u3QTxZMHxa6C8X-fvN_q_dN70KLsIvFsxcP890wpR3mdXKpRR9EltNvSZWWofdMpx3BBfQRU3WbduIJs1sl-nwp3nP_vX-plDJxWkwdMvekxHlM "ビッグホエイ")
+![](https://lh4.googleusercontent.com/y9jNByyvNtFlHCbDaP2TD0k4R9ICvDeA9g38CMj7tk1iYJnqCdLf2-NEjczfirPcDGWkQ8CDnQcRVFJGqXvAODbSwdvMLGgIJ-x054JuynVx1j1i8xHUsnXCTicyD2siNIqj38Vkqo7ZkY_xR635sB0 "ビッグホエイ")
 
 食事は適当に自炊してて、無水カレーとかチキンチャップとか丼ものとかを冷凍でつくりおきしながら食べている。そんなにハードな筋トレをしている訳ではないと思うので、食事はあんまり関係無いかも。すぐお腹いっぱいになってしまう物を避けて、いろいろ栄養とれるものをおいしく調理して沢山食べると、いっぱい食べられてお得。
 
