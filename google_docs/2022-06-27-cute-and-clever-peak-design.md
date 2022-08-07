@@ -3,7 +3,7 @@ title: スマホにかわいい小物を付けよう
 ---
 Peak Designのモバイルシリーズのご紹介。
 
-![](https://lh6.googleusercontent.com/p6AjNqLf3--1XbMD3E2bb82G4D-P3DTmivyNkHfdk4lN0O0A-sDwzdR4BlvyMdH_PZpeIxW3xD00he5r0FzfmQ3Tvj1eDzTJs7HYFdeX4U3AAPzkb-AMPFdg9Evg6fORCoABjmysILLWrHXMHLH1ag "モバイルトライポッドとiPhone 12 Pro Max")
+![](https://lh3.googleusercontent.com/XBw7OGR98xnmBwvj1mcI8PUZHL_G6FYMmNDQUpF0QlK8eUF6lQvqy-DdDWDJ7sU1yAxXbIwNFOv5jH2z9hqRChNQ5HCIFXL1GQ368xRxDdCKijjMMfJr9zWEf3JgpWOiT3O4ytiLQRI67YGDo6Ncnw "モバイルトライポッドとiPhone 12 Pro Max")
 
 最近よく散歩に行くようになり、オフラインで見られるよう保存しておいた動画を外で見たり、iPhoneで動画を撮ったりすることが増えてきました。そうなると角度の微調整ができる三脚があると嬉しいけれど、ごついアイテムを持ち運びたくはない。
 
@@ -16,14 +16,14 @@ Peak Designのモバイルシリーズのご紹介。
 *   スマホに貼り付けたまま持ち運ぶこともできる
 *   磁石が付いているので玄関ドアとかに雑に貼り付けておける
 
-![](https://lh5.googleusercontent.com/4PHqNh-xpGwbgg0zHAoLMqOMb1mGX7IKv1ndRYr8xWXpo3xpvWDRugr30eL7YynulthZdc1DsMiADdwX4lfqG3fp7Rdjr3ukwSy9HwLLtqlE6l9bKU8dWclSTZa7DoFEgSOiYGY_BTtYbFREjoSnOQ "かわいい")
+![](https://lh4.googleusercontent.com/gDOryhLEPSlEjk3IjwUr1pyFUXGIIVU2MiJCqhe-x-wgD-mYNPtpZ-i_KiMpQLlqPCtA1C-f5x9xZx-7cRThU8c3GPLIRjWcv1zDlJSf5jWiP_ALyRyavzIn2u1ivMjgkVUNsSDntIAyhq-6_POXPA "かわいい")
 
-![](https://lh3.googleusercontent.com/8N4aWdwLHcQKfmgC_ZxAMQB9iYqjrVQPkva1PeEegZ3LFXPfiLnnezucksddVGrpMTf5N6k0fNQ7-8e8geMEaRpeez8n8UfYAf0NK7IWUVkiyu5LdG45UpdSIqIjE2R5zh_E4uZobx72-7Jw4uZ5Ag "折りたたんだ様子")
+![](https://lh4.googleusercontent.com/uhRvBUR_h9iKkmOQmoLKDx6IsiQVdRCIejeh-NGLAJr6nG6pP_2lLZxSKfiAjIqeQZKzk4rOiJdX1aP5WarTVy_c8-Qu61ppBPHJF-jMivGyn0aYokrWO7dKPY6qgZ9XNCqxnY77WVmYUd6JbnInAQ "折りたたんだ様子")
 
 最初は「MagSafeあるんだからケースあるの非効率的じゃない？バンパーで運用できるものを探したほうが良くない？」と思っていましたが、背面に指を通せるリングも付いてるし、布感のある見た目と触り心地で落ち着いた雰囲気になるし、他の同社製品ともいろいろ組み合わせられるしということで、結果的には大満足。ケースを付けた状態でも、MagSafeの充電器は普通に使えます。
 
 最近は財布が必要な機会もほぼ無くなってきたので、[スマホに付けられる財布](https://www.amazon.co.jp/dp/B09FSGW671)を必要なときだけ付けて外出しています。これもスタンドと同じで、使わないときは磁石で適当なところに収納しておけるので、たいへん便利。
 
-![](https://lh6.googleusercontent.com/KtTZLzlVDxgVV0VKTLYLru45NYz3kyLd1Yc_y8tWHjzDsDX14nnbnjJ_yk4T_mQCRQuzkiFUyKIHBED0klPwPJkOnshVdqdbZuK7gCHHlg1mnGfi15I6KMjKFWEY2eBewDSEVhPPqfAy4oOZe6HgPQ "スリムウォレット")
+![](https://lh5.googleusercontent.com/qMJCp36I1D6sB0AFXP3KJRypIagmV-bd0iimdgx7zEgVWOY38bcRffpHbUY8zINTb8UY_TZctdNNI3Wcjeq_j-txik5ElT9sjk-ai45XbWIp3NmffM1heo4phioTbPCqixa4RfEbikg_dhrly_nwug "スリムウォレット")
 
 以上です。普段使っている、Peak Designのモバイルシリーズの製品を幾つか紹介してみました。毎日使うスマホにかわいい小物を付けて、スマホの可能性を拡げ、快適なスマホ依存ライフを送りましょう。
