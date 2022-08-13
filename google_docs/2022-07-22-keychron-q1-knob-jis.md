@@ -3,11 +3,11 @@ title: Keychron Q1と私
 ---
 [Keychron Q1](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout)というキーボードを使い始めてしばらく経った。
 
-![](https://lh5.googleusercontent.com/q1tRkHiHeuXE1jIkKaHLLQxnv_AMRfexIPRyg8dCUQaqpunx1JcYr0YWO-NYhjFNcILTFiZRy6gD4UE6Oxh_jGGAOv2GooqeKPT-5Qaq0H9D4lGzuSsWtIbpCCG4sB7XbOxgoopGH7CzPL3syaqiwrY "キーキャップとケーブルを換装したKeychron Q1")
+![](https://lh6.googleusercontent.com/21Ec89yKJ2q8WX3q75o-1cOCQ3cO-3RKNqWmjMi_-WZy1LZSE7r7uUlOXrRoFnz6ARHNZ5ODeN890JxbCNv7VRqSDGaRfECwobOXYVMhUMmc_9hvCmRZNfwYjNSHx5v4On-4Soz2R1zEniFTJRfBKuA "キーキャップとケーブルを換装したKeychron Q1")
 
 Keychronは、無線や有線のメカニカルキーボード、その他関連製品を多数販売しているメーカー。今回購入したのは、無線接続には対応していないものの打鍵感は抜群に良いQ1というシリーズのキーボードの、最近出たノブ付きタイプのJIS配列版。自分はかな入力を好んで利用しているので、US配列版よりもキー数が多く都合の良いJIS配列版を選択した。
 
-![](https://lh5.googleusercontent.com/JgSlpOFzLY3iv6v4B7FjoPFfHWgr0lvdwn4LrSQ-wQwdKk1chXthBT2ZFFlSW38Zf2o6wqMJf65T3P-QFHGmRh8OrSoVI_1P0bTQXsxzDKGBb1fpsSDbOvtxeKI2Kg8e4ROJ9GdSiT6k6KTZvQbdLPs "初期状態")
+![](https://lh5.googleusercontent.com/9kpoFOq675_x9VVoQjD7dc394l_Cybfy8uIbGXfKFLVf3Nf-PcPPDGjQWtWhI26rOgg3TpeJ4bfgruRN1bg_fuIVvOwDfO5sRRMJnMr62R3BTsT04ca5c4WuE0LwcNFxBvI23Zqr4Q2WUKEPoH5dcpw "初期状態")
 
 日本から手近に購入しようと思うと、例えば[KOPEK JAPAN](https://superkopek.jp/products/keychron-q1knob-us?variant=42638615904496)や[ヨドバシ.com](https://www.yodobashi.com/product/100000001007077436/)から購入できる。実物がヨドバシカメラ秋葉原店に置いてあったので、自分はそこで打鍵して打ち心地を確かめてから購入した。
 
@@ -15,21 +15,21 @@ Keychronは、無線や有線のメカニカルキーボード、その他関連
 
 打鍵音については、この前YouTubeに投稿した[ASMR Coding: Chrome extension in 20 min](https://www.youtube.com/watch?v=B5wdRcv-zQA&t=531s)という動画で20分間の打鍵音を収録しているので、興味がある人はぜひ。Yetiというコンデンサーマイクで録音しているのだけど、イヤホンやヘッドホンで聴くと、実際に打鍵時に耳で聴くものとかなり近い音で聴こえる。
 
-![](https://lh5.googleusercontent.com/dfgOIbPY9HiiLgkK9BVQvWdXBXD8QDN6VWmjo5TfT5I4xv7I0Ba5Q3Ckq5fKa2g0dn0ZmheeJ_2lu8hP_dTnbBEudRhHa-1dM0UFs0u3T-0e2nQJgG3XVg9vH-KMaMdHMB_W-9WsVhGcu1D9mqcoN6o "ぼんやり光ってかわいい")
+![](https://lh5.googleusercontent.com/W574TBbK5XkTpQ57WFE4K8XuZeLGG_YIsG1ZizJukcozlIj-dGzlI3ET5SXWzWctiz6dPbsIgwgKInOZsLEXyzV5tzZbLxBly_fsry2bKq1TOoKrPzQPH9wZ9V6WVvQMQqqX8Qz9omK1KmsWHp_CwDI "ぼんやり光ってかわいい")
 
 いま付けているキーキャップは、EnjoyPBTのPink on Blackというキーキャップセット。加えて、足りないところに[FILCO Majestouch用の無刻印キーキャップセット](https://www.amazon.co.jp/dp/B00R1BZ60K)を付けている。FILCOのこのセットはとりあえず一家に一つあると捗る。
 
 JIS配列においては4.5u (uはキーキャップの長さの単位) の長さのスペースキーが採用されることが多い一方、これは世界的にはマイナーな長さで、EnjoyPBTのセットにも含まれていなかったので、長さを調べて追加でFILCOのものを雑にはめたという具合。分かりやすいように撮った上の写真では、色や高さが微妙に違うことが分かるが、まあ実際使ってみると気になるものでもない。ちなみに、ホームポジションを分かりやすくするためにFとJのキーも変えてみている。
 
-![](https://lh6.googleusercontent.com/cb3XcGrbHZVma1s0olYuCsoyuL2h8q3E6Rq1Ow8GvUL77q2Ny3vEWCQKvALHTNP1KPGM2ImuICK872cNzkSkASGypWxYv0FIkIEnqocOLgeTadikKOSFyk-9Kh0aYKhzxJyuEtAciRhvjdNSr1hcjew "Keychron Q1 Japan JIS Layout Keycap Size")
+![](https://lh5.googleusercontent.com/zV-ICLoiQtmCrmX9MFSB_wKSmTl7FfORWh24Q7zm4Iyiu9h1M6ffF43qSptyuiQUkDrkQ937QQjjlVExgUjzoM4P-LZdAwYVWc4fxnyQrxPPa3xPrp6OjknFSX5FjKwWtMydM0Z3gxBhEJboFcI7HYo "Keychron Q1 Japan JIS Layout Keycap Size")
 
 キーキャップ換装作業の中で、公式の[Keychron Q1 JISのキーレイアウトのページ](https://www.keychron.com/pages/keychron-q1-japan-jis-layout-keycap-size)のスペースキーの長さが誤って6.25uと記載されているのを発見したので、念のため実機の写真を撮ってサポートに連絡しておいたら後日修正してもらえた。上の画像は、そのページから引用した修正後のもの。4.5uに修正されている。
 
-![](https://lh6.googleusercontent.com/EVyZMedVz3Zavx4cQ2ky259pnNfRwLfPoRqTlklsmN_TVn52FTxPq_V4iwTgqHHTdul51qGDX_rea4PFmUf38je1UZy-K6CFu7cDPyTrTHOztIJd6BoUUbnJ8hXOtzu_Nb3d6E-E9Fngxq_N5wVB9U4 "GunMjoのかわいいコイルケーブル")
+![](https://lh6.googleusercontent.com/31-S-OInJ-ipI-8eVxahz6YmpoZCno2dm7WCJEPSDU4tq5LvBssH6k8lp3Nl_jivPc_rldes1-hdNSqclJh3pzSdneAuyd5hGfE3KriEqovu_Gnz-HktohP_EBFz0LGakVk4ekEWXZ6aQcLNT9CIFv0 "GunMjoのかわいいコイルケーブル")
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
-![](https://lh3.googleusercontent.com/RCuTrBX--FhbPM_x5sxWg0mK4SOtIPqG1LrYyYeUTod331brCA-p2q7IMlFwovHwT8HZgkzhVAYNggfPRbLNowqUoRx-MVS-tZj9O4cvjZO4SuOlZat0KK6z_Adln432rZQfjyPSaJ-oq3-Y3OcVjJc "2022年7月22日の作業机")
+![](https://lh6.googleusercontent.com/yg-BkuX8VA7EGeoWjHN6BczTpDFKAPXvEwJddnSI3YTEjjx-AVe6QJNfEMjx4IQVSEQnTjZ_E6rxqgY-FyO2a_D6VhxKP71hPZCk96aIQ9xXsM2oZI3sLZK7oVd-oZZNTCs3xZuDk9pcHVGI4BFq5J4 "2022年7月22日の作業机")
 
 以上、Keychron Q1というキーボードの話でした。
 
