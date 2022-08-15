@@ -10,9 +10,9 @@ title: Copy Markdown Link
 
 キーボードショートカットは、デフォルトだとCtrl + M。これはChromeの設定で変更できる。
 
-![](https://lh4.googleusercontent.com/UWNAB2Mb5x2dDbcz2WSgDqPnI2wxlauDO13VnQd8ik2SYWiBEhRPWH5ggt4uj6I7x_v_ajfbJKRgrkp1WpxVqtbMN7nWUZe9Qx7TDS8OAzcpy8oKBamyw4wKzJkQ2jb3g9Kx0vYnSg46Q23pUIiuZg)
+![](https://lh3.googleusercontent.com/BkyMSgh7suMBfveSSVNhyoepKkxYIkmtztNcCWsiNT5QaOgYZO3tk9XqqCsAbxqFLOeRV7KdsoCXjIqs9SMtIMby56Xr3JM81RUt5TYxtSmuwTJ7-GpVge2JM5LnYmSa3S1H1ETu0j0qVh3TBTtKBw)
 
-![](https://lh5.googleusercontent.com/rT1Q0xrluGWX3q9RDvRBY4HPy6Q2R7xS3dK9ZWLvd1RhlksfAlgBYK3UMf7fGbks1GdlHmgXL3W6GUdNRJec95ClBNNqwCjXLkdJyzksHS46XCNyoRGpQrhMPLHomKoHGweaiixTtjlvU9gYWG7jgQ)
+![](https://lh3.googleusercontent.com/29z93N5yR6H-RRhPeq3VdvJ2oEqRwgK77gqzzyoCSrr63fHqnpzT2ySsdzpjN89jx4OM768VwtDdlT9_EjxfKlX7e3DUfPXNLMj-bGvJb_95fZ_dxlHTycrXWiOD8zOmWiNDcPqnpZQ14TNPx1_fog)
 
 チュートリアルとして
 ----------
