@@ -10,9 +10,9 @@ title: Copy Markdown Link
 
 キーボードショートカットは、デフォルトだとCtrl + M。これはChromeの設定で変更できる。
 
-![](https://lh3.googleusercontent.com/BkyMSgh7suMBfveSSVNhyoepKkxYIkmtztNcCWsiNT5QaOgYZO3tk9XqqCsAbxqFLOeRV7KdsoCXjIqs9SMtIMby56Xr3JM81RUt5TYxtSmuwTJ7-GpVge2JM5LnYmSa3S1H1ETu0j0qVh3TBTtKBw)
+![](https://lh3.googleusercontent.com/2w1c-bEJzl0726iKoEJrs89WinF1kDBhdo5kcBBxjw4aycU2EtWv7zbfZXUXScnPwFjoI-Qbx7Y6ZU7A9zlqF_veookyYG8RyAeeEtHESp0fntAX_l4d-i40eDaCu0wo4ZzGUTe5sKkz-9un_sGSjQ)
 
-![](https://lh3.googleusercontent.com/29z93N5yR6H-RRhPeq3VdvJ2oEqRwgK77gqzzyoCSrr63fHqnpzT2ySsdzpjN89jx4OM768VwtDdlT9_EjxfKlX7e3DUfPXNLMj-bGvJb_95fZ_dxlHTycrXWiOD8zOmWiNDcPqnpZQ14TNPx1_fog)
+![](https://lh6.googleusercontent.com/hPytcNZQ82IqaaBwWOhp2qGLGZQvMJ86RjRKzK16TKN53-wxnlZPGql57dfAGOHvrkStwrJV-qfr2FeOavwBQRemwBvkZMWG6N2cL4BOs8ov_Wi2AxKKFFWPZL-NsOF-dCbvSshQEFVKdQw8MGF8yQ)
 
 チュートリアルとして
 ----------

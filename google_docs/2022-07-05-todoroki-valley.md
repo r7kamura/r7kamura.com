@@ -3,24 +3,24 @@ title: 等々力渓谷に行った
 ---
 週末、暑すぎて発狂し、等々力渓谷（とどろきけいこく）で涼んできた。
 
-![](https://lh5.googleusercontent.com/-LgsRwn3tvVxGM8Ddr-Tt832ZdEFlvUMVQFYDcdJwJBFZ4vt5hgOEN-ngjlBRrcMYYMPuY2xq4LUYs7UIq7W39f8Gyjy2M7S98x9zdX8g1UCPXX9E89_kuki3mi2NS6rty7yrZRceWNXRlzozg9bzCo "シンボル的な橋")
+![](https://lh3.googleusercontent.com/2dxcaankKlwD_CJcUUlhpTL15CtCttmTWeODXlkZksx9gFaGzfNLTwB4XPORVvJOp5DrSTrZSzwivCylevHCX77RDYlbjsP5AUGHUqaT_813hBAEE5OSf4a-SavS8Rijggrwne3SGkxi48uI7BtETLI "シンボル的な橋")
 
 等々力渓谷は、東京駅から電車で40分ぐらいのところにある渓谷。都内唯一の渓谷らしい。渓谷のプロではないので、詳しいことは知らない。崖に挟まれた川沿いに、数百メートルほどの遊歩道がある。川の水には触れられそうなほど近い。
 
-![](https://lh6.googleusercontent.com/m-a1CCa3snhSH76ncbt7JPSgxKARb6B95argpaZTdW_DP9AjvtmIFMxP7-6LKD26ojl53_B3exIYIUf85g82Vm633jVpzHvo8hy3MOsD2QntX766q06pyFSxJ2lVxzsDm8kYGPJ5m5CNBLYrSGUbsPU "谷、沢、そして川")
+![](https://lh6.googleusercontent.com/YFkCNH6Wr5w8vSpda-5gEHSburrS0fZh7sB7EC1DGp7csx9Dz2_lxC_y5z9lkTLwEfywlUkLHgtaxgFGwtI_AZg3LflMzy2GFcmery2onLBpCfjp-9Esgep6zC5pq27NeDP2RG3pDBCFNjvCN9k9LSU "谷、沢、そして川")
 
-![](https://lh3.googleusercontent.com/WqmoePCiCnYrF9zKSIxFML7OwVh7KBAIKb6SBVi-OU3BW5piq3YMfpN1vAAV2cvutUTmcWdgbehbrRDOQdUj-Vs9Qx1LVlU56a_EYrOiGtbuhLxUp2sseQRK0TrR3YJ8TKv7uHbrn8QCsem-LyJ-fJs "しっとりした雰囲気の道が続く")
+![](https://lh4.googleusercontent.com/BtojyY3-S8UWWBKl0_iYpm6Nh_9PSCtqbmHMopFH-MVIDSoae1UnKrwO4zADJKjrdn9UJ0a3wJwXkY8m49UhF4Oqm2kZEc9Q2gmO9JHWOr5LuCwaFeZHdeWeC9caoG3J2BJh4feiTWW48Bp7VE4rEI8 "しっとりした雰囲気の道が続く")
 
 木漏れ日が稀に落ちてくる程度にほどよく植物に囲まれており、涼しい遊歩道を一往復できる。たいへん雰囲気が良い。視界から消えることはない程度には沢山人が居たので、早朝や平日に行くとより楽しめるかもしれない。平日朝に行くと、スーツで出社する者達が渓谷を歩いている様子を見られると聞いた。
 
 週末の午後に行ったこともあり、家族連れの人々が多かった。家族で川に入ってバシャバシャとやったり、川を泳いでいる蛇を見つけてはしゃいだりと、元気そうでたいへん微笑ましい。
 
-![](https://lh3.googleusercontent.com/EGXpVumieUv0HciaPAg_JbGl5mq5r6BUBFP3fq7YQm0CDbcowDiKamOftKSuT24uzybUCZJBvAucNBbXVm9jTPHcmgWm1t3M7kU8Wc-rjtexXwQRjf34cM3LWfn4z2FiJJZ6Qm3NGufH9dIgFPg8X3A "口から水を吐き出す何か")
+![](https://lh6.googleusercontent.com/lIE4WZfyITt67wMvFktQlVrRihC_Dc8u8tCIWZdxxPXOlvxXioIzqJuZagxREQS16Ka8RtkydkbirIPw_PfmFWkH7qHIJMC19-irv-HOTPbtJaPfBfN4sf2iuMK-OaFZRwHO-K_8ByKOnL3uq5eridM "口から水を吐き出す何か")
 
-![](https://lh3.googleusercontent.com/u5ZG_qePAOvLFKqpdBVKcgV7JVQzuD2X-anKMc43bUGJF7OvFo1n4bfbDmKS4VKdS1PpOVPJO0iVoRtMIaDTJIXVm9t5bUOdkQO7bWle6zXZ4CP9YD7knIjhAGDTNzQ1qeaYEq-orYwxCAjkIFTBOM4 "千社札")
+![](https://lh6.googleusercontent.com/TOpb68lY9uIg4ZM9s7_mwF8OgoBKvyXXvLmhDpsL7BXA3l1yXM8yqXUdbN9lAvyuBjk6w-CgxvrgTvsLF8GstXR0KC8wE9G7AKGzFxSo7SwyUJIYj0gmcuADbW3_DXU-ebFREfDpYcPUfkWRQE-gO20 "千社札")
 
-![](https://lh3.googleusercontent.com/MBO1y6bwI31X6MWSWFXAnSkEdaV36A7Eg-CIB0HB6N6JsyW4-mIOO0VkSlhAUr7VsG6F4ebCR0yxdFbt1ykfKvexS5Ti4xiQi0Dm2R1sQDYmFQ-VQgr2Y1BzTVs3sRtdzMn8nmx8j-3OpwspNFrKuc4 "手水舎")
+![](https://lh5.googleusercontent.com/gE-3U3uPXEQPBkK_2yCmiVqPYp_5E3I1YD07xPA54jJEdPbkjQM2_1FJGHdpYyIeihEs1tEvSGoISLmlrWL-BwJojinEquIC7H5aPpMB4qruFHyKXqDRrK6ehq0GNuWvxIO8wSYPwX5ZE7bVZEOzFW4 "手水舎")
 
-![](https://lh4.googleusercontent.com/L3-924skaa_06062jhfCCNpQcKwflgxWvducj9upB2f7hDQRGrczkAWKRh-rFgsdpHC9cSMZFN4MJkaP8kOSZ0w9PCQyLBADJrkzezTVj-ddgckWvVZasjtolw8BNsGK2_OgKPlco3z5pcjvtTN9YmQ "多摩川")
+![](https://lh5.googleusercontent.com/6sigC5fsB_2BzR3ppfIDFiM63Vo76QBeh-M58uINIdmMqbfgz44LVAeamOTBkNt1KeA7MQCKCLsFqL4_t5c915fnS37qNRg_92mPYw2sYkXltoVsCsmhXdSK7-DT-2PNT2VYywiXa7_74kx0USjnT8U "多摩川")
 
 一通り楽しんだ後、多摩川沿いを2kmほど歩くと、二子玉川駅に辿り着く。こういう心地良い散歩場所を、もっと見つけていきたい。
