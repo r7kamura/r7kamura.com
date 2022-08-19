@@ -5,10 +5,10 @@ title: 洗顔用泡立て器
 
 1回分の洗顔料と規定量の水を入れて、10秒弱ほどシュコシュコやると、レモン1個分ぐらいの良い泡ができあがるという、簡単な仕組み。手に乗せてひっくり返しても落ちないような、良い泡ができる。
 
-![](https://lh3.googleusercontent.com/zPA5iaR8__RGB5S0CKmmS25zFWiTKnzQGT4DRYbRquDOpAAxSt5ocrQQy-owK3Ix6jAvxE7oCN4l0zQaH2iekd5__CA93eKWqk6ElYMqh2JIashqzU4V-ipo3EkURJIp9n9Jeckfe-qHOJixOKDtCg "角が立つようなふかふかの泡")
+![](https://lh3.googleusercontent.com/-MEU0f6bce8lb-N0sXbkC7KUrc3k-k-6zCq8ROa7ViOFtdg7SfAlA269LPJGB1I7cDM5JpV5PtCbAAFTL2No4XiX9_OtxmburuQzkUr-9glf-jc4RzuMFqlyFPQoup3tbGOuPaqrgT1R8uakfvdLmA "角が立つようなふかふかの泡")
 =============================================================================================================================================================================================================
 
-![](https://lh3.googleusercontent.com/EK-Nr_vxfH6E1Few_KwbfSCCReuffEjsgcG3ZuBWZFpwD1pZodvTBSh9PTscjedI_QO6ShBG8ii40jZuUTt_jwHenTrHgHHVos3rGehPGNUOue8V7IzOA_KazHTNxMw9nKbjSezqjOPZAoK5gezfGQ "シンプルな仕組みの容器")
+![](https://lh5.googleusercontent.com/Nr2Rb6OJak6C-2AMH2oIu4Zn3ObjuddLaTn4eCFyTBpwNuoirZF1fa1gvQxZowW7iRuqCZddF2tq1PhqXwF5jqdkr-i33qaSBnVEzLGWI_0Xte2zdTQUq0UhCZ1kW5KCZIxW4DKyghTbNsj3g9J4Dg "シンプルな仕組みの容器")
 ===========================================================================================================================================================================================================
 
 手でも同様の泡はつくれる。しかし不慣れな初心者には難しいものがあるし、慣れてても結構時間が掛かる。洗顔ネットと比べても、泡だて器の方がより素早く毎度安定した品質の泡が簡単につくれて、容器も洗いやすく清潔な印象がある。
