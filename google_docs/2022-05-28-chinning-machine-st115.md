@@ -3,7 +3,7 @@ title: 懸垂マシンを設置した
 ---
 STEADY (ステディジャパン社) の懸垂マシン、[ST115](https://www.amazon.co.jp/dp/B09K3QQBKH)を設置した。
 
-![](https://lh3.googleusercontent.com/FV9kWivCDU3Fh1OCFNDidtvaNiz3KrVNdij1fPVA5KCUQd5bgD3sdnvU35KY5GXf-txFwbE92Nt0VBm3r9JOgvfUVrgirOJuDk3c7EZBFpskyDdo87x6NMLvc0ORzURaIK960A73_fb2anNBe_hafw)
+![](https://lh4.googleusercontent.com/596CrXzuBcp92GfKrWJu6BiQg2KbAqNYeFWs6jyb8z76ETdwHvJbir4z5khzFPel79bCFeLRA5z6wzQFzbq9oqhQTtqzVRYaNBsw4yUg9N5xh13yrNOM5y8yEmOwl0wNj1o9_gF5n3Bvm6zUAJJM0Q)
 
 なんで買ったの？
 --------
@@ -22,9 +22,9 @@ STEADY (ステディジャパン社) の懸垂マシン、[ST115](https://www.am
 
 Amazonで注文して2日後に届いた。部品が揃っていることを確認し、ゆっくりと組み立てて、無事完成した。適切な箇所に穴が開いており、ボルトとナットで繋いでいくだけなので、組み立てはそこそこ簡単。部品が多いので時間は掛かる。丁寧に進めて100分ほど要した。
 
-![](https://lh6.googleusercontent.com/XPaYNCLEIaZnh7OSIMPhvGLXW_Gb0MTfIEvDNSesY0Uhj9puU7fornreO2C2ZWBZDVXxu886-83P0Ug5W-p5NjfUxJtOopIRtp-gfAZNddGRZ7ZXaD2FyNiTKbsN5oGd28gABRa_FxOOeW2F11JGBQ)
+![](https://lh6.googleusercontent.com/1UDeJp0vqWKTWbJMtUwq0zmjPwykmvXweVyiIXwI893V3MlWn14ny3D9dm97JIEIYqlLxvjpv0JS7L0xfhYJxERvm1JqxilFBweqscDk0sYPotQkgVPhWaMV_jfs7yew1PRe-W-gU8EI-kdVlSEmzg)
 
-![](https://lh5.googleusercontent.com/1HY8eE1BCxHIX8qmkmiRdaF4pBzUcHhwQG8ylv8dgXTifE0gVh8O7zJvdA0Wd5Vrnzuh_3dRuEg-gOBE3VO-AfxBoKF0c3GxxkD-GXFMNthcacXAMSEGsBZ59xdR9ZvgA0eGQPt-OK1dJlMtSyLp9g)
+![](https://lh5.googleusercontent.com/cyJLb-OvSVzi4YB7Ritjra2pn4_AgvH1JpTb0JIpvGYXoX4hl2UC7EbepI79hXUibkxePr_p_jdHu5xk3VwLytdqXoOIs2kf9_dFdGb8aAcXTVki0gtXrW59vKX235J2DTTraStH1910tZH__B9Zag)
 
 所感
 --
