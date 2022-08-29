@@ -3,7 +3,7 @@ title: 作業配信31日
 ---
 毎時00分から50分まで作業して、50分から00分まで雑談休憩する、という[作業配信](https://www.youtube.com/c/r7kamura)を始めてから31日経った。
 
-![](https://lh6.googleusercontent.com/1uPAtwDIzVRiTV_-0J4UYKS924Her0BBvSr3lzdLGwoommrZSUpkbZ0j4H0KLsH8Ik-MFquekgbH38l1u07IeUI8onVob12NkvMdx651Mr9DcJljRMM2yY72LtiTIVgEnN3dT7idKkfr0cdQRzc4TA)
+![](https://lh4.googleusercontent.com/ZRO4sgb4Bf--1DNlScnvSLaOLhU-WNRx5VkczrsJeLTvQjBnEEuw-Gt2hOKI1PiLRnhi9RDm3bhe5h_ujb1WTPUiRzrFetvhjx-1W38Lng5gKUquFtOFD37zGG7yfHNFtnipI7oBoouHhLYv_Os8-akQEvl3Vwc6vxpJHz-GaeA8g0rRn31la5pn)
 
 作業時間の中では、色々つくったり、学んだり、変えたり、新しいことを始めたりした。
 
