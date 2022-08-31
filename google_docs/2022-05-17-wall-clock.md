@@ -3,12 +3,12 @@ title: レムノスの掛時計
 ---
 株式会社タカタレムノスの[MONO Clock](https://www.amazon.co.jp/dp/B004UIT8BK)という製品。
 
-![](https://lh4.googleusercontent.com/PiyF3yn_j6r5vt6wBQoTt4edYP4bOTqCOei-1yChLwqgoNkIKE9p__Sa2b6i8wD_LIG4gW9_LIRAcCfSiFkPmuT8RgGh9L0sd7KFVrD160DhNOhzIwqzbKzdSplyUUzYZovyyyR07eJjM4WGqhmKiRlFytkPpmyVoyx-EHtyIGjViI8BvkDxgzMt)
+![](https://lh6.googleusercontent.com/XM8hfq71o2ivAtO3aIQtNJH9x0R4CdIz4a0QkJ2C3vsKAL_hwTS-1iJOAVG1qF-FQE9elOgvJ75uw6bh6z0doYEi-YI_ReAYURMFg_hYhZSi651d8yldvsRyNmdd4fJzmX-dpCDVUV7vcDi-AKBujpShT5DKbXbNsgVv7ODH1mxAHaYWvgeZtRQj)
 
-![](https://lh6.googleusercontent.com/3fLjNplucpHCNBZl1QgZUHTFYrtPBzCHXQIqtaM2QRo1PJ5EMWppiqQE-GYG0iFAQ2Cq3fFVRf0yxP2PZox3DP4j6WE4ASEtYYoJ9ry0O9D-nJKxHCdYZutk1nJB8KspLOT0Bo4EOJDFoBpA-kNBHvTmnw1GAz1JqdsY9CPD0ScOiymJ0IGD-_uh)
+![](https://lh5.googleusercontent.com/n8osFM8Sx3fy0Z7sK-DuWq-HTM5wAH7gYrwPHyOAlFxKULAGjskUGed3iLBMRU32tC581qslgRVzSWDdmPvFtzuhpgV9O_bZcYeSzSby0SXxQ_9smGn-CdJJlICoXm4gINN_yzmTfQUxUk41oM75vSs82yKqPB51kqMyD43fScGtjBsPpluRGp27)
 
 [作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で毎時00分から50分まで作業することにしているので、見やすいところに時計があると捗る。また、アーカイブで見返すときに何時頃に行われた配信なのか分かって良い。
 
-![](https://lh4.googleusercontent.com/YfifOT-VMhdjCfom7OvgpM_t-Yn9xAm02bySFnb7pZebgmt68aR8adXLEwnn8xspiUIeeKHUFXpTf1qb1VtoY2J_Xe9KBdccwUSBmWN6jYFwwR9RGHs1JRymVfMUavFJt6irQIWQOmifGl4AqQQWHWK8JdhP-3Y-xgnDviiqwW9gtzDy8LF2Jx_p)![](https://lh4.googleusercontent.com/oxcTMu002WB73-UA2J3_IG5OX9FI2oQFc1BcFVn_AhvCY1Cq3p19eNuGvYs4czNgsChVe-vo_0HAhIPYVV27WShDEN8QfUb8ZyL5MI5PMFtmk6A_PJKuKVabb9Mc7UBxmtzKoF6iKvfNKqXTh3oBYrwZt4O0c34MumekK-f3_NTp59nKvthX1WYG)
+![](https://lh3.googleusercontent.com/jzLeQoJX5F27AIbCNliy0rt0Z9aqGVVCI8fLhNJ7CtT6vrLQx24CWwHe_NMQ49f97IPcdc-cZbriPZ8UO6DAZsIFU-rAppFO1MsjORE0zq-YqUPh22TYUYuOK9deMYntMffi3xJxO_Wn55-nFRi8njzz5o_WM-3f0SW84VGkDfFlXtsCLvYB78uN)![](https://lh6.googleusercontent.com/fxhD7wHaOY2JmF3Mm68BsHE2s8z1HQsJYRwC0lYd1nd9HqlGMon9OHYlDJXqDG5Meg1lPWxFbwhDq9F8rAOhI9SPm9Wkwd5hd3y1aVv_SbpMeHccQQNMGchZO7pakIA8iBPBMAfZi0THDOkPSXfd6-yPdPKLI22QV0QmE0ezRrBXp5yP990RpILe)
 
 [マックスのホッチキス](https://www.amazon.co.jp/dp/B000O9WRWG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。
