@@ -3,7 +3,7 @@ title: OBS用ポモドーロタイマー
 ---
 OBSで手軽にポモドーロタイマーを組み込めるようにした。[https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
-![](https://lh5.googleusercontent.com/jMinTvvZ8LavebcxRt9fnlVCIwKGl9J_JBo7J7Ru2Tsyxa93PeieKiJ3jrX7I_Q-U8hJXKYcQlkI9TtVUDb42mdewQV-lPmw4w94v12HKxxRat7h7vQKANp2-AmClUspRLgaaXOUgKANvw4QXEc_KQ)
+![](https://lh6.googleusercontent.com/h3d7CQRgEcJh5GlBmyey9k6ftLDB2mJ4HUqxHoXJ3k_BK8zG4JkdV1jH0VgDR686O7K69bHUfUPZ9DmH3uIcaN9noOrx3QvLTCO75EzZcViybF9iN8OyQJ3E3skxdY65uMHhCqVxsnB35RRKCpPWM9BJPRWrXF_Id0ANxNQOv-t8uut62C29foJd)
 
 どういうものか
 -------
@@ -17,13 +17,13 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ソースとしてブラウザを追加する。
 
-![](https://lh5.googleusercontent.com/_mTUw_ssrBtJCdJglJtHK-vH40Zcn9Wx-QHT8PEryNXnSSM7eJrBJig9Z5iqiCHC7csbOZdSXuR2796e78WvopfCJevt2cuxts9_lgf-E8M-hWyHuiwILd2rW6rZ3cL6ApWRNbIUxeR0Mi4c5vDZqw)
+![](https://lh3.googleusercontent.com/Lka9_R5RPODsCqmup75VO9PqplWQqmpGlo8wlcRiOgzpkfD5jluj5KKwxwrwu2bVwQ04xdd6rjiY-zuoss5R2fVh6aom5T6x0VF-OcCcUWd4yI5i_kbDip1GOAmIpceU3WFpi4BfSDczRi8coa70L3bLTQUbumOmSg7MNdqj_OWPxPADKaTABwvs)
 
 ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
 
 25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) を入力する。
 
-![](https://lh4.googleusercontent.com/LEkv07pg35NR6SeAa1N3bBwhkvdirrua-wgY6a45U2LAjqI6tOktrUy6EgBxbdK2nIzZCBJg9mK-6gf9rp2zwofMa5otohRRDpj6RwqQNCNHXSiMt_a1nUWlZ43L08F3YbyGnm6TIrMmYM8dwc6e1Q)
+![](https://lh4.googleusercontent.com/xG5_OR91kN5IqQLegdjoODs4tT099wMx8SxYzJlAj_eMZpQ7AOg4jXELop2W8ZSTLifmeC8A9xpyiNxarTSoAG50eJ90YYSJ0U7WK5DhdtkRd-iN7lOGvzGHFDxVY1KbqSIyTLbh-ENYcIk4mdYWzAYOORjnH_ngJusDaLEbbJMlAg2ZR3eeE5xW)
 
 これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。デフォルトだと作業中は緑色、休憩中は赤色で表示される。
 
@@ -34,7 +34,7 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ブラウザの設定画面を下にスクロールして、ページ権限として「OBSへの高度なアクセス」を指定し 、更に「Work」と「Break」というシーンを用意する。コピーするなどして両方のシーンにこのブラウザのソースを入れておくと、タイマーが切り替わるタイミングで自動的にシーンを切り替えてくれる。
 
-![](https://lh3.googleusercontent.com/aoYNKDd3aQLVFbxxwi6uoEsArzPyB6-MvZj7d8g9r9W-bcsGsY1cpKujeAw5Id8El5epczOuszwotE6e5J5Qfc2ubSOHih_p2HaFg-rAgbjw46A7vLjkQ8GHJSe82oiKqQsk4WH-eICRl-Mo2FnmIw)
+![](https://lh6.googleusercontent.com/38PmHNgP7Z5lQgNMu26JLsAgIiu3Y2pHNvNnvX6CXMW2J0BwCs2kttzZ6lDOevTIouPa6M_Q8RPK4iutLfox-A23TnJpt4JUkeNFfkAmqbzVwwRDoz8mVS84sI7LEg1ttCm0lgsoEyF4mbl9E01RPAl7ZdDKJTruAFCP74Hkgzm6Dgr4wFRLuoeo)
 
 おわり
 ---
