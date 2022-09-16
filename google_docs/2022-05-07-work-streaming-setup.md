@@ -13,7 +13,7 @@ title: 作業配信環境2022-05-07
 タイマー表示
 ------
 
-![](https://lh4.googleusercontent.com/U_JerQFRl7Uxmjoe_5Jq2l1sSIJuaeXx1_WVNxIEURR-DdE9abv7TPBIZq_tjlRDw3YVsvkXuVX2h8ryhtFJn2EO70NAPkkk_uqSWc2ZzD_z4e5rGY1kjJg7vTpTz1Do2ejpV7s2hz3jAgkyw_eamwjABTsBjsM9zAmmKbtYZajeDkQIlCRxWM8V "OBSの様子")
+![](https://lh5.googleusercontent.com/M4QXOIdHIjQKKWQwMhgfzq08Pv5H6GzZncud3ZUwAv70C5EtlFyf1pr57URkOAJ0HMbygj-GXpUGef_P6BMrjLsAulak1oc-n9SGcwtwEttfTBr4hQ81mBZ9gczicGK0HduKNlVFZfLpl-7pXVj7oL9QOnkb-WOw1MiHPe_B3IrkxgfiF077UysV "OBSの様子")
 
 配信用のソフトとして、[OBS](https://obsproject.com/)を利用している。OBSには画面上に任意のテキストボックスを表示する機能の他、テキストボックスにタイマーを表示するスクリプトが付属しているので、これを利用していまの状態と残り時間を右下に表示している。
 
@@ -38,7 +38,7 @@ lo-fi的なBGMが好きなので、著作権フリーでおすすめのBGMセッ
 カメラ
 ---
 
-![](https://lh3.googleusercontent.com/_mjH4amIPxrc1g00gO1wDF67UH1jEHqKkrd5aabaVhGjEr_bBdpo39hv-NtzNuNOUBLCje_EUXxfRUiKAlugoyxT_op24uuJj-J7IfCX3v4u0kwrmiFg5yn2sLuBZ5RlkkeK9Z9Wxl9CWrcDUtCteFB91B6pzpo6Ylf8G2JTkvqvnu_I9PkFqLKO)
+![](https://lh5.googleusercontent.com/TWFW5c5HkYuxjStMyHewSCRfwG-mFdf5h1hlcHvwDCy0Mi_Ype1jB2vmjPxreIIHghBlXOmq-AetPSMnySgVe3RM5ev9pDNLnoca1Fjs2YAS38XpRRKqfn7GiUB4jLw1x2tCrugXKU_l0zjiNQ8MvEvKxshq8SRYgAZCNfXSIYfGSDHQ1Y82ZDKI)
 
 会議用にロジクールの[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを持っていたので、これを配信でも使っている。三脚を持っていなかったので設置に少し工夫していて、この話については[ウェブカメラを支える技術](https://r7kamura.com/articles/2022-05-04-super-crab-clamp)という記事にまとめてある。
 
