@@ -3,13 +3,13 @@ title: ポモドーロタイマー改
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)用ポモドーロタイマーの改良版をつくった。
 
-![](https://lh4.googleusercontent.com/O8BDzxTIB2ZAm9_W1GaFHQ73zfrksBHqcz3d1u-F4XyWblA2sRSZmTUAdWKY9gSKh8CJq-seoaKIeGeKinuX_pfKtCgoEbsnvvhVZO_SyMXTfhqqV0SkVr-iRHe3Xk15_s5Z5pvrOcGbrnRSJInLOlLB8Lpb-J1HYecT0zknZQVK7BxBOEIDsvnaIg "ポモドーロタイマー")
+![](https://lh6.googleusercontent.com/SkUaukXdwxtPhvRw6jqyjpi9qFQYV6aAgSHZd95vEadcvR9Y-nxotp-O84eOZNgBsdyVW_4-l_jX1z50KpoR7AQlJVzDevj4caLLjwgQy6Q4-oOtpQNqamgyugKtOOq0J-N35I-q97E00EFWdauk18mICrrpCM3BVwhPnH8nBhXCECxPu4WwTplbLw "ポモドーロタイマー")
 
 ポモドーロタイマーを表示するだけのHTMLページとして実装されている。配信用ソフトのOBSには、URLを入力すると画面上にそのページを表示できるブラウザソースという機能があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html](https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html) というURLを入力するとタイマーを埋め込めるという寸法。ソースコードも [https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
 50分作業 + 10分雑談休憩で朝6時から始めるという、自分の作業配信に適した設計にしている。視聴者と同じ時間を共有するために、自分でボタンを押してタイマーを開始するのではなく、時計の分針と同期するような仕組みになっている。つまり、毎時00分に作業を開始し、毎時50分に休憩を開始する。タイマーの外側が分針になっていて、内側の緑と赤の線がそれぞれ作業時間と休憩時間の目安のための補助線となっている。
 
-![](https://lh4.googleusercontent.com/KHPE7EJodzIH2EVF5o8_-1Cfg9wEW52NgfjO4txogR7Nb86a_PfFgbg4um9tVJuEl8tgVlpdsGz478rGTAUkcO3DnNuZPtoVmIluEhk5tAE6ZimxgSXK9TLy8ksgeIEHG-tmzrbNYfzc-xrrBtEa_dyGDtpS5Z21j2sbLcPoD28HU1B-fSdAtkUVzQ)
+![](https://lh3.googleusercontent.com/5tQW2KsIXa4oHCnzYkFckN2HPopcJCSF1a9mTB3iQKty7UTgikg2rE8tntfgLKnIcZu1bjKoiC0w6C_hk-Aw0btMVAr4zABxB-xaS4ZWP1VlZBI2v9wfdWcE2IwYFAndECSNLpNDlkbuZ1sbYLZgf4LZ1p2G2WvbCUACT98GfT9f0naHxuv8Z03CwA)
 
 このタイマーの実装には、SVGが利用されている。
 
@@ -17,7 +17,7 @@ title: ポモドーロタイマー改
 
 円弧（円周の一部分のこと）を描く方法は主に二つある。一つはArcという円弧を描画するための機能を使う方法、もう一つは正円の外周に破線を引く方法。今回は破線を使う方法を選んだ。
 
-![](https://lh4.googleusercontent.com/tR1NOVtl_WdiZWzjIQQw5UQoOa3VESdExfTaZ9R0IHeLaD8U1vVqG6p8YbgNWNq-wSmZUhwsW7I0P91uyd3u9ltUEexSYK1CP-vmZ5yRd6OLQSBk2VJ-iaYFnAmbL6VTXv0aQIJVDxrQqQASxxgSeGKJ1kJYg_4_wxDCtGIOIgC_NrtXd7FX29sifw)
+![](https://lh6.googleusercontent.com/wjVFrjzGBZCporuXrRUAe1WIq1jGAvhoQIy2Y47c44eBmPpFpN6COQqh2XXTDEzHXdOeST6p89fV_B_9NISWnPJJQk5KfLCwpz3Yabr1TTprKgz6u-bmXFgLP0izEPDwKLljhzJI60XMzlCOsKXQJ3m9_9ifDwyI0vmHtVqcmHqMcmJkwd_Nuye52g)
 
 あとから定義した順に上に重ねられていくので、次の順で合計四つの正円を用意して、それぞれ外周に適当に線を引いている。
 
@@ -30,13 +30,13 @@ title: ポモドーロタイマー改
 
 あとはCSSを使い、flexboxとかgridとかで適当に上下左右中央寄せしたり、Googleフォントから持ってきた適当な等幅フォントを使ったり、iPadやAppleWatchなどいろんな画面サイズに対応できるように画面の高さと幅の小さい方を基準にサイズを設定したり、背景透過させたりすると完成。
 
-![](https://lh3.googleusercontent.com/QRNWlLRyyKowvWT6r_Aecl3tkd_Z7LQfbLdRRqLNR1AdF6SO3gdMAJsfRvZUBi6kZK6GeyrL9Bx9cvl_JzpWQNlBs9HKG3Yfb12dTJdGt0HQ4mtSpqm86WOiWDC9JQ_jP0jogaLklpqGA_9qAHZLWXKrMK5-bPedEO3UzYxDzw6jzPjIYJb3CRwqSQ "配信画面の様子")
+![](https://lh5.googleusercontent.com/3VGJVZh1K26cn9CxLrx-NHOq5GfP8KVgzhicN2KWOY8S7zcqNWS4PvH7wPuXb3pCaWx8I3mc8KTSmQVvA7RMkyhWClPxvsUd_37KbjVv6Q577rnv8PWmtSpyO_L9WRqY23nkcqJDwvkcBKFKHgjj7yzgRBnB2hkVXCUhDWk2sBOscuH7nADjGes0GQ "配信画面の様子")
 
-![](https://lh4.googleusercontent.com/PdiAnTyNS-X1KJjqFCY9LaIEciJzKsgcaXzgVCetbD4pLYRAoljiMGpMqUYYTcRFhZc-SOysVUi79O7QTSl7dt3Qk_oUaC3ukeuQX5yfwP3RGUZC09Z_pH-XKkhSiwvVDGF2v1yzSjddlkn-GkTmAIALmWXWpcfYgyjNkxHAIET5CYg2AegD5t7jrA "ライブコーディング中")
+![](https://lh6.googleusercontent.com/eAnBXy2w2yE9MLlwL983SwLyCxlUzz7nUrIrJ4BQJi8tE9mFM2m0fnh0aJPNmCzKvi4GZgiea2xKcm7Byb_eWhgXTDUUjEK9KWxxRGGF1HcxYTVZecGCflo8QCczPnMmg1-QNe4A9mwaW8-yfDJwxQ_bzQPQmiaybz6OD4Nt7Ts7KXTHe8apkyGSzg "ライブコーディング中")
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
-![](https://lh4.googleusercontent.com/3uZj9MuNOTfRXykQo-LS5kdVPaH2xp5_78h3d8FOdGT3zeRHx_pbrbN2T-pjUqxHCIU5mLTFCljDy-k29OowJN6aUiMxVa8JYz0Q0tPjQzUZsmKx3gFQO3zP5h7ertEEW-j335MLWHmLgAQTzJAIGKhmFHJ4vDcDIsUwMWkZrbwBYIFxN6pTSTHkKw "iPhoneで表示")
+![](https://lh4.googleusercontent.com/ij4viw0-sU5DRuqLU0rA9VDILLtMkohY2S2SD7jj3mf32i2ZeA8VKRUp_jTcpGl-JqokCqGM0EfMFMGl-iErG8-BNUUE16rvBH0j2DXy80o9kB0K3Z0WMERf2eMMo0E4UG5aFlmcMdmcjgHZQmzTwQdN8Fb8myXV-oA1nCJqbTxiDrXQu6xCWYvj_A "iPhoneで表示")
 
 スマホやタブレットでも、Webブラウザからアクセスするだけで簡単に表示できて便利。画面の大きさに合わせて適切に変形するようになっているので、縦表示でも横表示でも使える。
 
