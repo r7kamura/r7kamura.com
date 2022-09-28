@@ -3,7 +3,7 @@ title: 画像のキャプション復活
 ---
 画像の下にキャプション（写真や図に添えられる説明文のこと）を表示する機能を復活させた。
 
-![](https://lh3.googleusercontent.com/MowYsBMKO7R6PPBcNuR7VB6AOSBBfu2nItsnH6r3GMCq2eIlLVneyRovJUKdJwVAyMPNW31UhphyG0_TnZxcZ74-BBRlo48Ys8cegoJj83RHDMnjHh3zg-Iz_kG_C2mWx5lRtK5KPEse6Gcd88DOzKLTuOXoLIfg9-CrXS1-3puMMR6hVZry7TZR "特に脈絡のないハンバーガーの画像")
+![](https://lh3.googleusercontent.com/GbD5UkIRIRr3dOeiKOMn5AKQz-AQIn4VZaCgduDLIGr9k8eI2LBpMz7l5qABJh9zAT7wRwP-xJnvoUjePjK8L6_nSg0ZYm_QgaJg_-jJJzlktky1vM9qzYGFPFGTjDHn-m9BSA8JwDEpIpPsw1ZHbLqbxdNGKcvSKY8ik_VymIjtDnCMVXLQWANU "特に脈絡のないハンバーガーの画像")
 
 過去にもキャプションを表示していた時期はあった。
 
