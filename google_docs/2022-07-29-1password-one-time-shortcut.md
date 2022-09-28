@@ -9,7 +9,7 @@ title: 1Password 8 for Windowsでワンタイムパスワードをコピーす�
 
 Windows 10で1Password 8.8.0を使い始めたところ、選択対象のワンタイムパスワードをコピーするショートカットキーである Ctrl + Alt + C が動作しなかった。クリックでの実行や、他のショートカットキーは正しく動作することを確かめた。
 
-![](https://lh3.googleusercontent.com/xclg_fBwdf0ItIfbypnEi0YwlqqxVidy0JdtpNxbt0dsUqQ_6pzapbDaGpuCRisDViuR2UTFzq-P4FlkbJ8erTOvKx23eEKz3K5NDvQhi9OHgExQiCJfD4CpcXxT67KyHOrpzhNvDDubRwzA5wRg33F27i_PUQoMZCQ5FPdlFXclIJ6Y9Z14-aXGag "これ")
+![](https://lh3.googleusercontent.com/NzShgGY1bbDxu9gyuwYo9u_A4vwmzMASoAwqKwIyeAH_snm-UzBMffReJ2FCgLnrga6P8psXFQne0xGlZnRXq3DefBZvwM-Eb8u3p3Hf_I0pAwy1jLGrXGeUkLguIytzkpxSp5b3HOierEDLRs0T9iwfnZ2TmuDNN06YWATK12O-s0q-UyDiAuAy8g "これ")
 
 以前のバージョンに戻すという解決策も考えたが、このバージョンの1Passwordはきびきび動いて使いやすく、UIも以前より洗練されていて使い心地が良く、あまり古いバージョンに戻りたくない。
 
