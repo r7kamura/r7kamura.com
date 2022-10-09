@@ -3,7 +3,7 @@ title: ポモドーロタイマー改
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)用ポモドーロタイマーの改良版をつくった。
 
-![](https://lh6.googleusercontent.com/cAWcQkr7EoQCGXu5RyBtuU2cPyjXb-gjtK5mHRMGhUG8WMttHEqwbvsBQAgsb4cZkTbZbzKJkpgBkCN_EC5KJZoja6jlpsOx--9AiSd9GzVce-zsx_ux58DxxrjiJJLr-miJeWwJJoAKHGKSKd3jNWdq6Yfx67v0mOekZGAqvHJPHVqpXmDj7HqAgQ "ポモドーロタイマー")
+![](https://lh5.googleusercontent.com/8gsTlnjZuu4WsLmV2Bya1H3i1AdRCO11x2sN7r8pzcW1hxtwXPon1BSjCfrzsE3aHCyDJBbn7MEONBjjoaHhu0V6OVjWqmrh6YSUEuurtZ0rGcHi-I3x8hz_aYavrusUOg2YTaomwMVmQhAKsXXkhFK3lw6hOzKxlB3OpDiM9C-zOqI87ox1HsYfHg "ポモドーロタイマー")
 
 ポモドーロタイマーを表示するだけのHTMLページとして実装されている。配信用ソフトのOBSには、URLを入力すると画面上にそのページを表示できるブラウザソースという機能があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html](https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html) というURLを入力するとタイマーを埋め込めるという寸法。ソースコードも [https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
@@ -17,7 +17,7 @@ title: ポモドーロタイマー改
 
 円弧（円周の一部分のこと）を描く方法は主に二つある。一つはArcという円弧を描画するための機能を使う方法、もう一つは正円の外周に破線を引く方法。今回は破線を使う方法を選んだ。
 
-![](https://lh3.googleusercontent.com/QJeWQiD8gN8rkAMjEq6_83pTr-ebqrgrhbVGtvJA2y86kQ8DkEwUuSGr_-xWHdIm4J3W5wrQJVr7r9MujIZOzmuXVodoojr5jLa_--MGx8X2x5Lp8NI1q-usZpFFhvSsIYPNY8iMVp-m_oNsT68qbDoqqTvn-aQmbvjzONn9ctnmrztx8dYydXEDWw)
+![](https://lh4.googleusercontent.com/pVR_2b5Qw0uvKusEQbSCeLvcq4gUpN7qmz8zzWfUOlqom8YLRRJfKoMB8DDUyppF0Ec8c2NptqUgpr7iNSsq9oJapodPI4VwmjsFQo9tzlBVBW6ueERkKclUPX18lHLefLSh9iIXtvbJ1QNXwdXRn1qZY6wc8Q3sMtubFOtTeEnJ6dXdzGA4LElenA)
 
 あとから定義した順に上に重ねられていくので、次の順で合計四つの正円を用意して、それぞれ外周に適当に線を引いている。
 

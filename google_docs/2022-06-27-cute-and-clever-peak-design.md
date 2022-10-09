@@ -3,7 +3,7 @@ title: スマホにかわいい小物を付けよう
 ---
 Peak Designのモバイルシリーズのご紹介。
 
-![](https://lh5.googleusercontent.com/4gZXm4YReOhvRQISFXFV_efuTug5s7yZOmxs8BKlOEDGm4Km_A-kvL-nY0tyary8_8-5XiTE-Lehohvh0iXAvykvww3A9x6xq_bllEq6w6DTXDAlUubFVIo6A_RVvtM-mya3P9RN949-FXp0yImCoJk0HyzQL0pRIHeR7qrQ7PmkT5Snc71mbg5e "モバイルトライポッドとiPhone 12 Pro Max")
+![](https://lh3.googleusercontent.com/srge6Yx9RK9gUMdVrsTjApqRlQrACsPGzRTUe2NGqCQcf6vTChlFO_QMslz981nAS_pgT_m42nHAEB2iP7s8sWv32ULKzeuEKlF7zwonSXeb-4x5CVHPyS6iMj8CxsuSTOJK-BuoIrrYR3JHwRowddjGnkFUb9a1olnbV3JLb7vwSEwOYMm_5qAZ "モバイルトライポッドとiPhone 12 Pro Max")
 
 最近よく散歩に行くようになり、オフラインで見られるよう保存しておいた動画を外で見たり、iPhoneで動画を撮ったりすることが増えてきました。そうなると角度の微調整ができる三脚があると嬉しいけれど、ごついアイテムを持ち運びたくはない。
 

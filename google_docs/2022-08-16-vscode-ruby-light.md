@@ -17,7 +17,7 @@ VSCodeにはExpand Selectionというコマンドがあり、選択範囲を拡�
 
 ここまで説明していませんでしたが、ソースコードの構文解析には[tree-sitter](https://tree-sitter.github.io/tree-sitter/)というパーサージェネレーターを使っています。JavaScriptで構文を定義し、C言語のソースコードにコンパイルできるというものです。成果物はRust crateやNPM package、WASMバイナリとして出力でき、この拡張ではRuby用パーサーのWASMバイナリを同梱し、VSCodeのJavaScript実行エンジンから読み込んで利用しています。
 
-![](https://lh4.googleusercontent.com/1kUnS5VRS8LdudZXBjNN-Amh_b_IYdtlI-QdQxU5JzEXWAWnO_EjVDLyiohzmDnm_rtO4FkEaFxLyFaCm4KZ0zYFCfT_Yvn6iC8_WWgQSj4VeiCWQzICbdmqsIrJEdsaKkoTNqbV3UTPgKicHQB8y-CXut7R8AjsUGvQXPFvKAONzCmVcavbzdtvDQ "Document Symbol")
+![](https://lh3.googleusercontent.com/Snjz7dMPH9P0NGPyf-H0wgjrgsF5jFqAFd057PZfa9SnO6Ut1KMwpBGC5O4nGpu5aGF0lXMe3x0y8ree3AtfDxBMAMOZGAt4YvlBZtGoX3CeSuGXt64y0IIkQ_gyABr17cNSDDcjJW3UNYd6DqPDw_qyEs-Q_DISGdnFcnpz-lk1HdprlgdIzhqFgQ "Document Symbol")
 
 クラスやメソッド定義をシンボルという単位で認識し、アウトラインとして表示したり、シンボルを検索できるようにしたりする機能を提供しています。クラス、モジュール、定数、インスタンスメソッド、特異メソッド、標準のattr\_x系のメソッド呼び出しに対応しています。
 
@@ -31,7 +31,7 @@ VSCodeのこの機能は、Diagnosticsと呼びます。診断結果というこ
 
 今のRuboCopには、「このCopの違反だけを修正する」という機能はあれど、「この違反を修正する」という機能は存在しません。そこで、ファイル全体に「このCopの違反だけを修正する」という変更を一時的に掛けて、変更前後の差分を比較して適当な変更だけを加えるという工夫をしています。単純な修正だとこれで問題ありませんが、順序を並べ替えるようなタイプの、違反位置と変更位置が離れている類の修正だと失敗してしまうことが分かっています。RuboCopに対して、この手の問題を解決できるようなPull Requestを出そうと考えています。
 
-![](https://lh5.googleusercontent.com/udbuQiz55CJM7odtK5-bcJzF-HP57oYjrwm26ATJ7I7e_gCPQzPaTDsCRiKk1Mvv2penHpuMRbCwl_Km7EkZlOA-wRuysOnXAj6EO8uD2tRywJcmtVvFNyybxzYhhEMDdJv7tfJEushm1y66x9HqvdHtCMKQmJeBowM7zETB8Dd0KS_0mLApyPeCkA "Document Formatting")
+![](https://lh6.googleusercontent.com/IhVzgu9bTOYQ0e1CyNIrQaateFg5C8IQMYiJDrYzHcCOBFAVye7xxeR5Enm0-LYTxpRiYy85yweziqnx3XNo8zf4r2eGqUSY0ma9Roo2dQfb7eKCIhmiWDyM2GJ2CFCAbTP0xvICCDQdrsC1WQMVlYRLdrdqJC3iX-8srSaQI6Y2lcl7vq6dRH3lZw "Document Formatting")
 
 勿論Quick Fixだけでなく、ファイル全体や選択範囲に対するフォーマット機能としてRuboCopを使えるようにもなっています。Format On Saveにも対応しているので、設定で有効化すれば保存時に自動的にautocorrectしてくれるようになります。
 

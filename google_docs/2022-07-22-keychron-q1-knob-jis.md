@@ -21,7 +21,7 @@ Keychronは、無線や有線のメカニカルキーボード、その他関連
 
 JIS配列においては4.5u (uはキーキャップの長さの単位) の長さのスペースキーが採用されることが多い一方、これは世界的にはマイナーな長さで、EnjoyPBTのセットにも含まれていなかったので、長さを調べて追加でFILCOのものを雑にはめたという具合。分かりやすいように撮った上の写真では、色や高さが微妙に違うことが分かるが、まあ実際使ってみると気になるものでもない。ちなみに、ホームポジションを分かりやすくするためにFとJのキーも変えてみている。
 
-![](https://lh6.googleusercontent.com/5klmNBtz8rAuL3iPf8uMQ5mx15UsgsCEk70a-MDeNcnoR31Hjcy8vdkbmIdLRYwoDk-eBsZdmUfcdifPmbfbpnJ-v89fSQh1v1Xcg8lGNeDSL2Ago1QZKa5KqZJBc66oor27-qA931XBN7Z_vOcWABcslWtImhAxGDXRPDiAFfHQk7Xb_6t_PLFLPQ "Keychron Q1 Japan JIS Layout Keycap Size")
+![](https://lh4.googleusercontent.com/dmy-tXY87PT3aExJoAvCm0txKOQn0AeobN2Efi22dV7DjY1TtCJ7tLUM8o-kp9kVf1aTvgmbeueie2kognBVE_bG7bO_XZd7LnvKz3BFV8mAxSem1OHAGQzUehX2sZaBQXXD_kdUrr3ownLWm6Ja6X6_GE_F9jlO0lYOx7xrIIKd56WqvnkkqhymzA "Keychron Q1 Japan JIS Layout Keycap Size")
 
 キーキャップ換装作業の中で、公式の[Keychron Q1 JISのキーレイアウトのページ](https://www.keychron.com/pages/keychron-q1-japan-jis-layout-keycap-size)のスペースキーの長さが誤って6.25uと記載されているのを発見したので、念のため実機の写真を撮ってサポートに連絡しておいたら後日修正してもらえた。上の画像は、そのページから引用した修正後のもの。4.5uに修正されている。
 
@@ -29,7 +29,7 @@ JIS配列においては4.5u (uはキーキャップの長さの単位) の長�
 
 標準のストレートケーブルは少し取り回しが悪かったので、[GunMjoのコイルケーブル](https://www.amazon.co.jp/dp/B09F5T7LTQ)を使っている。[GunMjo](https://www.gunmjo.com/)もキーボード製品を扱っているメーカーのひとつ。[EXME CABLES](https://exmecables.com/)や[nokke/cables](https://www.nokke-labora.com/)、[kriscables](https://kriscables.com/)なんかで注文できるケーブルも気になっていたのだけど、とりあえず手軽に入手できて安心感のあるGunMjoさんのものを今回は使うことにした。GunMjoのプリンみたいな可愛いキーキャップも気になっている。
 
-![](https://lh5.googleusercontent.com/-YEsyhpGHKJuGFt-_pzkwovkbKzEjoDeChoes02dmtOdIaE1KLwV52-Cz_WjbO3Z8ZOW6I2Sx78OeViSK9X7Hjxzs871vT1jR3dssOCYrt9a83WpZyflQCaImLQhuwIxX3sz39tosq03WJvnpoWqwI2fLw1J_K649q6uTjO-xgQxX4nS1FRoEoIdFA "2022年7月22日の作業机")
+![](https://lh6.googleusercontent.com/ow9dlS8R7BjvSH9kUXvXGw5EqJ4hzviEviH0SgqxgwcQ2WeIHW8FOYrwMFDryvBRjY7Ve7DmqRZGTjbpCXwvx6SSpcR9trMx6uzsxpwPUQG_qPNl8dP_AW2RZjXZFJBLDMBu8x13Q9qldexqmjnqeNa0BLD-uZEFVNgcYmeAfkh0TbmGojZwqR2oPQ "2022年7月22日の作業机")
 
 以上、Keychron Q1というキーボードの話でした。
 

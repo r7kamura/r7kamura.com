@@ -21,7 +21,7 @@ title: 染めQで黒に染まれ
 
 ![](https://lh4.googleusercontent.com/a0HFD7ZaUz7uVN6mjcY5CdaQr_JkfBMz55MFeQcmgBHyuO9i78FNjb7VRlsnWq2HFN72vF_fn-_pptCofPMyY2LhpWbgajzx_oWdT4HBK6WfzZ7h9Kl_vPGO-dzrMIexIPy0OxmOVFdx5qRlCweOyvviAuXf6etJRYrG9hik20CuMjTYN_msXH5i "塗装中の様子")
 
-![](https://lh6.googleusercontent.com/lVu3ZwZJ19--vfVdINRXnKujGDzrQH-OebLi85J8Tf5YTqq5XF-jc6AUn4pKf1_zZgI8tYKwgaX2EoZZ6jealsyGcNUxW4OA_Xpi-3UU7H0ijXFxtq11u7fwvOnyqFz0axUdx2aCiVsMtbxpyxafeDlad8qzt4RhjFEQ3tO5Mkm6J5deb-m59bpb "金属の柱も問題なし")
+![](https://lh4.googleusercontent.com/X7KZ7mLaNAoAfQHX4HnhtFp2-6DyGR3S1Sks74wQJ3TwJndtdQNXmjqIko1QDENU-i-1vQddBIoFG5u3TYbY46KfiPbmMz64Ps2MvbiuxUAINRiRzPkGXu-xOW-MAwHuFsDqyufeeKIk0tmNFmB3GKv4Eg4VF8BlbeDrD1NRbF5aUncuPPySVMvN "金属の柱も問題なし")
 
 15cmぐらいの距離から素早くまんべんなく振りかけるというのを、20分おきに3回ほど繰り返すと完成。初見プレイにしては意外と上手くいったと思う。表面に傷がある部分が少し浮き出てしまったので、事前にサンドペーパーで擦るなどしておけば、より完成度が上がったかもしれない。
 

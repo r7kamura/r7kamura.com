@@ -19,7 +19,7 @@ title: 秋葉散歩
 
 秋葉原からキーボード屋さんを目指してふらふらと歩いていると、おしゃれな雰囲気の高架下が目に入り、つい吸い込まれた。秋葉原と御徒町を結ぶ高架下には、2k540という職人街があるらしい。手作りの革製品や宝飾、雑貨などのお店が並んでいてたのしい通り。
 
-![](https://lh5.googleusercontent.com/xil6wiJGJdAsOSxHqA9oPQxvZXaWymq5jgE2dMiB0Qv5_LBsiXWeiO-ydFCJP2Yt9FTef9odPU_exgU7D3dSaaMnl2eCCMtLr26uBbV2X7CkWo2fuxt8ZufG-tYT1YbKW-WXyLeWYctlfZyYKbXkwA3zlGct5VWRGKnQqnhUZ1ItXqXBzoPvObGKSw "遊舎工房")
+![](https://lh5.googleusercontent.com/AVtdnbmbNZ2MUDHOZOLiDngxAIj03Cb7c-w8kFDvZUJ-2HU4u7zzSz--RyNXRQqZWeuhzevU9La41gjT0gT8bYSPRBkSMLXfTklUun_xWtVuOWJXHmd_saVf9hwaTK3_gsT7XvNTLQFc6Ll-_uD9BSrtvxMra9-b3yLzJSo6L-lVhyQY0CKouiLfWQ "遊舎工房")
 
 作業配信で環境音として打鍵音を入れてみていることもあり、打鍵音の良いキーボードを求めて、自作キーボード屋さん『[遊舎工房](https://yushakobo.jp/)』へ。いろんな部品や作例が置いてあり、試しに打鍵することもできる。店内はかなり賑わっており、熱心に店員さんと相談しているお客さんが何人もおられた。
 

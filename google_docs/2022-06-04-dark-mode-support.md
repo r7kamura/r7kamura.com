@@ -5,7 +5,7 @@ title: ダークモード対応
 
 ![](https://lh6.googleusercontent.com/mLffbswGuZbzY5FIfGkdg4wzco3tJcqzHR-67IUeES3klFMudVvBo5Xgfr5B0A5p_W7zO6z4DFayAPRBCkFjFASFvJK94mm9GWIKUxrYkcYOHgeeBTBBOFjhCAJbEBhgZ654pBAmFJFlwGprf0CnXYHPZXrX65n_ZmXwvU_dmb2T2JVXzgshmLIe "変更後")
 
-![](https://lh5.googleusercontent.com/aAjK7p_MQcd6n6uUFbfuNv3BTJWIPkyERIh7F2kyHqsh_k41ruAZHUkNAd650IX6_ty9XL8B7XE6rz9OkWXn20VdC3Turu31mwaYIpF_PCibFFtK6ZBQB7yuo3j9F8dbrz8x7Qr16mSP8xtC-56dDrLtl908qRkEcHQTwVoF_QxWSjLF0knZxhwR "変更前")
+![](https://lh6.googleusercontent.com/8vnni0f-lxTcS4H8pQO1A2Orx0U2ZwV_CyG6bCpBsnHvWIC8XtEgjbJeN_CZ_UyaqHZ8Tp1MHX8-oEsonN2JZ72VpNL8yxN1vwkZo8APtEnBmogFDjB8E5lnKePDOZ0YRYBIf4GG401OaJDpvjWZyCu-Gyw5c49O_o0or_r-Ei-Vtj6uzQBc1rf4 "変更前")
 
 普段から輝度を控えめに設定したり、寝る時間が近づいてくると照明を落とすようにしたり、いろんなアプリをダークモードで使うようにしたりと、最近はいろいろと気を遣うようになってきた。今回このウェブサイトでダークモードに対応したのも、その一環。
 
