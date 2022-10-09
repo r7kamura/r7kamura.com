@@ -15,7 +15,7 @@ title: 等々力渓谷に行った
 
 週末の午後に行ったこともあり、家族連れの人々が多かった。家族で川に入ってバシャバシャとやったり、川を泳いでいる蛇を見つけてはしゃいだりと、元気そうでたいへん微笑ましい。
 
-![](https://lh3.googleusercontent.com/_NpMtjZD0_fHK6EAA_Tk72P-z-Zu6wfv4HLKIXacj2MkCiRiMtDgo0uG7pweNaF3yzXTQNgecWKJxmkalrdUZP0x1PfL0Vw52642io0110Tra6Tsp-sZg3oA47sREpjE5RLvJEB1STZiQPKpufnd695ROgdeZjnxkfF1pfWizAXU-KEFLlH1SQWXiw "口から水を吐き出す何か")
+![](https://lh5.googleusercontent.com/NZvyLkwzJ13s4dvJ8J6qyMdC4QMhdWDran77i20FHo9HNDsuAylbEJajc9YWwK8M7xYKOHKik3rrOZo64BG75sU-A_z2OeTyySJBWuCH56IFnwxXuDjOQdzAlLyYX4Hqy_rgYR-l0llv3DzB6VYG2ESRK7itqG55foT5KxmnYRfVoK7RRQ7Z_h0GHQ "口から水を吐き出す何か")
 
 ![](https://lh3.googleusercontent.com/TGgv_triUoCsLnL5rbW4ys79SQn7poXdjzHQ11mLuCHRfAWEAsKCOd6XKgrAmVOprsAsWhzyZ5i_QhjJhrMWqYySloW-pKZHyS2Zgfw8UbRTkZ3-NfvuCsLzKGxWzPVnsm8lXyzG1Vy9Pqq0YshgdehYRRJW2nVpm39lzu7KfZmnypZuUpJkngTz5Q "千社札")
 
