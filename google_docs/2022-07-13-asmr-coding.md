@@ -5,7 +5,7 @@ title: ASMR Coding
 
 [Custom cop in 30 min - YouTube](https://www.youtube.com/watch?v=HTuNoq9aEWQ)
 
-![](https://lh3.googleusercontent.com/2jsckZ2znOSv1QldqsbkVg6cyiWLx8POBwMAh8h-MhDy1Be87F6Gcd_CVuGzenHpBB649a7wMFx7iLgzmCJQrgn7-6yr1JdJDOYE5HYHBfGlAY7XW7VDIXCdHjj_ZewEgYgZiMPsxgI85YJgjo3o0WXrqPvDvOOGBQRavUpL81VvjC0arIR0DSJ8Wg "動画内の様子")
+![](https://lh4.googleusercontent.com/rrebEEnGFa4S3x-9n7FPA_sV2XeZmRBREkfeFPa4HiLEM9IBTUS9VI3kupYNlt3iddju1VFQaUXWhIQ-vGc-w9HWK3M7N-U89b1KrihE2ycOKyaFIBedZdQOsrSIHjEwQvwLNYQ73GNAM0M81JXPpAWmLqoalhp0RTlx4KwnOu7KI7sPnD5HS4AdEA "動画内の様子")
 
 「30分で◯◯をつくろう」というチュートリアル動画になっている。今回はRubyのLinterを題材にしてみたものの、別にRubyを書いたことがない人でも、へえRubyを書くのってこんな感じなんだという目線で見られると思う。反響が良ければ、お題を変えて幾つか別の動画もつくってもいいなと思っているので、コメント、高評価、チャンネル登録、ツイート、DMなど何でも良いので何かフィードバックをもらえると嬉しい。
 
