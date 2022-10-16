@@ -3,6 +3,6 @@ title: 昔はrubygems orgからURLを設定できた
 ---
 [mailgun-ruby gem](https://rubygems.org/gems/mailgun-ruby)はgemspecにURLを記載していないのに、どうしてrubygems.orgにソースコードやドキュメントへのリンクを表示できているのだろうか。
 
-![](https://lh4.googleusercontent.com/iyAY-Yk4DrlEqk02sLD_6zLU2DweVs49XUrG_D9GD609_lgSlt4U31Y4D9hkk3TjmMUUVUgg4v4wkcUv-Y41rzqeaom6Xrfulk3vi9I_0qx2uhZvydjJvca5sM_xEKKkZsbU0ediiwsmlJSf2IfmYqWJnyPNWze8rSgAF9l3iX8CqZn4vKcnw_lq "ソースコードやドキュメントへのリンクが存在する")
+![](https://lh5.googleusercontent.com/tMugPDWo8SQkkPWfmHUyPbJKDQQyfb5sZB83IWDlmyR067ZmDXfS4E1eMkyyB_BmdLnSq6F7QnyW-wOIP8rNuZ0d8Ud99T5BXOE7ZcdyZ4Mf1Fg58Pq62ERueHzw4I47LPtliDvZI8C5JuFg0y29iMI63qnKVX1kA-Z3rGX87weoCTiL4ZDF5tPl "ソースコードやドキュメントへのリンクが存在する")
 
 疑問に思い、Slackのruby-jp workspaceで質問してみた。すると表題の通り、昔は設定できたが[2018年末にこの機能が削除された](https://github.com/rubygems/rubygems.org/pull/1815)、ということを教えてもらった。
