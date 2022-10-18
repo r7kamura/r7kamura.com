@@ -34,7 +34,7 @@ Chrome拡張公式のGetting Started。自分はmanifest v2時代の知識はあ
 
 * * *
 
-[Learn Chrome拡張 in Y minutes](https://r7kamura.com/articles/2022-05-18-learn-chrome-extention-in-y-minutes)
------------------------------------------------------------------------------------------------------------
+[Chrome拡張をつくるチュートリアル](https://r7kamura.com/articles/2022-05-18-learn-chrome-extention-in-y-minutes)
+---------------------------------------------------------------------------------------------------
 
 最終的に、過去の自分を救うために自分でチュートリアル記事を書いた。リンクをMarkdown形式でコピーするという素朴なChrome拡張を例に、コミットログを追いかけながら学ぶ記事。
