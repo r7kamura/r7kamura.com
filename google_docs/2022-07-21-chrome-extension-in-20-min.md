@@ -3,7 +3,7 @@ title: 20分でつくるChrome拡張
 ---
 [20分でつくるChrome拡張 (字幕解説付き)](https://www.youtube.com/watch?v=B5wdRcv-zQA&ab_channel=r7kamura) という動画をYouTubeに投稿した。
 
-![](https://lh4.googleusercontent.com/Ae8js7D09W1yw8nw_yguvT2GiqI5DgU0r0X5VaOHV94Or3YAJ2-de54OiXDIJ39y-ro3XM_ZMfiE_CoxYEVPJqYQafFomaKAQ5VB-xKbAwop2W3DiCqQfVln1bs-pgzZTDjiMKoXe7BEpb-9XfVzlpE2PIx99fE8JE2KXbCjFe6Iv7_Y7_iu8nXuOw "動画内の様子")
+![](https://lh5.googleusercontent.com/ufSMLxuFjVyWFUqhUps-PEntRCKy2UYFod0Lchzqak6A0zH6MZpnNwKM8r5_7p-m1_2bSjgQza-oEvbit_WdCwLYL-UHQmdUX2aT1VuEn7IeH-BdBkDwSli7Pi4x43tEkLb-0r0V-HYAaAbsGVXEJjJlN_CtwV7UQmGhCV7SFNhay3KYw0TkQt8jcQ "動画内の様子")
 
 最近投稿している動画シリーズの第二弾で、打鍵音だけ流しながら、20分のライブコーディングでChrome拡張をつくるという内容。「Chrome拡張ってこうやってつくるんだ」というのが一通り学べる動画になっているので、Google Chromeを使っている人は見てみると楽しいはず。普段のコーディングの細かいテクなども学べるかもしれない。何もわからなくても打鍵音がカタカタ鳴ってて楽しい。
 
