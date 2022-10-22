@@ -115,5 +115,5 @@ Windows側でインストールすれば、Linux側でも使える。
 
 これでWindowsに依存した部分の環境構築は一段落。あとは開発用に用意したUbuntuをいい感じに整えていくだけだ。
 
-[このサイトのリポジトリ](https://github.com/r7kamura/r7kamura.com)でもDocker環境を用意していたので、試しにUbuntu側にリポジトリをcloneしてきて、Visual Studio Codeで編集し、DockerでRubyのサーバを動かし、Windows側でプレビューする、ということをやりながらこの記事を書いてみた。
+試しにUbuntu側にリポジトリをcloneしてきて、Visual Studio Codeで編集し、Ubuntu内のDockerでサーバーを動かし、Windows側でプレビューする、ということをやりながらこの記事を書いてみた。
 
