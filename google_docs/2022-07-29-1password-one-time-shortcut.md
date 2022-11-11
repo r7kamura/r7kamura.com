@@ -9,7 +9,7 @@ title: 1Password 8 for Windowsでワンタイムパスワードをコピーす�
 
 Windows 10で1Password 8.8.0を使い始めたところ、選択対象のワンタイムパスワードをコピーするショートカットキーである Ctrl + Alt + C が動作しなかった。クリックでの実行や、他のショートカットキーは正しく動作することを確かめた。
 
-![](https://lh4.googleusercontent.com/wIStRNOnK3Z_7X79qMkf2IpiB7CncDavbjdAF41UZYGkeU3HoIgbxw7NNLJhZvwyQIBhqK9O3i_G5DqZhybPgqEwYKDuCvXCxSPDkKeW8N77szBqIDTHbJL8oSbVE1uYJhLPwuXlG6maw3klNWFQIsh-npaSaEvzCejglJyPrxoBAdl8stqODJhexDtR5A "これ")
+![](https://lh6.googleusercontent.com/PDNmJaV8p07Z6RscrYN0bOSansx2BA72Rtw-EmBDwAhiDKFP47JFwaINjXF4TqYGpMWTwB9SwuJEfIlKy4HmGfQWIGSBKkw0H5n94vAFLBq5M-Dldp1HBZyqDiORrCWZAkTiCo5tlEYkal0nHAD_hqG8VIuI3gM-_6ggxFzcjanZHLaUVW9hUK4LleIPxQ "これ")
 
 以前のバージョンに戻すという解決策も考えたが、このバージョンの1Passwordはきびきび動いて使いやすく、UIも以前より洗練されていて使い心地が良く、あまり古いバージョンに戻りたくない。
 
@@ -17,7 +17,7 @@ Windows 10で1Password 8.8.0を使い始めたところ、選択対象のワン�
 
 好みの話をする。こういうオープンなフォーラムに投稿するのは、サポートに直接メッセージを送るのと比べるとかなり緊張する。自分の英語が正しく伝わっているのかどうかとか、態度が悪くないかとか、完全に勘違いしていてお前の環境だけで起こっている問題ではないのか、とか。しかし将来この投稿に検索で辿り着いて助かる人がいるかもしれないし、オープンな場ということでサポートの方もしっかりした姿勢で対応してくれるだろうから、こういった報告方法のほうが自分は好みだ。
 
-![](https://lh4.googleusercontent.com/4DV0edhpLHXfmCRtb9RRFuYBvkhwiwEWrWToAm7aHj-IVgqNL762RWI5a2OZJUdZIeai70fdsBACMmiCfLXIdF_4bfTyJIeNeIaalrTvtmI0YNwFyZTG938uOGUCObCWyFWruhDoHWvePk2mlEXozZOdzEBR6QOaW_nJ7RyHKYFqdKv2uZ156BVkB6eUOg "Quick Accessの様子")
+![](https://lh6.googleusercontent.com/LXWHpax-VUOB7zld81AWKPHCalPRqlUo0G3dVEm063eqWsOxfMUi0K6nnINj0FR_8kIhD9mEicuHokLzQLB3KUHQmFxjQuKUIzaILsF0b4dgZwJqjuE7_Jo-Cj59SUQdNKBGaZd4qbxY10DmJthpfNKN-tfcA-QgkffAQ3ym7ky8iVZQmlK7sSalEHB4HQ "Quick Accessの様子")
 
 1Password 8には、Quick Accessという機能があるらしい。コマンドパレットみたいなUIを呼び出せるやつだ。後日上の投稿に返信があり、こういう機能があってこっちだと多分動くからと教えてもらい、そしてQuick Accessだとワンタイムパスワード用のショートカットキーも上手く動いていた。しばらくQuick Accessを回避策として使っていこうと思う。
 
