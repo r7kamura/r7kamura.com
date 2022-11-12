@@ -41,7 +41,7 @@ Othersというその他枠のセクションも用意しているので、ラ�
 
 このGitHub Actionでは外部のリポジトリに配置しているlabels.ymlも指定できるので、[github-label-presets](https://github.com/r7kamura/github-label-presets)というリポジトリにお決まりのパターン集をつくり、基本的にはこれを参照して使うことにしています。リポジトリごとに変更したくなってきたら、そのタイミングで独自のlabels.ymlを運用し始めるような感じ。
 
-![](https://lh6.googleusercontent.com/IsOtfxhDwTaqjkoxb-wMXrtHNGylLH0wzT-7OOYyTI-nyrP76krc3_UYvhrS38kkqRgdhpT4mD-7VAm2fMioVgGhsCQSXItc1hkozDqt6KuyatwYu28LQH78J-blAa9uurCz-QcUY89mV8dyZ1X8vQwq2F6X467CdUGvoFmEKyF45VGrs6kCzgndu-kv4A "自動的に用意されたラベルの例")
+![](https://lh3.googleusercontent.com/LexBd2aceX8csas7XCSF7vByCSN_G5BshGhouZhsX-Js22gDYn779QTpAiFAEcK634DX-UDaC3c45N5X83yrgGDPoutsewQtmJDznISjoFdp1lH6q2YcZlzXJtQud-xZ6In0IAcU2E1U2Si1VqjzFrpJf-GNl52YJJJzlIXPDhj8br30u93rcYadlGXWCw "自動的に用意されたラベルの例")
 
 自動リリース
 ------

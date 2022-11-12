@@ -3,13 +3,13 @@ title: Nanoleafを付けると楽しい
 ---
 なぜなら、壁が光ると楽しいから。
 
-![](https://lh6.googleusercontent.com/o8UXeE2iyws2jz6fQpCcmVF8C11Or1wCLi3DmHkx-pyc75yQbo8u8OZM8v4s2TG_tGJUGmTO4SxbkCi1nr67Bu6Vt4gDd_olFXWj6xH8Z_pMqpRf3U0cd2PsqaIumyCUgGP7Y4mebaAP0lE5IEbLPYFeVptKj0-Kj9qMzLvwXdMJN7rf95c5sUq8gPUghA "Nanoleaf Linesと作業机")
+![](https://lh6.googleusercontent.com/W9KGOshiEUx4AeqmMNxvH_ZixlikibYFwTdlGPrCA74qg5IFB0E45nfl0_Bnw092H4Y8pA1wzrGEa6DS1VIMqodu9Q2oEt1tdtiR8kc-Ebu6SOHGiBF_Z7XuDgP7MmIowCnyMNYymCl5sf7mkohQ9sjEZkyaa53n6gZiN-E0TjoaJP9feKS3JBz5ESUMXA "Nanoleaf Linesと作業机")
 
 5月1日から、[作業の様子を配信する活動](https://www.youtube.com/c/r7kamura)を続けている。その取り組みの一環として、毎日少しずつ作業環境を良くしていこうと試行錯誤している。配線を束ねて整理するとか、画面を綺麗に拭くとか、壁に時計を掛けてみるとか、そういう小さなことでも構わない。昨日より少しでも良くしていくことが大切だと思っている。1日1%なら1年後には37倍良くなる。
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh4.googleusercontent.com/UMYKC9z9kK1tBDx_9ElFFo4R7erPXIh8ely_DFNGi4yUmj99j3Yvw7WbferypnluL_VBLhpRMB45aAd-yuf2TlC_Y4goPflXdAP0nCLW-fpOJ8Pm_lBcwMkJr_NuS-pF1rL0LMXasqucMMLaVtcsgtUd-auaMevIcptRGIY8U5-MhMM97DRI3IuqZ00cHA "化粧箱")
+![](https://lh4.googleusercontent.com/Fcc9scOMTnzpjaT3bMf-xdVt7jirNeX7Kl59d4h_pz8X1knlkeeGKlXhMT46doICoehNFp2VqKPv_SUkh2ZLEeH1L8uHxCGGJDZJ5sYEfsK3xqOkyPIwsjReq6e9nPw_YbltAcvtr3faoLQkh31oPeGaOQmK2NWm-_ZH57r1mHWvTLBWakQsorjH8KA2cg "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
@@ -21,13 +21,13 @@ title: Nanoleafを付けると楽しい
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh4.googleusercontent.com/iyH3ZF2icuAKW5YlXLO7jLMXVoyuyhksytXOjJ0r2GTTf4gjuWV0LhVCOQigM0aWJ4EzAm_41N2S1Ig_4FCD2PilNg2R7gzQ9hH3RRE34VISDOqpD-ezSEbtq-XLi_9g2jxYvQdtUUREKy-bLd-bajZbRuUeIo4fha9Om9GPI3zlqN8rrE_gZsnNcQ5W "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh6.googleusercontent.com/B8IQfdU8TxuRyIhH_SeqTu7NwiQi1Ei8t2ZN4tDsEQ0rvU4JCTYvMhGJ_UwdLyDWonOQE9SlMNQromsFzq9AENqlLGFgqiWfQ-b_ZiQUsvQSoyGDnipVPilx8uzW8EVi_lemmbfxVrfYtOoj3TCSqFEe-4pt-PflMNEDnAWlBDz_euMtndgyMkhKm6f- "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
 ……というのは嘘で、配信しながら組み立てをしていたのだけど、iPhoneとのペアリングが上手くいかず、10分ぐらいまばゆい光の中で途方に暮れてしまった……。本体の電源抜き差しやリセットなどを試して、最終的にはiPhoneを再起動したら解決した。やはり再起動はすべてを癒やす……
 
-![](https://lh5.googleusercontent.com/xlnp3Bb7MzKjbEfIb5hJ38tKe3sB85tbASNE7CDgdxxmWbjTbxkebjPRRSPEew4eK6cd8RxT2lHTWMseNhtgUmxswwzw3In4Uwjk8xe4jQOdKWHAa9LHqVjWV66RUOkC-V2AKqeikt95_-6XzA_Tk-jJwOKyp_zzGgc91G2ptqbK0SZyQ1iFl7HXYEyHoQ "設置した様子")
+![](https://lh4.googleusercontent.com/PAw-hHBk7s06yhMEiEBR_9hQTIFebY8wFEJPWv4hMhXlzwkp8Qa4JUohiFekVX6rgUOuTPCN12xTxas4axdpES9QGFieoUsKFS16uEChH0PeNdRjRAar9s8JqlCfUR40bZEBU0nEVcOd-PWaxXzq7sP2Fp_8FT0VoLd29Y2csKCBMyiKCdr1ksf4oPG3cQ "設置した様子")
 
 設置したあとは光らせ方の設定。アプリから提供されている膨大なパターンの中から好きなものを選んだり、Razerのアプリと連携させてパターンを同調させたりできる。うちはマウスパッドがRazerのやつなので、マウスパッドと光らせ方を同期させたりできる。これはRazerのアプリ主導でパターンを決めるのだけど、再生中の音楽と同期して光らせる機能があって楽しい。
 

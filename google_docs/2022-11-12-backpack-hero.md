@@ -25,30 +25,30 @@ Standard
 Hard mode 1
 -----------
 
-![](https://lh3.googleusercontent.com/iCzD-D0WHKz8obxDommHoVWF1XgpF7sReyzklafb_lsnsXMzbf0W8WGvEMLDXVg2SOjUhhprZs4VcyBDkaPLrgxyUtFGaOFFXCR9rg6A1wweoYDCQrGEGnQWnCgv-A96a51AAShemeyEVbyEa0fjgYijNvP2kQFmnsip-UX2v09hRT2WA323LxN6hYrgfQ)
+![](https://lh3.googleusercontent.com/cgFW7pJRHsJ4aGYf7nGq7ZCq5BQh_5f5xn6haAcu7kkGb_WfgKUh33wXXNosMo8erw_yrmNFCHYhjaTC2y_ZrY0D8QvfSDFynO29IKxYwWRa3V55ye7QBHxIEg7NV5g8QxUzA5VCXcRrmX_sstlq7DHaE1Lca8k4ObnVdxu2Xw4i9wQ3miKrrgjbaunmXw)
 
 宝石で強化するなら全体攻撃できる使用回数の多い武器に盛った方がお得じゃね？ということで、ハルバードを強化して振り回す形に。この武器拾いやすくて、ビルドの過程も線形的で安定するので良いんだよな。魔法の強みもこの周でなんとなく把握。
 
 Hard mode 2
 -----------
 
-![](https://lh4.googleusercontent.com/PqEaW1BZ3sF7JrVBuDJyUoLqrPZJoRVcyU-DH2A64l6YJQ4fdI1w_PodcK1dHxGgEIgpNd2yqNb6UbXINhXFjPv098E8P0Rosfe7q7QA14_hAO0ffzm87-Q0EPIlH5yqKjgf1rSQOp8BzNQrX08KKOyebgb5kPgF3Bku14fqwIbS_WF-Lhd4AjDJKuGn_A)
+![](https://lh5.googleusercontent.com/QVjIMYz0giaThIyUAGNxXQVCwXCl87YFxg0cb6ctGtureWQg-BRPVJzSQ7CH_Udu2t7s_a_ODyNEpEmIbsnqLajYLt6FjIaridY4hhsdF3oifd-lUAg_-SCRU-U-bZwr6DZt7BtLQqhKlwZp75dEBdWQm_gmvZpy6hYk3QtwtCkiulzNsZ5j59ewuafh-Q)
 
 初めて見たビルドを親だと思ってしまう習性があり、結局この回もハルバードを宝石で強化して振り回すことに。この作品は道中で徐々にカバンを拡張していくのだけど、配置条件が難しい代わりに利益も大きい貴重なアイテムが幾つもあるので、拾得時に対応できるよう受けの広さを意識して拡張していくことを考えるのが面白いところの一つだと思う。
 
 Hard mode 3
 -----------
 
-![](https://lh3.googleusercontent.com/iVauB_NABNRH5eeQCohyVX3a3bSurDfAyl-FNEe_S2Yx8XLQaC7faNTDjV1MMnnlT7KXc7gEHhMxjEpXPtnQFesZuYRUn-CQsM7EmsXiEFnRUnXkdTxzsV4AwfZi2pFQ1tOklLUnLt1RQ-Kv0wU9oQxVD3xcGrnphSQ4qJvY4TpPhftRPyAgoIPe5CQRXw)
+![](https://lh3.googleusercontent.com/2NVgI_pnWkxFA33_EoUsgoJPvAUextGv5iO-0PM_DcyM2klk8qbylv4d_fbop77FanHob3M951MvhrgV8Ndeqcd7s_JkJg7nT_YO_vnUKjuBOAxTacHiLjmwBdU_EfWxjwALi8LhXhoN5kEvu7uk_IHX_XZPFmT3T85ycNTclJnqqtKfkbrOZegzNs6kJw)
 
 毎ターン威力が16上がる槍を序盤に手に入れたので、防御を固めていった回。防御系ビルドの主な弱点は、防御を貫通してくる毒や呪いといった攻撃と、立ち上がりの遅さ（1ターン目に敵の数を減らせないことからいきなり大量のダメージを受ける可能性がある）なので、これを解消すべく攻撃時に自動回復する仕組みや、1ターン目だけ多めに動ける仕組みを導入した。
 
 Hard mode 4
 -----------
 
-![](https://lh6.googleusercontent.com/_DIbBUo1P-5KJNUKDTH7dmSihzPrV1LLhleac522uezYncVRXUWNrIxy4FU3cZCAaBCFOOd-34OiewnKJZNNLKbboret50pMvIMd5z59P5suPtBLATmrja9ICipGNQlxjWFXkBYRewf8_haFKl69n2kacfDX9vaPqpV_m_OdzHVDfVqQIYPJE7egk4ctyQ)
+![](https://lh6.googleusercontent.com/yEoj0H1ZYma00aSyFx5riJLDohuVEVIJZlvpqISBCwa_Or6-xGOaEesZWTRP5UQwuWqk29pF2YsGR5AqlYaSMRgFTmawvAxvhJBxO9oybCxKKiKeGlrcjW1autHRoh0UHGE-65n2a7jNeuGuoKY1nA1NI2YecPvJ5YXON9Cp2IZwO0dzE2PmIFMVLpQq8g)
 
-防具無しビルド。攻撃時にHPを回復できるなど、防具を付けていないときだけ利用可能な強いアイテムが存在するので、試しにこれを採用してみた形。盾は防具とみなされないので、毎ターンほぼ全回復できるので、最大HP分ぐらいならダメージを許容できる。とはいえ難易度が高いゲームモードでは最大HPがより減らされるため、リスキーな部分はある……ので、ダメージを受けたときに効果を発揮するハロウィンイベント用のコンパクトな盾を採用した。
+防具無しビルド。攻撃時にHPを回復できるなど、防具を付けていないときだけ利用可能な強いアイテムが存在するので、試しにこれを採用してみた形。毎ターン全回復できるので、最大HP分ぐらいならダメージを許容できる。とはいえ難易度が高いゲームモードでは最大HPがより減らされることもあり、リスキーな部分はある……ので、ダメージを受けたときに効果を発揮するハロウィンイベントのコンパクトな盾を採用した。
 
 Hard mode 5
 -----------

@@ -3,11 +3,11 @@ title: Keychron Q1と私
 ---
 [Keychron Q1](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-japan-jis-layout)というキーボードを使い始めてしばらく経った。
 
-![](https://lh5.googleusercontent.com/A9txc-gLrMTBSvk7MzUcIJZtsPyfc6QcLqTEviTq-EjAtbDeZiJmVej1LtVsc8FsGkGI2l1nRy-7P0dsecQc4REAIr_ugc_18R40AvH0VQiKAj7oIkbL1as0SQq5wo9LumAiG6f0Fy8A5du-R-KDYmNNoAUfVQJ64C9mbzJOj_irVAqk1YjO2Hm7r5utOA "キーキャップとケーブルを換装したKeychron Q1")
+![](https://lh4.googleusercontent.com/Mn-OHGmE48VBA9IGKf_GWwvXG6egwxT503IjdZuMRJsr191CUDALcpYzIos_6ErvGq8rFr2_CBnsKEGdT5NPE-BgSOszWxGAgVZiVl4q9POpUbFha8teZKL3FWQp_Yk6ESfTkKLbnsRwwRrmFi8HzvcdOHLdG1IOhFA8Zl_f4SZ3xHgsvWnEiSMWn7ShEg "キーキャップとケーブルを換装したKeychron Q1")
 
 Keychronは、無線や有線のメカニカルキーボード、その他関連製品を多数販売しているメーカー。今回購入したのは、無線接続には対応していないものの打鍵感は抜群に良いQ1というシリーズのキーボードの、最近出たノブ付きタイプのJIS配列版。自分はかな入力を好んで利用しているので、US配列版よりもキー数が多く都合の良いJIS配列版を選択した。
 
-![](https://lh3.googleusercontent.com/3vIYqr0aLsMSsudgMlXuIezfBDO5z5T-UW8Oyp-Nr9L22lea3eTfSyvl5I_XNivCStclv7niLD7_DDKv_21-AiINa60MMsA89XNHIhDR11r-9ftED-O2_JO_zwqyWRSMtBJEcW9auanGdLLnQICjBBBc6qWLXVwG3aixGNBTDtmEiwt6l3ZOmHTuIb-ViA "初期状態")
+![](https://lh6.googleusercontent.com/0NcpCO7AzUDuMUC4axDfhWn_lfTAJHHG355YLOQbvLo28XAX_40qIZqCtpLpoFpgx9wBywqdHxOmbmfdhGK2iyM6AB1eOpbnFV0kG0VUo1Y8C0Vxyf7bu86bpIfrZnq7e1zgpcFu0bOO5YwrS6nbuwVoGaa3HjckeAmoyanL_usi2YcSLoGBQIjtEbn3wA "初期状態")
 
 日本から手近に購入しようと思うと、例えば[KOPEK JAPAN](https://superkopek.jp/products/keychron-q1knob-us?variant=42638615904496)や[ヨドバシ.com](https://www.yodobashi.com/product/100000001007077436/)から購入できる。実物がヨドバシカメラ秋葉原店に置いてあったので、自分はそこで打鍵して打ち心地を確かめてから購入した。
 
@@ -15,7 +15,7 @@ Keychronは、無線や有線のメカニカルキーボード、その他関連
 
 打鍵音については、この前YouTubeに投稿した[ASMR Coding: Chrome extension in 20 min](https://www.youtube.com/watch?v=B5wdRcv-zQA&t=531s)という動画で20分間の打鍵音を収録しているので、興味がある人はぜひ。Yetiというコンデンサーマイクで録音しているのだけど、イヤホンやヘッドホンで聴くと、実際に打鍵時に耳で聴くものとかなり近い音で聴こえる。
 
-![](https://lh3.googleusercontent.com/nGM1GAk6AViQ_yFihT2jz0D8MXwKK2otFgAS4jx21WOUCs6l2kAak7oJN2jkJNncjQc2dO07zOhzq_fQnvj3MIQuKnumX5qMKPd7DnjbtmvCWjw7ZiIfaUbSVtvCE5ucVuDMsnbDtLYh3AnkJxc14uHTbZRdA3yfCH7M6Eo1t1aMxPZLuj1sqtIXQlSBLg "ぼんやり光ってかわいい")
+![](https://lh4.googleusercontent.com/Z1GhGUkuHd11t8Ku5YDR2NVPyBVbQuXNqJqy1_BWgbr54n2bw7jebksQmX5RYuowaUve7eddrTWeqSi7jWKXCxe4EaAg5PIVgXeFtQ1YP6uv0YKw3PqnDCSHzqieVvE1U8zjZX0jgSzNKMQZwDB_HztPhpcUOrYHTK85QOrfXZZ-qiqxl4y35wjffXzqXw "ぼんやり光ってかわいい")
 
 いま付けているキーキャップは、EnjoyPBTのPink on Blackというキーキャップセット。加えて、足りないところに[FILCO Majestouch用の無刻印キーキャップセット](https://www.amazon.co.jp/dp/B00R1BZ60K)を付けている。FILCOのこのセットはとりあえず一家に一つあると捗る。
 
