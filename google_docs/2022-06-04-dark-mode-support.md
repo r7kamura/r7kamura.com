@@ -3,9 +3,9 @@ title: ダークモード対応
 ---
 [r7kamura.com](https://r7kamura.com/)をダークモードに対応した。
 
-![](https://lh6.googleusercontent.com/fKYMY_3dGSBX7gJhJkzdd87HFz6IE2H7vWySl-JtOsOT-gVizM43rGaRDarPcRWS4jtBd4zCKSEoD1o2s8Q-gdnkcT2uguQyNN-Gn1i1EktcL_5F5AMaqzJkDoFTOqPQp-8HH4kseNFFIElmVQFxnofsGhoX5iNDgT-O0ayI_1MvWQUTQ7sWXirN98EZ "変更後")
+![](https://lh5.googleusercontent.com/Q0vNJ1S0_0F8uV537RKNSe2dUkv2bzE_p2Ri07KuMQ2I29SujtwIM4z_zr0BuOHUn0x3utS1SsKnAcjem5vaBNHWKWutOiO7Jx6ytJl-XVZI7t8Q7R_lr1iBboaun5aujLxyvzFd9hmN_5LPHejdK7pU8KKevGrNA38Tooy0d94tuvykk5bYRMJBxfum "変更後")
 
-![](https://lh3.googleusercontent.com/Uh3ew73XiE9ACndFg6lZJM7cS7pwNmqxWLhN_39XkJXoTRG-tYy0BdyCJkgm3gDcSulcS-TM1wD29NOpCLMBikm1uqcgDBvFe1YV4wV0Ia6Clsfb7iNkfEPwEI_-4HeOQgSJFv2ps3Pu8eCHWwsfZVSDxtxY8HgpZBKsJSjsBRAYGVdlILpL64IJ0tfv "変更前")
+![](https://lh4.googleusercontent.com/s7LFvh5WyclehcKAEQMqBcdpdofuwl1FEF3-1B_3poVK9LT-5nDhWblNcWwMXw9BVrRWzv8TQAurYDwnU94c0rFvTFZnYrkYUP86JXez38WhCGti-_eQJUDBrMKB680TjkrrBWC5JP-606d-ZCFfHlhUTcVCEttZ4_F4EnLo49Itd3AUPk8HODeR3PUT "変更前")
 
 普段から輝度を控えめに設定したり、寝る時間が近づいてくると照明を落とすようにしたり、いろんなアプリをダークモードで使うようにしたりと、最近はいろいろと気を遣うようになってきた。今回このウェブサイトでダークモードに対応したのも、その一環。
 
