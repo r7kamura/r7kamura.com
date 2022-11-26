@@ -18,41 +18,41 @@ title: 『Backpack Hero』をやった
 Standard
 --------
 
-![](https://lh3.googleusercontent.com/QAYPKiVGpD0rtXyeqLAztlBRvHKUpFI2EhraB5JrP9F6obKiBNAfwiZBYIfFhVE1nOXUKQEur9R_RKjKAjlFJo-U4F4KOTJMIK7y2bWoOkSoIezX8Rk8HbwRU1JM6WldBeb5EkN1dihTMjLFUD3HH9eHW4DEzCDklmtjew7dK7qa2Z6VxPSABHcr62EfNg)
+![](https://lh6.googleusercontent.com/NGSqHe9gm6ii6u0TA1JG8zhN7GE8SzOGPDdX0MVhNgn9M-85LicEGHRwD4Xqe00wvyZ3UiHvDceFJagfio26hfsXiLiuiAlFwtiDfmDhxb8RgbA6BGlYhxf6LVjQR_omdaEfamsEQYblW4VZsXsBktIQE493D-5JJYMwgK5UmPRB8gLjP9isUYR90Y5VJQ)
 
 初プレイ時のカバンの様子がこちら。武器の周りに宝石を配置していくのが良いらしいぞということで、宝石集めに邁進していたところ、道中で宝石の効果を強化するアイテムを拾って大成功。
 
 Hard mode 1
 -----------
 
-![](https://lh6.googleusercontent.com/4GujYwA0CM-81dK9pZ_1iRJ2IuQhUEMN-KgtsobbgLm8adpk58lkIiYFePNj42tqct0_JwLQhOj-VRtTRf0EOCc5wua7IlJsjiNaPDFC65P7xwMG3Mzu3mT8aHq4sDZgwNdWSjILc7AKqWk0BcIlC_1jyGO7LmplIZ1RyLoApOf1yUQYaaAPCcz4hSRZTA)
+![](https://lh5.googleusercontent.com/O-QuIsRRPwyTRq24u0VLs5oUvbtrCN7vlzPh_aWSrq22AfqNKdXljCwJ74356v0r0CmKp56fkkgsEn3Xrl5G_IJqtt1f00Th8hN9TNXV6qFkwxqFH07SqayByrLzs465YujNsOfSZ55-2f00vIr-DT71NRLJvbJ0XwKvEymFdDwd5RFJWcQYaXIZhLrlrw)
 
 宝石で強化するなら全体攻撃できる使用回数の多い武器に盛った方がお得じゃね？ということで、ハルバードを強化して振り回す形に。この武器拾いやすくて、ビルドの過程も線形的で安定するので良いんだよな。魔法の強みもこの周でなんとなく把握。
 
 Hard mode 2
 -----------
 
-![](https://lh4.googleusercontent.com/tlIDkB7wegbsblyW1Pt0bEtQIzdwIv5GZas7UGqToO2V9xlEoT1tG5UulXZQ3JBCUqEXFdR6ydITWaF2u7f1GYzmjRWrOpBnagPmLj2kx1awje7iP6YHPqKyT0_cE8ZpKGWW9bVNDYKmCfA-9p2fCIDIWNvy-6c449p89aihTJkF085fW_ZsL4z4sudY_Q)
+![](https://lh3.googleusercontent.com/dHMsqhN8bmTpBRllOEK14ai4NrJAcXPp71ht4fHYcuWYyHUPIy4x8Qd7fzHa2h1RZf9gMqMnK390H9hiziy4J5QSblSneM3r42ew6khlGjKaotlC-VB_GAXy4ZOnswB-jhqwWEWoxkHrFh_khpLnO_p4LM5e-UgT2Vx-_EDD1gN4kC8aQfAH7nEBI9OPOw)
 
 初めて見たビルドを親だと思ってしまう習性があり、結局この回もハルバードを宝石で強化して振り回すことに。この作品は道中で徐々にカバンを拡張していくのだけど、配置条件が難しい代わりに利益も大きい貴重なアイテムが幾つもあるので、拾得時に対応できるよう受けの広さを意識して拡張していくことを考えるのが面白いところの一つだと思う。
 
 Hard mode 3
 -----------
 
-![](https://lh5.googleusercontent.com/1Eo_FsxlBav5VwimnJqyuWOZIMnOYqerioJX8gSXzsRz_zY7rmWSErEcLn0h9iWlgtwdqJJV8oAFsYNUN64G8_EfVNQGUes_zaMYNS5dHDq84apNOh_tv4bDY0nsTebrjTyXd0Gv7kGZeFPfDqNpJkxIpAcMN2R6Zz3OSsqfswFEkSFtWuLs3eUk3p83TA)
+![](https://lh4.googleusercontent.com/xLlskBWhlRlgXyof8JjyPCbfouXBHrrckOGBS5pNiTFcPcnonZWtJf0Qxx3XzfHKtXXxC5EWfTUT6quOJqpuzSQk95EVmX5Q-DxCPVKu_RKUbvD5w_hghdHWPd4Bm0iZIxwUubDt-sDtRj97l-4IbJePlSwXIRwl8tAqPetd-nTnkYBWGXhiINIB9J5jEQ)
 
 毎ターン威力が16上がる槍を序盤に手に入れたので、防御を固めていった回。防御系ビルドの主な弱点は、防御を貫通してくる毒や呪いといった攻撃と、立ち上がりの遅さ（1ターン目に敵の数を減らせないことからいきなり大量のダメージを受ける可能性がある）なので、これを解消すべく攻撃時に自動回復する仕組みや、1ターン目だけ多めに動ける仕組みを導入した。
 
 Hard mode 4
 -----------
 
-![](https://lh6.googleusercontent.com/nmx6nqBv5DMlR0zTzku4AvQS22tNND1uN0fPUa5TAI2r-lGZPYPmB1YN85TTr8WrBLC_Npy5H-twS_na48v3xy4jGhBuE2sl7ejP5a52GYF2dzOHmsi4yYkKaK1fF41bTJSQb8cYY1zYKz8KowR1e_DQzDLolWRvoVWV0CrfUSjdjwIscOcMlBmmiq0sKQ)
+![](https://lh4.googleusercontent.com/4gNgLx7-OlkIGxEwoFNCW48eQ3xDorfw-BSUTA0SiGDrhEfhIakpZga0lBQeEXNljmTMQrId2IzVMzOxsZ9NrenXRiT1MKnjk7uDdk2v_UAiNd2EJzMCpZ54haRqg0c5Pj7yvN-uEF399GF6PKOSiAkMUMGxs-s6o95a3uwF_uvndIm3OvbED45bG4ey5Q)
 
 防具無しビルド。攻撃時にHPを回復できるなど、防具を付けていないときだけ利用可能な強いアイテムが存在するので、試しにこれを採用してみた形。毎ターン全回復できるので、最大HP分ぐらいならダメージを許容できる。とはいえ難易度が高いゲームモードでは最大HPがより減らされることもあり、リスキーな部分はある……ので、ダメージを受けたときに効果を発揮するハロウィンイベントのコンパクトな盾を採用した。
 
 Hard mode 5
 -----------
 
-![](https://lh6.googleusercontent.com/bB8j3y8sOCR4DvdbBPaB3Cp51KYtJB13HinUUve5FjwEKnBopRpEILXhkDyJp7gsagqNXk6X6bUEwXbwNLd5BD-SPn-UdE7Pu1hq26B7j4fXNV3sWZbv5raIJSYfaxDfpVuoAhflWz7fTpov6-kSQGFWqXaOHgN_reUpFRrARsZG9S12aV_C_gbxiICE9A)
+![](https://lh5.googleusercontent.com/mnZooNtYVRJDEMzObp5K5wy_IKYSp1DbeE43lvCZq2wzFXjLs-QCf3QCac_pxdDkgByvO71DB7AJcvawXO_Z9RvnxBBfu-cj3Qql7FPaTMoGdfxuNgIMThs-ojvORDw86IMD3CcpMmmd1Q6l3Aip0T8LTHh-4BKiWcljhYZDEQUqqGd4m_X8iOgNdGhkqg)
 
 このキャラのハードモード最終回。相変わらずハルバードを強化して振り回している。このキャラは1キャラ目だけにバランス重視のビルドで上手くいきやすく、攻撃・防御・回復・金策と基本的なメカニクスを教えてくれる良いキャラだと思う。
