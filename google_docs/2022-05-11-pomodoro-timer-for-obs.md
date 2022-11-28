@@ -3,7 +3,7 @@ title: OBS用ポモドーロタイマー
 ---
 OBSで手軽にポモドーロタイマーを組み込めるようにした。[https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
-![](https://lh6.googleusercontent.com/DcPrhzR8BzuOTOj1J-GkDjzr7TTKPuLdVmj-_LmNmpfzE5XXj1D2Q5cA5vCad6Y4noTeX9HtsoI-LZBhSJAx87zEFGW5-iyXHUOR_j9Tjiag256EGXAcV9x3T3579141Zr0AnBSG_i3vEnTmuZfo3KVcKNpEwApBb-3rGlIZyqojP0Yv3WEx9aKHsVOH)
+![](https://lh4.googleusercontent.com/YtkGLDTJp4XtrcsvLKsjOL_QYNs_zats_Th2Q4s0HMeTYfRqDV-b5XEq7jKuGBDcrULzBgGutJpQ4E8chbfZEnERodGkxc8Qmxvw5uvuMC4bIgBp35tbiO8r7kL8olos_Od2jxTFvJQAnx-h0OtKvQafGrVf5H0-9FgWcNCrgHlHVhRoHeBBlSh_uBeC)
 
 どういうものか
 -------
@@ -17,13 +17,13 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ソースとしてブラウザを追加する。
 
-![](https://lh4.googleusercontent.com/RyRDcId-A23scn4JsgJER6cSo4ZmxK3Sl_98aKno3QgfDGXzmeVPRy5JpPGX0vWS4EZStm_p7VkiSnjJzgGZIAnhVZ8o-8OysPFGoJr1vD9vr1rlF3DdwBVDrN6xJeJDK7-ctSF-e8ZzEWSNQMyKS6tf4wOkxZ5W3ck3f0SrrC0DIgWRo_U-Vn1ksNhW)
+![](https://lh6.googleusercontent.com/qvfCJQw3u5qIxvzwO8ApG8YcX-FHTYePjxNnWTRjnZr_LkKqmOMr6xVp7C3dhVmoFe9rypKXBaKx8MqM8AzDPvw6BOm6wC9Ovb7E1nFYwI8BOAFHzcdQtliLixT49yo_49qHG4YMCphkUYf0vN9cWSXYqAvRjg6IjGfS8LSYueSJdubjpvrJKOqR0dVY)
 
 ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
 
 25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) を入力する。
 
-![](https://lh4.googleusercontent.com/rH33iR70jSoRIk7ionrKYooHzIeoTw2nyM9txVCNtxcsuIKqxzdel6Pf927rAgEOGj2-p3My0ezxpE-OVIUFl72d7vm8IVnchVlhUsK46Kk3YZqqJFP94lJXoaKkM1y5OP3dAVNmTcUos2gjiA1E50YmqFvr47u5VPHqniT7jaukSZkpxdeARrd8vaAh)
+![](https://lh5.googleusercontent.com/xA9tMhAM7NOgB8ZoHOuLcb_e4mtGXDEpvg-W5z5uu9XRg7_vgc4DYIK3s_bqjg5gH-482kioWlHrZM_kZfQEVubKtUl3XO2-_ckXXSPozSitGgwpxaCj3nL5NoG9mIDb065EQuqZyhM8iLzJwgAT8AkqdRouM_Ff4SRPdqC-UShH-i0psaZJuoMg80hU)
 
 これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。デフォルトだと作業中は緑色、休憩中は赤色で表示される。
 
@@ -34,7 +34,7 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ブラウザの設定画面を下にスクロールして、ページ権限として「OBSへの高度なアクセス」を指定し 、更に「Work」と「Break」というシーンを用意する。コピーするなどして両方のシーンにこのブラウザのソースを入れておくと、タイマーが切り替わるタイミングで自動的にシーンを切り替えてくれる。
 
-![](https://lh6.googleusercontent.com/daavIhPsq9JHl2qz8oi31nEW79KGiYaGxqr5H59ajrw5oBURhYO_ID4mYewNWRTlR8eHKRuHH9zNp7lArqPWsFotMa133EKB7QoS_YjDDIyIpYMdFo6x-9j2FuG0LgihlqT4Jsg0bpO1I74bO3netxUGgrOit2-9HwjdR3D7jtcjUSn8_bFzM1cCm1Xo)
+![](https://lh6.googleusercontent.com/_xgldog0obUoitVdjveX4Zu34h08YmxFRyzTc1niBkAh4sIuR3lCzlx4bx2OkZ1cbPSruvdev5C_-f4qCLhPvhwXDKsKV03dlDJsR21JX4XgW7ZCPdE7UtbtGBNjVmLSCZMJV8Iq6M2HJf6HSg4OzPQaYhVcM9lKEZ55OxlizkyyhMusm_ua_SX9hCbR)
 
 おわり
 ---
