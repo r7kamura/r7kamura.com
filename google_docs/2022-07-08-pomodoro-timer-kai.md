@@ -3,13 +3,13 @@ title: ポモドーロタイマー改
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)用ポモドーロタイマーの改良版をつくった。
 
-![](https://lh6.googleusercontent.com/yqBpPHUcQ8Z3vyx-gk2xvFA2dElg0jI8xo3_9C95oHw6dzVLH0c8rA_yN4L1y9RPCd9VSjIuz_8TSZzhvGENR5_vDvqEh2YznravbOcA7Erv8c25JO5MpxFLMozjyPwiRAh64rD9Lmw5yjhpEULfF3VM-894XeJUbsPKkzIV1ldvezu05KzXTIDgl3YWTQ "ポモドーロタイマー")
+![](https://lh6.googleusercontent.com/upr_mCOl0w4QV6Y64mKCLkzg7dOn7CVB_qiEvZsP3S1GHrSNR9CD5cl5YNdiKK9KOHNfL_IT3ThYCVXbiLTOlfa-9QT7fCCYDk6qd-kmpqksYsslPg6D-mYNbueQaY2dFAYzH_W2zrE-BiYSM-Vkb8lmWMUlpNhuTQaRTdaI2Vas5rhCFczZhUigVsWC9g "ポモドーロタイマー")
 
 ポモドーロタイマーを表示するだけのHTMLページとして実装されている。配信用ソフトのOBSには、URLを入力すると画面上にそのページを表示できるブラウザソースという機能があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html](https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html) というURLを入力するとタイマーを埋め込めるという寸法。ソースコードも [https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
 50分作業 + 10分雑談休憩で朝6時から始めるという、自分の作業配信に適した設計にしている。視聴者と同じ時間を共有するために、自分でボタンを押してタイマーを開始するのではなく、時計の分針と同期するような仕組みになっている。つまり、毎時00分に作業を開始し、毎時50分に休憩を開始する。タイマーの外側が分針になっていて、内側の緑と赤の線がそれぞれ作業時間と休憩時間の目安のための補助線となっている。
 
-![](https://lh5.googleusercontent.com/9eb_UZIhjRo1ojQhv7HFqYi4qinA_vS6fCSTCSqloJDOWv0Xy9mE4vRm-c6ZvnxpzLpeaPj4OhPr3YTw1MoUj2D3ceCoRxrCgyxM8oQaAyGhWeXoFs668AsUHG7dt8T86z49N2Lwl3r4U216bxbXoEH1OmQ1_6U1Q2gqEgxcH1x34l5CGBFoqMPVTuKNSQ)
+![](https://lh3.googleusercontent.com/AmScsWN-lSM3w3TjqRdz08YKgwAfqp7oX_Rcy7UeSpvV2pjMkSnvatqvspnZ2DRwIFBOQdtllsEVxEat4eDqcatq9-SnKbTVonMfQ4cQL-kECdnpPXHmt3szUdCRCCyWuIqPeP6wA_sks4o0Zko8BuSGqgRDADPs_5P6Vggwhh65VqGuTORMUXk5VLRmTw)
 
 このタイマーの実装には、SVGが利用されている。
 
@@ -17,7 +17,7 @@ title: ポモドーロタイマー改
 
 円弧（円周の一部分のこと）を描く方法は主に二つある。一つはArcという円弧を描画するための機能を使う方法、もう一つは正円の外周に破線を引く方法。今回は破線を使う方法を選んだ。
 
-![](https://lh4.googleusercontent.com/yG5KeA1X5bRCRL66JMsk3FM26NDcwNeJxiyZrUEIgdhL3g_ZtmXlznyFFtvhdAqM0LU8UZ7w2l6Cc_yatFM0Ac_kHNR5Mxw_RKtQmBTUuzmQ8Pbv-qYQrmkzHB07NaCgPQBXqFBeOCFghyW2MdoxKYgDpcnHTrAbDkKdSfd4jh1iwwzmwAtfwX72xNLH4w)
+![](https://lh5.googleusercontent.com/eE-PYqt4L9NMg27aGMEgmY3zDF-UYOj4eNpNjZlquq2ti01kQi4ex7PBH1IYUHT7amAIA6Nxf327hUFo2hqt-c79HLRwVi6NQrXBwaC3QxN-RC8wGYH7DjzoM55olvppnJR6_uxwZ1EJaT9BlU70K-SDVR-YzDSaY13aNgSyFo2v7N-HTqT0-AZ_S2zktw)
 
 あとから定義した順に上に重ねられていくので、次の順で合計四つの正円を用意して、それぞれ外周に適当に線を引いている。
 
@@ -30,13 +30,13 @@ title: ポモドーロタイマー改
 
 あとはCSSを使い、flexboxとかgridとかで適当に上下左右中央寄せしたり、Googleフォントから持ってきた適当な等幅フォントを使ったり、iPadやAppleWatchなどいろんな画面サイズに対応できるように画面の高さと幅の小さい方を基準にサイズを設定したり、背景透過させたりすると完成。
 
-![](https://lh3.googleusercontent.com/rk5JNpZgK2Oyz4YnzjBooOL17b4nyPLa0Aw-A3hVNLPJetNK67E1NgwAU6_eBDukVlCrau8_F4bPpwY03QmLidzr8LoHMZk_zMkjxMisw6A_Q036mKRfCFfrXOFa8LiPAMAyMrHw_POVkD97TFCTwazFloDuwjShRubFqiHGzuaBiArW0T0ZG_E8WbsnWw "配信画面の様子")
+![](https://lh6.googleusercontent.com/lEY-_c79PevMhhGb-BmIvaDMBe7lXPbyrMfBHUdgC3DWnXhn_O-GAdXFhyluaOvHOmNpV_xSLwaI7zsEPYcfBTVTIoVTHh1_QAetNMCzdwS57JJDb66Pc0LzlDB8hBrco6f_Gp5SriN70GNGTjpm7GEA3ppnvzwTvb9DsTTo49w1L-I6HwZm4nsz85RoBg "配信画面の様子")
 
-![](https://lh5.googleusercontent.com/Nhb_9ytKRhGjLqRV2OZ9u9NcYNovk4QAuUotqA8HjIyOBudBLhK8B4Q1czHfur5eKFM_1hoMU-Fwc_38wa90J6ZE3teZN1fY6WpsmrXEN5fDk83xyVTaT-atqf2-qZY_qPUe9mqvePTrrNUknV3daqokZu_thRMAf1EFcpRNf6mmjWKSuP0w9UNawanQHQ "ライブコーディング中")
+![](https://lh5.googleusercontent.com/aMVMwkDeilHnZMH266WHBu4UWwp2ad3FU1A3bOUEL5sh_kcwDxPnjcdmhyMfoPaPkaIL3xjDQWffJFXeKDyi2Xnv1IvKmbi01uc2boIoytzNzxdtSanupj55Bjl0tRp-_6nB8jmVEOoWIBgFTdhkJ4cUAezzxfjUu3qEkPzw-dGwMzQrn3l-64VeV2q0fQ "ライブコーディング中")
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
-![](https://lh3.googleusercontent.com/yfoi9SWhqaAlpnX9UwxnHztDwmVKKRyqH8V53_yzCcSCgdLNpP-VmyMRZs7YCjMFe7r0cHI9ir-JKDja03sCZ0uwbue-js-OYPzEELEP92NV3P4pUtg7RRyvtvx5ckEhBrbP4S61EvnqKeYUlvtT6QYzIOyNlw8bApT_AVS2WJRGxeX9HsNBBZAQrZevKA "iPhoneで表示")
+![](https://lh6.googleusercontent.com/P5RuUGm3MbgUSNQd_QmEZhBRgDanE5Fp09G6HNlAsqvcEZYoGRr4WXXFtohtQz7cDa6qafyMi3UPZKGEhnqYLMVnPDCarXOXxZa6t7EEPU2uUhrVD65-9zaFHpm13a4vFMBKbWEL-YkHrCKSW6m--YYWwUyFIYDoGnF5nxKHOnjP0P1ER8bql47qeKHHSQ "iPhoneで表示")
 
 スマホやタブレットでも、Webブラウザからアクセスするだけで簡単に表示できて便利。画面の大きさに合わせて適切に変形するようになっているので、縦表示でも横表示でも使える。
 
