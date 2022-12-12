@@ -3,7 +3,7 @@ title: Peak Designのスマホケース
 ---
 Peak Designのモバイルシリーズのご紹介。
 
-![](https://lh5.googleusercontent.com/704TQd77nhJkPQxr_CXPONoBsCtt-NFYXPp-rlsrD_bKKlGq092qf42Nl7O6CtNPVJZ78ScU11O3p2yIL2nJSlhMvbz_hKjtak3rkD1HSlNtUjFKv3CSnqLsW6jqwJ00SGyOqrRduEUIhrxToYxmY7sb66MX8dklhVcAbVJIw-jO219WV5qp2ePCeD28 "モバイルトライポッドとiPhone 12 Pro Max")
+![](https://lh3.googleusercontent.com/cY5m1AfQzs9RVCVQAUkrMBqY6YsiXqDlHvc-cL5kWFgjuAWz5CmbCNDsmgmWsN2wguImHakqNjjF_TyLz34hcKVXQ_DKNHIgwJlY4Vq4SAaBrmvFb7XULX9i-8Vhqgz59KU4f4yGNLFPWfWwfCKUaBxIoE5jGdpqv3P7LxJ78V3fRvTXjofuhS-1Npnp "モバイルトライポッドとiPhone 12 Pro Max")
 
 最近よく散歩に行くようになり、オフラインで見られるよう保存しておいた動画を外で見たり、iPhoneで動画を撮ったりすることが増えてきた。そうなると角度の微調整ができる三脚があると嬉しいけれど、ごついアイテムを持ち運びたくはない。
 
@@ -16,12 +16,12 @@ Peak Designのモバイルシリーズのご紹介。
 *   スマホに貼り付けたまま持ち運ぶこともできる
 *   磁石が付いているので玄関ドアとかに雑に貼り付けておける
 
-![](https://lh3.googleusercontent.com/ylkoqiRotUPm6D_IiZ7RnSCRlrjCvHQXWdts2O4sovewRtiMkB3BIo03uzIV5L01rhuUJLNHzoYuHPhKJVyGcw1w1KdTJ8_C9W17RA62QTt4DdjGYhj7YUgQFN6a7ULcHhdhYP8qAUYqwZZNyMmh-rMSenVQHCU4wNFV_vFRFdgZwmp7zmOoFqyL7kVi "かわいい")
+![](https://lh6.googleusercontent.com/zJ36WnWGcgsHGXin-ia41KJZhgU7VBqppUnaCEOGIPjCnCWmdNyaR2A1Gg7OgnF9tzzGx3uHzvEwl1cxl2Arc50bbf_if8wVgTy7QAtoewW8M2jkvPbVtMraaHLy3feQfxOnHsPyHAIuxVvRIUDZffL1km_8Jl5ALc9qKoE-l9dhrzs6TyNAlLH7YtzF "かわいい")
 
-![](https://lh4.googleusercontent.com/stumH54_qRYFncRETho1Q7YS3OwcaTeSjUaZdjl1S0FV_-vh256SvnFmZtSh7pWbHEakCwpfi9IvRa_ii5aqwTw1imjjW9S3Bl5NkBeR1A8fpjQKpIE4V2SRgg0blGvCmO_fO2jja8kDTJjX7WA5WjfhRc2lIoeCRN34tXxioER0HbaL_PV1BtHrX54l "折りたたんだ様子")
+![](https://lh4.googleusercontent.com/tBI9rTyELDW1akR1QsuKo4ggYZfp0EjjqewzTpLDohDy6G7D0J-o8H06Me3N78SwVUKZuwUOuacYjD0wL76aqv_vd9rxkLvTMiyo3lVJErnqi-G6YbrcPGuS0h4CW82WNLwVWMpRNJVgQ8333AFsmtpx3JIP_LLXyjcVJIUPVr0fU5sjOCAZ6A1FL3Bs "折りたたんだ様子")
 
 最初は「MagSafeあるんだからケースあるの非効率的じゃない？バンパーで運用できるものを探したほうが良くない？」と思っていたものの、背面に指を通せるリングも付いてるし、布感のある見た目と触り心地で落ち着いた雰囲気になるし、他の同社製品ともいろいろ組み合わせられるしということで、結果的には大満足。ケースを付けた状態でも、MagSafeの充電器は普通に使える。
 
 最近は財布が必要な機会もほぼ無くなってきたので、[スマホに付けられる財布](https://www.amazon.co.jp/dp/B09FSGW671)を必要なときだけ付けて外出している。これもスタンドと同じで、使わないときは磁石で適当なところに収納しておけるので、たいへん便利。
 
-![](https://lh3.googleusercontent.com/XUFW9J86nEffou0jgAbAz1u9OyqkUhD-EmjUlL38bymAf0odNNhuocriyTX0N_AK4P7KKmb48FRWELvesrJFlFH8n3Mi29XupoiTIcmdJY2i0FNOfUbgqL-ruPIQONIUZaQJd-JLQfMKLM9fAOPDKhcHLzwF95l2liGB5JP2O5XugnoZq3vxfdW5oxI_ "スリムウォレット")
+![](https://lh3.googleusercontent.com/zKw6UBxjNH11bhjsNeC_hfOFEQ2cTGcjCj7RWqq2DNKePJmoi2XqJU_3qKOrKjzw4ndQDJc5BXhSWcDfNM3dDFTIq3-dQLb6lqw_fJFgN-8rdOAk2-x3HZDTIcmcZF8TRMyHckdBktM-FCHVlGnIgXwpiLsecpMpbgfrf72iLGF1br31GV4wDI7wHvtV "スリムウォレット")
