@@ -3,36 +3,36 @@ title: Nanoleafを付けると楽しい
 ---
 なぜなら、壁が光ると楽しいから。
 
-![](https://lh4.googleusercontent.com/702cQSazc98ndRe_7AjP_lYSFD2NAxnIYAg4L7XoCHxaUzJ2LJZsly1fW-xxjPshs18E2BiMRvaHeF6j99LbjN5Y-mKhtSexwnQRdVqcoU_B5dMGUKXruRHIWayqgtusx2qPvnvArhJ8R8I786TpOPWjxodg1I_TAIbvzHx-EdAzNiNoGm34FaoxaLvspQ "Nanoleaf Linesと作業机")
+![](https://lh3.googleusercontent.com/8wfJrxnj2MRJDJmKHtyBu2HgJh2u9X1HQ-FXImbgI5LCQ53jkS2lx93Q6QgRIyrrAErgn2QKYNOMgF5M36qwYdG_dl0y7ivKuleBEI5QAd0nmKQWQTX_JfVHgI-ebSpBJU0AvU0qT6W8UULc0CdyJOXpyIooC2aZp_wXm07t-O5-qc8S0IcJ_LtnqzDg1A "Nanoleaf Linesと作業机")
 
 5月1日から、[作業の様子を配信する活動](https://www.youtube.com/c/r7kamura)を続けている。その取り組みの一環として、毎日少しずつ作業環境を良くしていこうと試行錯誤している。配線を束ねて整理するとか、画面を綺麗に拭くとか、壁に時計を掛けてみるとか、そういう小さなことでも構わない。昨日より少しでも良くしていくことが大切だと思っている。1日1%なら1年後には37倍良くなる。
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh4.googleusercontent.com/XDmI8K5C19Ko6FVUZNuvX2FGqOPDbpZrgc0iL3n8RLIOC_t55ii_anCzgftDdLl9QtSi7x4-Lcs2lG977tuzt98EWCyXNwOoC5PDqugXQZqUldH9QgC2DHVanXz84zBCFEjaJu5HvrPAymApGdA88r_GKs3hSsG8uyuE4haEOqtIcGoq4TYkTJZNGQVZVA "化粧箱")
+![](https://lh3.googleusercontent.com/mqzFJCoXcEc050tMosOjuTXUvQLqYCmtezSbdO6fyp-arXsMWWWyT0axnRn8_ZMffRUiPLA-YiBruznRbO3XJeTL19bNVYS2zBe08DNGPBMls-3Ww8UiKrZocT5d_Fl3GVFOSAf6r9zJXq8kxd6f62s0K_4i5MGuBl5hNGwpMCAXEOKce6vytUfktG6YKw "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
 しかし日本展開にはかなり力を入れている印象で、Twitterの[@NanoleafJP](https://twitter.com/NanoleafJP)もあるし、Instagramの[@nanoleafjp](https://www.instagram.com/nanoleafjp/)もあるし、更にRoomClipの[NanoleafJapan](https://roomclip.jp/myroom/5824865)もある。日本に実店舗があればもっと流行ると思うので、代理店でも良いのでどこかに来てほしい。
 
-![](https://lh5.googleusercontent.com/2MvMpY633B_Fr5kK8ZEC3AjBOV3KL_8Q-b1XeZ-LwING3s8eDqF8OjkcpgYp0veqLiZQRKi-Z3aDFC3C8mdpCxrrRLjlS-g6qcomFkxG0AyfnklQUTo9CEpqcmVPqJ5cgDDKjswyq6IsgbyyZum_tFmy8QrJOGZ3DBw3Xhh4Zud3K9xfsUGVCSdJHGfi "形状を考え中")
+![](https://lh5.googleusercontent.com/lV-db1iTRdeUzgvnBO1M8TJgsU8aXVuqAE9_Utmhxw4MYpLEkc_ELIc0gl6oJv9y7Wbbg2v_3SeIYezVKoVtEFyrn18U6ur_NrmWwPY7JRb21MzENlaIwjp1zxEFICkstfcnBo2E2Dfgqe6CCfbOyjWNYCrulPNJMjpYNUjgj42S7Y6TJ9-l5ulrUijN "形状を考え中")
 
 スターターキットには9本の棒が入っているので、どういう形状にするか決めていく。これが一番楽しいところでもあり、難しいところでもある。こういうときはその道のプロを参考にすべきで、Instagramに[Nanoleafさんの公式アカウント](https://www.instagram.com/nanoleaf/)があるので、この作例を見ながら考えてみるのがおすすめ。設置場所の大きさを考えると、横幅をこれぐらいに収めたいとか、高さをこれぐらいにしたいみたいな条件があると思うので、大きさを基準に合うやつを考えていくのも良いと思う。
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh4.googleusercontent.com/Pr7tz-TxsvUeveA7Kx9uogewSylk8tcgAKZg4ksEDq03HtFN28Z1oMb2oUbxKKXAWIEr50kOprIWjPaZjdl4G-jFNSHgS-C2MNhI7kiMbVNcPX8kJlXq-4UEOrYIEA6VoWAlo3OtGjiQyUEdqY6XE1rVTNsMgn-Ha8BUJWFt4-rZ8uN2fmnFSK3yfMg5 "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh6.googleusercontent.com/t5ZeCUE5omDx-FcaorFdZQu6NycqnMNESX62KJ0UF9kwljDwhzZ-rkyPxvzzGXoVUsdq9Op-6IODsnnJnsCeoCo_5lVITS5yurG60lOLwK-sYpZg6mJXoHLntQa1JpDxrXo8bWnW9GT77NKW4WoGUruJFIC0C7aC2aXZDouiF-6cSxzDGDZfm3FI09fV "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
 ……というのは嘘で、配信しながら組み立てをしていたのだけど、iPhoneとのペアリングが上手くいかず、10分ぐらいまばゆい光の中で途方に暮れてしまった……。本体の電源抜き差しやリセットなどを試して、最終的にはiPhoneを再起動したら解決した。やはり再起動はすべてを癒やす……
 
-![](https://lh3.googleusercontent.com/h3EYwSVnbKNKRGYXGmSdXtZ60k8OQftyEqscbUGFDRWmridSiWIkvjPmbjO6cjfUpvXdNznyWr6iFptyDfha3h35jSqbz7gYV3cFL8ZuV6JGyXNye03Y0lG7-dpQujWZwT5QKMv04itMTTD5QLRady0LnvAS0W3Xei5k3GS3xvIXb0AKp4AN6WO4I547lA "設置した様子")
+![](https://lh6.googleusercontent.com/LOv6EHtUj7uexCBI4XA-binvWv8ZD7dCDkkPZOWxWMW-ffOJ8slJ6nJRoOyFVCKl0D4Uut6gAboy65bBxX2Ekuv6_bnJEwMhlDyisX1WvRPylb6QHmsolGXuThlbBbOg5PcUwAhVHg2gesOilhKRgAIHQ_UpYRYJzCsoY0G-RE6RtHHlx1rzgnL-5oDWow "設置した様子")
 
 設置したあとは光らせ方の設定。アプリから提供されている膨大なパターンの中から好きなものを選んだり、Razerのアプリと連携させてパターンを同調させたりできる。うちはマウスパッドがRazerのやつなので、マウスパッドと光らせ方を同期させたりできる。これはRazerのアプリ主導でパターンを決めるのだけど、再生中の音楽と同期して光らせる機能があって楽しい。
 
 個人的に面白いなと思ったのが、環境音に反応する機能。本体にマイクが組み込まれていて、発話したりその場で音楽を鳴らしたりすると、それに反応して光ってくれる。配信中に会話しながら部屋を映していると、話すのに合わせて照明が光ってたのしい。しかもこの音に反応するやつのパターンも豊富に用意されている。他にも、PCで映している画面の色と同期したり、部屋の明るさに合わせて輝度を自動的に調整したりと、機能は盛りだくさん。
 
-![](https://lh6.googleusercontent.com/SFJiCE-XPuy62kixipHmwtBdRTKTNlYqg8mO86kxuqYhP2x_K8-BXb8t2MtImEGMU7_1WAm9DG4_qdK-5pZJMoBenyscWpmJ1rR8qKiAnwhf5gc9zbP_rNS4jmYGYD5vocqeo3X9vZX8Y5jNSxlzmUUo0zRGYIAdqJbjda_ymqBOafERRBcCxKmyPh3sag "暗い部屋もかわいくなる")
+![](https://lh3.googleusercontent.com/wrb9VbQSYnWsi0aL7RCjEYsZGi0UZWtqYs8Z7NXzJidpsMPUqSYmyG1PQkKI7mywpCBBaV1ulWiIFLyZwUoDtOnWvNPGOazIiwKhfZ_AjuA4s9PfZg4PKkWhde5W4ZTlpaziu_TONdJc9en_F1hNWIAFegAUSdEHeX5n48bRQT7xxaEiP-p9xOC1wDFjkA "暗い部屋もかわいくなる")
 
 以上、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)の様子を紹介しました。壁が光ると楽しいね。
