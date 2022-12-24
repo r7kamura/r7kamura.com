@@ -39,6 +39,10 @@ GitHub ActionsのWorkflowに入力項目を設け、[r7kamura/bump-action](https
 
 また、authorにmentionされることで (人によっては鬱陶しいかもしれないが) 自分の作成したPull Requestを含むバージョンが新しくリリースされることが通知される。自分が出したPull Requestを含む新バージョンがリリースされたら次の行動を起こしたいケースが多いため、この点も自分は気に入っている。
 
+下記は利用例。
+
+- <https://github.com/r7kamura/sevencop/blob/1f3df937b9e507653178ac92f409678f96874914/.github/workflows/bump-request.yml>
+
 ## リリース
 
 バージョンが記載された何らかのファイルの履歴を比較することで、そのcommitでバージョンが変更されたことを検知し、新しいバージョンをリリースする。
