@@ -1,5 +1,5 @@
 ---
-title: Minute of Islands
+title: 『Minute of Islands』をやった
 ---
 
 『[Minute of Islands](https://store.steampowered.com/app/1049710/Minute_of_Islands/)』を遊んだ。

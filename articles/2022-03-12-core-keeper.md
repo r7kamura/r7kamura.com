@@ -1,5 +1,5 @@
 ---
-title: Core Keeper
+title: 『Core Keeper』をやった
 ---
 
 [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/)を少し遊んだ。

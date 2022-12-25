@@ -1,5 +1,5 @@
 ---
-title: クロノ・クロス
+title: 『クロノ・クロス』をやった
 ---
 
 ゲーム『[クロノ・クロス](https://www.jp.square-enix.com/cc_rd/)』を遊んだ。
