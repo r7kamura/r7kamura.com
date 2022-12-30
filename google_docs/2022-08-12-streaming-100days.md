@@ -5,12 +5,12 @@ title: 作業配信100日
 
 [https://www.youtube.com/c/r7kamura](https://www.youtube.com/c/r7kamura)
 
-![](https://lh4.googleusercontent.com/b6jsT_e0GAutwwCZzfGxGaX1saK2HJhX5OcwtooRQ9z3xchohjmIPyTtVrTMz7Ipvjitv0kH2_ljKDWhlzU6lUHCFO6TuX8G69ChmCenDBBddhmU6-Ac7kug3vmdAli75iySqMXAb_JlKB7XDqBVfCJyoPOsEAV9tARMZeNjXyQg_lEg6bJLeAI9p44ogg "過去のアーカイブ達")
+![](https://lh3.googleusercontent.com/RB_K2SZYS0CXAS1FAx1sL5OpOBAbngwB7fxMWLvKW1E8PbVklsehe7sUtlZxdxqKRfa3K0DAhjRCRzwDDKNDaOZN9QwlOEZmyE8NlX23UvkLjnQNgM6ep2lQsm_lGaAFsvqSzqnRwTuP_5c38AMtCt0cb76qD8MC1uIzRPzckYItQvHt8xtkeQ3Z4_nlYw "過去のアーカイブ達")
 
 この取り組みを始めて以来、比較的高い生産性を維持できている。特に50分版のポモドーロ・テクニックの導入は効果が高かった。なるべくこの活動を継続したい。YouTubeで配信することで監視してもらえているので、多くの人に見てもらえると嬉しい。
 
 座って作業してばかりだと健康を維持できず、そのうち活動が途絶えてしまう。そこで、活動の継続性を高めるために運動も取り入れている。具体的には、身体を上中下の三つの部位に分け、ローテーションさせながら身体を動かしている。健康維持が目的なので、数分程度の[腕立て](https://www.youtube.com/watch?v=AL6KJ4gPx0c)や[腹筋](https://www.youtube.com/watch?v=RXlnM5K6vMc)や[スクワット](https://www.youtube.com/watch?v=LOuh44mpQRg)の動画を1日1つこなす程度に留めている。
 
-![](https://lh5.googleusercontent.com/QVu90h_LUpANHhbD7tO4OgTtzayGs6ce_Wva-23lo2E2MUHNn1-ftthkdNvOWziyQWoLzAaNlwItEJyVSTXX_Cpe6Uof-waekFBTLruOS-zUGAlFQDrrbsgvIeVdz3SuwKdL3T7ypFyeiXqSRP-iV-AyjN9LSs4ZBN4E7DvIYWVDManV_jBYlVImCayG "筋トレ用のカレンダー")
+![](https://lh5.googleusercontent.com/ytS_YTXzQgCSnN6dRZPfXjaCUVCS7IZCt4tI_IdEn9_Q6mhuZQAhGmDZmC-iqtPW19622gooB4FU1g9pRFuosHZIeuYquuhcdDmsfqjk9dpNNwnsdRtjiwjwKNE_qoP08x4fMygQJ3rNmyofJII0V7b_TLGHpe0T3v3HgFvF_kUrbmGqHnoPgFrRz0yy "筋トレ用のカレンダー")
 
 作業中のメモやログについて。最初は気が散る可能性を恐れて紙に書いていたのだけど、集中力が付いてその恐れもなくなったので、PCで記録するようになった。思考が本題からそれるのを防ぐために書き残しておくものやToDoリストなどは、[Editabro](https://chrome.google.com/webstore/detail/editabro/eodgdnjgkjjlohklhoaapfhghgcoihmf)というChrome拡張をつくって新規タブにメモしている。もしかしたら見ることもあるけど基本顧みない作業ログ的なものは、[r7kamura/diary](https://r7kamura.github.io/diary/)というのをつくってここに書き記している。
