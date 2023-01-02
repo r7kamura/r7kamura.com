@@ -24,7 +24,7 @@ CHANGELOG.mdにまとまっている方が分かりやすいという気持ち�
 
 [GitHubはリリースノートを自動生成する機能を備えています](https://docs.github.com/en//repositories/releasing-projects-on-github/automatically-generated-release-notes)。そのバージョンでMergeされたPull Request達をまとめてくれる機能です。各Pull RequestへのリンクやそのAuthorの名前、またそのバージョンでのContributors一覧なんかも含まれるので、なかなか便利です。これを自分で生成しようとしたらそこそこ大変。自分の名前の箇所は、GitHubの機能でハイライトされてますね。
 
-![](https://lh5.googleusercontent.com/RtvCWAhqXjkki2rjsOi5B4srUFjvds9uXsdjxUV_oD-9bVs8ejF3lOLn05sW_bR_9BTFFZKKoCQmwMrAYMroP5gu5j3HEtiiea70pE5Hwht3ZquSMjb7319ybWX0ew42zmDvj11m28hBgp7HU-2lyWUvU8BODiKZND9Kg1e90VQcG8fF4rxq1GSnJxbjvw "自動生成されたリリースノートの一例")
+![](https://lh5.googleusercontent.com/5L9RhdzmFmOzRZ4sObM5TlWt3rpctqlRHru5XX8DChH7jKi91GMwPTx2JaRTvKFvKPTf6fnwkgJ7EHmT0WaobpJYRaYIKM1AqDzFZd3jdh59GWHS-SjG8nQIcNtHdjkPxLUqa_pN3eGf0WFHajpyv0NLKZYr16fNkF2jjnJ46-XHzzIKYiFM7ENNRukQUA "自動生成されたリリースノートの一例")
 
 .github/release.ymlという定義ファイルを用意しておけば、Pull Requestに付いているラベルごとにセクションを分けてくれる機能も付いています。自分はKeep a changelogライクな方式で記載したいため、add・change・removeなど6種類のラベルを用意し、これを個々のPull Requestに付与しています。基本的にはレビュー時に付けますが、忘れていてもリリース前に付けておけばOKで、またリリース後でも後から再生成したり手作業で編集したりもできます。
 
@@ -41,7 +41,7 @@ Othersというその他枠のセクションも用意しているので、ラ�
 
 このGitHub Actionでは外部のリポジトリに配置しているlabels.ymlも指定できるので、[github-label-presets](https://github.com/r7kamura/github-label-presets)というリポジトリにお決まりのパターン集をつくり、基本的にはこれを参照して使うことにしています。リポジトリごとに変更したくなってきたら、そのタイミングで独自のlabels.ymlを運用し始めるような感じ。
 
-![](https://lh5.googleusercontent.com/fqio64ymAUnE-GisnsvGQB7YrvDG8lZyoFXLHKRSSsNScgk2pEU8HGMFegp5_S6wCfYY7JswBESJ5283LB3-6nNIL_pu-O27xdyl2C_WSPyBWr5RQdEOgTPvogJ1Q89tpfFjsr6Uhpz6Xx4t1f200aHAtorLToVCS8MtlSt0ddI_EifIYLa3tKnjJ_XCbQ "自動的に用意されたラベルの例")
+![](https://lh4.googleusercontent.com/w2d9X_6x2N9Nk0bf4ZdORDcfbluT-brxRtowhNiZx4LiQJ60h4xEg3T6yLxvayzlesJRqr25Nmq-9nKG2ydgoNJ1cdLR48SwY0Ika0EyldyyRb3XqWzsCTyH3PITIJvcPEmzmmgOD6n4DnR1R6hj1nUc4ukChfubltHi0dK4RejSQYgii_Q591LAa4-h1A "自動的に用意されたラベルの例")
 
 自動リリース
 ------

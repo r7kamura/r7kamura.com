@@ -11,9 +11,9 @@ iVCamは見せ方や売り方が下手だし無料版で広告も入るしいろ
 
 いずれのアプリも、導入時に困ることは無かった。EpocCamの方がウェブページも丁寧だったが、導入が済んでしまえば特に用のない部分ではある。iPhone 12 Pro Maxを使っていて、当然ながら普段使っているウェブカメラとは比べ物にならないほど良く映るようになった。充電しながら撮影する方法として、[AnkerのiPhone充電スタンド](https://r7kamura.com/articles/2021-09-06-anker-iphone-stand)が非常に便利に使えた。
 
-![](https://lh3.googleusercontent.com/lpy_VFKmkdhvhiQULDA0GDPvHZQsYzHOTg9DCN0qkndTq4cIJTRHiwgwYMTuseo-3WR5eTLRwxpIqFRXiBiB9JZSHkGYw2tmkRWPX04K5obngMBG6olyCfOnmgRKeJ03O8MfOvSwNJv48ILkxQeEFzpVB5mohZUPqsa7C9rBEizuYpJeqEYpF3_xdBoE "iPhone 12 Pro Maxでの配信画面")
+![](https://lh6.googleusercontent.com/eH0h2mnAjBPIFahXbgjIiDUJbAcBq0ZHOachzbUwQJH1wtkR-ET8Tu3Yi9KdDB9rn0rhLGkciyiZJW7YvDVN-fcGHjVr-3LqW1LNH-Xy3wdhoLgvma4a6hKPga0hoFC7vZ0ATk3ZIDqYJzlgF3XXlOqSHS4qU_yZ7pnEwKfcIDh465Mdc1OoiKPWsoxe "iPhone 12 Pro Maxでの配信画面")
 
-![](https://lh3.googleusercontent.com/l22q13uFd-4p3iU2w3Ir_aCuPjdRLyeb5NDSrRt6G6MXLq_0IFYtjtaZzW5H0dIjPECfdEqkX6N4xbFBw8banze93Q04h5xt0DEvWZDHea7a6QFxSOY8kcKbcIPWRoIIKRgJuS_qNp0BboZ-7mEk_PrWkxILfaRz1hTp6jzYOJS6LBichAS7RMJNmBqM "ウェブカメラ C980GRでの配信画面")
+![](https://lh6.googleusercontent.com/RUBDAZbJnakSjSMr1wThvtrkdzI4pcf4a0dtk8P0YY6Ti6oSvWVzns8XWInl6vxCiP6PrjYKnz2J1OBmkyjvHGXiiu9HydemavWr5PvQDRMkD3BEkl5LdIEFHh6zPayaqIWS1-q8DXxkKO-neKU1vR_8Dk_13LrWYqGS8aaUpJTrdv-tAbCvaGGEY8dr "ウェブカメラ C980GRでの配信画面")
 
 ホワイトバランスや露出の設定値も変わっているし、そもそも画像だと違いが分かりづらいと思うので、[作業 with r7kamura #36 - YouTube](https://www.youtube.com/watch?v=Nmf0NRTqbyw)のアーカイブで見比べるのが良いと思う。最初の25%ぐらいまでがウェブカメラ、その後はiPhoneで配信している。
 
