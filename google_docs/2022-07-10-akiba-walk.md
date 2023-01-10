@@ -3,7 +3,7 @@ title: 秋葉散歩
 ---
 週末、気候が良かったので秋葉原まで散歩してきた。
 
-![](https://lh5.googleusercontent.com/QpwvnTPPOshnehnoZHoVHH68q-cEtMiOVjxRS7TqzDUmdk7GV6uRa4P0ZLx2iPEePD5coUQSSFpM0AOdj-mX7KoLzigg7oUt-fzR9-ZBT2VBnX_IiEL9Si68a19rYYICP-FsxvLhfbnRdEJKs_hFUABBI2Tbxbs2kc15Ewm99gRuL7cC9w9PRiSpFRci2A "鳩からの視線を感じる")
+![](https://lh6.googleusercontent.com/BUxs4P0qQlVrDN6ALoNUYhxkrS2xwhG01OJE13tuaydYWXmTtoH49uJPjWaDN1xQuxZOFwmp3gwuPnHhGzzj9UqgO34GnhSxeZAjQC_cwJWmiQRzT6YP4xO3GgrU7Ww6GA0KgS-0iwaPQFgjG90_WKJNSYAhWUd8z5r7W3CplfnXa0PrADw8IdJsGiwJYw "鳩からの視線を感じる")
 
 港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
 

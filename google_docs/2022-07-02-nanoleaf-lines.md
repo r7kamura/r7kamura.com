@@ -33,6 +33,6 @@ title: Nanoleafを付けると楽しい
 
 個人的に面白いなと思ったのが、環境音に反応する機能。本体にマイクが組み込まれていて、発話したりその場で音楽を鳴らしたりすると、それに反応して光ってくれる。配信中に会話しながら部屋を映していると、話すのに合わせて照明が光ってたのしい。しかもこの音に反応するやつのパターンも豊富に用意されている。他にも、PCで映している画面の色と同期したり、部屋の明るさに合わせて輝度を自動的に調整したりと、機能は盛りだくさん。
 
-![](https://lh6.googleusercontent.com/cnBrlXwxj-6GZ_AR7cIIzJhQZrDvvWt8lwV9n5M9Xz7f9ud8uEtrcPY_NajL7-jjfcykx506jNaH5Q_Lb8U1xAXrFmY92tbzrj2RzCOKiZLPBJNH828q-LLMTWnwzxOC7-ZOp3ety5dGSOYjP4HKHOwR4JYrV0WFiiBn8sHLJKPL9oPFiiTY-Xk9YyDkqQ "暗い部屋もかわいくなる")
+![](https://lh6.googleusercontent.com/ty4fatpix4y6iaL3w3UNWnoBPnhx8C2s3fBH287iMbX6JhBhwQTwB3ncrJz-KOVI8hLD6sj9sxxdDotqm2J9pVtkoUnGsDDmoaBPloCAT6K0fLQqUU9ARB7e7S0UgbTIuB8ESZeByxG4Z5Sz53DlK9vOJVtymAs5yH1Vot9LQmzCvyWFtDo5esThsFxTKg "暗い部屋もかわいくなる")
 
 以上、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)の様子を紹介しました。壁が光ると楽しいね。
