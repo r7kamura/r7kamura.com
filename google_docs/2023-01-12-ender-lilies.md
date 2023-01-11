@@ -1,0 +1,14 @@
+---
+title: 『ENDER LILIES』をやった
+---
+ダークファンタジーな2DスクロールアクションRPG、ENDER LILIESをやった。
+
+![](https://lh4.googleusercontent.com/4t3eqrSCE0X4gJ-G8p8Fead633L_WaYXcdkYj5E-lWp9gwCBKRA1jrs0UNPxY6MW8kpSDpP5akLIkdAWdyEuacH1DLLmxXkGClAtdF5h3uL1px-rxoyQVDZYgC1gV9OO5cwGaj3N_kCuJ15h8Nr_B4Hxj7DgXVKi6GhxbUOH2zh9BBWRG5awjx4UrEDUDQ)
+
+先週末にRogue Legacy 2をやったことで、この手のゲームの楽しさをすっかり思い出してしまったため、続けて同系統の作品でやりたかったこの作品を選んだ。
+
+真エンディングに辿り着くまで6時間とコンパクトなボリュームながらも、しっかり楽しめた。2Dアクションで探索要素が盛り沢山だと途方に暮れてしまいがちなので、個人的にはこれぐらいで丁度良いと思う。
+
+難易度は低めながら、道中の敵を無視してサクサク進もうと思うとボス戦が徐々に難しくなってくるので、プレイ時間と難易度を天秤に掛けながら上手く調整できる良い塩梅になっているように感じた。ソウルシリーズ風な演出が多いものの、ソウルシリーズ的な難しさは無い。探索要素の設計方法は、どこかスーパードンキーコング2に近い雰囲気を感じた。
+
+たまにめちゃくちゃ好みなBGMが流れるのが良かった。曲の1ループが心なしか短めなので、そんなに好きじゃない部分のBGMは若干聞き飽きる感じがあるものの、好きな部分のBGMは本当に好き。
