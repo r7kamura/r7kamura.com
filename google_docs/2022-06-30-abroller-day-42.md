@@ -5,7 +5,7 @@ title: 腹筋ローラー42日目
 
 新しく導入した[アームレスト付きの腹筋ローラー](https://www.amazon.co.jp/dp/B091DVYKXJ)が良かったので、紹介させてほしい。膝コロはできるが立ちコロはできないという微妙な状態で困っていたので、中間ぐらいの負荷を掛けるべく、これを導入した。これによりかなり適切な負荷を掛けられるようになり、また人間は適切な難易度の課題を与えられるとやる気が出るとよく言われている通り、モチベの維持という点でも捗るようになった。
 
-![](https://lh5.googleusercontent.com/BztWqCgrwGHcD_bQ5xu6ov5o5JGPaKZdBhnNwbRqNdA1Xh-MgZ6lEu4G0ohXE8eImZvVGCpJtJhuPx620dLEShdlOJzhvE9_2NnCbD6xz3TenN5g5RRv8NPAwqQufLJi25unljt2j_-jQPcAVRDfAs10bW2GvEyCzMuPsE5_Ykkk8_jeiocRkBY_P_CcfQ "my new gear......")
+![](https://lh4.googleusercontent.com/yl0MXKYGjjVfVF2CHSn8Pqb-wHMbLEWfcvZAfvbEzEn0xsRD6XYQm2xs0mMOhF1xSFET7DrnfDD1psoGjvqSp8mrgHtiFIBKKl4IU-nQvl6_XCL1W-XsYY0xc7ZGJH0juIZXNrVYVyac4K4-YLSzQ-3n5nj5Q3heKvU6SEz9K0br3KNpET9uohzhnUM2lg "my new gear......")
 
 これで膝を付けずにやると、立ちコロほど難しくはないが、膝コロほど楽でもないという、中間ぐらいの負荷が得られてちょうど良い。姿勢が安定するので、怪我をしづらく安全なところも嬉しい。
 
@@ -22,7 +22,7 @@ title: 腹筋ローラー42日目
 
 身体の様子はというと、30日目の時点ではこういう状態である。
 
-![](https://lh5.googleusercontent.com/tigrKzwzIDFXcSLdInNasx5o1zPhDkTsPWlozvBXMU-93q9TzRoKpaUFT8lTYa11T4Rx-u03AaShHrI2sv5WEu3n-mk4eMcVMfOVSm9RCpkfeVzCS-K5wkw83-_0N09PHOtMw1ovIEZs1Ln1Zfc9EGD35-o3lYPs90cbfiZc9zBm3XOfl8Ae5KdTfyHjbw "30日目の様子")
+![](https://lh4.googleusercontent.com/vV9UTD960D1sqLhsPGH53QX8eB8OInw4ZxL6UiBfaBA6dJBUAnOR4tIe64PiFvMiPH49pa5vs8RAPEjVbxdWV8rx8_OJn41isiV-SJoB0dTKNPBMoixifJJW4vMCr-u1hjKQJSw1V-m6Qnw26lH6CzfyOe9fqB9KRe1hPwWeGy7n2mKYCiuHHzPKFblH7Q "30日目の様子")
 
 1日目の様子を撮っていなかったので、特に参考にならず、ただ上裸の男の写真がいきなり貼られているだけになってしまっているような気がしなくもない……。元々筋トレなどしていなかったので、以前まではヒョロヒョロで平坦な身体つきだったが、少し筋肉質な感じになったなという雰囲気がある。
 
