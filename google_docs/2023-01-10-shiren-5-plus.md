@@ -3,7 +3,7 @@ title: 『不思議のダンジョン 風来のシレン5 Plus フォーチュ�
 ---
 年始にシレン5 Plusを原始99Fクリアまで遊んだ。
 
-![](https://lh3.googleusercontent.com/ZnF1kBTo7PL0Ymb62c9qfHx_FX_IlL3xxG3VrXaCZ1kKPKF1ZGy278vyNkgwjxIrg9jfd4mSJBJjgfm7xIn3N0kaGbF-GnY0_Cc7EzkZmmSTc8f0Jg5swUSlf8T7jznsTRBFUeKlXGnv1LaG2m9pdkX2GRpkD2BgONA9l7ou5xIBV7pYqjayQFIMrZrYxA)
+![](https://lh4.googleusercontent.com/MkZ-yHmoR7Ws5s8YgOoJ6HmQ0Hug5j_C3KzZQYsNfTPkCCAGDp2WekYYp5VNSiRUDTbEggTwWLw5S8x4SN4zmjJWsnXafF6TjxpyvNxCwMVQS_74oOlyIlP7Pcw5Bj4a-WHlQWhjGoQ0YcWd71Ov3lhi-vfSyXN9O3j3sZWydd14wHluij9qmhQxZ-h6JQ)
 
 不思議のダンジョン経歴
 -----------
