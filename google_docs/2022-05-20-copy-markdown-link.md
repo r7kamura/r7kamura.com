@@ -10,9 +10,9 @@ title: Copy Markdown Link
 
 キーボードショートカットは、デフォルトだとCtrl + M。これはChromeの設定で変更できる。
 
-![](https://lh6.googleusercontent.com/aTunm-7Q5IjzfQgy7Rhy2oDdhSCETMuUDOOKJ2SnsAI8zLX1R3466B7BHrK7dynUIz137EAIg3hdp59e9P05GMR36QfodlTyvYfBRvu-gRifxKorT51wx1FkkpGSKia2STLYR5ulzA76O9S1QcxsA-QAvMM78MlZRCNYLHNFVvro-jVGNaRgFMRRzOxq)
+![](https://lh6.googleusercontent.com/T2wV2p9tkg-UEbYlzvAI9guDsYLGdJHS0hmmYAF1fNGmg2kFx7GfR8ki_A1nIydXKjfUxxPzQD6E_UdCoVrrAp6lRPwKZlLn8tA4oZla4-ua8SPHexAKZ86Eu7GVmRfDl7fsHhSALhy3vjP0e6wbquC3ise0NmqHAjtnJbQbPgFPyfI0pplbd7Kt9SDx)
 
-![](https://lh6.googleusercontent.com/Z4tWJJobM741oqTCKI_DwZ86y7XHe0tFxqskEaEPi4kA64HiRj3EN5-xKqz3FSTadqrcNmAUHSzI5aDtX9t5nBRD0XhBwMr7Patk1wkntdsqj9d8XOzMUNiiNjIgsvfPUALj0Lx-HnZeshkdcaTH0VdP8EqFhA1TT3mta6fR411kIT9q500Hp5zw9r_j)
+![](https://lh3.googleusercontent.com/quhNmhjGpqAv0u_w1SUW-VifY0JvWsCZ7gtK-rKAB2Xc74F5Z5SSMX6arkgrSsydSQWNGjdeo30B9YM0OWvL4Lv8DkvfnWT2rdS2aAOg1Y4UT7By5kLn8MqGA6CcxzAd2XxDd0NW4P1oiFq6cOBVB4wKeHXhmdZgivmammBsXGhyDOBOpsDSHveA8Jo5)
 
 チュートリアルとして
 ----------
