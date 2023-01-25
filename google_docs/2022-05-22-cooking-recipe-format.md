@@ -10,14 +10,14 @@ title: 'レシピ記述形式メモ #2'
 
 サブグラフ（黄色い背景色の部分）を用意するという案も出た。見た目上のノードが散らばるのを防げ、視覚的な誘導もしやすい。
 
-![](https://lh3.googleusercontent.com/Hw8TZ2Uk9GzjfI-Me12Am5yCOL-XNe9YxjwI_vTbLJVLNnb8t2TGOF6RF3BUtCAl9oIrRCQK2VVK03hN1wtNY7On5VrW6Nqndrh7WdH9EBYwWpNneS4_9dmX5wHXle22tCaPNxMkrt-emp3l5rn_tIAYb16PCGcNDTDBfKnEFqWXtLTdIFoY5xBADeGB)
+![](https://lh6.googleusercontent.com/H2ANHzYPlBezjQ2rCp6uLoSU0hJqEtnkwzCHwES2uNYlLzCkswQiLyENPbqas2bpkQAMuRdhykO64PFCkcZ1TUFziHGHDv2KXpDra84Wdv8qoo0Kk4p4LwEQa_dvYv5fEl2qIjH6ZYDCpTYeNjPakSk__RtDqdJzELc4k0JwLM0UHH52ffCuLJgS1Cl2)
 
 複雑な例
 ----
 
 調理後の料理を、更に別のレシピの材料として利用する例。
 
-![](https://lh5.googleusercontent.com/v58gWt9MwXmEFH5b5YVRWAMCJUfsI6KpMpZM-W0Fk4c95stoVil-InEhge3hCgVR1MRRE6W2f2J9MIbzIAiDA2xEq-1uO9kChmWgZYxvgP3_AF0DDppKNMTXySR14hAUFunZFbgSXMKIxlETXUt3XyaFJWwNBxc0TVMq1dJPdUjxLvioVB2nc4_qODWU)
+![](https://lh5.googleusercontent.com/FchRVilAcm54e2ficSnKkJq7YfFO2CqHfCuYm04Tz4RVE1WJA9vH0St8Zuc63kgT0wHMZpKiVpE5b3iiGOMQfUB9npe0HrnUOa-3m2CV_QtLWZH1cMQ3TzPMViVS6uIY8GYzLxjgZ46TcIJPrkV_t7Tjnurj-XldfFLaBdNn8P1KuEk-kMvE6auUHWlq)
 
 課題: 代用品の提案
 ----------
