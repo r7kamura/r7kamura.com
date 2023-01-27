@@ -3,7 +3,7 @@ title: 『ENDER LILIES』をやった
 ---
 ダークファンタジーな2DスクロールアクションRPG、ENDER LILIESをやった。
 
-![](https://lh5.googleusercontent.com/aZ6eZPqy-0IXcVpMErusijCvqGqWcSHLrR6ext6bJJ1Is1ZiQeqJefNtALPwxrxPlTiCl0SYOxaK_zu8m2f2JMIkZvj2nJZFFtLEkQlDOprEWjs7T0iPtj0qwpCHtWWUtSm4iXh5QY1LXEWgEauDF0HxXTdg3T8QZxg3qu6NUKrYzDM0gASbl_9fl6nJnQ)
+![](https://lh4.googleusercontent.com/YLUNOLTkdlQ8_XGbSi03nhXvxbQ8_CyEe7jzcdoyuRmUvCLR84MSWYcnhfYXX5qgjQ5CGPNpfb0O4FkBTnb2J3I_N7Gbj4r1W4Jf06aYHv7snGNbH1-XZru2ImNaji7JDP8ojU-OXKHkYeKMUxsYV5hW9oMDM62qE8pyU7Q2x0bhIDJmCzqCPD6gwjTrQQ)
 
 先週末にRogue Legacy 2をやったことで、この手のゲームの楽しさをすっかり思い出してしまったため、続けて同系統の作品でやりたかったこの作品を選んだ。
 
