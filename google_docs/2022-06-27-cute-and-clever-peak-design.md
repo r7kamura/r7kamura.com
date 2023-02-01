@@ -3,7 +3,7 @@ title: Peak Designのスマホケース
 ---
 Peak Designのモバイルシリーズのご紹介。
 
-![](https://lh6.googleusercontent.com/YlIT1NsJQiEBvl0EerxJ9bpPdgO8X79U8UUPF5kZZuFjr5WnqrKU3M0vrgVYyXWp9OisAEWtQw_sZC6uC96Uwh63rWrqoTWycNEr_WOA2ODn24V8Hkl1XJxdVqoOFwYaZ85gufnXkouQr0UcXogM8Q "モバイルトライポッドとiPhone 12 Pro Max")
+![](https://lh6.googleusercontent.com/3nSQyKVzpfusTy90d-uQfZWhxYM_7cn843tPJK3TS1lXjk_8TTClFog61U8UfgSKoFDDvVYxT73UMdV2Xkt3q0O5vDECB2IOzwxO8XHjXkd12CA6ds6b58vTrKObbja9dFy7p4d8MXca79PZ2Tg0lg "モバイルトライポッドとiPhone 12 Pro Max")
 
 最近よく散歩に行くようになり、オフラインで見られるよう保存しておいた動画を外で見たり、iPhoneで動画を撮ったりすることが増えてきた。そうなると角度の微調整ができる三脚があると嬉しいけれど、ごついアイテムを持ち運びたくはない。
 
@@ -16,12 +16,12 @@ Peak Designのモバイルシリーズのご紹介。
 *   スマホに貼り付けたまま持ち運ぶこともできる
 *   磁石が付いているので玄関ドアとかに雑に貼り付けておける
 
-![](https://lh4.googleusercontent.com/x8Zbof3z8aaL4R0xxFQgUZNdUfVZ-HRkQfYSVwUpXVpF2QMUpvAESAWXMMd1409x2GZdKhBiTwrcR_GOvhuiJBb786DGJzy1CRqS5bR9H5O3HfkwqA8qZRYDY4afz72EqP1HpY8JBjG2Y0G3oyhUWw "かわいい")
+![](https://lh3.googleusercontent.com/DFz7W7vcbUzXg6-9zfreyfDSGbIVYqiHuuck2GfNDinbmFusw--1tCu5ihEXo0aReHlEmKnIJzvosSMN_ZW9cHsU1sTKXfqqtV1XWvnLMfD9CshsvHYW7X9MxQgUhCKC4u-niz23itfPkTBFM-RNWw "かわいい")
 
-![](https://lh3.googleusercontent.com/YdArgzZMdGLL-YS6S_8dHB1em5-tuZCv17qg-0dxZoWDoIUtFvEAHnKN_gAXVuMRg4qDJNR2Rx8WDpgZj3BiclYZ8ELBeaZMbyS4TPVuTL8Z_1aDIZonNbuwvQHhTMt-cdr_SN6XOaQunTUo6IJd7Q "折りたたんだ様子")
+![](https://lh4.googleusercontent.com/72HTO_W5X51X1NH8Dp5xbePI2mJIzmuf-WAJ9bONP2ljuty9djVh0vdTetm4u0V_Ju1D2a-m30nKizNXyl8RMEvrOaHZKgwWOOR_S9yNnwRSwIipl8EO4saJTpJl0fJVx048IRggQqMOgsTIQy2vnQ "折りたたんだ様子")
 
 最初は「MagSafeあるんだからケースあるの非効率的じゃない？バンパーで運用できるものを探したほうが良くない？」と思っていたものの、背面に指を通せるリングも付いてるし、布感のある見た目と触り心地で落ち着いた雰囲気になるし、他の同社製品ともいろいろ組み合わせられるしということで、結果的には大満足。ケースを付けた状態でも、MagSafeの充電器は普通に使える。
 
 最近は財布が必要な機会もほぼ無くなってきたので、[スマホに付けられる財布](https://www.amazon.co.jp/dp/B09FSGW671)を必要なときだけ付けて外出している。これもスタンドと同じで、使わないときは磁石で適当なところに収納しておけるので、たいへん便利。
 
-![](https://lh5.googleusercontent.com/25YOtuDPLrS2CGGx5K9xln4b7uQR3Z6t-WQUURtkTkrW8sGwszZJfaqZQUQO9SXZCXY6cWE5kc5CWr-now0PiC8YAo7E4b6Q0FzNF597ZDyZgKFa0ASHcCghgEcwOOKx5ZplI_0hFVBtHSIgoW20WQ "スリムウォレット")
+![](https://lh5.googleusercontent.com/4L5eOiLItb4SReSWlGAfTX0LjTHUAyuz0MzAevo6pCIPxjIP9i6FgtSNwzZ-iRDgjSqTWEEn92NXW6hlkK8xJMqFo98qXSnGQ9WBMzrlEwQSCePCizjUP5NYRqlrdsKxaSmRC7htq2AzBdBSs0cNAg "スリムウォレット")

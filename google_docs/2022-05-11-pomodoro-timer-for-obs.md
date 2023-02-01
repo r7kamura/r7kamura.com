@@ -3,7 +3,7 @@ title: OBS用ポモドーロタイマー
 ---
 OBSで手軽にポモドーロタイマーを組み込めるようにした。[https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
-![](https://lh4.googleusercontent.com/UXb75z6kfqFZG9YLKyTA8p_Tztv-Wf70I7O_llOICz4tiwZ3MvS9x_uA2zbdVnL3QJNYJTWeabR-vyDuoPdSWMNezVOMFCu_P6_-uF5-cGYfvno5y1wyagnzkCAPjZ75s0PPSSw8Ukd4gUBAE1Ig6g)
+![](https://lh5.googleusercontent.com/GEwFOn49Utbpx3wUIcFCeny38d0Jgagzgeop8BMe6NC2QTU6nQM0LTx-IwObfjn5S4GG_hMNpSI-hRzAHhW7heKdI4pc62TvLVDCRnBXr6lhq4sBlOu8wPT0LSivcuxn8lKiOtLrQkdXFTXm0lY9hA)
 
 どういうものか
 -------
@@ -17,13 +17,13 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ソースとしてブラウザを追加する。
 
-![](https://lh3.googleusercontent.com/HHwwm1ZIJKixTzJfi3BS4_kipQ7k8uScciAcjBrU2wsuPyLwerJ4xwuLKok_7-iCYWK0jFHHWAUFC8n7asbyWjMr94mwRKmHB_0wqiDmNw_E3FNpYOF_m4vgsfEGQQ5MWMrA6Uw3mpTpdwN9vQollg)
+![](https://lh4.googleusercontent.com/qstPrgQPL3wRPie4NrWWYr0yipNZMxsMhi2OoY7-hV8W3FNrJStI7FDToUdKGnrfxJYlrEJw7jnTqX7YyzwDy4zugWQXmu3gZ96QiWe7JaQgiAxVlOfiQ-_VxZ_D6ERLZqa-J0f8YLcuSu83V3lT7w)
 
 ブラウザの設定で「URL」という項目があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html](https://r7kamura.github.io/obs-browser-sources/pomodoro.html) を入力する。
 
 25分作業 + 5分休憩が良い人は、[https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5](https://r7kamura.github.io/obs-browser-sources/pomodoro.html?work=25&break=5) を入力する。
 
-![](https://lh3.googleusercontent.com/f6rfjuV3eB2EbQ1FKDC1GzRcw5kW9Vsx9tL45uuJbp0SPo-RYWLF6Dds_b9MzAyzSbOvTUqMmaNr5bHaJQhHN7-pldZWE7SBUm6izxTBJMOO6PG9GbXUpJ7oegSqZJS5xlDTN1m0aTywxMAV1L_Vnw)
+![](https://lh4.googleusercontent.com/M9u6iiy_7L61cE4AAmDTEYrXQgl6kJgn31eh821-2KwtlmKmH7lxcD6Ar8r4z47NLO0zP_tErtnDiKxv1U1TYZB3b_AgLW8IbSxOaOZm0rvtnf5Xcz0YiioweApas68a_Cg4i8-Ae9HwI9EjIVDsPw)
 
 これでOKを押すとタイマーが表示されるようになるので、位置や大きさを調整すれば完成。デフォルトだと作業中は緑色、休憩中は赤色で表示される。
 
@@ -34,7 +34,7 @@ OBSで手軽にポモドーロタイマーを組み込めるようにした。[h
 
 ブラウザの設定画面を下にスクロールして、ページ権限として「OBSへの高度なアクセス」を指定し 、更に「Work」と「Break」というシーンを用意する。コピーするなどして両方のシーンにこのブラウザのソースを入れておくと、タイマーが切り替わるタイミングで自動的にシーンを切り替えてくれる。
 
-![](https://lh4.googleusercontent.com/cUb2h_4L3kajLeiVdl75Er2wImTz_B4mah8UEjzVvF7Vme5QjuwTE7_EMzl37b84qADalVBfwDxAM2-13Xsl78OKBhZXsJ7Tql1cOMa7LXfnh_rxSED4n9TXO3d7MOKNTrQSYmjdweB9CHTtrAcw6A)
+![](https://lh6.googleusercontent.com/P49t62k6C2kcQ2cU63e9Bwm9Ll46Fs79oH_Diz1FgpsyCMc5ntx9MoLqFbPK7-t2HEmdxRXWDXGF7_VIgvsamPoPRFz6OY2Z1OeC27hPKCvPlwlRGH1oFRyXAo4W_hHOZY8JC09ddFimdI7azxuwig)
 
 おわり
 ---
