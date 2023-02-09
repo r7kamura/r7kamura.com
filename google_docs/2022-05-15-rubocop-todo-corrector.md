@@ -9,10 +9,10 @@ title: .rubocop_todo.ymlを解消するPull RequestをGitHub Actionsで自動生
 
 実装は簡素なものになった。[Rubyに関する処理だけを担当するコマンドラインツール](https://github.com/r7kamura/rubocop_todo_corrector)を用意し、Gitに関する処理はGitのコマンドで、GitHubに関する処理はGitHub CLIのコマンドで行っている。
 
-![](https://lh4.googleusercontent.com/NZzcY0ZP0kzF5hH0egf3LhDNNfyvjuqm-5s_0sh4rdylMXnlZxqOAvlOf_rSRNydSee4zDDZqQJyD_OQZsXkksUjVZZOcn_Tl_T6yZl1gRVAFd5OLw7qa3TXYeBrGKdKraBuDHN5TpbU-UXOxfmvUQ)
+![](https://lh4.googleusercontent.com/VrkZ4LEcp10ouOf8Yf9UJuI_KjZJ9L9ug5DCkVomQpXZxA764IwwN5a3Ok-xmn2rY2vU2OeCO_BV4rhBoTpcs5KOeWmZ1jPCGuHDv-JvMgu5KjLDXQLPIaNT9ba_y8drtATFIsWisuC6znuUfrRqhQ)
 
 前編と同じく、実際に動かしている画面を掲載する。READMEに書かれている通りにYAMLファイルを置くと、上のようなボタンが表示されるようになる。
 
-![](https://lh5.googleusercontent.com/MzVABnK51s5c5san6WAVKgiXmSsHjPY3gIy0pLBIMv5lK_IgBjhKiWJlSMTO6X-VmiiA_Zf4POxX2xPxqlrSXHmTIEPbmvgq8EouSMFrkqn4SCN71wtnRi8etCGppTErfHcQa6zGM2JTR08Ie2rhkA)
+![](https://lh5.googleusercontent.com/MB3U5nd9wZ6-UA3uOei_p7M3_KhdGVZj0i9ZOFgoJxx8LJ78rpZzfyLslnH9wnNqrOT5kQweXIFuPs3wBCzI6BD9Ywrkv7sDWjVlJwodtGtUyZv8_tmTv6FEu3eOyvbnWW3QF4YS4M-jiQrjFewA1w)
 
 ボタンを押すと、1分ほどで上のPull Requestが作成される。
