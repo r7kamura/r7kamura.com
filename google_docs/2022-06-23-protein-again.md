@@ -5,7 +5,7 @@ title: プロテイン再開
 
 日々の食事量からたんぱく質量を計算してみたところ、筋トレをするならもう少し多くたんぱく質を摂取した方が良さそうだと感じたため、飲み始めることにした。運動後、すぐに食事を摂らない場合に飲んでいる。
 
-![](https://lh4.googleusercontent.com/207m_6b6GUHoZ-zcXx_ENWMDVFKeljYzRTqDWAnJN7WmVHFsoHA5PNFJPzliVTiZWcwanHBwhV0Oqhw7iHA7ZsmmTtKMOHqLm5lWP5yWCTQ3tjNhy93Gp1ganxwYiOjW7w2M0XYQ77qncYADWMFvZA)
+![](https://lh4.googleusercontent.com/hvvpTRhXQKxB7XnrryUc6j8J0_kAEz1bwNwAEcEUPQL7i6tpTwWjhGzR3kixvm_s2jowfSHxa_8gqoF1DQGaWkxcN_hwAPUY6kLOsHsbzCnRe5F-etsBo4HI-u8oIESyTyxIyIbbulx7wgikmQJERg)
 
 購入したのは[マイプロテイン](https://www.myprotein.jp/)のホエイプロテイン チョコレートブラウニー味。製品や味は前に飲んでいたやつと同じもの。調整豆乳で割って飲んでいるが、元々プロテインが甘い上に調整豆乳だと更に甘くなるので、無調整豆乳に切り替えようとしている。友達におすすめされた[バルクスポーツのプロテイン](https://www.amazon.co.jp/dp/B086JSPKT3)も気になっているので、次回はそれを注文してみるつもり。
 
