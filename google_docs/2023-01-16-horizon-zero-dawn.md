@@ -3,7 +3,7 @@ title: 『Horizon Zero Dawn』をやった
 ---
 ポストアポカリプスな世界を探索するオープンワールド型のアクションRPG、Horizon Zero Dawnをやった。スタッフロールを見るまで12時間ぐらい。
 
-![](https://lh6.googleusercontent.com/eEQdZApR0KcS5XQ9dZ1YgbE8VQZH7sX4WcDF6Y1l7WLg4q1bhdMh9U6qDBC7XmeChhcz1byORwXOuUVxa6a-wvtJRiUm7b6-HnzPFnozz6Oiq2mCX6AOd_qAyN3FNEuhOtG-x5QIIKurtBcJ-uS52C4)
+![](https://lh5.googleusercontent.com/KMOYDWJsy5Yb4Q67MYvIVOYc2edWGJVjmtN-4drip1Od8CT8jgXLl95b7faM-gj2T8BX6InZCie1Pl9fJmcxUCfQ39ULmXZ7OOeWhBFtN5fC9gTgwRdXdmNfz91KNCmz2JazEofv-zelu4eYSeTSgII)
 
 良かったところ
 -------
