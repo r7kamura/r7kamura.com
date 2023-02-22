@@ -5,7 +5,7 @@ title: 『いっき団結』をやった
 
 ![](https://lh4.googleusercontent.com/U56HY3Q2Y5ocAS2xN56uYe3yKdSnwHuJiTN-PG9IrO0uwHU2FjHMd9hZ7UDCfNd_BoEvxafnc88_qvFT6ncCHYRM3zmxg40mFBAqNQtJ_l5C9VVrFgp8FFKH5MUbgOV_a3Sz3p4Q2Wg6-h0nIG8HCuo)
 
-マルチ版Vampire Surviviors、あるいは昭和のFF14。やればやるほど絶妙なバランスになっているなと感じた。この調整でリリースした判断を褒めたい。FF14にいっき団結コンテンツが逆輸入されてほしいな。
+マルチ版Vampire Surviviors、あるいは昭和のFF14。やればやるほど絶妙なバランスになっているなと感じた。この調整でリリースした判断を褒めたい。FF14にいっき団結コンテンツが逆輸入されてほしい。
 
 * * *
 

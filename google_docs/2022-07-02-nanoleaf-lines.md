@@ -9,7 +9,7 @@ title: Nanoleafを付けると楽しい
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh5.googleusercontent.com/6zyOM-0Z3tjUqv4V8f2hgZFAygKYEd7c-A3Eqo0qQ8R1mdFAQyBFnzUTMoNFnPBnNkDCsUAEtxZsP6cfWO8uI73H9LQ0Knp0Zt-pSkZ4yotTRSbS6QCSnPClqdANSHCCM5lOx2-71lhPa-aefsrcDHA "化粧箱")
+![](https://lh3.googleusercontent.com/WQzpqoziOvpQgrRNRt-qy504Nnr9eydOsrclhxAKf-rbNboydqJXNrEsE5CLLC4Z5svGnDYkrOJ6lHFjS9CtWc37Nt9UrFyQZKN4jsBy51W3MCwFYr2Dfk5oPv3ZSWLBruf3pNa7tVJimbS-0vFajso "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
@@ -21,13 +21,13 @@ title: Nanoleafを付けると楽しい
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh3.googleusercontent.com/rq1Etdo50_f27n31nN6zH5WP76HHKn0jduPYvJJZ33QZgiG8puNozn3RU3fO9vTDsJbznSvcjQIi91TQP1fDLYU4d--rxGxxOC-XOAftWQaetH8Q_nNVWWvkN4QBOaLpAf5wz3jCZXPJUwvbSs020Q "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh5.googleusercontent.com/pKEXt5ryuXCzDRxVsBNRQnj9NfeRVd94pZIp9GdbMcnsOhRO0hjiN0boBvzxWuwSDB8Z8ZouIl4DfYkN7-zZ5fG_NeH_hAtF1hCkqAT-76HwRVwkPr7EhbkD3RHQpv6CUiWAtw-YNCeAurw_ZQImMQ "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
 ……というのは嘘で、配信しながら組み立てをしていたのだけど、iPhoneとのペアリングが上手くいかず、10分ぐらいまばゆい光の中で途方に暮れてしまった……。本体の電源抜き差しやリセットなどを試して、最終的にはiPhoneを再起動したら解決した。やはり再起動はすべてを癒やす……
 
-![](https://lh3.googleusercontent.com/cF3lhC3QgFqbl7W6hlSRtGtfOHMU87DY1xRZps9hMtHXc_L4gIhUs6z9JeK2OCw5kCzBE4_J5dDIMAuZqmU65cAT8-s1nqCgwEkvkf7yk7J3Nd7ZaCwkOPSoawdtuxRb48Z4d9nVujI6XUnbQ_hobOQ "設置した様子")
+![](https://lh5.googleusercontent.com/viblEW1Frt6yzmZU5NKNE0SaCOzO_GEdjPOEwYD7COg8sanIgf3TG4ioeILJHnerc5d6oOCeZffCECBR9ft-MK_RyjV-a71Nu2iRs91p5eb2E9CYpYLxuCBNUaBGKUTaM6KWeTOqjqjp0haV8ApNEFQ "設置した様子")
 
 設置したあとは光らせ方の設定。アプリから提供されている膨大なパターンの中から好きなものを選んだり、Razerのアプリと連携させてパターンを同調させたりできる。うちはマウスパッドがRazerのやつなので、マウスパッドと光らせ方を同期させたりできる。これはRazerのアプリ主導でパターンを決めるのだけど、再生中の音楽と同期して光らせる機能があって楽しい。
 

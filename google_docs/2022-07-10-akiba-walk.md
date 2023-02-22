@@ -3,7 +3,7 @@ title: 秋葉散歩
 ---
 週末、気候が良かったので秋葉原まで散歩してきた。
 
-![](https://lh3.googleusercontent.com/6g-PD8n9IXI6X0D5jJNpP6WTvR5V8hP--13DBNRX9gjwI8OXKcnas1g-vdlLWsKLviPrKlcI8Ao-d_1HCnWB6-sk--UlZEBfpJDL_e0jiGzicORLzyKg48zjv7ow9VnKCJTNq-jm4dRdSC2_wZGMRR8 "鳩からの視線を感じる")
+![](https://lh4.googleusercontent.com/LrJQS-Fj2_ba--ImOEwBPHqCikr77IiE9KCKlhMHZea7C4b3Ii1qncLwdLoF5UOUm5hAsrdGeI_-CWyi8KJF4TEHbZTaKOJiHey6O2MrcXhqF3_uCy3cnHhjJXFIFPe8uFkXOU03pVJH3RzaM83hTvA "鳩からの視線を感じる")
 
 港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
 
@@ -11,11 +11,11 @@ title: 秋葉散歩
 
 動物はふだん猫と鳥と人間ぐらいしか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
 
-![](https://lh5.googleusercontent.com/ojbG8CQFbHddx1Gl4FDeuuR-nF-9Wp8063Emp0bjX3IbzGdnhFM0N5_63GQo5g55bYWovvGtjdJ_PArn4GdWbtSYpitw0SEFhgWZ1x9e8ZyH-AS8FSIUJtt2GpW45X1w300WvsvI7J6NSfrrNJJBxcU "ヨドバシ秋葉前")
+![](https://lh5.googleusercontent.com/lN2cVxZt-Tw3EBpIG5_WWF6edNUM4uoSbvPR7hwAB3yqiZ21YGQPqdWU2h5xXi1vlRm7DQiaTXoiHpm4hj7iCzGjAUddAzWI2AVcO8V88z7lxpRZWee3HvS8ey4wpiuQ76GbJ8Zqi3x_IIXZfG6ZdXA "ヨドバシ秋葉前")
 
 初めてカメラを買ってから、この日で丁度1ヶ月経ったことに気付いた。毎日9時間作業配信に使っていて、その上で散歩中たまに静止画を撮っているので、使用時間だけ考えるとこのカメラには相当お世話になっている。そういう訳で（？）ヨドバシ秋葉で前から欲しかった焦点距離85mmのレンズを購入し、嬉しがって早速付けて歩いた。
 
-![](https://lh6.googleusercontent.com/C3LQiEvql6lbhtqE3qnR49opuee75tzzhQ27GD0XSboaHRGlav7q63ZIdwVaPXguPX2CSPcy9u8iltzYCOEcJRhQDq5QOuw2jwJReRTyn3cWQEG7-jOhsx3DmK4lq7xUBfKkAgX6LxasKg_vQ01zPdo "宝飾店のかわいい椅子")
+![](https://lh5.googleusercontent.com/HA2347qxVP44Donl9P5V8O2KdMDeY24-A3VmBISNiONR6enDJFqow1XiQNQrFhjx1zPTpCc0OLgm0QDkekE7E4LwqAD4kgHr9bunNEjhhCQGfTxkKnvLCVFa0rRYkgBS4SZt8BbOp8vi7yEGMovhSU0 "宝飾店のかわいい椅子")
 
 秋葉原からキーボード屋さんを目指してふらふらと歩いていると、おしゃれな雰囲気の高架下が目に入り、つい吸い込まれた。秋葉原と御徒町を結ぶ高架下には、2k540という職人街があるらしい。手作りの革製品や宝飾、雑貨などのお店が並んでいてたのしい通り。
 
@@ -23,6 +23,6 @@ title: 秋葉散歩
 
 作業配信で環境音として打鍵音を入れてみていることもあり、打鍵音の良いキーボードを求めて、自作キーボード屋さん『[遊舎工房](https://yushakobo.jp/)』へ。いろんな部品や作例が置いてあり、試しに打鍵することもできる。店内はかなり賑わっており、熱心に店員さんと相談しているお客さんが何人もおられた。
 
-![](https://lh6.googleusercontent.com/JohoRGsf7u_cKE6pbAWeJ7I0Vb8GHVo0GmDNtCUTPQqC6u7-b579GCkDcu2yC2ndo3QDAd4JXHeEXh0d6-nwT3TOjxG6Y99Ew7BoyO_OSaLp0SpC1Xh-EKrYxvuEJcpfXruK8yokXHyoyEoHhLHRCVg "神田明神")
+![](https://lh6.googleusercontent.com/ohOyo89RxmR9UL3LKz8klAG9aa0LpkHHjclKx9jgLUoYf-HpWi5H0H3zx3O6hGQqq0jkmSct4vuFckfUwT2o-CejQRlLXmyf8aZ7xoEEj7wlea7i52j903OWhh-79X335TAAYYFV9TkQggi7PHtHcxw "神田明神")
 
 近くの神社にお参りし、帰り際の電気街で謎のガジェット達や激安テープライトなんかを漁ってから帰宅。特に計画なくぶらぶらと歩いてみたものの、都内はどこにいっても見どころが多く、たのしい散歩だった。

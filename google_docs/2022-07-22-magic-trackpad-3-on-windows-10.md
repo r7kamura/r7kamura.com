@@ -11,6 +11,6 @@ Drivers-amd64-ReleaseMSSigned.zipをダウンロードして展開し、中に�
 
 ちなみに、ドライバを入れる前の状態では、まず有線接続した段階でもWindowsにタッチパッドとして認識されて、ポインターを動かせることは確認した。その後Bluetoothでのペアリングも正常に完了したが、無線接続ではポインターを動かすことはできなかった。その段階でドライバーを入れたら無線接続のままでも動くようになった。故に、事実上このドライバーの導入は必須だと考えている。
 
-![](https://lh5.googleusercontent.com/wPK-zo-ztet8PlHPfx4vhNNoKhfkupZ0S74DRuJgrB1UJq70CLT5UNlCsj_lG9gQdEvWOtCqE2lNAEdGUsYZn7KH04eOPQM6w4is9g02FDgLRZmu0YPWo7moJrwHrlvP5MXwgYENJJY5qt7k0NZY2Go)
+![](https://lh6.googleusercontent.com/KK-8rWggB-EnWyZ1HG4wM8R7wyA9cQJMkOiXUm2uQVx3zdSMPBk0z1gUh0n8cAslrkxLOIfSzBb2xmEf-Df1mQ-GGoULWKsbjXYlS92i7FEGN0uXlNiLg1xBQ-61a2Tye5QqeLRZYGxYdDsNwEi3_HU)
 
 Appleのトラックパッドは質が良く入手もしやすいので、これがWindowsでもまともに動くのは最高。

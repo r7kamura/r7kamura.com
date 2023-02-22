@@ -5,7 +5,7 @@ Ruby向けに、[vscode-ruby-light](https://marketplace.visualstudio.com/items?i
 
 最初は「メソッドやブロックをもう少し上手く選択できるようにしたい」というモチベーションで調べ始めたのですが、気付けば色々な機能を持つVSCode拡張が出来上がっていました。この記事では、幾つかの機能を紹介しながら、関連する話を書いていこうと思います。
 
-![](https://lh5.googleusercontent.com/Ti4Xv35AnKz10LlezgPZotbbKtQLo48CbWYyWQoir68YNl9M6IfDt6eossr5v0EJD_Jz00FZq-q9oBnkld2QM5PRlhKYJXms4YKupes16SqzKZMLVRSccZbld7ao97-voKGSKK6XO7z3b98H10UlZTE "Selection Range")
+![](https://lh5.googleusercontent.com/goIObxDx1aKRCk0vbk7FDCYYLlMnXwDTRXdbtQYwvDFFNI8MCxcnM2iplo9BJazsHUpw-j_ujtwT0yIV31vFTfR0sqU3Za2UY0BG8Ro-Cn6qfY9tYjSW-thjLhrq_-VSkvoMNhxiuEFpPgn0rOrPhD4 "Selection Range")
 
 VSCodeにはExpand Selectionというコマンドがあり、選択範囲を拡大したり狭くしたりできます。このコマンドには、例えばWindowsであればデフォルトでShift + Alt + →にショートカットキーが割り当てられています。
 
