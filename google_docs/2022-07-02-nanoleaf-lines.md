@@ -3,36 +3,36 @@ title: Nanoleafを付けると楽しい
 ---
 なぜなら、壁が光ると楽しいから。
 
-![](https://lh4.googleusercontent.com/mk8X-I_dyK8Mj1zxvvigu2ywWHUEXsFjfiksw_-RsUDCsqBuCFlPCgtxfTiVsDL_hZ2KJHV1MDchAAH7inUH6kJJBWmC1lu5oPptKfCE-ph-CB0dKxAG6TIeDLJkDwvSLm3TwHFak3k-NKryEMGpeLo "Nanoleaf Linesと作業机")
+![](https://lh6.googleusercontent.com/AE3dygStQ5HVjTxUi3s-AMQoKDeSdC-51I70vqFFR4QH0NyZVlX1bb1SKneLjeGHPIInGM5lgo0IyZKP5NhKkE2Dh9ZGV_J7nuZuWy86pUgnrLVB6EoZwFgA3UOkdE1vH-QtEA9maKjrpHZ-Tumv0Q0 "Nanoleaf Linesと作業机")
 
 5月1日から、[作業の様子を配信する活動](https://www.youtube.com/c/r7kamura)を続けている。その取り組みの一環として、毎日少しずつ作業環境を良くしていこうと試行錯誤している。配線を束ねて整理するとか、画面を綺麗に拭くとか、壁に時計を掛けてみるとか、そういう小さなことでも構わない。昨日より少しでも良くしていくことが大切だと思っている。1日1%なら1年後には37倍良くなる。
 
 今回は壁面をもう少し良くしようと思い、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)という壁に貼る照明を設置してみた。Nanoleafはカナダ発の消費者向けスマート照明機器メーカーで、「海外の配信者がよく壁に付けてる六角形の光るパネル」を売っているやつら。Nanoleaf Linesは2021年末頃に出た新作で、写真のように棒状の照明を好きな形状に組み合わせ、節点を両面テープで壁に貼り付ける仕組みになっている。給電は有線、操作は無線で、iOSやAndroidやPC用の出来の良いアプリが提供されている。
 
-![](https://lh3.googleusercontent.com/WQzpqoziOvpQgrRNRt-qy504Nnr9eydOsrclhxAKf-rbNboydqJXNrEsE5CLLC4Z5svGnDYkrOJ6lHFjS9CtWc37Nt9UrFyQZKN4jsBy51W3MCwFYr2Dfk5oPv3ZSWLBruf3pNa7tVJimbS-0vFajso "化粧箱")
+![](https://lh5.googleusercontent.com/a9FtwZyypgpfozvu86ucID9wIjL0mCxNchXMiyXPvLmLKOBTd3oyTMmh8jzCdjYYpjRJWGiJ8ne_3r_q43fc8lAdjIAC4E0BXm5Lqc8BDrvksfWDqVicCJzL68lJ7-BJ9u3_rNB4CEKLS06DMxO4SsA "化粧箱")
 
 ウェブサイトや化粧箱の説明もしっかり日本語にローカライズされている。スターターキットの箱に “スマーターキット” と印字されている可愛い翻訳を見つけてしまったが、これは……スマーターキットで良いのか……？
 
 しかし日本展開にはかなり力を入れている印象で、Twitterの[@NanoleafJP](https://twitter.com/NanoleafJP)もあるし、Instagramの[@nanoleafjp](https://www.instagram.com/nanoleafjp/)もあるし、更にRoomClipの[NanoleafJapan](https://roomclip.jp/myroom/5824865)もある。日本に実店舗があればもっと流行ると思うので、代理店でも良いのでどこかに来てほしい。
 
-![](https://lh3.googleusercontent.com/Fm4GMUfxHDAawAfJjAKam5RVcPp0SlwBwcF2sAoanTcCLQ2iVYLCx7TslpJSwQjukZHAb4k18sbpkqBOKt3ZB14hSBKfQ0VEIYU3ov253fu0iFgwSl-JrqATdR93NUmV2YURK_mqHBSTCRjqQcnjGw "形状を考え中")
+![](https://lh4.googleusercontent.com/kAJfQWc1wAXx57f7soNEd9ZW3K3mNUqFZj2selUIQUs0wFSFtb8q-hUXJv_ZDf4KVMbwvG_70ExpwevT5JTPmrkMuRrFBqUubDg8TLY86p54l8b0mrIOAZVv7kob6Uy_tzNtM28fIGhW72jcVipmGw "形状を考え中")
 
 スターターキットには9本の棒が入っているので、どういう形状にするか決めていく。これが一番楽しいところでもあり、難しいところでもある。こういうときはその道のプロを参考にすべきで、Instagramに[Nanoleafさんの公式アカウント](https://www.instagram.com/nanoleaf/)があるので、この作例を見ながら考えてみるのがおすすめ。設置場所の大きさを考えると、横幅をこれぐらいに収めたいとか、高さをこれぐらいにしたいみたいな条件があると思うので、大きさを基準に合うやつを考えていくのも良いと思う。
 
 自分の場合、横に広い形状のものが良く、拡がって繋がっていくような雰囲気で、少し崩したような、しかしよく見ると均衡が取れている感じにしたかったので、こういう形状にしてみた。[3本入りの拡張パック](https://www.amazon.co.jp/dp/B09JHSG2R5)が売られており、どんどん大きくしていけるので、徐々に部屋中の壁が侵食されていきたい……
 
-![](https://lh5.googleusercontent.com/pKEXt5ryuXCzDRxVsBNRQnj9NfeRVd94pZIp9GdbMcnsOhRO0hjiN0boBvzxWuwSDB8Z8ZouIl4DfYkN7-zZ5fG_NeH_hAtF1hCkqAT-76HwRVwkPr7EhbkD3RHQpv6CUiWAtw-YNCeAurw_ZQImMQ "ペアリングが上手くいかず途方に暮れている様子")
+![](https://lh5.googleusercontent.com/azl8ZiOJy4NAvIzb5mPs2wnpG8C7DpqKBMemxM4Bo9i0aDVZ_iqxzN5mjOpmCs5TEzCCq5YHkVGZR3ZNFT81UD4s94M6B9HXKLPratvbQKqQ0TUskGUENbtNv73AJ6U2JvWjs1W5_GpmjgbZQSxAKA "ペアリングが上手くいかず途方に暮れている様子")
 
 設置は簡単で、部品をパチパチはめて両面テープで壁にドン、電源ケーブル挿して点灯、iPhoneにアプリを入れて製品に近付けると勝手に認識して設定完了。実際やってみるとかなり簡単だったので、特に困ることは無いだろう。
 
 ……というのは嘘で、配信しながら組み立てをしていたのだけど、iPhoneとのペアリングが上手くいかず、10分ぐらいまばゆい光の中で途方に暮れてしまった……。本体の電源抜き差しやリセットなどを試して、最終的にはiPhoneを再起動したら解決した。やはり再起動はすべてを癒やす……
 
-![](https://lh5.googleusercontent.com/viblEW1Frt6yzmZU5NKNE0SaCOzO_GEdjPOEwYD7COg8sanIgf3TG4ioeILJHnerc5d6oOCeZffCECBR9ft-MK_RyjV-a71Nu2iRs91p5eb2E9CYpYLxuCBNUaBGKUTaM6KWeTOqjqjp0haV8ApNEFQ "設置した様子")
+![](https://lh5.googleusercontent.com/v-5sTg6blkkXJEMonkX_u3h97zilFVUxs9dq0ZuALKsfIDSJY4N9caSe0SQ7pnWBc07lMRM23yM9wJXHW-agJMotivjYDFr7msT54dULwDOswC24FVW6n_eYY-IV-GF5DWoy970wxhONuSwjhKUKXic "設置した様子")
 
 設置したあとは光らせ方の設定。アプリから提供されている膨大なパターンの中から好きなものを選んだり、Razerのアプリと連携させてパターンを同調させたりできる。うちはマウスパッドがRazerのやつなので、マウスパッドと光らせ方を同期させたりできる。これはRazerのアプリ主導でパターンを決めるのだけど、再生中の音楽と同期して光らせる機能があって楽しい。
 
 個人的に面白いなと思ったのが、環境音に反応する機能。本体にマイクが組み込まれていて、発話したりその場で音楽を鳴らしたりすると、それに反応して光ってくれる。配信中に会話しながら部屋を映していると、話すのに合わせて照明が光ってたのしい。しかもこの音に反応するやつのパターンも豊富に用意されている。他にも、PCで映している画面の色と同期したり、部屋の明るさに合わせて輝度を自動的に調整したりと、機能は盛りだくさん。
 
-![](https://lh3.googleusercontent.com/lM9mNwueRsBzScXW7z2XXqCEU3SMkEr04EB9EC0rGp-ntYCO9qvUBBvCtb_zYtzK8x-jyXNi5sltNxFkWICTugcEn1iVIibkHGWcywPsc0zvOyk47DzsAtAKxQ21vasQNF5tHCW2Zv4rRivaiwfsI2U "暗い部屋もかわいくなる")
+![](https://lh3.googleusercontent.com/Akn8ll_-6dbtDeuvuG5n8K16W7FeZA1hTEZ7PJRsptRq7r-2cj1BgyP7ZiM25OBbKqfdxtJRyFGzL6Ud4y1gRAfAfpQDKaKsTZpsOPtjj6vcLg7o1GmDTEiYdJto94oxJ4ULFgOCyWy4zW74P6Jh1jA "暗い部屋もかわいくなる")
 
 以上、[Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)の様子を紹介しました。壁が光ると楽しいね。

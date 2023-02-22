@@ -3,26 +3,26 @@ title: 秋葉散歩
 ---
 週末、気候が良かったので秋葉原まで散歩してきた。
 
-![](https://lh4.googleusercontent.com/LrJQS-Fj2_ba--ImOEwBPHqCikr77IiE9KCKlhMHZea7C4b3Ii1qncLwdLoF5UOUm5hAsrdGeI_-CWyi8KJF4TEHbZTaKOJiHey6O2MrcXhqF3_uCy3cnHhjJXFIFPe8uFkXOU03pVJH3RzaM83hTvA "鳩からの視線を感じる")
+![](https://lh4.googleusercontent.com/KE69bfDe62pbuKy3DpqDnJ0xs7WWbdwAwCgVMgknXTxpr1aQxnx9VFTx2hmJoxDbfHTFb-0u2WfPUVeDyJFNj8ckjlonFrOATND5j1lDLhFya1Bx2CyPpZPDKRq9YjJ33WGFDOcQr1lrEzjEKP6gtDI "鳩からの視線を感じる")
 
 港区の水路を歩いて北上していく。この辺りは自治体や近所の人達のボランティアによって植物が手入れされており、景観が良い。何かの視線を感じると思ったら鳩。
 
-![](https://lh6.googleusercontent.com/fYM3iap7ZySvWqSUIE3B0hu8ojQAmmS2q_bW5SkU2zaJA8vem_1hXnFScOBbbbIEAPZ5pQRFG82wkkdC_LQzqFCs2_65EX3E6v37Wz79eQ_8sbKqo09a36RBYK408bSQaZHOG5coVTGXul8QVcJaspE "アゲハチョウ")
+![](https://lh4.googleusercontent.com/Ldpp4tD6N7G7mygu3UPNvbL6lwjQoTG0RTL88Z4LqUibgQIwPRJtUVjCyGlS32Jv8QLaVxk4urOLb8Z_8RBC3mX2-3vk3ACW3y2c3vnWUWEb_7spqcUNvUnjXG-bm3Okuh4ktUa-KZeCzPtNY9qc6hw "アゲハチョウ")
 
 動物はふだん猫と鳥と人間ぐらいしか撮らないが、この日は気分がよかったので、舞い込んできたアゲハチョウも撮った。普段からゆっくりと撮っており、カメラの操作がまだまだ苦手なので、こういうすぐ動くやつを撮るのが難しい。
 
-![](https://lh5.googleusercontent.com/lN2cVxZt-Tw3EBpIG5_WWF6edNUM4uoSbvPR7hwAB3yqiZ21YGQPqdWU2h5xXi1vlRm7DQiaTXoiHpm4hj7iCzGjAUddAzWI2AVcO8V88z7lxpRZWee3HvS8ey4wpiuQ76GbJ8Zqi3x_IIXZfG6ZdXA "ヨドバシ秋葉前")
+![](https://lh3.googleusercontent.com/kVcps0wDBe5R2veYTR-kr1QO5FnMuWezRfDpdQp_TrZB0sqC8kJ8OCEU9vX7X7fLqbjvyN-D1C_Yrv3_RNtNEmfpC7tgj4N4tj6FUAQC96RJ3xfz355r7Yo6-bIwzNL5BNuq1DvmYFEkUqEjBvlQYM0 "ヨドバシ秋葉前")
 
 初めてカメラを買ってから、この日で丁度1ヶ月経ったことに気付いた。毎日9時間作業配信に使っていて、その上で散歩中たまに静止画を撮っているので、使用時間だけ考えるとこのカメラには相当お世話になっている。そういう訳で（？）ヨドバシ秋葉で前から欲しかった焦点距離85mmのレンズを購入し、嬉しがって早速付けて歩いた。
 
-![](https://lh5.googleusercontent.com/HA2347qxVP44Donl9P5V8O2KdMDeY24-A3VmBISNiONR6enDJFqow1XiQNQrFhjx1zPTpCc0OLgm0QDkekE7E4LwqAD4kgHr9bunNEjhhCQGfTxkKnvLCVFa0rRYkgBS4SZt8BbOp8vi7yEGMovhSU0 "宝飾店のかわいい椅子")
+![](https://lh6.googleusercontent.com/jyukIgo9Ts1RvhguuF2Yji2poLmHxJfKYPJM0s_GNBL7s5fcMoF0as1wQRkMdaZbRdeSzA3gGAcJPP3q8HGwbSj9O1eNkqfJOsLf_MLKkAccUEbQzsn-mnzLdMom-jq9hl8zIOpWxbnLToVBr2O-1tI "宝飾店のかわいい椅子")
 
 秋葉原からキーボード屋さんを目指してふらふらと歩いていると、おしゃれな雰囲気の高架下が目に入り、つい吸い込まれた。秋葉原と御徒町を結ぶ高架下には、2k540という職人街があるらしい。手作りの革製品や宝飾、雑貨などのお店が並んでいてたのしい通り。
 
-![](https://lh3.googleusercontent.com/-rgJEp-__wzntynuSuBIrUJjXqgbMrYTCvYHQHkEX7y4l86Ux40jFvzCASGAwg668fTKCgfjwqZSm-Myd7N8LV73EsJSZfakhPNm1Jcav98yVlUa_atz7JIesGKVGUxo38HyhI3F-kJePv3LK7vr0lA "遊舎工房")
+![](https://lh3.googleusercontent.com/CyVOkCXXF3-hyXcaF-MkeX9ono6uogzkN0LqK_CPNAPCG-JWE6znC9EmBFgJrexVnXdAcyvgHQ8nmcGMr87YMz3WCtz1jxclHU6BQtxzvoat-R2T5W8_VMudOx9Rgz2CajsqPZRxjFlwa28NxQrVz0c "遊舎工房")
 
 作業配信で環境音として打鍵音を入れてみていることもあり、打鍵音の良いキーボードを求めて、自作キーボード屋さん『[遊舎工房](https://yushakobo.jp/)』へ。いろんな部品や作例が置いてあり、試しに打鍵することもできる。店内はかなり賑わっており、熱心に店員さんと相談しているお客さんが何人もおられた。
 
-![](https://lh6.googleusercontent.com/ohOyo89RxmR9UL3LKz8klAG9aa0LpkHHjclKx9jgLUoYf-HpWi5H0H3zx3O6hGQqq0jkmSct4vuFckfUwT2o-CejQRlLXmyf8aZ7xoEEj7wlea7i52j903OWhh-79X335TAAYYFV9TkQggi7PHtHcxw "神田明神")
+![](https://lh5.googleusercontent.com/GPXuHZkysCm976yf3VoJ2OxRqMFSsgSv1sS29FKuMUSRfGH59XqOPey6AlNGqS6O1ZO17nwrCbIA3SNX2hqyrguTWuj92vqjrUQppMQuCYbnoBlF4rmv7o8CDO7Y9XggMcVByGQZdeBVbSOR4yjOlIg "神田明神")
 
 近くの神社にお参りし、帰り際の電気街で謎のガジェット達や激安テープライトなんかを漁ってから帰宅。特に計画なくぶらぶらと歩いてみたものの、都内はどこにいっても見どころが多く、たのしい散歩だった。
