@@ -3,7 +3,7 @@ title: Windows10でMagic Trackpad 3
 ---
 Windows 10にドライバを入れて[Magic Trackpad 3](https://www.amazon.co.jp/dp/B09BTT6FJ9)を無線接続してみたところ、普通に快適に使えるようになった。
 
-![](https://lh4.googleusercontent.com/E3PLLKT7hbTkO9L8gdM60cNQrIHjaJPsb777MGc_ml51vjFFQhlF8I2JZ_3crEX72T1BNszUPTjTn0oHP8M0sDTI3umvlimrFppPnT5DT8rV-d-2XB5RsB2v-h0E-7IshxxnusStkzN_o4CaeK0GCSE)
+![](https://lh4.googleusercontent.com/w9yK5Nhf2Q6HwE0CYUUmZd9OdoqTyGdYFkGozIVf0CCeThXJi43msr3zrV3rRtcrWs64P4mqpG16DhlGxRpRa011969ZrswxI_JTE_kzl72gLH3_vu7Dt4IRfhAv6vn1-pQFzXpAMZcT1gfow-uID08)
 
 Magic Trackpad 3は2021年8月に発売されたモデル。これをWindows 10にBluetoothでペアリングし、[mac-precision-trackpad](https://github.com/imbushuo/mac-precision-touchpad)というOSSのドライバを入れたところ、4本指の操作なども含めてまともに動くようになった。細かい使い心地についても、個人的には特に申し分ないと感じる。
 
@@ -11,6 +11,6 @@ Drivers-amd64-ReleaseMSSigned.zipをダウンロードして展開し、中に�
 
 ちなみに、ドライバを入れる前の状態では、まず有線接続した段階でもWindowsにタッチパッドとして認識されて、ポインターを動かせることは確認した。その後Bluetoothでのペアリングも正常に完了したが、無線接続ではポインターを動かすことはできなかった。その段階でドライバーを入れたら無線接続のままでも動くようになった。故に、事実上このドライバーの導入は必須だと考えている。
 
-![](https://lh6.googleusercontent.com/UAOwIkRg4V9LMGjscXJ_bkeuTW9P-8J2lkKCRW4lt7N8srM8igwBpZsz7X5vh8ReB4OkjckT_fR9X5w5PmzVQAKFMUPsQ0U043Ohd52HMfZC8SxLjArpAZsK6NhwcdCHX7ZELRjJr-ARqClQhkBKJpw)
+![](https://lh5.googleusercontent.com/otO7OrE3BhSN2y_B5Zu0pBloP7MRG6JnlZ7ojKvcv4KXon59C7fTodOz9_JVNZXwC_P-Au51MOJmQ9uObmRLzZzZD5hD4wd6SSAcEBJa_QqpqAva2JWuPL7EHtf8t4qWdLRJ8wBQMqXRkbZMuUFSGjk)
 
 Appleのトラックパッドは質が良く入手もしやすいので、これがWindowsでもまともに動くのは最高。
