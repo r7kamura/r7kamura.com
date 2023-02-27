@@ -3,25 +3,25 @@ title: 染めQで黒に染まれ
 ---
 手持ちのガジェットを染めQで染めた。
 
-![](https://lh3.googleusercontent.com/prdDEi5C_jMV9-_h-CEK49SNxdrcCOlMn_OVLCo6WEvwMHd4XY5EV6B9ZTgZrr8R94D6CN5QbH9agin9PgwAWnBsc5rHkzL38QDv8e0PTsQJXnlZuLD_MCmzR6DRjO-nkHOO6ppQgrg1qybO5ysGsQ "今回染めたもの")
+![](https://lh4.googleusercontent.com/m7DLW9LDs-ZC70DKFoqtbDmNRhe8Xyfxjk1F3XNYJL6xfYEdqrg7Bvc59aduvdxGNWkxsz2NHc_F9EJd6EzYM0cK6h5hnerfOBfW-ZSs93tAKa6WpPlElyYU3Tk3UGJETJLh2p_Ae_9s0r7iXpWGCw "今回染めたもの")
 
-![](https://lh3.googleusercontent.com/oGSXTo6M9TvO793gEyvAq27wYJb7r7w653FaqY5U-9OnjvqNXKp2OnDd4GiDPJefpZwwsJP_Q_b4A9k6nw5HLCVdnvzw3t89zGF2ZItoV8sUVYluOhKwr0MWwbwLtWfUODFSrjnamp3F3g1V-rynAw "染める前")
+![](https://lh4.googleusercontent.com/gtl5KBs3coaIK9rxOn4LmgjE1j9ExteRcWbsX-OAX4FkeD2f5XFblt8bzgfouFaeZEXFY00E_lW_Lc0ChYur0rtjEKix6Ha6gEB6CrOKZ11ARdp2tKN5Vy8rlOkL3AK2FiVVELdptNfXg2-XBTS4DA "染める前")
 
 今回染めたのは、[AnkerのiPhone充電スタンド](https://r7kamura.com/articles/2021-09-06-anker-iphone-stand)。
 
 「色数を抑えろ」というのは、グラフィックデザインであってもインテリアデザインであっても、基本中の基本としてよく語られている。自分の作業机でも、使う機器を黒色に統一するよう心掛けている。例えば、黒のNintendo Switchを選ぶとか、黒のマウスパッドを選ぶといったような具合。
 
-![](https://lh5.googleusercontent.com/DA68Li5ofu9IqycEJmYqF9o4iEjI2LStQpLl1DZ70ysm7tnDOOCTfaYVQ255s1R4PGzLSLq94CJcAJLgqsIUo-C0QThMm72Us_ooSrhIx_4QWrEUdfJokzNovhytEoww5dJaYzVszCw-jcCkTSa5bg "色数が抑えられていると落ち着く")
+![](https://lh5.googleusercontent.com/nTPlyWELPK1FhjRAhk9P38Bco6IcRT8wDXCBUx2cTesFduYkVTq1adCy-OxyRTXovh0S3MQCPBrAuzC_pZrjU4rDlmChwV4lShtCAxQdiW_v8L7kMgiCyYRO42g79jPt8sQsY7E0xh8GwEc-wF4HrA "色数が抑えられていると落ち着く")
 
 しかし、一昨年購入したAnkerの充電スタンドには白のものしか無かったので、統一感が無く目立ってしまっていた。このデバイスはアクセントカラーを入れて目立たせたいような存在ではないので、できれば周りの色と合わせて溶け込ませたい。AirPodsケースは市販のカバーが沢山存在しているので、見た目は変更可能だが、充電スタンドはどうしようもない。
 
-![](https://lh5.googleusercontent.com/YRXzrNaDNK-gsPJBAHAB7rzzUyY6zK8zNyo4EAgo1POIrwMIr6CyZph2c1ocCUCV4rpWQZfmYXdBuAc5g9xFQb5GAUngruTO7wjotng9xdvANlasoE79dtbvuY0qw0unxj6ZG60u9y25jmHEyMxDpA "充電スタンドが白くて若干目立つ")
+![](https://lh3.googleusercontent.com/AIzYctsNn0WtCdbuhc-AXHrNdtoiKs0NUkbq1nM75RsQb8RcdA7kxoX1cQttU6cUlUxPgjz7WmJJOkBBr3_nS77ynaAqjhpQhFWSHs-7aH52nPDIsoCr_v2UaEujG4l1hS9NLkNf9MLaKd9qOasjFA "充電スタンドが白くて若干目立つ")
 
 そこで、[ミニ染めQ エアゾール ブラック](https://www.amazon.co.jp/dp/B003QMFUKO)で無理やり黒に染めることにした。染めQのスプレーは、一般的な塗料と比べると少し高価なものの、一見塗装しづらそうな金属やプラスチックなどにも使えるのが良いところ。70mlのミニタイプでも、このぐらいの塗装作業だと余裕で足りる。
 
-![](https://lh3.googleusercontent.com/N3RIxlnNWU8qAWH0d89PcjmbtxRZcVjA-CTAILgmIQ_SkIah_RjUErDC9dovK6ILdhBOMnORvpdQlvuRjDtrliY_mtHA5bPhVrUIWtd9j7dcM-ie7lsPAijXxDhpYgNfW38MoLFecYU5Z3PFDu3_XA "塗装中の様子")
+![](https://lh4.googleusercontent.com/Ypi6vgStCCCBD3uEiiWBBA1lZKbRPE_T6spxnjhAnEnxrjaGeRT8zumozkFzEw00qZn9QdFVqcQ1yNIAiVvieUm4Tv-0bJ03BspB1yoi90Ak_1J_kc_3lG3iOjCuIiy9s-w9eIY2ffjeUep0FV4k2g "塗装中の様子")
 
-![](https://lh5.googleusercontent.com/Lcj0vgql6p3XuFQ5oBv-v4AHiEpqOkpEZgYvd3Ag7zvbNrcUM7c49wYcamaEhE1bdVxUeQ6h0h_PyRgLCuOe-2TABuJVE0SLifJhfwiZQ4WBPdonlg3NaAWTaNenxk6g-cbIn52auZJ8r2DR82_Oug "金属の柱も問題なし")
+![](https://lh6.googleusercontent.com/2sW-zG0urpFlcPr4pl-Or66LR-7_W7UFqjsTIm4paOpOPWTLSEXGQBZ0SUUwI0BubbBTghY2bEitItR0sT-oj8-YlxLIMocngBQO-QLQarg0OSz3eniJRbRVz-2alZfqRPZULmia_PHY2-pT-tQWzg "金属の柱も問題なし")
 
 15cmぐらいの距離から素早くまんべんなく振りかけるというのを、20分おきに3回ほど繰り返すと完成。初見プレイにしては意外と上手くいったと思う。表面に傷がある部分が少し浮き出てしまったので、事前にサンドペーパーで擦るなどしておけば、より完成度が上がったかもしれない。
 
