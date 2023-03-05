@@ -3,7 +3,7 @@ title: 『いっき団結』をやった
 ---
 16人のプレイヤーで蜂起して代官を倒すゲーム、いっき団結をやった。
 
-![](https://lh4.googleusercontent.com/8xFBFZd0A3kogT006owRYMBVENv-TDGKJH1nyr_1hf6PB2R93vg3MYBV5l7OARkMNFaemYI17VBH5a_9QQQ7ttlGeVO63D_IMbUJ0lufzez39wAGhYhiDh1Va2gvAl8N0zgLdv8QvkIzKRqDYxQCnak)
+![](https://lh4.googleusercontent.com/84-PZcRiWO0b9dmLqAo0WRSBaMymuh3UpY7NWNzIW0hNwkj373iiKe30HNHRH25yHNpr3aKJj8Kk03WV46oFxPFB2bl3nh5OtKttyi8rN7fMd1rjE3frgfrA2xKsKw9fFziv2WC3_v59n9uxgm67R78)
 
 マルチ版Vampire Surviviors、あるいは昭和のFF14。やればやるほど絶妙なバランスになっているなと感じた。この調整でリリースした判断を褒めたい。FF14にいっき団結コンテンツが逆輸入されてほしい。
 
