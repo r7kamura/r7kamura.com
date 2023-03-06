@@ -18,14 +18,14 @@ GitHubでリポジトリをつくり、レシピごとにMarkdownファイルを
 
 混ぜるだけのサラダの例。こう見るとものすごく単純に見える。実際、ものすごく単純である。
 
-![](https://lh6.googleusercontent.com/ngrki08m8WPS1PKN3njRdb_vxV-XxtQhtvKqzjF9-GuYs29DHn6fID9SYwC9lK0l0P6TyAwSW_oN5tei-3x2kDxMPOAvwfhtqc7SNm493TDM2FvpANL5UTTPyQWx6sllc4WvUrSbeSgk7RGl2YdeBg)
+![](https://lh5.googleusercontent.com/ClGG53TergwN0vOOOjJy6CNXdMv4X9E1f02e2D3HsfmUxSTqugtsj16Hkn6fbBP3scmr2-GE20MPvWD0LXKX2y5kU1KGYIxUnFuDSA78TJnznvftRVk__8jiZdifcPSpwChpMTpi13mLtMWJ0-6ffQ)
 
 記述例: チキンチャップ
 ------------
 
 鶏肉を炒めてソースで和える例。必要な食材の分量がすぐに理解できて嬉しい。混ぜるだけのサラダに比べて、幾らか複雑そうなことが分かるが、それでも理解するとそんなに難しくない。
 
-![](https://lh4.googleusercontent.com/1HEfS_aqWDD6k_hZA-47qX28o1O_XX6Do2-d9rvvXKkFzEWmlezSgCBT-ZeHa9BErpwzbzevaeHQXSZuj6_8bmksxqWAp-QmnD_R1NB-swOWZtnzazy30iKjnTI4wLwkWafb-PWYTItnDftmalgQ5w)
+![](https://lh6.googleusercontent.com/QGyMMBYJJPt_FdZKbACghNKgKbLoViaqNVzSdvWPI7ndZVtsUuUnDWB3IKwv_DF478pXfUfbEvCE9Yd3oAADGOEdYCancDMOvlw3F_758qG6oyjG0-s_fOQFtMzNmgXxzfB50XDQwecGOrYqVPBBEQ)
 
 課題: 中間状態の無用な命名
 --------------
