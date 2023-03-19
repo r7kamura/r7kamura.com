@@ -3,12 +3,12 @@ title: レムノスの掛時計
 ---
 株式会社タカタレムノスの[MONO Clock](https://www.amazon.co.jp/dp/B004UIT8BK)という製品。
 
-![](https://lh5.googleusercontent.com/4_TC4GzWn_OeN8U9NaYUOoWmrDeMd16OO7KhF8tXA-A7dLWcZBELkQb0EWqgSipMvvtsiXydSmVJJemHOw9o2zrYcxx90qTp3EL0QiX1hUnCKbMLKAFj932VBcknhRpBUa7WrQQ1diit_VCpxHp7ZA)
+![](https://lh5.googleusercontent.com/pDB01M7_pRvDy6ahVrNtZKYDrzL8pcC_MaerHIZPAxQQnqU_kA9mDwmuNi6VzfuGGw4C7cB-YVbI-1nktxYZatzlD81TCYKzKKhuq5sshwJ5et__trTP_XB1Q03FUBrNXiec0Q3EGhNO9i5rLVLTtQ)
 
-![](https://lh6.googleusercontent.com/WgpVLGt7CcdaaZ-xjd1NV9Yk7g1M1lsKDSqi6_d316kPUyPpsLa6iCt9w6mOfCmuMWStfpjB-qz-MGUtGQzFTbZdKjgbnFfag1ow5NrqsaRd2rLHVq45AMQ7wPFeqxMDsN-JV28iMY9URiERS8qbTA)
+![](https://lh6.googleusercontent.com/eKP-V57nNYmN165-ONhk-43rK6M1GsJbOiXaDu_WXkgkGIWP7LaKVXufJ3aDaIqZi5ws4JwNv1hf9kEJwmyUSF9NxbJh4girK5b4PLocfoSltoAx4QrzZ_H6ctG1WPpnOA0BpHgRq4uTIbqnOb78Iw)
 
 [作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で毎時00分から50分まで作業することにしているので、見やすいところに時計があると捗る。また、アーカイブで見返すときに何時頃に行われた配信なのか分かって良い。
 
-![](https://lh5.googleusercontent.com/VtWDe6Lek5duW3sfIs2fsYyqvaZF13vc9qyhfI3rNF2ZT9gpBx0Pp10DGUgWEoNhp62v6ys_za8f7w8L0UnhWtNXrgtEMZ_xZkmm71jm4Ov3TQ4dpLa0mAWXn9xXsZQ61M7VXA5wLoZDFmCBpTL9eg)![](https://lh6.googleusercontent.com/tuVnrVMeWK7OiOA3egIhUwob4uSM1gQLxkjHFvKNHgXhCZg4fZXkDxzO7X8ZvNTBFrI2Qba-kQV0u6en33vo_2uKq5z4usw0QGJwPywX6njQzzdYhusvxJpCcwpO5aNXUOVnWHsb9OnFEv1d3DffZg)
+![](https://lh5.googleusercontent.com/ZHqXa8p1lRv6mQsPeIfvTpCfVYxi51nXQyTCV6qSk8fmSXd-6qUg9MF7KkXwd3e0IglAujj1qkb7J3pay9y9h7d1wgKOrpQf8lRW7j7atHsOW-E0_JtV2euylZDCyiTDDmpfdinlQEBl7JQDAe-5UA)![](https://lh5.googleusercontent.com/auCTWgyRORbc6Dlb1LERwbxU_6o9-HYU4jjgvMLkAifVl4jxFhDuL6Fqv3jAW_F2Q8OK5jgh1g0ytnmdMhtp3jhwewK7GTG7u9Cq5MHSEOriiD1F6lJi_SL1BW6GBeJYs4rVP920D-NY841P4BZCJA)
 
 [マックスのホッチキス](https://www.amazon.co.jp/dp/B000O9WRWG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。
