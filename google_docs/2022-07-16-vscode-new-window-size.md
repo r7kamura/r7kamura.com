@@ -3,7 +3,7 @@ title: VSCodeの新規ウィンドウの大きさ
 ---
 window.newWindowDimensionsで調整できて嬉しい。
 
-![](https://lh5.googleusercontent.com/0Nanyxj5ecKZS8NWGqouc_LVCF9mNa2-vixUPKkf6hld-EaLdFPBWIFbrE4pzSUdNTgUSDeenxGTR8W-Li-SuSLQ8Kq-4Ki0SGa6KQixLlBrttMnhcjKO8oV0TYE7Xocw-TBLt0SC1CZyuiPAhBgeqE "設定画面で検索するとすぐ辿り着ける")
+![](https://lh3.googleusercontent.com/sXw3UDMWuY2KE9IsFjKUvM50ElwRfMO2R-q3F-cGyd4MiW3e-zRR-_cwZ2Q3b-TfDb1hkd-NNzwdLHN-aRJk8C3BsEgOTxvItsH2JE_4ACP1PFFaTCssaY3ER_Q3NieMFkj3CRPqmPcVwOon6p7e09M "設定画面で検索するとすぐ辿り着ける")
 
 初期設定の “default” だと、画面の中央に小さなウィンドウが開くので、これを設定する前はその度にウィンドウの大きさと位置を変更するアプリケーションで調整していた。自分は常に同じ大きさ・同じ位置で使いたいので、”inherit” に設定している。
 

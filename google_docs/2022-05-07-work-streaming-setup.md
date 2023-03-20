@@ -13,7 +13,7 @@ title: 作業配信環境2022-05-07
 タイマー表示
 ------
 
-![](https://lh5.googleusercontent.com/TSEKxQwKI0ISHxB8DYeO938L2fer3zRD1__qYhwUK0BNF_IGXyku7bh1xt0zXDDuopzzciw0tmrBK18_AK77mFFkS6OSCp5LwqoOuFL5BR5Dh9dX2zL6x54P2AHlrLPDLCfe4hxiYiju_3-MrAkgow "OBSの様子")
+![](https://lh4.googleusercontent.com/5gcergCy5oSf166y7wk-GYZV1L08fZVKSQ7QU09RkExW6BAfDUBqZG00I-RgJ26MJcCM2GhypV-kWkYijXEbD_1g5QLvxAep2AdAzB-N0fwd7LEeBu04VrWDUp0jPo_3-ncwIKVttBkNoyouVt1hsg "OBSの様子")
 
 配信用のソフトとして、[OBS](https://obsproject.com/)を利用している。OBSには画面上に任意のテキストボックスを表示する機能の他、テキストボックスにタイマーを表示するスクリプトが付属しているので、これを利用していまの状態と残り時間を右下に表示している。
 
@@ -38,7 +38,7 @@ lo-fi的なBGMが好きなので、著作権フリーでおすすめのBGMセッ
 カメラ
 ---
 
-![](https://lh4.googleusercontent.com/4OAeAzFmHPIx7XWnDv0QJ8zGHWwhygs0sU3DGXtruNYjs7WwI599Y0a6Mfdba-SFskMwCMqOSJEb6GhsRBwg_YqjwUqlyGGyC97X3nSASl3mP0rNsc8Ppa3ya-XUP9uRVvWNGQ-20a4IFocXqK6qhQ)
+![](https://lh4.googleusercontent.com/kCcGF99IWNzaup3fdFOmVV2aF6lIfcGILaA67p6zQr_r8aPdfGYPJjpEJDKEfjqFiRthv7pStfmdclFVVv8-4VGT_zQRdWtUQSdL9neROrIy7gAnFylHAfW_XKPa-fEenr_oontWf31jdvj-sXVA5Q)
 
 会議用にロジクールの[C980GR](https://www.amazon.co.jp/dp/B086R71LGW)というウェブカメラを持っていたので、これを配信でも使っている。三脚を持っていなかったので設置に少し工夫していて、この話については[ウェブカメラを支える技術](https://r7kamura.com/articles/2022-05-04-super-crab-clamp)という記事にまとめてある。
 
