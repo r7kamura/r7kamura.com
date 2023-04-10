@@ -11,7 +11,7 @@ VSCodeにはExpand Selectionというコマンドがあり、選択範囲を拡�
 
 この拡張では、ソースコードの構文を解析し、このとき選択される範囲を適切に割り当てています。上の画像では、括弧の内側と外側、メソッド呼び出し、ブロック、メソッド呼び出し、メソッド定義、と選択範囲が拡がっていく様子が分かるかと思います。改行が存在する場合、改行まで拡げるような選択範囲をVSCodeが勝手に挿入してくるので、それと合わさって上の画像のような挙動になっています。
 
-![](https://lh6.googleusercontent.com/ewHUjPwSYG6v44xkTxfOUvqHcrs91rJkU1lF_J-b-zi2ojyJfpaIJStTvQSPARzRdectfI6leF9WmIN5-xrYqP94HeLDogp7irvVyr85TR1Oq-4LxF6SDqDyqxyDDKx6N5-r-7i-GKU-ZpP8BpsTZpQ "Document Highlight")
+![](https://lh6.googleusercontent.com/v65UJhCQNbHYTWNSbX0kRL8mozIaVFtBKvJufeheeQ-wBn-5yt0qJ5kt03qIS3fUjr1dP8UmuPrmE8rYnInkCple760ukN8-PdgQqL9Eju7op4MPgtNIuzG7QshAfmV8vVT-EPzvFUANqo1TKZ5Y4jc "Document Highlight")
 
 キーワードにマウスカーソルやテキストカーソルを載せたときに、対応するキーワード群を光らせるという機能が入っています。そこまで活用できる機会は多くありませんが、インデント等がぐちゃぐちゃになっている荒れたソースコードを触るときに便利なことがあります。足元灯のようなものです。
 
@@ -41,7 +41,7 @@ VSCodeのこの機能は、Diagnosticsと呼びます。診断結果というこ
 
 VSCode拡張には、設定で無効化できる機能と無効化できない機能が存在します。ここまで紹介したものは、すべて無効化できるものです。無効化できないものというのは、例えばTextMate記法を利用したシンタックス定義や、Language Configurationという仕組みで設定するものなどが挙げられます。
 
-![](https://lh3.googleusercontent.com/48pEkENcwRzfhemSAAbRcTN1q0a9eKaokQIr2xtUXS7YlRdfbeMLXpavxwvdq5imWS_QDQ9Q9noJOJEVYVUt9EEAdmsQitNFqeyDsFDzFmaE10JqilWvPPAZDq2xHhOACGKjohDUYw-ODsrCX9aSvS8 "Language Configuration")
+![](https://lh4.googleusercontent.com/lQOWASoUB0b-uBmylWY14iuyX94u76gJ6jGpBcuijMQrEg4EdOMk_f2LRp1Fku_KLBBnZ7NnCVu6vAo0BmDI_iCKc8xBFx7g1-EPeYGkBmwBdTpnSsIbP3_4h8or0IDaXAHWqD_vtHiIuWiw5ILf194 "Language Configuration")
 
 これはLanguage Configurationで設定している機能の一例で、改行時のインデントの挙動が調整されています。単純なifなどの後の改行時はそのままインデントを深くしたままにしてほしい訳ですが、演算子の後の改行時は一行だけインデントを深くして、その後は元のインデントに戻ってほしいですよね。このような挙動を、VSCode拡張ではJSONによる定義で設定できます。
 

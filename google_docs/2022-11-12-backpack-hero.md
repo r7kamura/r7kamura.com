@@ -53,6 +53,6 @@ Hard mode 4
 Hard mode 5
 -----------
 
-![](https://lh6.googleusercontent.com/0fITO4QbuTNZZtnjF2akaJaxIswuTkd5lkOPaQi859HNn-gdQUYKxqBAIZ2fT63rJMOdGGOR5_bwfaGbzamnuKYjM5-0ApHbWQtEJiQOMgo_N6qfEd9Pho3ZwJP-WUWwX3sqvhbOFCaLYRFQPlbvJA0)
+![](https://lh5.googleusercontent.com/E8PHYZlLCYrBy34UwRAFA6_o8DGTAJpSwyu7U6D_Mi-HkdVKeLCFycOxDXaw3sSGxqBXXdK2jWMz485xuAt_UutPburtMyiXGuq_7MibDEk_k1DUfY0Q8Vz7uFPwzTxXk1MdVNJKGDUnvW_1e-y2Gw4)
 
 このキャラのハードモード最終回。相変わらずハルバードを強化して振り回している。このキャラは1キャラ目だけにバランス重視のビルドで上手くいきやすく、攻撃・防御・回復・金策と基本的なメカニクスを教えてくれる良いキャラだと思う。

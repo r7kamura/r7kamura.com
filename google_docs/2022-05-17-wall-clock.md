@@ -9,6 +9,6 @@ title: レムノスの掛時計
 
 [作業配信](https://www.youtube.com/channel/UC5s-KpSDGzxWPWNv94PnJHw)で毎時00分から50分まで作業することにしているので、見やすいところに時計があると捗る。また、アーカイブで見返すときに何時頃に行われた配信なのか分かって良い。
 
-![](https://lh3.googleusercontent.com/Ktvk1vt8-QOf2xYNPxcOVWxu5pG3jTYEBDg2zGo7cTr6PZ38zsvktPsQdlGq2V5Z3-_zRgtU2C0elIfC-sS-TprAs-tmoUA8dTytV8JobQjCEU6-GCh7967CBImUJNh6RXQndfzGkZrbGddE55l8rA)![](https://lh3.googleusercontent.com/z0z_J4p0AdPqBD8o1jshhJmtdUm_5IWQTlRFqLthcyVCwCvCbMutM0CO0cgllW5nw5206yxTSXEFu2gH21wAYli3QhISFeW4bYkt683gXxsZ8wdaSq937xQRqiodp2ELTNBCGfu_OIzCPlkxD1XqUA)
+![](https://lh3.googleusercontent.com/Ktvk1vt8-QOf2xYNPxcOVWxu5pG3jTYEBDg2zGo7cTr6PZ38zsvktPsQdlGq2V5Z3-_zRgtU2C0elIfC-sS-TprAs-tmoUA8dTytV8JobQjCEU6-GCh7967CBImUJNh6RXQndfzGkZrbGddE55l8rA)![](https://lh5.googleusercontent.com/CV5XPSTuRtngp_kmst45p1uibyvMlx0_Q5xfMG08SyqwA_iiyyIxSVqnYLhEcvZv02vxGs924DWZ4NeFnTRmtnIsZX0XlKj_6WmSteE9LKMj_bTKwSXtRHu4sX7jUzsykHaBiJjIUuDMaQRIfpTLJQ)
 
 [マックスのホッチキス](https://www.amazon.co.jp/dp/B000O9WRWG)と[壁美人のフック](https://www.amazon.co.jp/dp/B00CU78TDG)で壁に取り付けた。意外と頑丈で、跡もほぼ残らないので助かる。

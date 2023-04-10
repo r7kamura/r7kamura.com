@@ -3,7 +3,7 @@ title: 光るマウスパッド 2年経過
 ---
 Razer社製の光るマウスパッド[Goliathus Chroma Extended](https://www.amazon.co.jp/dp/B07JJ4RG2T)を光らせ続け、2年が経過した。
 
-![](https://lh3.googleusercontent.com/yNLwVG_M9lZ7BOWrKCtlzlPTOuoNzQQuD1Ar0SjguCMeTUnkUyv0Zp9NWAyCKqur52pBECYYb6ymBN4t0Q3LcGsHqNOlf2V-Oa76cFA6f2K_-yZmim62n7h0Vzzouo2p8JjKwZm-B7lF3rsDURxkEg)
+![](https://lh5.googleusercontent.com/NeIP_whxgGABIUUDMpk1viUenCsgN_15MNm82llsHn0ilofTePvxmvdOpNBEDPMxJNdzXIu_kuyWJrWRNWWQPR-ImqMq4QarYio-uNVkP3pjkw1EkshBb4zAE6HcUGgwAUdY_pdnI-ocf6MG9mmylw)
 
 はじめは冗談半分で購入した物だったが、いまではお気に入りのマウスパッドとなってしまった。寝やすくするために夜は主照明を落としているので、その状態で机の前を通りかかるとぼんやり光っていて楽しい。[作業配信](https://www.youtube.com/c/r7kamura)でも映っているので、アーカイブでも光る様子を確認できる。
 

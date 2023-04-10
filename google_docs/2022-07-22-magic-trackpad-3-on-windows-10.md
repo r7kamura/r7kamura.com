@@ -3,7 +3,7 @@ title: Windows10でMagic Trackpad 3
 ---
 Windows 10にドライバを入れて[Magic Trackpad 3](https://www.amazon.co.jp/dp/B09BTT6FJ9)を無線接続してみたところ、普通に快適に使えるようになった。
 
-![](https://lh5.googleusercontent.com/ZEQ8mUHLQNNpiKztjpExu7DlOtW9LErIi7ZT0-1ox-p4uzS24MUQH0oz_5XVsHQVlIEbUh44Wwovp5dNJu__PIbLHkYk4_EVJ14VgXSVFPyYCum2F2wnilgnECg7yHEx6tfNQUTL2ziW6NGBhYt9sBI)
+![](https://lh4.googleusercontent.com/suUwP3W0yyp6AV0WHtKUF_zCYXnXvlkPjsebeo8FXQ7XsQDNOJIUZFl7I2m6o5guw6K36B_nAPMrpRQCFYh3BUxVvznZP44oqfQCOp5OnaxatdpffppSCF2D6SpRtPMWwFpxSJzRYZGeizDVF8ZbKwA)
 
 Magic Trackpad 3は2021年8月に発売されたモデル。これをWindows 10にBluetoothでペアリングし、[mac-precision-trackpad](https://github.com/imbushuo/mac-precision-touchpad)というOSSのドライバを入れたところ、4本指の操作なども含めてまともに動くようになった。細かい使い心地についても、個人的には特に申し分ないと感じる。
 

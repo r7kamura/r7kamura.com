@@ -8,7 +8,7 @@ title: 洗顔用泡立て器
 ![](https://lh4.googleusercontent.com/px8U8rVJu-tetZNWWSM2zLOjET0nOERxifHS5om_Q09xpJ7YbOZb73S8auPgjj-h3NXAKPMRjs9qkLW3VcoIC5lOaazam2KUXKxtAv_PE5PL1vf4ZVm72OH9h0J61Yi8o05TsqEzfIN8LCr_AaE1zw "角が立つようなふかふかの泡")
 =============================================================================================================================================================================================================
 
-![](https://lh5.googleusercontent.com/7N6qdSKBeHBVXxaDy8sFYgC379DPHrn1LXk14tTnsOKo3nMJeEBG7KfTgopGOoNEMzNNPzkF1TqjINmSILC0tSnifDk6GfRd2JET_n1UUN8bpGB2-Uc8gSaZLzhY2l3TS1AwN_LMCRpf2eA4ry99Jg "シンプルな仕組みの容器")
+![](https://lh3.googleusercontent.com/eH9xmqovbdzxGOto-RO6QOYwb9PSDLfg8OK80msbDJWOsnXv3mxCD8ypVApe5cWlGYGcFTyLkPZCQChMj95it5zXBdxgvq4XQyRL3sW2A_THoyn4uwAT4xaJwY3Jg1TnkJSqsqYhUKuAJs8jfMxeBA "シンプルな仕組みの容器")
 ===========================================================================================================================================================================================================
 
 手でも同様の泡はつくれる。しかし不慣れな初心者には難しいものがあるし、慣れてても結構時間が掛かる。洗顔ネットと比べても、泡だて器の方がより素早く毎度安定した品質の泡が簡単につくれて、容器も洗いやすく清潔な印象がある。
