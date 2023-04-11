@@ -3,14 +3,14 @@ title: FF14 黒魔道士スキル回し計算シート 令和最新版
 ---
 FF14で黒魔道士を触ってみることにしたので、まずは座学からと思い、スキル回しごとの合計威力や所要時間を比較できるようなスプレッドシートを用意してみました。尚、この記事はパッチ6.38の時点で記載されています。
 
-[FF14 黒魔道士スキル回し計算シート 令和最新版 - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1mj9B9xkN9WPLitULsOT0alvrgLNQy-zUKYrN7Oa_n9c/edit#gid=1058932485)
+[FF14 黒魔道士スキル回し計算シート - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1mj9B9xkN9WPLitULsOT0alvrgLNQy-zUKYrN7Oa_n9c/edit#gid=1058932485)
 
 使い方
 ---
 
 「ファイガ」「サンダガ」「ファイジャ」「三連魔」「ファイジャ」……のように、使うアクションの名前を順番に埋めていくだけで、威力や時間等が自動的に表示されるというものです。緑色の部分を入力すると、他の部分が勝手に計算されます。
 
-![](https://lh3.googleusercontent.com/aE_gkYzDLdXGsz7QVDJShTup3wEg0tRbc3fw0nPWKR9gTs-5RuLFt-7xjGj_6_o3czw1qAZ3btC-LfdoaZ5f_MJvMcAh4ExcE7JV5WI60jD6IOg1CiV-RiWbxQCE1W2Uu2w-zqpIngztTXrcmhkhjgQ "開幕用のスキル回しの例")
+![](https://lh5.googleusercontent.com/kX0R0AQoVNjuLkIIe5G48R3vuobQO8mwlN19OCGyDpXcZF3lVGNvWB9HEpebnpVgBJ1ZDywHmwCLqOpPGy1DGWN5MBpWg1mcf3qMu1q5PhWS9tgboGdb5XbN2zvJMYgcwEWlK_EOBXg6kPJfVnXq4-o "利用例")
 
 想定利用シーン
 -------
@@ -33,8 +33,6 @@ Googleスプレッドシートの使い方についても説明しておきま�
 *   テンプレート
 *   開幕サンプル回し
 *   通常回し
-*   Wトランス回し
-*   パラア回し
 *   アクションマスター
 *   極性マスター
 *   仕様マスター
@@ -79,6 +77,13 @@ Googleスプレッドシートの使い方についても説明しておきま�
 ---------
 
 激成魔や黒魔紋など、戦闘開始前にアビリティを実行しておくケースがよくありますが、これは事前に実行するので合計時間に含めておいてほしくありません。そこで特殊な処理として、先頭のアビリティ群の実行時間は無視するようになっています。
+
+MP
+--
+
+今のところ、MP自然回復は時刻が3n秒のとき、ルーシッドドリームによる回復は時刻3n + 1.5秒のときに発生するようにしています。例えば時刻3秒で自然回復が、時刻4.5秒でルーシッドドリームによる回復が発生する、といった感じです。このスプレッドシートでは各アクションが最速で実行されるようになっているので、例えばUB中に2GCDしか挟まないWトランス回し等では、MP回復が間に合っていないような表示になる場合があります。
+
+トランスを1アビリティか2アビリティ分程度遅らせることをスキル回しに組み込むために、「-」という名前の何もしないアクションを用意してあります。トランスを遅らせる前提であれば、これを挟んでおくとより分かりやすいと思います。
 
 非表示の列
 -----
