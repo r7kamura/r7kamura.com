@@ -10,7 +10,7 @@ FF14で黒魔道士を触ってみることにしたので、まずは座学か�
 
 「ファイガ」「サンダガ」「ファイジャ」「三連魔」「ファイジャ」……のように、使うアクションの名前を順番に埋めていくだけで、威力や時間等が自動的に表示されるというものです。緑色の部分を入力すると、他の部分が勝手に計算されます。
 
-![](https://lh3.googleusercontent.com/hGKRrYuXvNpw895lGFEEuFCXikeU1qxHwJfCA88upcS8j-v_GEPzybyZUUriNpoB-t2SQKKJ_GRUPiULH3eOoSKoJLW0X3G-A7lQmOcYWcVAB1shE8rkzZEOzqm72xlKh_pbzU06AeNQOCMm03t3Cis "利用例")
+![](https://lh6.googleusercontent.com/HX2Y9s3uSUBobRJUAx9S0zdSAwH4yCF0FVIQERdsYBkvG_Vv72FiJswiMdR5tjzYXclStM86sudQrEbqMcUDl-l5VxxBOv1G7rQ8YevTUynbNgEoFISciDxXFX0_kwJNeyz5ZX0kFyCf-VewM3ydL5c "利用例")
 
 想定利用シーン
 -------
