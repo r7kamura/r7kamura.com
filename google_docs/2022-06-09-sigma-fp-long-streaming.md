@@ -9,12 +9,12 @@ title: sigma fp Lで作業配信
 *   #37 - #38: iPhone 13 Pro max
 *   #40 - #??: sigma fp L
 
-![](https://lh3.googleusercontent.com/wP9KkaYJ_n8d-5QbVKW8U0pkaSiB_qRNszl1ewxeNDli03-vjNyrVg4OzimfuEwSllCxJWP7Y6umrFSrMphIfC_mMzzsXbq2t_7kE2CQZ4ybgI-R88nzhCyLIKCgdA7pNa3Sy-k0bNaXHPqybnwqSw "Teal & Orangeなしゃらくせえカラーモード")
+![](https://lh5.googleusercontent.com/9ibHdsIYO8b5DnVpxGT2EAQhKD2G_Sj_9l0wsAsWAUGUum1h1QT9RSfoCzQGHUyfziK5ZVi9Et-Iosh0Hwc4sJTvdeRAfE5iRlmd8FyvTizxpKDxu0v2t-iSrj6az_9mncB9Ge5tkv4fxvTmU3F63A "Teal & Orangeなしゃらくせえカラーモード")
 
 sigma fp LはUSB接続するだけで動くのでお手軽。追加のドライバー、HDMIキャプチャボード、電源アダプターなど要らなくて楽。
 
 撮影環境的には、レンズの焦点距離が45mm、カメラと自分との距離が2m、カメラの高さが床から1.4mで、4mのUSBケーブルでPCと接続している。配信で使う場合、空間的に余裕が無いことが多い。基本的にはもう少し広角のレンズを使った方が良いように感じている。標準ズームレンズぐらいが丁度良いかも。
 
-![](https://lh6.googleusercontent.com/XLhkDw-273m5pkPvQWoL7YSKSpe8k9jWi6651I-7oG9PSKR_73UPrx4iz8PwhMJwT5fuhpunZjlQtZs3b9_kdS-bwUjpaYbQruVvWoUJeO72LZbDe49q2zkgHQp9qL05aTjZGnrHZbfuBqIPq4Vk2Q "スタンダードなカラーモード")
+![](https://lh3.googleusercontent.com/vupqcccuiRU2lywIFX9KncSyYy0Lg-N9Tx-rG6tvA2fzQIEv3T02D93C6JWdvYa6L15ligL0l107c7AIWVkytfJaBNvpj_keyDA0mKNxrRKbsx4quVxSDds62ucevBsoKg4NVaFcEnbrIFA-r0n_bA "スタンダードなカラーモード")
 
 気になっていた熱の具合について。配信中のカメラに触れてみると、普段静止画を撮り続けているときぐらいの温度になっていて、一見した限りではめちゃくちゃに熱くなるということは無さそうに思う。この日は解像度1080p、フレームレート29.97fps、室温27℃で9時間配信していて、特に問題は認識できなかった。
