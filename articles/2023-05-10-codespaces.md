@@ -49,7 +49,7 @@ Codespacesで選択できるMachine Typeの最小構成は2-core / 4GB RAM / 32G
 }
 ```
 
-Codespacesのよくあるチュートリアルでは、「Node.js用のDockerイメージを使ってNode.js (だけ) を使った簡単な開発を行ってみましょう」みたいな単純な例が紹介されることが多い。一方で今回の例だと色々起動しないといけないので、docker composeを使いたい。そういう訳なので、Ubuntu 22.04に便利なツールを幾らか足してくれたMicrosoft公式のDockerイメージを利用し、追加で環境構築時にdocker composeを使えるようにセットアップするプラグインを指定している。featuresの項目でその部分。Ubuntu 22.04とかは何でも良いんだけど、Devcontainer向け公式イメージだとCodespacesの近くにキャッシュされていて環境構築が速い。
+Codespacesのよくあるチュートリアルでは、「Node.js用のDockerイメージを使ってNode.js (だけ) を使った簡単な開発を行ってみましょう」みたいな単純な例が紹介されることが多い。一方で今回の例だと色々起動しないといけないので、docker composeを使いたい。そういう訳なので、Ubuntu 22.04に便利なツールを幾らか足してくれたMicrosoft公式のDockerイメージを利用し、追加で環境構築時にdocker composeを使えるようにセットアップするプラグインを指定している。featuresの項目がその部分で、docker-in-dockerプラグインが公式で用意されてるのはかなり良かった。Ubuntu 22.04になってるのは何でも良いんだけど、Devcontainer向け公式イメージだとCodespacesの近くにキャッシュされていて環境構築が速い。
 
 初回環境構築時と環境再構築時には、postCreateCommandが実行される。ここで (docker composeを介して) Railsアプリにおける初期設定用コマンド、`bin/setup` を実行している。ここで `bundle install` やDBの作成、初期データの投入などが行われる。環境構築完了時と環境の再稼働時には、postStartCommandが実行される。ここで (docker composeを介して) RailsのサーバーやMySQLなどが起動する。
 
