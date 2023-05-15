@@ -1,5 +1,5 @@
 ---
-title: GitHub Actionsで実行時間ベースでテストを分割するやつ
+title: 実行時間ベースでテストを分割するGitHub Action
 ---
 
 GitHub Actionsでテストファイルを複数ノードに適切に分割するためのカスタムアクション、split-tests-by-timingsを作った。
