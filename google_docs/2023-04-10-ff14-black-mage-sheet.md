@@ -10,7 +10,7 @@ FF14で黒魔道士を始めたので、スキル回しの合計威力や時間�
 
 「ファイガ」「サンダガ」「ファイジャ」「三連魔」「ファイジャ」……のように使うアクションの名前を順番に埋めていくと、威力や時間等が自動的に計算されます。手入力するのは緑色の部分だけ。他は自動的に計算されます。
 
-![](https://lh5.googleusercontent.com/J5WNrqtxm2b9XQ2VmHen6TArzY9GzoQiXX3-x4R0_RlTDetShBHolm93hjtAnAO9Iu4YxaYmqIVNfERqqrO9zsKp8kcyXAyqAEztT2MVnee_M0D5u6VjuJrgnfHJhyorqH-srIylYBogyqerBZVofhg "利用例")
+![](https://lh3.googleusercontent.com/eH-ETftEth3wLxiA5xUQL4wJCdMMznpJnGyeeNdoWKc4qEXtd5uJ_Nvm9PGktI5cyQC8X95FDNS9kNfYGGQxKFjs4M5S8iNzeJ3WyUEc8qXFiyZWaHX8GNN4Te6YAX1KmrpsXboXbJt__8vom2Hrgc0 "利用例")
 
 コンテンツごとの理想的なスキル回しの設計や、通常回しやWトランス回しなど、スキル回しの威力比較の検討に利用したりできればと考えています。
 
