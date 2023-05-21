@@ -8,4 +8,4 @@ title: 初期化後にMacのバッテリーの充放電回数を調べる
 ioreg -l | grep CycleCount | grep -v Design
 ```
 
-利用例としては、例えばMacBook Proの売却時に充放電回数を尋ねられることがあるため、初期化後でも確認できると便利。
+例えばMacBook Proの売却時に充放電回数を尋ねられることがあるため、初期化後でも確認できると便利。
