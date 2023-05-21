@@ -5,7 +5,7 @@ title: 『Rogue Legacy 2』をやった
 
 *   [Steam：Rogue Legacy 2](https://store.steampowered.com/app/1253920/Rogue_Legacy_2/?l=japanese)
 
-![](https://lh6.googleusercontent.com/NkG970c6q2hraVvmAB_KRU3RqC20ec1A4jYvIsi0KlCqOTzRC6NMRzyMw2TLiavjHuJpjZUUddJT7db_KSkQzx6jJD9WXztd2L58URKhbD6xY6CTd9-K5NTTSR5ntVSWwHEgMccMBClLe93m2VSkbLY "ボス撃破直後にPSボタン+R2ボタンでスクショを撮ったらダッシュが暴発したときの様子")
+![](https://lh3.googleusercontent.com/qDqT9GVItgaJDgMtrVd9NmJQoTmE03F3JMUuMNF2iVlTATVgdypNzq7o2qnMqqo3lGamk-JxBZ6tNAeMBOeyByNv4OPX8AKohTq_vISidr14hTlfcm620EpO-N0oiswwQAvHqhrbdTl_0RI5Q49L9K0 "ボス撃破直後にPSボタン+R2ボタンでスクショを撮ったらダッシュが暴発したときの様子")
 
 アクションとしての手触りが良く、ランダム要素とリトライしやすさの組み合わせから中毒性も高い。可愛らしい見た目ながらそこそこ難易度は高い。死んでもダンジョン探索時のお金などが次の世代に引き継がれていくというシステムで、どんな冒険をしても基本的に無駄になることがなく、将来バキバキに強くなった末裔が無双してくれるかもしれないという希望が常にある。
 
