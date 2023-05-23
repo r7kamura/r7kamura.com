@@ -8,9 +8,9 @@ title: Copy Rich Link
 
 見ているページへのリンクをリッチテキストとしてコピーする拡張。アイコンのクリックか、キーボードショートカットから使える。コピーに成功すると、小さなポップアップが表示される。
 
-![](https://lh3.googleusercontent.com/Aa5tGjsfIO8nb9RFCLEwOOXIglSee5p274slko9QD3-g5reQybrQ1RgjSS1snYGv6FMalMpaSP6e_z_WYr0ntI0K1z_L4AdUEAujgW63fXtj5r7_GOggUHc6dwiGW4NVcD9gojo_Yi9pGHg9Xo5HDA)
+![](https://lh5.googleusercontent.com/QnCbzVGbI1XvLYn2kevITxG4BH7_6JZLkqSCFkFJyFIqN1gjh3aYInMEsd056eYIjNwQ1FepV9k5bGmHIUebllBOzbmRMk-dzUBE8ChXFvJvR1OYghzfF3WGmGxk-6kUQNpa890lGOJVMnvGC4gnSQ)
 
-![](https://lh5.googleusercontent.com/Mg6rOKPBAjphI66daD-ZWRNZoCzJcPq1tb2MD2TkOX5nmEq6KDUzkVZAId86j4uvG3-lIPsc--PhSd0VMjzvkPmfloH2PzbI-j2WBEFpt9TQhBfayM4i-PBuvwWCZWtqrCVrF3uluen_kbvtbSuTYg)
+![](https://lh4.googleusercontent.com/Mj8hyWJrzvw1FYl1cGIZceNk701vKgX9NPEpBAooez621b7PwzXEacwpx75BGhjm0D4sY9P6Zd1pyycJS_QPJy00d_DBQVlJIuV_4SY9UxpBxzTwX_KYLSrf_WKHxim9TWXxmD0HdbdvaZ2ZdWRvyg)
 
 GoogleドキュメントやSlackなど、リッチテキストに対応しているところに貼り付けると、いい感じのリンクになる。
 
@@ -18,7 +18,7 @@ GoogleドキュメントやSlackなど、リッチテキストに対応してい
 
 リッチテキストに対応していないところに貼り付けた場合や、Ctrl+Shift+V (MacではCommand+Shift+V) でプレーンテキストとして貼り付けた場合は、「”タイトル” URL」という形式で貼り付けられるようになっている。
 
-![](https://lh5.googleusercontent.com/ijuszot4vIIWcdH7ErFdo38VFJjRmjnc5lP9gI_ywXK0KfDx_kO3HAyJRj0UiFC1iqum-cVID9GudvP4cKS2lBAR5IOiz2rOSqjdSemliAHv64dHq3d_oUOh3uOnAyr2RqUdNgixQGhrlW3DT_c1xw)
+![](https://lh4.googleusercontent.com/25SHWb_xdov9a1wnUgsXe171XlK13_-giadrf6uJvZx7JRMUIj-K9CHHvU1JB5g2-v52ryk-SS_1rp6HB4ymrfIJLCnQgE10zP7N9_Ho1D4WeNkICCY_-6a_0yR2BvDbJ3bSawAB5FZCDjLqg1iO5g)
 
 開発の裏側
 -----
