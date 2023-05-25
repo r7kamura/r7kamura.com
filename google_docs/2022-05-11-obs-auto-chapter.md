@@ -13,7 +13,7 @@ title: OBSでチャプター情報を自動で書き出す
 
 上のページにも書いてあるが、ここでは日本語で使い方を説明する。まず[chapter.lua](https://raw.githubusercontent.com/r7kamura/obs-scripts/main/chapter.lua)をダウンロードする。ページを開いて名前を付けて保存すればいい。ファイル名はchapter.lua.txtよりchapter.luaが好ましい。
 
-![](https://lh3.googleusercontent.com/9UggP_t0Gg1sIe2DFDPIq5oEBTJlrBnMmhYz_d-lE7B2Vp0FNcVgMdg36ozvZMt3m73PWz4OEJWlrYpbPWEkX1YbOCIhm7d3P1isOUIL0SrCu1HJkbNytj-wUclBx-1UD0-17WuzDrJ8bJ8UEf5CLw)
+![](https://lh4.googleusercontent.com/z-fqrzSSa35o2PhGCZ2BN7QNbFy5dgIJBU4pZMFy8CKjkaoMSU5sApZJEeu2zNeKT4M6xF78hoOo99ELz2NxJ2AlOf2x3AFGQYUlh2F7hWWYsZnYLkH2PJdMIsyeg8GusLoz8BNUTxDeiaDBKgkHWw)
 
 OBSのメニューから「ツール」>「スクリプト」を開く。「+」ボタンを押し、ダウンロードしたchapter.luaを選択する。次に、テキストファイルを保存するディレクトリを選択する。デスクトップとかでもいい。
 
