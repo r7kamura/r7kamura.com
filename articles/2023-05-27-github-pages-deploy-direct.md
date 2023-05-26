@@ -8,7 +8,7 @@ title: GitHub Pagesへ直接デプロイする方式に変更
 
 2022年7月まで、GitHub Pagesにファイルをデプロイするためには、`gh-pages` のような特定のブランチにファイルを配置する必要があった。これを実現するために、よく[peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)のようなカスタムアクションが使われていた。
 
-2022年7月から、新方式として、[actions/deploy-pages](https://github.com/actions/deploy-pages)と[actions/deploy-pages](https://github.com/actions/deploy-pages)という二つのカスタムアクションを組み合わせて、ブランチにファイルを配置することなく直接GitHub Pagesにデプロイする方式も選べるようになった。この情報は、[GitHubのブログ記事](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/)でも紹介されている。2023年5月時点で、この機能はβ版という位置付けになっていることが、設定用のUIからうかがえる。
+2022年7月から、新方式として、[actions/deploy-pages](https://github.com/actions/deploy-pages)と[actions/deploy-pages](https://github.com/actions/deploy-pages)という二つのカスタムアクションを組み合わせて、ブランチにファイルを配置することなく直接GitHub Pagesにデプロイする方式も選べるようになった。この情報は、[GitHubのブログ記事](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/)でも紹介されている。2023年5月時点で、この機能はβ版という位置付けになっている。
 
 ## このサイトでの変更箇所
 
