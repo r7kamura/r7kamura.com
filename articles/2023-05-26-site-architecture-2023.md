@@ -11,21 +11,21 @@ title: このサイトの設計 2023年版
 
 ## 記事の執筆手順
 
-Markdownファイルを編集して、完成したらGitリポジトリにPushする、という執筆手順になっている。
+Markdownファイルを編集し、完成したらGitリポジトリにPushする。
 
 ## ホスティング
 
-画像の配信にはImgurを、それ以外の配信にはGitHub Pagesを使っている。
+画像はImgurから、それ以外はGitHub Pagesから配信される。
 
-Gitリポジトリに変更がPushされると、GitHub Actionsで記事原稿や実装を元にHTMLやCSSやJavaScript等のファイルが生成され、GitHub Pagesでそれらのファイルが配信されるという仕組み。
+Gitリポジトリに変更が加わると、GitHub ActionsでHTMLやCSSやJavaScript等のファイルが再生成され、GitHub Pagesにアップロードされるという仕組み。
 
-ソースコードのホスティングという観点だと、記事原稿は <https://github.com/r7kamura/r7kamura.com> で、実装は <https://github.com/r7kamura/r7n> で管理している。
+ソースコードのホスティングという観点だと、記事原稿は <https://github.com/r7kamura/r7kamura.com> で、実装は <https://github.com/r7kamura/r7n> で管理されている。
 
 ## ドメイン
 
-2019年にAmazon Route 53で `r7kamura.com` ドメインを購入し、現在に至るまで維持している。
+Amazon Route 53で r7kamura.com ドメインが管理されている。
 
-このサイトで唯一課金されている部分。
+このサイトの運用で唯一課金されている部分。
 
 ## 歴史
 
