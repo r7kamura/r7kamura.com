@@ -23,7 +23,7 @@ jobs:
       - run: npm install
       - run: npm run export
         env:
-          ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles,./r7kamura.com/google_docs
+          ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles
       - uses: actions/upload-pages-artifact@v1
         with:
           path: out
