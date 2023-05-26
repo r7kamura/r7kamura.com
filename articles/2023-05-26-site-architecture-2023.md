@@ -8,7 +8,7 @@ title: このサイトの設計 2023年版
 
 r7kamuraの手元のPCでMarkdownファイルが編集され、GitリポジトリにPushされる。
 
-画像はImgurにアップロードされ、そのURLがMarkdownファイル内に記述される。
+画像はImgurにアップロードされ、そのURLがMarkdownファイル内に記述される。この辺はMarkdownファイル編集時に手作業で行われる。
 
 ## ホスティング
 
@@ -24,7 +24,7 @@ Amazon Route 53で r7kamura.com ドメインが管理されている。
 
 ## 歴史
 
-- 2011年 r7kamura.github.io として公開
+- 2011年 r7kamura.github.io ドメインでサイトを公開
 - 2013年 実装をRubyに変更
 - 2013年 記事投稿開始
 - 2019年 ドメインを r7kamura.com に変更
