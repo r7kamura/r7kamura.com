@@ -4,20 +4,15 @@ title: このサイトの設計 2023年版
 
 2023年時点でのこのサイトの設計について。
 
-## 過去の関連記事
-
-- [このサイトの設計 2020年版](/articles/2020-09-23-this-site-setup-2020)
-- [このサイトの設計 2022年版](/articles/2022-01-05-this-site-setup-2022)
-
 ## 記事の執筆手順
 
-Markdownファイルを編集し、完成したらGitリポジトリにPushする。
+r7kamuraの手元のPCでMarkdownファイルが編集され、GitリポジトリにPushされる。
+
+画像はImgurにアップロードされ、そのURLがMarkdownファイル内に記述される。
 
 ## ホスティング
 
-画像はImgurから、それ以外はGitHub Pagesから配信される。
-
-Gitリポジトリに変更が加わると、GitHub ActionsでHTMLやCSSやJavaScript等のファイルが再生成され、GitHub Pagesにアップロードされるという仕組み。
+Gitリポジトリに変更がPushされると、GitHub ActionsでHTMLやCSSやJavaScript等のファイルが再生成され、それらのファイルがGitHub Pagesから配信される。また前述の通り、画像はImgurから配信される。
 
 ソースコードのホスティングという観点だと、記事原稿は <https://github.com/r7kamura/r7kamura.com> で、実装は <https://github.com/r7kamura/r7n> で管理されている。
 
