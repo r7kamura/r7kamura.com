@@ -12,11 +12,13 @@ title: GitHub Pagesへ直接デプロイする方式に変更
 
 ## このサイトでの変更箇所
 
-リポジトリの設定で、GitHub PagesのSourceを "Deploy from a branch" から "GitHub Actions" に変更した。
+リポジトリの設定と、workflow、合計二箇所を変更することになった。
+
+リポジトリの設定変更について。GitHub PagesのSourceを "Deploy from a branch" から "GitHub Actions" に変更した。
 
 ![](https://i.imgur.com/leRcFfuh.png "Settings > Pages")
 
-次に、GitHub Actionsのデプロイ用のworkflowを変更した。変更前は、以下のような内容だった。
+workflowの変更について。変更前は、デプロイ用のworkflowは以下のような内容だった。
 
 ```yaml
 name: publish
