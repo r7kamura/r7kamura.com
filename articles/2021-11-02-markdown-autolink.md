@@ -16,7 +16,7 @@ https://example.com/
 <https://example.com/>
 ```
 
-この機能はautolinkと呼ばれている。GitHub Flavored Markdownだと上記の両方をリンクに変換してくれるが、CommonMarkだと後者だけをリンクに変換する。このサイトの実装言語をRustに変更するにあたり、CommonMark準拠の実装を利用することにしたので、今後はこの記法を利用していくことにした。
+この機能はautolinkと呼ばれている。GitHub Flavored Markdownだと上記の両方をリンクに変換してくれるが、CommonMarkだと後者だけをリンクに変換する。このサイトの設計言語をRustに変更するにあたり、CommonMark準拠の実装を利用することにしたので、今後はこの記法を利用していくことにした。
 
 既存の記事については、次のようにRubyで書いた雑なスクリプトで機械的な変換を掛けたあと、さらに手作業で幾つか修正を施すことで対応した。
 
