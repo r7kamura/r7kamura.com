@@ -3,13 +3,13 @@ title: ポモドーロタイマー改
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)用ポモドーロタイマーの改良版をつくった。
 
-![](https://lh5.googleusercontent.com/bWGzzayAH47DHh2Ei8JU1QhKBtAafjJo7oHUajNHQe8QpwmPbsXuHJCBDNR-0KnFMAJKo_G4hObxC69wqhTdz0_TAMcSE405rcvk5TQqRgu25taT5_lxqUyvWqbCvDXBz2Itf9s7IpA-sBTp7rcED_Y "ポモドーロタイマー")
+![](https://i.imgur.com/hzTC3Bq.png "ポモドーロタイマー")
 
 ポモドーロタイマーを表示するだけのHTMLページとして実装されている。配信用ソフトのOBSには、URLを入力すると画面上にそのページを表示できるブラウザソースという機能があるので、[https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html](https://r7kamura.github.io/obs-browser-sources/pomodoro-timer.html) というURLを入力するとタイマーを埋め込めるという寸法。ソースコードも [https://github.com/r7kamura/obs-browser-sources](https://github.com/r7kamura/obs-browser-sources) で公開している。
 
 50分作業 + 10分雑談休憩で朝6時から始めるという、自分の作業配信に適した設計にしている。視聴者と同じ時間を共有するために、自分でボタンを押してタイマーを開始するのではなく、時計の分針と同期するような仕組みになっている。つまり、毎時00分に作業を開始し、毎時50分に休憩を開始する。タイマーの外側が分針になっていて、内側の緑と赤の線がそれぞれ作業時間と休憩時間の目安のための補助線となっている。
 
-![](https://lh4.googleusercontent.com/LOxAw717ZjO5JzmP2mvaTi39LnRi-fW-OPdeGwaeHWEXTyZzJZTkB9Ydu2cJ7mZBC_cGgOEvuxnONAv6UPCy3da7r2gVF2FlDvDM7adMv24tfXHEeRmKSi3rjMZCb7x7qDb0fKGV7oWc2h_RclIYBw0)
+![](https://i.imgur.com/yojXKE1.png)
 
 このタイマーの実装には、SVGが利用されている。
 
@@ -17,7 +17,7 @@ title: ポモドーロタイマー改
 
 円弧（円周の一部分のこと）を描く方法は主に二つある。一つはArcという円弧を描画するための機能を使う方法、もう一つは正円の外周に破線を引く方法。今回は破線を使う方法を選んだ。
 
-![](https://lh3.googleusercontent.com/pXmFEI6CPv2ht8gEapoKJbgI8oRuA_X7hr0jafdmxh9zcP8ZKrIKln21OSio9-O0w-IHcuVEXYDkRWwXXd73NPzwp6Ap4h6irB0kFdyL411Il5lEEu0IEroidzsI8xwIliFTQr-yjYSR-cKr4rGGLZY)
+![](https://i.imgur.com/7m9Pv7z.png)
 
 あとから定義した順に上に重ねられていくので、次の順で合計四つの正円を用意して、それぞれ外周に適当に線を引いている。
 
@@ -30,13 +30,13 @@ title: ポモドーロタイマー改
 
 あとはCSSを使い、flexboxとかgridとかで適当に上下左右中央寄せしたり、Googleフォントから持ってきた適当な等幅フォントを使ったり、iPadやAppleWatchなどいろんな画面サイズに対応できるように画面の高さと幅の小さい方を基準にサイズを設定したり、背景透過させたりすると完成。
 
-![](https://lh6.googleusercontent.com/KOKVofj55amurLaKYcWA9TgBJ7v9515DY8aslae85V9iEx9TYSrw9hclBhTOH_DAPKQL7jz0PI2bqyD4HmDbTMOvnzq0UxUbiZDH8N86cwjarKBQywCMOBDGOPX_9wtfVh2YacuZcE7ZWHykg1hgTMw "配信画面の様子")
+![](https://i.imgur.com/ZV1KCQG.png "配信画面の様子")
 
-![](https://lh3.googleusercontent.com/xLmIM2JTqlR900MFpkzNAfmVi13eNwOpaiSPdoY_Pcbh1G73d8RLm2Of_Swg_iqlik_BauDZ8-vGhg3tgU0SjEbf81OEbql1SZDCndSqzuwYsyflpIx35bE2pvQ40rO_09jJpdVVVPIOdvxCDJHxobs "ライブコーディング中")
+![](https://i.imgur.com/j2LNAMy.png "ライブコーディング中")
 
 配信画面ではこんな感じ。透過の背景色を入れているおかげで、明るい背景のところに配置しても視認性は高いはず。
 
-![](https://lh5.googleusercontent.com/EfUQJcnX3RrPB8kl0cRR04yl10gVt_goLnQl3j4KLAjD3zIzVtKvRS74oQkzgqMk7A4OHunlCJuQZx5Ae65C0CGIuPTzJlRbWrHb15aBAlynD2_BVA65Cnaom4thrMks9oe2zvOoVzqjGWi7VSJ7txk "iPhoneで表示")
+![](https://i.imgur.com/Ildy64N.jpg "iPhoneで表示")
 
 スマホやタブレットでも、Webブラウザからアクセスするだけで簡単に表示できて便利。画面の大きさに合わせて適切に変形するようになっているので、縦表示でも横表示でも使える。
 
