@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  publish:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
         with:
@@ -24,8 +24,18 @@ jobs:
       - run: npm run export
         env:
           ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles,./r7kamura.com/google_docs
-      - uses: peaceiris/actions-gh-pages@v3
+      - uses: actions/upload-pages-artifact@v1
         with:
-          cname: r7kamura.com
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: out
+          path: out
+  deploy:
+    needs: build
+    permissions:
+      id-token: write
+      pages: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/deploy-pages@v2
+        id: deployment
