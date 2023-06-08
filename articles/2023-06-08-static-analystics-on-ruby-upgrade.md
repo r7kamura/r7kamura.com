@@ -10,7 +10,7 @@ title: Rubyのバージョン変更前に依存ライブラリのソースコー
 cp -r vendor/bundle/gems tmp/gems
 ```
 
-各ライブラリが .rubocop.yml が含まれているとその設定が利用されてしまうので、削除する。前述のコピーはこのために必要。
+各ライブラリに .rubocop.yml が含まれているとその設定が利用されてしまうので、削除する。前述のコピーはこのために必要。
 
 ```
 rm tmp/gems/**/.rubocop.yml
