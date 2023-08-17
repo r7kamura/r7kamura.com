@@ -1,5 +1,5 @@
 ---
-title: 『Hammerwatch II』を遊んだ
+title: 『Hammerwatch II』をやった
 ---
 
 ![](https://i.imgur.com/teIsog1h.png)
