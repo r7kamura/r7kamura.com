@@ -2,9 +2,9 @@
 title: 『Hammerwatch II』をやった
 ---
 
-![](https://i.imgur.com/teIsog1h.png)
-
 2DオープンワールドRPG、Hammerwatch II ([Steam](https://store.steampowered.com/app/1538970/Hammerwatch_II/?l=japanese)) を遊んだ。クリアまでのプレイ時間は、サブクエストまでしっかりやって20時間程度だった。
+
+![](https://i.imgur.com/teIsog1h.png)
 
 タイトルから分かる通り、Hammerwatchの続編である。また関連作として、人気の外伝ゲームHeroes of Hammerwatchがある。自分はHeroes of Hammerwatchから入ったクチで、これはマルチプレイが中毒的に楽しいダンジョンハクスラRPGゲーだったが、今作のHammerwatch IIは、構造的にはエルデンリングやゼルダの伝説 神々のトライフォースに近いような作品になっていた。
 
