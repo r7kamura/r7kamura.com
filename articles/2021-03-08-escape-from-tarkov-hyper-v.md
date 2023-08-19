@@ -43,3 +43,7 @@ PS C:\Windows\system32> Get-Service | where { $_.DisplayName -like "Hyper-V*" -o
 ```
 
 結果的に、Escape from Tarkovの起動前に毎度これを実行することにした。また、WSL2で実行しているUbuntuに繋いだターミナルを起動したままの状態で放置していると、停止させたはずのvmcomputeが再度Runningに戻っているという事象が確認できたので、あわせてこれも終了させることにしている。
+
+---
+
+2023年8月20日時点での対応状況を確認してみたところ、自分の環境ではHyper-Vを有効化していてもチート対策プログラムに検知されなくなっていた。
