@@ -29,16 +29,6 @@ title: ELDEN RING Lv1の旅を振り返る
 
 ![](https://i.imgur.com/7fCDRyAh.jpg)
 
-## 動画
-
-今回の攻略では、それぞれのボス討伐の動画をYouTubeに載せることにしてみた。『[ELDEN RING Lv1](https://www.youtube.com/playlist?list=PLJWXeNPGozjtnRPaeNLr0ie5lTdGvFI_N)』という再生リストにまとめられている。
-
-動画として残すことにしたおかげで、下手なことをやってられないというように幾らか緊張感が出て、またある程度見やすい尺に収めたいので火力的にもほど良い制約が生まれ、総じてやってみて良かったと思う。個人的には、[マリケス戦](https://www.youtube.com/watch?v=YlP_stBMDGo)、[ホーラ・ルー戦](https://www.youtube.com/watch?v=mNge32wc2J4)、[マレニア戦](https://www.youtube.com/watch?v=hynOztWjMns)あたりの動画が、しっかり戦闘できていて好み。
-
-録画して編集してYouTubeに動画を上げるというのも今回初めての試みで、これも学びがあって良い体験だった。自分の場合は負担にならないよう抜けるところは手を抜こうということで、基本的には撮って出し、つまりほぼ無加工で前後のトリミングだけして公開している。しっかり編集された高品質な動画を、普段何気なくYouTubeで流しては時間を溶かしているが、動画ごとの編集コストを考えると頭が上がらない。
-
-![](https://i.imgur.com/9SUZIL5h.jpg)
-
 ## 感想
 
 1周目にも増していろんな要素を楽しめ、ねらいは大成功。最初から最後まで終始楽しい旅だった。
