@@ -1,5 +1,5 @@
 ---
-title: ポモドーロタイマー改
+title: OBS用ポモドーロタイマー改
 ---
 [作業配信](https://www.youtube.com/c/r7kamura)用ポモドーロタイマーの改良版をつくった。
 
