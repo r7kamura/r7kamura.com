@@ -81,5 +81,6 @@ title: デスク配線記
 - マイクアーム1 [Logicool G Blue Compass](https://www.amazon.co.jp/dp/B0822PPK7P?th=1)
 - マイクアーム2 [Elgato Wave Mic Arm LP](https://www.amazon.co.jp/dp/B0CDWRJ6LB)
 - 机 [かなでもの THE TABLE](https://kanademono.design/collections/standard-size-table/products/tbl-k03-bk?variant=32465592254526)
+- 椅子 [EKORNES ストレスレストーキョー](https://www.amazon.co.jp/dp/B08B3S2SNZ)
 - 間接照明1 [Nanoleaf Lines](https://www.amazon.co.jp/dp/B09MS3359S)
 - 間接照明2 [Philips Hue ライトリボン](https://www.amazon.co.jp/dp/B08CZKKPH1)
