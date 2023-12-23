@@ -48,6 +48,6 @@ Rubyのパーサーとして、新たに[Prism](https://github.com/ruby/prism) (
 
 興味深い話として、Prismはいわゆるユニバーサルな使い方も意識してくれていて、WASM経由での利用方法も提供してくれています。これをVSCode拡張に利用できれば、Rubyを入れてもらわなくても複雑な構文に簡単に対応できるようになりそうです。
 
-という訳で、vscode-ruby-lightでは現在、内部で利用するパーサーをtree-sitter-rubyからPrismに変更するという活動を進めてみています。自分自身、WASM自体への知識やNode.jsからWASMを利用する方法なんかについての知識がまだまだ乏しいので、なかなか大変そうな活動ではありますが、勉強しながら楽しく進めていこうと思います。
+という訳で、vscode-ruby-lightでは現在、内部で利用するパーサーをtree-sitter-rubyからPrismに変更するという活動を進めてみています。自分自身、WASM自体への知識やNode.jsからWASMを利用する方法なんかについての知識がまだまだ乏しいので、なかなか大変そうな活動ではありますが、勉強しながら楽しく進めていっています。
 
 - [Migrate tree-sitter-ruby to prism by r7kamura · Pull Request #34 · r7kamura/vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light/pull/34)
