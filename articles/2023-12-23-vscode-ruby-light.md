@@ -32,9 +32,9 @@ vscode-ruby-lightの開発中に考えたことを書いていきます。
 
 ## Ruby向けVSCode拡張を取り巻く環境の変化
 
-この1年間ほどでRuby向けのVSCode拡張を取り巻くも幾らか変わりました。vscode-ruby-lightの開発に直接の関係はありませんが、いい機会なので、自分の知る限りの情報をここで紹介しておきたいと思います。
+この1年間ほどで、Ruby向けのVSCode拡張を取り巻く環境も幾らか変わりました。いい機会なので、関係がありそうな情報をここで紹介しておきます。
 
-具体的に言うと、Ruby向けVSCode拡張としてデファクトスタンダードだった[vscode-ruby](https://github.com/rubyide/vscode-ruby)の開発が、元々それまでも停滞はしていたんですが、公式に完全停止されることとなり、リポジトリがアーカイブされ、マーケットプレイスにおいてもVSCode拡張に非推奨フラグが付くようになりました。
+Ruby向けVSCode拡張としてデファクトスタンダードだった[vscode-ruby](https://github.com/rubyide/vscode-ruby)の開発が、元々それまでも停滞はしていたんですが、公式に完全停止されることとなり、リポジトリがアーカイブされ、マーケットプレイスにおいてもVSCode拡張に非推奨フラグが付くようになりました。
 
 代わりに、Shopifyが開発する[vscode-ruby-lsp](https://github.com/Shopify/vscode-ruby-lsp)が台頭し、vscode-rubyにおいてはこちらへの移行が推奨されるようになりました。この拡張は、rucoaと同じく別のGemでLanguage Serverを提供する形式になっており、Rubyに加えて[ruby-lsp](https://github.com/Shopify/ruby-lsp)というGemをインストールする必要があります。
 
