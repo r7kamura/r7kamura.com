@@ -42,6 +42,8 @@ Shopifyと言えば、Rubyにおける3rd Party製の静的型検査器である
 
 他の話題として、[vscode-rdbg](https://github.com/ruby/vscode-rdbg)というものも登場し、便利な世の中になりました。Rubyの次世代デバッガー (要はブレイクポイントとかを設定したりできてちょっと豪華なデバッグができるやつ) として、[debug](https://github.com/ruby/debug)というGemがあるんですが、これをVSCodeから便利に使うためのVSCode拡張がvscode-rdbgという訳ですね。VSCodeはGUIから利用できるデバッグ機能向けインターフェースを豊富に備えているので、これとdebug gemの機能を組み合わせることで、より便利にRubyのデバッグができるようになります。
 
+他にVSCode拡張に関連しそうな話として、RuboCopに幾つか機能が増えました。1つ目がサーバーモードの追加で、RuboCopのデーモンプロセスをサーバーとして裏で起動しておくことで、それ以降のRuboCopの実行時に高速に起動できるようになりました。VSCode拡張から外部コマンド経由でRuboCopを実行する場合、ミリ秒単位の細かい起動時間が編集体験に効いてくるので、これはかなり重要な機能です。それから、RuboCopがLanguage Serverとしての機能を搭載するようになり、[vscode-rubocop](https://github.com/rubocop/vscode-rubocop)というVSCode拡張も登場しました。大LSP時代ですね。
+
 ## Prismの登場
 
 Rubyのパーサーとして、新たに[Prism](https://github.com/ruby/prism) (旧名:YARP) が登場しました。CRubyの内部で使うパーサーがどうなっていくかは今後色々あると思うんですが、少なくともRuby 3.3では、RubyからPrismのパーサーとしての機能を利用するAPIが利用できるようになるみたいですね。
