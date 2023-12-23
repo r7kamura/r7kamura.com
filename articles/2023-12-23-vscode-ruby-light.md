@@ -40,7 +40,7 @@ vscode-ruby-lightの開発中に考えたことを書いていきます。
 
 Shopifyと言えば、Rubyにおける3rd Party製の静的型検査器である[sorbet](https://github.com/sorbet/sorbet)を導入していることでも有名で、ruby-lspにも解析対象のコードでsorbetが利用されている場合に有利な機能が幾つか実装されていたり、またruby-lspの開発自体にもsorbetが利用されています。この辺りの話題には、もしかしたら幾らか駆け引きがあるのかもしれませんね。
 
-他の話題として、[vscode-rdbg](https://github.com/ruby/vscode-rdbg)というものも登場し、便利な世の中になりました。Rubyの次世代デバッガー (要はブレイクポイントとかを設定したりできてちょっと豪華なデバッグができるやつ) として、[debug](https://github.com/ruby/debug)というGemがあるんですが、これをVSCodeから便利に使うためのVSCode拡張がvscode-rdbgという訳ですね。VSCodeはGUIから利用できるデバッグ機能を豊富に備えているので、これとdebug gemの機能を組み合わせることで、より便利にRubyのデバッグができるようになります。
+他の話題として、[vscode-rdbg](https://github.com/ruby/vscode-rdbg)というものも登場し、便利な世の中になりました。Rubyの次世代デバッガー (要はブレイクポイントとかを設定したりできてちょっと豪華なデバッグができるやつ) として、[debug](https://github.com/ruby/debug)というGemがあるんですが、これをVSCodeから便利に使うためのVSCode拡張がvscode-rdbgという訳ですね。VSCodeはGUIから利用できるデバッグ機能向けインターフェースを豊富に備えているので、これとdebug gemの機能を組み合わせることで、より便利にRubyのデバッグができるようになります。
 
 ## Prismの登場
 
