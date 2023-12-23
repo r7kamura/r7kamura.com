@@ -1,7 +1,7 @@
 ---
 title: 'Ruby用VSCode拡張: vscode-ruby-light'
 ---
-Ruby向けに、[vscode-ruby-light](https://marketplace.visualstudio.com/items?itemName=r7kamura.vscode-ruby-light)というVSCode拡張をつくっています。この拡張は、シンタックスハイライトやカーソル操作など、VSCode標準の機能より少し良い編集体験を提供しようというものです。
+Ruby向けに、[vscode-ruby-light](https://marketplace.visualstudio.com/items?itemName=r7kamura.vscode-ruby-light)というVSCode拡張をつくっています。この拡張は、利用者に特にRubyのインストール要求することなく、シンタックスハイライトやカーソル操作など、VSCode標準の機能よりちょっと良い編集体験を提供しようという目的の拡張です。
 
 最初は「メソッドやブロックをもう少し上手く選択できるようにしたい」というモチベーションで調べ始めたのですが、気付けば色々な機能を持つVSCode拡張が出来上がっていました。この記事では、幾つかの機能を紹介しながら、関連する話を書いていこうと思います。
 
