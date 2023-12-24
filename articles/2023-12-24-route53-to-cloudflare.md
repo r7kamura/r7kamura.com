@@ -2,7 +2,7 @@
 title: ドメインをRoute53からCloudflareに移管
 ---
 
-r7kamura.comドメインをAmazon Route53からCloudflareに移管したので、手順を書き残しておきます。
+r7kamura.comドメインをAmazon Route53からCloudflareに移管したので、手順等を書き残しておきます。
 
 ## Cloudflareのアカウント作成
 
