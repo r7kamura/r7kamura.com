@@ -19,8 +19,14 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version-file: package.json
-          cache: npm
-      - run: npm install
+      - id: cache-node-modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: node-modules-${{ runner.os }}-${{ hashFiles('.node-version') }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: node-modules-${{ runner.os }}-${{ hashFiles('.node-version') }}-${{ hashFiles('package-lock.json') }}
+      - if: steps.cache-node-modules.outputs.cache-hit != 'true'
+        run: npm ci
       - run: npm run export
         env:
           ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles
