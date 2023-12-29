@@ -2,7 +2,7 @@
 title: vscode-ruby-light開発日記 - Prismパーサー導入編
 ---
 
-[vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light)の開発中に考えたことを書いていきます。今回は、内部で利用しているRuby用パーサーの[tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby)から[Prism](https://github.com/ruby/prism/tree/main)への移行を終えたので、主にこれについて書いていきます。
+[vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light)の開発中に考えたことを書いていきます。今回は、内部で利用しているRuby用パーサーの[tree-sitter-ruby](https://github.com/tree-sitter/tree-sitter-ruby)から[Prism](https://github.com/ruby/prism/tree/main)への移行について書きます。
 
 ## @ruby/prismパッケージの概観
 
