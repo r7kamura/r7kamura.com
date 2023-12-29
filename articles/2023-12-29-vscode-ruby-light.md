@@ -6,7 +6,7 @@ title: vscode-ruby-light開発日記 - Prismパーサー導入編
 
 ## @ruby/prismパッケージの概観
 
-Prismは、JavaScriptのランタイムからもその実装を利用できるよう、@ruby/prismという名前でnpmパッケージを公開しています。
+Prismは、JavaScriptからもその実装を利用できるよう、@ruby/prismという名前でnpmパッケージを公開しています。
 
 何が含まれているパッケージなのかというと、まずWASMバイナリという形でコンパイルされたPrismの実装と、それを便利に使うためのJavaScriptの実装、それからTypeScript向けの型定義ファイルが含まれています。これらはESModuleという形式に従ってモジュール化されています。またruby/prismのリポジトリ内に、JavaScript向けの簡単なドキュメントも含まれています。
 
