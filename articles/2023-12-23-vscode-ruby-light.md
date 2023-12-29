@@ -1,8 +1,8 @@
 ---
-title: vscode-ruby-light 開発日記
+title: vscode-ruby-light開発日記 - 初期版ふりかえり編
 ---
 
-vscode-ruby-lightの開発中に考えたことを書いていきます。
+[vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light)の開発中に考えたことを書いていきます。今回は、2022年末に初期版を開発してから1年ほど経った2023年末時点でのふりかえりを行います。
 
 ## vscode-ruby-lightとは
 
@@ -52,4 +52,4 @@ Rubyのパーサーとして、新たに[Prism](https://github.com/ruby/prism) (
 
 という訳で、vscode-ruby-lightでは現在、内部で利用するパーサーをtree-sitter-rubyからPrismに変更するという活動を進めてみています。自分自身、WASM自体への知識やNode.jsからWASMを利用する方法なんかについての知識がまだまだ乏しいので、なかなか大変そうな活動ではありますが、勉強しながら楽しく進めていっています。
 
-- [Migrate tree-sitter-ruby to prism by r7kamura · Pull Request #34 · r7kamura/vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light/pull/34)
+- [Change parser from tree-sitter-ruby to prism by r7kamura · Pull Request #34 · r7kamura/vscode-ruby-light](https://github.com/r7kamura/vscode-ruby-light/pull/34)
