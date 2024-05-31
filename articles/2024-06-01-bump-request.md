@@ -18,6 +18,6 @@ r7kamura/bump-requestは、新しいバージョンのリリースを自動化�
 
 そこまで複雑ではない処理内容だったので、以前まではシェルスクリプトで実装していた。しかし今回から少しばかり複雑な計算処理が入ることになったので、このタイミングでDenoを使う実装に移行しておいた。
 
-Denoは、こういうちょっとしたスクリプトを書くのに非常に適している。TypeScript Compiler、Formatter、Linter、Test Runner等がデフォルトでまとめて提供されていて、型の恩恵を受けつついい感じにスクリプトを書けるのがたいへん便利。
+Denoは、おおよそNode.js互換なJavaScriptのランタイムに、TypeScript compiler、Formatter、Linter、Test runner等がデフォルトで同梱されている便利なツール。こういうちょっとしたスクリプトを型の恩恵を受けつついい感じに書けるのがたいへん便利。
 
 - <https://deno.com/>
