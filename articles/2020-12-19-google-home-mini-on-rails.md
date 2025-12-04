@@ -1,8 +1,8 @@
 ---
-title: ダクトレールにGoogle Home Miniを設置
+title: ダクトレールにGoogle Nest Miniを設置
 ---
 
-ダクトレールにGoogle Home Miniを設置した。
+ダクトレールにGoogle Nest Miniを設置した。
 
 ![](https://i.imgur.com/Eom5dM4h.jpg "設置した様子")
 
@@ -10,7 +10,7 @@ title: ダクトレールにGoogle Home Miniを設置
 
 ![](https://i.imgur.com/bGPzQjDh.jpg "壁掛けホルダーを組み立てる")
 
-このように電源アダプターとケーブルを磁石の埋め込まれたシリコン製の部品に収納し、金属板を壁掛け金具用の穴を介してGoogle Home Miniに取り付け、土台をコンセントで支えつつ磁力でGoogle Home Miniをくっつけておく構造になっている。
+このように電源アダプターとケーブルを磁石の埋め込まれたシリコン製の部品に収納し、金属板を壁掛け金具用の穴を介してGoogle Nest Miniに取り付け、土台をコンセントで支えつつ磁力でGoogle Nest Miniをくっつけておく構造になっている。
 
 ![](https://i.imgur.com/hBYZaGCh.jpg "金属板に両面テープを貼り付ける")
 
