@@ -2,9 +2,9 @@
 title: 寝室にスマートスピーカーを置く
 ---
 
-![](https://i.imgur.com/hft7uK0.jpg)
-
 使わなくなったGoogle Home Miniを友達からもらったので、寝室に設置することに。
+
+![](https://i.imgur.com/hft7uK0.jpg)
 
 Google Home Miniというのはその昔Googleが無料で配ったり数千円で売ったりしていた所謂スマートスピーカーで、マイクとスピーカーとWiFi接続機能が付いていて、音声で「OK, Google. ...」と指示することで色々操作できるやつ。はるか昔にGoogle Nest Miniというよく似た後継機が出ている。
 
