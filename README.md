@@ -9,6 +9,6 @@ The source of [r7kamura.com](https://r7kamura.com/).
 Use [r7kamura/r7n](https://github.com/r7kamura/r7n) as local preview server.
 
 ```shell
-cd /path/to/r7n
-ARTICLES_DIRECTORY_PATHS=/path/to/r7kamura.com/articles npm run dev
+cd ../r7n
+ARTICLES_DIRECTORY_PATHS=../r7kamura.com/articles npm run dev
 ```
