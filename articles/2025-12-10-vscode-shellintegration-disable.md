@@ -2,7 +2,7 @@
 title: VSCodeのシェル統合機能を無効化
 ---
 
-`terminal.integrated.shellIntegration.enabled` を `false` に設定した。
+terminal.integrated.shellIntegration.enabledをfalseに設定した。
 
 最近VSCodeのターミナルのデフォルトの挙動が代わり、何か入力するたびに補完候補を表示するようになった。視界を覆う上、補完結果も壊れていることが多く（試しに `cp` コマンドのパスを補完させてみるも入力されるべきパスの一部分しか入力されない）、結局方法を調べて無効化した。ちなみにこの設定は、ターミナルのセッションを新しく開いたときに反映されるらしい。Ctrl+Dでセッションを閉じてからCtrl+Jで再度開くことで反映されたのを確認した。
 
