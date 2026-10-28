@@ -11,21 +11,21 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           repository: r7kamura/r7n
           persist-credentials: false
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           path: r7kamura.com
           persist-credentials: false
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v7
         with:
           node-version-file: package.json
       - id: cache-node-modules
-        uses: actions/cache@v3
+        uses: actions/cache@v6
         with:
           path: node_modules
           key: node-modules-${{ hashFiles('.node-version') }}-${{ hashFiles('package-lock.json') }}
@@ -34,7 +34,7 @@ jobs:
       - run: npm run export
         env:
           ARTICLES_DIRECTORY_PATHS: ./r7kamura.com/articles
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: out
   deploy:
@@ -45,7 +45,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
         id: deployment
