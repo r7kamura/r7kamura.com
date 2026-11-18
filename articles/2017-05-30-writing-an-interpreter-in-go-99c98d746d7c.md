@@ -10,7 +10,7 @@ Go の教材として使うという目論見は失敗したけど、プログ�
 
 ## 内容紹介
 
-[Writing An Interpreter In Go (English Edition)](http://amzn.to/2s8jLc9)
+[Writing An Interpreter In Go (English Edition)](https://www.amazon.co.jp/dp/B01N2T1VD2)
 
 全部で4章の構成になっていて、1章で Lexer、2章で Parser、3章で Evaluator をつくろうという構成。3章までで一旦完成させて、4章では更に言語を拡張していく方法を学べる。
 
